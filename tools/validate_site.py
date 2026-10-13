@@ -2,6 +2,8 @@
 """Check static navigation, local resources, anchor integrity and image decoding."""
 from collections import Counter
 from html.parser import HTMLParser
+import json
+import re
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -23,6 +25,8 @@ class Page(HTMLParser):
         if tag == 'img':
             assert attributes.get('alt'), f'{self.path}: image has no description'
             self.images.append(attributes.get('src'))
+        if tag == 'details' and 'scene-analysis' in attributes.get('class', '').split():
+            assert 'open' in attributes, f'{self.path}: scene analysis must be expanded by default'
         for key, value in attrs:
             if key in ['src', 'href'] and value:
                 self.links.append(value)
@@ -57,12 +61,36 @@ def main():
         for image in page.images:
             image_paths.add((path.parent / image).resolve())
     from PIL import Image
-    images = list((ROOT / 'series' / 'band-of-brothers').glob('s01e*/assets/*'))
-    raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp']]
+    show = ROOT / 'series' / 'band-of-brothers'
+    registry = json.loads((show / 'shared' / 'portraits.json').read_text())
+    portraits = registry['characters']
+    assert all(key in portraits for key in registry['aliases'].values())
+    for key, portrait in portraits.items():
+        assert portrait['actor'] and portrait['kind'] == 'character-still'
+        assert portrait['sourceUrl'].startswith('https://') and portrait['originalUrl'].startswith('https://')
+        assert .8 <= portrait['zoom'] <= 3
+        assert re.fullmatch(r'\d+% \d+%', portrait['position'])
+        assert (show / 'shared' / portrait['file']).resolve().is_relative_to(show / 'shared' / 'portraits')
+        assert (show / 'shared' / portrait['file']).is_file(), f'Missing portrait: {key}'
+    for path in show.glob('s01e*/content.json'):
+        source = json.loads(path.read_text())
+        page = (path.parent / 'index.html').read_text()
+        payload = json.loads(re.search(r'<script type="application/json" id="episode-data">(.*?)</script>', page, re.DOTALL)[1])
+        for character, rendered in zip(source['characters'], payload['characters'], strict=True):
+            key = registry['aliases'].get(character['id'], character['id'])
+            expected = '../shared/' + portraits[key]['file']
+            assert rendered['portrait']['key'] == key and rendered['portrait']['src'] == expected
+            assert expected in pages[(path.parent / 'index.html').resolve()].images
+    first = show / 's01e01'
+    assert '<details class="scene-analysis" open>' in (first / 'app.js').read_text()
+    for key in ['sink', 'sobel', 'winters', 'nixon']:
+        assert '../shared/' + portraits[key]['file'] in pages[(first / 'index.html').resolve()].images
+    images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
+    raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]
     for path in raster_images:
         with Image.open(path) as picture:
             picture.verify()
-    print(f'Validated {len(files)} HTML pages, {links} local links/anchors, {len(raster_images)} raster images')
+    print(f'Validated {len(files)} HTML pages, {links} local links/anchors, {len(raster_images)} raster images, {len(portraits)} shared character portraits')
 
 
 if __name__ == '__main__':

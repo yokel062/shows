@@ -1,0 +1,36 @@
+/* One portrait and one focal point per character, reused across the season. */
+.character-photo {
+  position: relative;
+  display: block;
+  flex-shrink: 0;
+  overflow: hidden;
+  border-radius: 50%;
+  background: #293322;
+  border: 1px solid #778564;
+}
+.graph-canvas .person .avatar.character-photo {
+  width: 76px;
+  height: 76px;
+  outline: 5px solid #1e261b;
+}
+.character-photo > img,
+.graph-canvas .person .avatar.character-photo > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  object-fit: cover;
+  object-position: var(--portrait-position, 50% 26%);
+  transform: scale(var(--portrait-zoom, 1));
+  transform-origin: 50% 40%;
+  filter: saturate(.7);
+}
+.portrait-heading { display: flex; align-items: center; gap: 16px; margin: 20px 0; }
+.detail-portrait { width: 100px; height: 100px; border-color: #b7a880; }
+.portrait-heading h3 { margin: 0 0 5px; font-size: 25px; }
+.portrait-heading .person-en { font-size: 10px; line-height: 1.7; }
+.person-detail .portrait-actor { font-size: 10px; margin-top: 7px; color: #8fa27c; }
+.relation-portraits { display: flex; gap: 18px; align-items: center; margin: 22px 0; color: #a89b77; }
+.relation-portrait { width: 82px; height: 82px; }
+.person-detail { align-self: start; }

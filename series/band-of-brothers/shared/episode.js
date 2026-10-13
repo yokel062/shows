@@ -8,7 +8,7 @@ document.querySelectorAll('[data-order]').forEach(button => button.addEventListe
   const cards = [...document.querySelectorAll('.scene-card')];
   cards.sort((a, b) => Number(a.dataset[button.dataset.order === 'time' ? 'time' : 'screen']) - Number(b.dataset[button.dataset.order === 'time' ? 'time' : 'screen']));
   cards.forEach((card, index) => { card.querySelector('.scene-num').textContent = String(index + 1).padStart(2, '0'); document.querySelector('#timeline').append(card); });
-  document.querySelector('#order-note').textContent = button.dataset.order === 'time' ? '按本集事件的大致先后排列；回忆场景归入其发生的时间。' : '按剧中叙事顺序排列。展开批注，阅读场景的意义。';
+  document.querySelector('#order-note').textContent = button.dataset.order === 'time' ? '按本集事件的大致先后排列；回忆场景归入其发生的时间。' : '按剧中叙事顺序排列。批注默认展开，可直接阅读场景的意义。';
 }));
 
 const points = new Map(data.characters.map((character, i) => {
@@ -16,6 +16,10 @@ const points = new Map(data.characters.map((character, i) => {
   return [character.id, {x: 350 + 232 * Math.cos(angle), y: 252 + 166 * Math.sin(angle)}];
 }));
 const people = new Map(data.characters.map(character => [character.id, character]));
+function portraitFrame(person, className = 'detail-portrait') {
+  const picture = person.portrait;
+  return `<span class="character-photo ${className}" style="--portrait-position:${escapeHTML(picture.position)};--portrait-zoom:${picture.zoom}"><img src="${escapeHTML(picture.src)}" alt="${escapeHTML(person.name)}的剧中角色照" width="200" height="200"></span>`;
+}
 let phase = 0;
 let selectedPerson = data.characters[0].id;
 let selectedRelation = null;
@@ -41,11 +45,11 @@ function renderGraph() {
   options.querySelectorAll('button').forEach(button => button.addEventListener('click', () => { selectedRelation = Number(button.dataset.relation); renderGraph(); }));
   if (selectedRelation !== null) {
     const relation = data.relationships[selectedRelation];
-    panel.innerHTML = `<div class="detail-kicker">RELATIONSHIP / 关系档案</div><h3>${escapeHTML(relation.label)}</h3><p class="detail-role">${escapeHTML(people.get(relation.from).name)} ↔ ${escapeHTML(people.get(relation.to).name)}</p><h4>具体证据 · 剧情事实</h4><p>${escapeHTML(relation.fact)}${ref(relation.source)}</p><div class="detail-reading"><span>怎样理解 · 个人解读</span><p>${escapeHTML(relation.analysis)}</p></div>`;
+    panel.innerHTML = `<div class="detail-kicker">RELATIONSHIP / 关系档案</div><div class="relation-portraits">${portraitFrame(people.get(relation.from), 'relation-portrait')}<span aria-hidden="true">↔</span>${portraitFrame(people.get(relation.to), 'relation-portrait')}</div><h3>${escapeHTML(relation.label)}</h3><p class="detail-role">${escapeHTML(people.get(relation.from).name)} ↔ ${escapeHTML(people.get(relation.to).name)}</p><h4>具体证据 · 剧情事实</h4><p>${escapeHTML(relation.fact)}${ref(relation.source)}</p><div class="detail-reading"><span>怎样理解 · 个人解读</span><p>${escapeHTML(relation.analysis)}</p></div>`;
   } else {
     const person = people.get(selectedPerson);
     const connected = active.filter(({relation}) => [relation.from,relation.to].includes(selectedPerson));
-    panel.innerHTML = `<div class="detail-kicker">PERSONNEL FILE / 人物档案</div><h3>${escapeHTML(person.name)}</h3><div class="person-en">${escapeHTML(person.en)}</div><p class="detail-role">${escapeHTML(person.role)}</p><h4>截至本集 · 剧情事实</h4><p>${escapeHTML(person.fact)}${ref(person.source)}</p><div class="detail-reading"><span>人物阅读 · 个人解读</span><p>${escapeHTML(person.analysis)}</p></div><div class="connected-note">这一阶段关联：${connected.map(({relation})=>escapeHTML(relation.label)).join(' / ') || '尚无本页记录的直接关系'}</div>`;
+    panel.innerHTML = `<div class="detail-kicker">PERSONNEL FILE / 人物档案</div><div class="portrait-heading">${portraitFrame(person)}<div><h3>${escapeHTML(person.name)}</h3><div class="person-en">${escapeHTML(person.en)}</div><p class="portrait-actor">${escapeHTML(person.portrait.actor)} 饰</p></div></div><p class="detail-role">${escapeHTML(person.role)}</p><h4>截至本集 · 剧情事实</h4><p>${escapeHTML(person.fact)}${ref(person.source)}</p><div class="detail-reading"><span>人物阅读 · 个人解读</span><p>${escapeHTML(person.analysis)}</p></div><div class="connected-note">这一阶段关联：${connected.map(({relation})=>escapeHTML(relation.label)).join(' / ') || '尚无本页记录的直接关系'}</div>`;
   }
 }
 document.querySelectorAll('[data-phase]').forEach(button => button.addEventListener('click', () => {

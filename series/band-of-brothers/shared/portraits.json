@@ -1,0 +1,348 @@
+{
+  "aliases": {
+    "buck": "compton"
+  },
+  "characters": {
+    "winters": {
+      "actor": "Damian Lewis",
+      "sourceUrl": "https://www.tvmaze.com/characters/80446/band-of-brothers-richard-d-winters",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9211.jpg",
+      "file": "portraits/winters.jpg",
+      "name": "温特斯",
+      "en": "Richard Winters",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "nixon": {
+      "actor": "Ron Livingston",
+      "sourceUrl": "https://www.tvmaze.com/characters/80448/band-of-brothers-lewis-nixon",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9210.jpg",
+      "file": "portraits/nixon.jpg",
+      "name": "尼克森",
+      "en": "Lewis Nixon",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "lipton": {
+      "actor": "Donnie Wahlberg",
+      "sourceUrl": "https://www.tvmaze.com/characters/80449/band-of-brothers-c-carwood-lipton",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9214.jpg",
+      "file": "portraits/lipton.jpg",
+      "name": "利普顿",
+      "en": "Carwood Lipton",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "malarkey": {
+      "actor": "Scott Grimes",
+      "sourceUrl": "https://www.tvmaze.com/characters/80451/band-of-brothers-donald-g-malarkey",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9216.jpg",
+      "file": "portraits/malarkey.jpg",
+      "name": "马拉其",
+      "en": "Donald Malarkey",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "roe": {
+      "actor": "Shane Taylor",
+      "sourceUrl": "https://www.tvmaze.com/characters/80474/band-of-brothers-eugene-g-roe",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9213.jpg",
+      "file": "portraits/roe.jpg",
+      "name": "罗",
+      "en": "Eugene “Doc” Roe",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "randleman": {
+      "actor": "Michael Cudlitz",
+      "sourceUrl": "https://www.tvmaze.com/characters/80452/band-of-brothers-denver-bull-randleman",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9215.jpg",
+      "file": "portraits/randleman.jpg",
+      "name": "兰德尔曼",
+      "en": "Denver “Bull” Randleman",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "liebgott": {
+      "actor": "Ross McCall",
+      "sourceUrl": "https://www.tvmaze.com/characters/80455/band-of-brothers-joseph-d-liebgott",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9217.jpg",
+      "file": "portraits/liebgott.jpg",
+      "name": "利布戈特",
+      "en": "Joseph Liebgott",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "perconte": {
+      "actor": "James Madio",
+      "sourceUrl": "https://www.tvmaze.com/characters/80460/band-of-brothers-frank-j-perconte",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9218.jpg",
+      "file": "portraits/perconte.jpg",
+      "name": "佩康特",
+      "en": "Frank Perconte",
+      "position": "42% 0%",
+      "zoom": 2.2,
+      "kind": "character-still"
+    },
+    "luz": {
+      "actor": "Rick Gomez",
+      "sourceUrl": "https://www.tvmaze.com/characters/80469/band-of-brothers-george-luz",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9233.jpg",
+      "file": "portraits/luz.jpg",
+      "name": "鲁兹",
+      "en": "George Luz",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "martin": {
+      "actor": "Dexter Fletcher",
+      "sourceUrl": "https://www.tvmaze.com/characters/80472/band-of-brothers-john-w-martin",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9221.jpg",
+      "file": "portraits/martin.jpg",
+      "name": "马丁",
+      "en": "John Martin",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "compton": {
+      "actor": "Neal McDonough",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/compton31.png",
+      "file": "portraits/compton.png",
+      "name": "康普顿",
+      "en": "Lynn “Buck” Compton",
+      "position": "50% 25%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "welsh": {
+      "actor": "Rick Warden",
+      "sourceUrl": "https://www.tvmaze.com/characters/80470/band-of-brothers-harry-f-welsh",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9223.jpg",
+      "file": "portraits/welsh.jpg",
+      "name": "威尔士",
+      "en": "Harry Welsh",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "sink": {
+      "actor": "Dale Dye",
+      "sourceUrl": "https://www.tvmaze.com/characters/80445/band-of-brothers-colonel-robert-f-sink",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9231.jpg",
+      "file": "portraits/sink.jpg",
+      "name": "辛克",
+      "en": "Robert Sink",
+      "position": "40% 26%",
+      "zoom": 1.18,
+      "kind": "character-still"
+    },
+    "guarnere": {
+      "actor": "Frank John Hughes",
+      "sourceUrl": "https://www.tvmaze.com/characters/80454/band-of-brothers-william-j-guarnere",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9222.jpg",
+      "file": "portraits/guarnere.jpg",
+      "name": "瓜奈尔",
+      "en": "William Guarnere",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "webster": {
+      "actor": "Eion Bailey",
+      "sourceUrl": "https://www.tvmaze.com/characters/83666/band-of-brothers-david-kenyon-webster",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/130/325752.jpg",
+      "file": "portraits/webster.jpg",
+      "name": "韦伯斯特",
+      "en": "David Webster",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "speirs": {
+      "actor": "Matthew Settle",
+      "sourceUrl": "https://www.tvmaze.com/characters/80464/band-of-brothers-ronald-c-spiers",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9212.jpg",
+      "file": "portraits/speirs.jpg",
+      "name": "斯皮尔斯",
+      "en": "Ronald Speirs",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "garcia": {
+      "actor": "Douglas Spain",
+      "sourceUrl": "https://www.tvmaze.com/characters/285872/band-of-brothers-antonio-c-garcia",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/130/325754.jpg",
+      "file": "portraits/garcia.jpg",
+      "name": "加西亚",
+      "en": "Antonio Garcia",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "blithe": {
+      "actor": "Marc Warren",
+      "sourceUrl": "https://www.tvmaze.com/characters/83654/band-of-brothers-albert-blithe",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/130/325753.jpg",
+      "file": "portraits/blithe.jpg",
+      "name": "布莱斯",
+      "en": "Albert Blithe",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "sobel": {
+      "actor": "David Schwimmer",
+      "sourceUrl": "https://www.tvmaze.com/characters/285481/band-of-brothers-herbert-m-sobel",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/130/325755.jpg",
+      "file": "portraits/sobel.jpg",
+      "name": "索贝尔",
+      "en": "Herbert Sobel",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "shifty": {
+      "actor": "Peter Youngblood Hills",
+      "sourceUrl": "https://www.tvmaze.com/characters/80457/band-of-brothers-darrell-c-shifty-powers",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9226.jpg",
+      "file": "portraits/shifty.jpg",
+      "name": "Shifty 鲍尔斯",
+      "en": "Darrell Powers",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "heffron": {
+      "actor": "Robin Laing",
+      "sourceUrl": "https://www.tvmaze.com/characters/80458/band-of-brothers-edward-j-babe-heffron",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9225.jpg",
+      "file": "portraits/heffron.jpg",
+      "name": "赫夫隆",
+      "en": "Edward “Babe” Heffron",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "miller": {
+      "actor": "James McAvoy",
+      "sourceUrl": "https://www.tvmaze.com/characters/80461/band-of-brothers-james-w-miller",
+      "originalUrl": "https://static.tvmaze.com/uploads/images/original_untouched/3/9229.jpg",
+      "file": "portraits/miller.jpg",
+      "name": "米勒",
+      "en": "James Miller",
+      "position": "50% 26%",
+      "zoom": 1.06,
+      "kind": "character-still"
+    },
+    "hashey": {
+      "actor": "Mark Huberman",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/46565.gif",
+      "file": "portraits/hashey.gif",
+      "name": "哈希",
+      "en": "Lester Hashey",
+      "position": "53% 30%",
+      "zoom": 1.25,
+      "kind": "character-still"
+    },
+    "heyliger": {
+      "actor": "Stephen McCole",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/0d0b607e4d88f914bd29e681dada88c4.jpg",
+      "file": "portraits/heyliger.jpg",
+      "name": "海利格",
+      "en": "Frederick “Moose” Heyliger",
+      "position": "54% 40%",
+      "zoom": 1.05,
+      "kind": "character-still"
+    },
+    "dike": {
+      "actor": "Peter O’Meara",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/74.jpg",
+      "file": "portraits/dike.jpg",
+      "name": "戴克",
+      "en": "Norman Dike",
+      "position": "52% 40%",
+      "zoom": 1.08,
+      "kind": "character-still"
+    },
+    "renee": {
+      "actor": "Lucie Jeanne",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/726921beecb5661b86c1214915f89dfb.jpg",
+      "file": "portraits/renee.jpg",
+      "name": "勒梅尔",
+      "en": "Renée Lemaire",
+      "position": "50% 10%",
+      "zoom": 1.3,
+      "kind": "character-still"
+    },
+    "jones": {
+      "actor": "Colin Hanks",
+      "sourceUrl": "https://screamingeagles101st.wordpress.com/actors-of-band-of-brothers/",
+      "originalUrl": "https://screamingeagles101st.wordpress.com/wp-content/uploads/2017/04/028ffff4c5d35f7e17ab819867aa3d2b.jpg",
+      "file": "portraits/jones.jpg",
+      "name": "琼斯",
+      "en": "Henry Jones",
+      "position": "50% 30%",
+      "zoom": 2.0,
+      "kind": "character-still"
+    },
+    "hall": {
+      "actor": "Andrew Scott",
+      "sourceUrl": "https://www.looper.com/1797842/andrew-scott-band-of-brothers-role-explained/",
+      "originalUrl": "https://www.looper.com/img/gallery/andrew-scotts-band-of-brothers-role-explained/who-did-andrew-scott-play-in-band-of-brothers-1740412162.jpg",
+      "file": "portraits/hall.jpg",
+      "name": "霍尔",
+      "en": "John Hall",
+      "position": "59% 42%",
+      "zoom": 1.04,
+      "kind": "character-still"
+    },
+    "julian": {
+      "actor": "Marc Jordan",
+      "sourceUrl": "https://www.imdb.com/title/tt0185906/mediaviewer/rm1537046785/",
+      "originalUrl": "https://m.media-amazon.com/images/M/MV5BNjI1NzdkM2YtYWI5Mi00YzRjLWJlZjEtZDQzOWE4Yzg2ODA4XkEyXkFqcGc%40._V1_.jpg",
+      "file": "portraits/julian.jpg",
+      "name": "朱利安",
+      "en": "John Julian",
+      "position": "70% 25%",
+      "zoom": 1.9,
+      "kind": "character-still"
+    },
+    "jackson": {
+      "actor": "Andrew Lee Potts",
+      "sourceUrl": "https://www.looper.com/1593616/tv-character-final-words-that-will-break-your-heart/",
+      "originalUrl": "https://www.looper.com/img/gallery/tv-characters-final-words-that-will-break-your-heart/pfc-jackson-in-band-of-brothers-1749581746.webp",
+      "file": "portraits/jackson.webp",
+      "name": "杰克逊",
+      "en": "Eugene Jackson",
+      "position": "50% 35%",
+      "zoom": 1.65,
+      "kind": "character-still"
+    },
+    "wife": {
+      "name": "德国军官的妻子",
+      "en": "German Officer’s Wife",
+      "actor": "Suzanne Roquette",
+      "file": "portraits/wife.jpg",
+      "sourceUrl": "https://marymary.livejournal.com/18240.html",
+      "originalUrl": "https://pics.livejournal.com/marymary/pic/0009syq4",
+      "position": "74% 32%",
+      "zoom": 1.13,
+      "kind": "character-still"
+    }
+  }
+}
