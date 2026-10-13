@@ -1,0 +1,482 @@
+{
+  "episode": 5,
+  "title": "Crossroads",
+  "chineseTitle": "十字路口",
+  "subtitle": "战斗结束了，报告与记忆却没有同时结束",
+  "period": "1944 年 10—12 月 · 荷兰堤坝、法国穆尔默隆与巴黎、比利时巴斯托涅",
+  "question": "一个能在战场上迅速决定的人，为什么迟迟写不完两页报告？",
+  "intro": "本集让温特斯站在三个十字路口：荷兰堤坝上的战术选择，离开 E 连指挥岗位后的职责变化，以及胜利之后无法整理干净的记忆。打字机把事件变成可提交的报告，闪回却不断带回一个年轻德国兵的脸。与此同时，海利格带队营救英军，连队重新学习信任；意外又打断了这次交接。巴黎短假没有提供真正的终点，突如其来的调动将众人送往另一座交通枢纽。本页仅涉及第 1—5 集。剧情事实是影视重演中的事件，解读不等于历史人物的心理诊断；未经档案核实的内心活动不标为史实。",
+  "introSource": "guide",
+  "hero": "assets/running.jpg",
+  "heroAlt": "荷兰堤坝旁，数名 E 连士兵持枪从开阔地冲向前方",
+  "heroCaption": "HBO《兄弟连》第 5 集真实画面 · SIMKL 本集截图页；堤坝战斗中的冲锋，不是历史现场照片",
+  "sources": [
+    {
+      "id": "guide",
+      "title": "History Channel · 第 5 集教学指南",
+      "url": "https://cdn.history.com/sites/2/2015/08/BandofBrothers.5.pdf",
+      "note": "核对报告、荷兰战斗回忆、巴黎休假与巴斯托涅调动。指南提醒影视对白与历史记录有区别；没有采用其中超出本集的战役结果。"
+    },
+    {
+      "id": "leadership",
+      "title": "NWCG Leadership in Cinema · Crossroads",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-06/band-of-brothers-part5.pdf",
+      "note": "核对侦察与冲锋、营执行官职责变化、Pegasus 前的担忧，以及海利格误伤后的医疗场景。人物表军衔标注不统一，本文只采用本集明确呈现的职务。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E05 字幕转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e05&tv-show=band-of-brothers",
+      "note": "核对三段英文短引文，以及看管俘虏、报告建议、指挥交接与出发时的对话。中文为本站自译；无逐行角色标签，说话人结合教学指南及场景确认。"
+    },
+    {
+      "id": "apple",
+      "title": "Apple TV · Crossroads 本集资料",
+      "url": "https://tv.apple.com/sa/episode/crossroads/umc.cmc.4wlgzb2p8wn76mg3boxc1lp0m?showId=umc.cmc.6w0w9swttxab3xshv7zsh7tr8",
+      "note": "核对集名、报告与年轻德国兵的回忆、Pegasus 及本集末尾的巴斯托涅调动。"
+    },
+    {
+      "id": "commentary",
+      "title": "Claudia’s Journal · 第 5 集逐集评论",
+      "url": "https://theworldthroughlee.wordpress.com/2018/07/12/band-of-brothers-2001-episode-five-crossroads-commentary/",
+      "note": "交叉核对回忆与报告的叙事结构、海利格接任及受伤、戴克接任与巴黎段落。作为剧情评论使用，不作为战时档案。"
+    },
+    {
+      "id": "frames",
+      "title": "SIMKL · Crossroads 本集真实截图",
+      "url": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "note": "逐张下载并目视核对的 HBO 本集画面；只使用截图及其邻接对白定位，不采用页面自动总结中混淆战斗与营救顺序的段落。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/running.jpg",
+      "url": "https://simkl.net/episodes/39/3942614b7f849757f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：E 连士兵在荷兰堤坝战斗中冲锋。",
+      "alt": "士兵携步枪穿越堤坝旁的开阔地"
+    },
+    {
+      "file": "assets/report.jpg",
+      "url": "https://simkl.net/episodes/39/39425888ee7afbe42_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：辛克在室内要求温特斯提交行动报告。",
+      "alt": "辛克站在室内，与坐在桌前的温特斯交谈"
+    },
+    {
+      "file": "assets/attack.jpg",
+      "url": "https://simkl.net/episodes/39/39426121879af3012_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：堤坝战斗中的士兵向前移动。",
+      "alt": "数名戴头盔的士兵端着步枪向前移动"
+    },
+    {
+      "file": "assets/prisoners.jpg",
+      "url": "https://simkl.net/episodes/39/3942620c6bab2769e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：温特斯命令利布戈特交出多余弹药，再押送俘虏。",
+      "alt": "战斗后的田野里，温特斯与利布戈特面对面交谈"
+    },
+    {
+      "file": "assets/heyliger.jpg",
+      "url": "https://simkl.net/episodes/39/3942632793efcb497_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：海利格与温特斯讨论 Pegasus 准备。",
+      "alt": "穿制服的海利格在室内向温特斯说明行动准备"
+    },
+    {
+      "file": "assets/pegasus.jpg",
+      "url": "https://simkl.net/episodes/39/3942636b791f9d60d_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：Pegasus 行动中海利格在夜间与获救英军接头。",
+      "alt": "夜色中，海利格与戴贝雷帽的英国军人相互问候"
+    },
+    {
+      "file": "assets/leave.jpg",
+      "url": "https://simkl.net/episodes/39/39426468065b35f0f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：温特斯与军官在桌前交谈；用于营部与休假前段落配图。",
+      "alt": "温特斯坐在地图前的办公桌后，两位军官在他对面"
+    },
+    {
+      "file": "assets/metro.jpg",
+      "url": "https://simkl.net/episodes/39/39426482071edf598_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：巴黎公共交通里的乘客；与温特斯休假及回忆段落相邻。",
+      "alt": "巴黎车厢里穿便服、戴帽子的乘客交错坐着"
+    },
+    {
+      "file": "assets/memory.jpg",
+      "url": "https://simkl.net/episodes/39/39426520509cfc437_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：巴黎段落中再次出现的荷兰战斗回忆，温特斯面部特写。",
+      "alt": "回忆中的温特斯戴头盔，脸上沾满泥土，神情凝住"
+    },
+    {
+      "file": "assets/alert.jpg",
+      "url": "https://simkl.net/episodes/39/3942662e88d105ac6_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：接到德军反攻消息后，温特斯在放映场所与军官交谈。",
+      "alt": "温特斯站在放映厅的座椅之间与一位坐着的军官交谈"
+    },
+    {
+      "file": "assets/march.jpg",
+      "url": "https://simkl.net/episodes/39/3942672e805504582_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-5/screencaps/",
+      "caption": "HBO 第 5 集画面，经 SIMKL 收录：连队乘卡车调往巴斯托涅的夜间段落。",
+      "alt": "夜色里，戴头盔的空降兵站在停靠的军用卡车旁"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "report",
+      "time": 4,
+      "where": "荷兰营部 · 战斗之后",
+      "title": "现在的报告，带回过去的战斗",
+      "image": "assets/report.jpg",
+      "caption": "辛克催交报告的本集镜头；打字机与闪回共同组织这一段。",
+      "fact": "温特斯已经进入营部工作，辛克催要行动报告。剧集随后回到荷兰战斗，并穿插返回书桌的画面；这些闪回不是新的军事行动。",
+      "analysis": "报告要求把复杂事件整理成可以读懂的顺序，镜头却保留了记忆的不连续。观众先感到书桌上的迟滞，再发现这份工作不只需要回忆部署，还要重新面对自己做过的选择。",
+      "source": "commentary"
+    },
+    {
+      "id": "dike",
+      "time": 1,
+      "where": "荷兰“岛区”堤坝附近 · 10 月",
+      "title": "先看清，再抢回主动权",
+      "image": "assets/running.jpg",
+      "caption": "堤坝战斗中的冲锋画面，不是夜间侦察的同一瞬间。",
+      "fact": "巡逻队带回伤员后，温特斯带人查看德军火力位置。交战扩大，他发现沟渠中的位置可能被侧击，于是分组发起冲锋，并请求火力支援。",
+      "analysis": "本段的速度来自先前的观察与分工。个人率先前进固然醒目，但若只把它看作勇敢，就漏掉了判断地形、规定目标、协调支援这些较安静的动作。剧集让决断既有技术基础，也有个人风险。",
+      "source": "leadership"
+    },
+    {
+      "id": "prisoners",
+      "time": 2,
+      "where": "堤坝战斗之后",
+      "title": "战斗可以激烈，俘虏仍须活着交接",
+      "image": "assets/prisoners.jpg",
+      "caption": "温特斯与利布戈特讨论押送俘虏的真实本集镜头。",
+      "fact": "温特斯让受伤且愤怒的利布戈特押送德国俘虏，并收走多余弹药，只留下有限弹药。他明确要求俘虏全部活着送到；这是一项剧中命令。",
+      "analysis": "同一位刚刚领导冲锋的人，此时开始限制自己人的暴力。他没有只依赖口头训诫，而是改变可使用的弹药与押送条件。领导的连贯性体现在两种时刻：知道什么时候必须开火，也知道什么时候必须停下。",
+      "source": "transcript"
+    },
+    {
+      "id": "promotion",
+      "time": 3,
+      "where": "战后指挥岗位调整",
+      "title": "职责上移，熟悉的人却留在原处",
+      "image": "assets/leave.jpg",
+      "caption": "本集营部办公画面，作为职责变化的代表配图；不是任命发生的战场镜头。",
+      "fact": "温特斯被任命为第 2 营执行官，工作范围从 E 连转向营部。他首先关心谁来接掌 E 连；海利格成为连长，并获得他的认可。",
+      "analysis": "这里首先改变的是职务和负责范围，不能把它直接写成当场晋升少校。新的位置让温特斯能照看更大的单位，却也迫使他把最熟悉的连队交给别人。下一步的能力，是让信任通过继任者继续发生。",
+      "source": "leadership"
+    },
+    {
+      "id": "pegasus",
+      "time": 5,
+      "where": "莱茵河沿岸 · Pegasus 行动",
+      "title": "救援成功，也是一场交接的证明",
+      "image": "assets/pegasus.jpg",
+      "caption": "夜间接头的本集真实画面；海利格迎接等待撤离的英军。",
+      "fact": "海利格带领 E 连参与 Pegasus，协助撤出市场花园行动后留在敌后的英国空降兵。温特斯留在营部，仍向尼克松追问情报与行动风险。",
+      "analysis": "与之前的冲锋相比，这次成功依靠接头、渡河、纪律和协同。温特斯无法再用亲自到场消除担忧，必须允许新连长完成任务。军事上的营救，也让连队看见继任者能够兑现自己的承诺。",
+      "source": "commentary"
+    },
+    {
+      "id": "friendlyfire",
+      "time": 6,
+      "where": "Pegasus 之后 · 荷兰夜间",
+      "title": "可靠的继任者，被自己人的枪声打断",
+      "image": "assets/heyliger.jpg",
+      "caption": "海利格出发前的本集画面，用作人物配图；不冒充误伤现场。",
+      "fact": "海利格与温特斯夜间同行时被美军哨兵误伤。救治过程中，罗追问已经使用的吗啡剂量，军官无法确定；海利格随后离开连队接受治疗。",
+      "analysis": "外敌并不是风险的唯一来源。哨兵识别与医疗记录这些不显眼的环节，同样能改变一个人的命运。罗的责问暂时翻转了军衔关系：现场最需要的权威，是知道怎样救人，而不是拥有更高的职位。",
+      "source": "leadership"
+    },
+    {
+      "id": "paris",
+      "time": 7,
+      "where": "法国巴黎 · 短期休假",
+      "title": "人到了巴黎，记忆仍留在堤坝",
+      "image": "assets/memory.jpg",
+      "caption": "巴黎段落插入的荷兰战斗回忆：温特斯面部特写，并非他在巴黎穿战斗服。",
+      "fact": "温特斯被安排去巴黎休假。平民生活与公共交通并没有完全中断战斗的回忆；镜头再次带回他近距离射杀年轻德国兵的情景。",
+      "analysis": "这段没有把心理经验解释成一段完整独白，而把城市日常与战场面孔并置。我们可以读出战争经验侵入休息的感觉，但不能据此给历史上的温特斯作临床诊断，也不能把演员呈现的记忆当作原始口述。",
+      "source": "guide"
+    },
+    {
+      "id": "bastogne",
+      "time": 8,
+      "where": "穆尔默隆 → 巴斯托涅 · 12 月",
+      "title": "另一个十字路口，先要找到弹药和冬衣",
+      "image": "assets/march.jpg",
+      "caption": "第 5 集末段卡车调动的真实画面，尚未进入第 6 集的林地生活。",
+      "fact": "休整被德军反攻的消息打断，连队调往巴斯托涅。冬衣与弹药不足，温特斯要求尽力收集物资；抵达后，士兵从撤退友军处补充弹药。",
+      "analysis": "胜利报告里的秩序在结尾被新的缺口打破。士兵靠经验、临时收集和互相分配继续前进；那句关于被包围的回答提供心理上的稳定，却没有增加一发子弹。结尾的勇气始终与物资不足并排存在。",
+      "source": "guide"
+    }
+  ],
+  "characters": [
+    {
+      "id": "winters",
+      "name": "温特斯",
+      "en": "Richard Winters",
+      "role": "上尉 · E 连连长转任第 2 营执行官",
+      "fact": "本集从带队战斗转入营部职责，仍关心原连队，并反复回忆近距离射杀德国兵的情景。",
+      "analysis": "技术判断仍然可靠，个人经验却不能像部署图那样整理。他的难题从怎样带队前进，扩展为怎样交出指挥并面对行动留下的记忆。",
+      "source": "leadership"
+    },
+    {
+      "id": "nixon",
+      "name": "尼克松",
+      "en": "Lewis Nixon",
+      "role": "上尉 · 情报军官与温特斯的朋友",
+      "fact": "他参与 Pegasus 的情报工作，与温特斯讨论报告，并以玩笑回应其对 E 连的担忧。",
+      "analysis": "他既提供军事信息，也提供日常语气。玩笑不是完整的心理治疗，却给严肃、自我约束的温特斯留出一个可以说话的空间。",
+      "source": "transcript"
+    },
+    {
+      "id": "heyliger",
+      "name": "海利格",
+      "en": "Frederick “Moose” Heyliger",
+      "role": "中尉 · 接掌 E 连并领导 Pegasus",
+      "fact": "接任连长后带队完成营救，随后遭美军哨兵误伤而离开一线。",
+      "analysis": "他让指挥交接短暂呈现出可行的未来：信任可以由新人继承。误伤使这种稳定显得脆弱，但不抹去他已经完成的任务。",
+      "source": "commentary"
+    },
+    {
+      "id": "liebgott",
+      "name": "利布戈特",
+      "en": "Joseph Liebgott",
+      "role": "E 连士兵 · 战后承担押俘任务",
+      "fact": "战斗后受伤且愤怒，温特斯限制其弹药并要求俘虏活着抵达。",
+      "analysis": "他的愤怒让战斗的余波具体可见。人物关系中的信任不等于放任；温特斯仍让他执行任务，同时设置能够落实的边界。",
+      "source": "transcript"
+    },
+    {
+      "id": "roe",
+      "name": "罗",
+      "en": "Eugene “Doc” Roe",
+      "role": "E 连医护兵",
+      "fact": "海利格受伤后，他要求确认吗啡用量，并责问没有记录清楚的军官。",
+      "analysis": "本集让医疗知识构成独立权威。知道用过多少药，比一句模糊的善意更有价值；救助者也必须对救助方式负责。",
+      "source": "leadership"
+    },
+    {
+      "id": "dike",
+      "name": "戴克",
+      "en": "Norman Dike",
+      "role": "中尉 · 海利格离队后的新任连长",
+      "fact": "他接掌 E 连；紧急出发前，温特斯追问冬衣与补给的准备情况。",
+      "analysis": "本集让他的职位与连队的信任之间显出距离。这里仅分析已经出现的准备不足与交流，不用后续剧情倒推他此时的一切表现。",
+      "source": "commentary"
+    }
+  ],
+  "phases": [
+    {
+      "title": "战斗与限制",
+      "note": "荷兰堤坝：判断火力与地形，冲锋取得优势，随即限制押俘过程中的暴力。"
+    },
+    {
+      "title": "职责与交接",
+      "note": "营部报告、海利格接任与 Pegasus：温特斯学习用支持和信任替代亲自带队。"
+    },
+    {
+      "title": "中断与再出发",
+      "note": "误伤、巴黎及紧急调动：人员交接和个人休息都没有获得稳固的结尾。"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "winters",
+      "to": "nixon",
+      "label": "情报支持与日常陪伴",
+      "type": "trust",
+      "phases": [
+        0,
+        1,
+        2
+      ],
+      "fact": "两人谈论战斗后的结果、报告和 Pegasus 风险，尼克松用玩笑回应。",
+      "analysis": "他们的互信同时容纳专业讨论与私人疲惫。",
+      "source": "transcript"
+    },
+    {
+      "from": "winters",
+      "to": "heyliger",
+      "label": "认可继任者 → 学会放手",
+      "type": "trust",
+      "phases": [
+        1,
+        2
+      ],
+      "fact": "温特斯认可海利格接任，询问营救准备，并建议训练排长、信任士官。",
+      "analysis": "交接的关键是提供判断方法，而不只是移交一个职位。",
+      "source": "transcript"
+    },
+    {
+      "from": "nixon",
+      "to": "heyliger",
+      "label": "情报与现场行动协同",
+      "type": "command",
+      "phases": [
+        1
+      ],
+      "fact": "尼克松参与 Pegasus 情报准备，海利格负责带队执行。",
+      "analysis": "营部掌握的信息，必须变成现场指挥者可以使用的安排。",
+      "source": "leadership"
+    },
+    {
+      "from": "winters",
+      "to": "liebgott",
+      "label": "信任任务，限制暴力",
+      "type": "tension",
+      "phases": [
+        0
+      ],
+      "fact": "温特斯安排押送俘虏，同时收走利布戈特多余弹药。",
+      "analysis": "尊重执行者与防止伤害可以在同一道命令中成立。",
+      "source": "transcript"
+    },
+    {
+      "from": "winters",
+      "to": "roe",
+      "label": "接受医疗专业的责问",
+      "type": "tension",
+      "phases": [
+        2
+      ],
+      "fact": "罗追问海利格的吗啡剂量，温特斯无法准确说明。",
+      "analysis": "领导者的责任包括承认自己缺少关键知识。",
+      "source": "leadership"
+    },
+    {
+      "from": "roe",
+      "to": "heyliger",
+      "label": "救治需要准确记录",
+      "type": "care",
+      "phases": [
+        2
+      ],
+      "fact": "海利格误伤后，罗参与救治并核对已使用的药物。",
+      "analysis": "关心一个人必须落实到细节，不只落实到急切。",
+      "source": "leadership"
+    },
+    {
+      "from": "winters",
+      "to": "dike",
+      "label": "更大职责下的准备追问",
+      "type": "tension",
+      "phases": [
+        2
+      ],
+      "fact": "调往前线前，温特斯向戴克追问冬衣、弹药及收集物资的准备。",
+      "analysis": "职位调整没有终止他对连队的责任，但照看的方式已经变化。",
+      "source": "guide"
+    }
+  ],
+  "comparison": {
+    "title": "同一次行动，报告能够留下什么，镜头还要留下什么？",
+    "left": {
+      "title": "可以交上去的行动报告",
+      "summary": "报告需要清楚交代行动、部署和结果，供营部与团部理解和处理。它把经历转化成能够传递的信息。",
+      "image": "assets/report.jpg"
+    },
+    "right": {
+      "title": "无法一并交出去的个人记忆",
+      "summary": "年轻德国兵的面孔反复回来。镜头保留主观经验，却不声称它就是历史人物原封不动的内心记录。",
+      "image": "assets/memory.jpg"
+    },
+    "rows": [
+      {
+        "label": "怎样组织时间",
+        "left": "给事件建立顺序，说明发生了什么。",
+        "right": "一个片段会再次出现，不服从事件已经结束的顺序。"
+      },
+      {
+        "label": "怎样看见人",
+        "left": "个人行动进入单位部署和结果之中。",
+        "right": "一个面孔独立留在画面里，无法被结果完全概括。"
+      },
+      {
+        "label": "谁能够接手",
+        "left": "文书可以递交，职务可以移交给继任者。",
+        "right": "旁人可以陪伴，经历本身仍需由这个人面对。"
+      }
+    ],
+    "conclusion": "两种记录各有作用。清楚的报告没有义务穷尽全部感受，主观镜头也不能替代档案；本集的力量来自把两者放在一起，让战术成功与个人代价同时可见。"
+  },
+  "quotes": [
+    {
+      "en": "That's not literature, just keep it simple.",
+      "zh": "这不是文学创作，写简单些就好。",
+      "speaker": "尼克松",
+      "scene": "温特斯准备行动报告",
+      "context": "尼克松看着温特斯写报告，提醒他简洁表达。英文按本集字幕转录核对；中文为本站自译；图为同集营部配图。",
+      "analysis": "朋友给出的是很实用的文书建议，但观众已经知道，这份迟滞并非只来自写作技巧。句子的轻松语气，让报告的行政功能与记忆的私人重量靠得更近。",
+      "image": "assets/report.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "Trust your noncoms.",
+      "zh": "信任你的士官。",
+      "speaker": "温特斯对海利格",
+      "scene": "海利格谈接任 E 连的压力",
+      "context": "温特斯向继任连长建议培养新的排长，并依靠士官。中文为本站自译；配图为两人谈任务准备的本集画面。",
+      "analysis": "这句话把领导从一个人的个人能力，移到一支队伍能够延续的经验上。承认自己不必亲自处理每个环节，也是交接的一部分。",
+      "image": "assets/heyliger.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "We're paratroopers, we're supposed to be surrounded.",
+      "zh": "我们是空降兵，本来就是要深入包围之中的。",
+      "speaker": "温特斯对乔治·赖斯",
+      "scene": "本集结尾，在巴斯托涅获得补充弹药后",
+      "context": "赖斯告知道路可能被切断，温特斯如此回答。转录将句子以停顿分开；中文为本站自译。配图是同段调动画面，不是对话当帧。",
+      "analysis": "他用训练形成的身份感把一个令人恐惧的局面变成可以应对的任务。语气提供稳定，却不否认现实短缺；刚刚得到的弹药，仍然是能否继续行动的条件。",
+      "image": "assets/march.jpg",
+      "source": "transcript"
+    }
+  ],
+  "motifs": [
+    {
+      "title": "书桌与战场来回切换",
+      "fact": "书写报告的现在与荷兰战斗的回忆反复交替。",
+      "analysis": "剪辑使胜利的军事描述无法独占这个故事。书桌让经历获得秩序，闪回留下整理过程中仍然刺痛的部分。",
+      "source": "commentary",
+      "steps": [
+        "团部需要清楚的报告",
+        "温特斯重新进入战斗记忆",
+        "两页文字没有结束个人经验"
+      ]
+    },
+    {
+      "title": "“带头”也包括让别人带头",
+      "fact": "温特斯先在堤坝带队冲锋，随后海利格领导 Pegasus，温特斯留在营部。",
+      "analysis": "前面的冲锋建立了个人信誉，后面的营救检验了组织能否继承它。成熟的领导也包含允许可靠的人独立完成工作。",
+      "source": "leadership",
+      "steps": [
+        "亲自行动建立信任",
+        "职务变化需要继任者",
+        "把经验传给新连长和士官"
+      ]
+    },
+    {
+      "title": "十字路口从战术地形变成新的任务",
+      "fact": "本集回忆荷兰堤坝的交战，末尾部队又前往交通枢纽巴斯托涅。",
+      "analysis": "标题把道路上的选择与人物的职责变化连接起来。地理上的交汇可以标在地图上，个人的交接和休息却没有同样确定的抵达时间。",
+      "source": "guide",
+      "steps": [
+        "荷兰战斗要求迅速选择",
+        "胜利之后职责与指挥发生变化",
+        "新的调动让未完的经验一起上路"
+      ]
+    }
+  ],
+  "ending": {
+    "headline": "把任务交出去，并不等于把记忆留在身后",
+    "text": "第 5 集结束时，E 连已经来到另一个十字路口。海利格的短暂接任、巴黎的短暂休假，都未能让故事停稳。温特斯继续承担更大的职责，士兵则带着临时补来的弹药向前。至于进入林地之后会发生什么，本页在这里停下。",
+    "image": "assets/march.jpg"
+  }
+}

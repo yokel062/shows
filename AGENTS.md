@@ -15,6 +15,8 @@
 - `movies/<movie-slug>/`：电影页面及其资源。
 - 优先使用无构建步骤的 HTML/CSS/JS，以及相对资源链接。
 - 新增内容时同时更新首页和 README 中的目录。
+- 《兄弟连》第 2—10 集的编辑源为各目录的 `content.json`；修改后运行 `python tools/build_episodes.py --complete` 生成静态 HTML 与整季目录数据。共享组件在 `series/band-of-brothers/shared/`。
+- 第 1 集保留原独立页面；更改共享视觉时不要覆盖它的原内容。
 
 ## Git 与发布
 

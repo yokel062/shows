@@ -8,7 +8,22 @@
 
 | 作品 | 内容 | 剧透范围 | 在线阅读 |
 | --- | --- | --- | --- |
-| 兄弟连 · Band of Brothers | S01E01 · Currahee | 仅第 1 集 | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e01/) |
+| 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
+
+## 兄弟连十集目录
+
+| 集数 | 标题 | 在线阅读 |
+| --- | --- | --- |
+| 01 | Currahee | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e01/) |
+| 02 | Day of Days | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e02/) |
+| 03 | Carentan | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e03/) |
+| 04 | Replacements | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e04/) |
+| 05 | Crossroads | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e05/) |
+| 06 | Bastogne | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e06/) |
+| 07 | The Breaking Point | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e07/) |
+| 08 | The Last Patrol | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e08/) |
+| 09 | Why We Fight | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e09/) |
+| 10 | Points | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e10/) |
 
 ## 目录约定
 
@@ -16,11 +31,19 @@
 index.html
 series/
   band-of-brothers/
+    index.html
+    shared/
     s01e01/
       index.html
       style.css
       app.js
       assets/
+    s01e02/ ... s01e10/
+      content.json
+      index.html
+      assets/
+tools/
+  build_episodes.py
 movies/
   <movie-slug>/
 ```
@@ -39,6 +62,18 @@ TMPDIR=/data/wangxw/tmp TMP=/data/wangxw/tmp TEMP=/data/wangxw/tmp \
 ```
 
 打开 `http://localhost:38723/`。无需安装依赖或运行构建。
+
+## 编辑单集
+
+第 1 集保留最初的独立页面。第 2—10 集使用 `content.json` 保存经过核对的文字、人物关系和配图出处，由共享阅读组件展示。修改数据后，在仓库根目录运行：
+
+```bash
+python tools/build_episodes.py --complete
+```
+
+工具会检查来源、图片、人物关系和台词长度，再生成单集 HTML 和整季目录数据。生成的 HTML 提交到仓库，线上不依赖 Python 或构建过程，也无需通过 JavaScript 请求 JSON。
+
+整季目录默认按“已看到第 1 集”显示图片和导读；可改观看进度，选择会保存在当前浏览器。后续集数的入口始终可见，未看到的配图与导读会收起。
 
 ## 后续发布
 

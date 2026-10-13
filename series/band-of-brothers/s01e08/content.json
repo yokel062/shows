@@ -1,0 +1,89 @@
+{
+  "episode": 8,
+  "title": "The Last Patrol",
+  "chineseTitle": "最后的巡逻",
+  "subtitle": "当活着回家终于成为可能，谁来判断下一次冒险是否值得？",
+  "period": "1945 年 2 月｜法国阿尔萨斯，阿格诺",
+  "question": "抓到俘虏就算成功吗？这一集怎样让同一份战果，在不同人眼里变成完全不同的东西？",
+  "intro": "韦伯斯特从医院返回，以为自己回到了熟悉的连队，却发现巴斯托涅已把留下的人变成他不认识的样子。与此同时，刚从西点军校毕业的琼斯急于得到战斗经验，老兵却只想少承担一次风险。阿格诺有屋顶、热水和新制服，河对岸仍然是战争。本篇只涉及第八集与必要的前集背景：从两个努力融入的人，读到一次有俘虏、有伤亡的任务，再读温特斯怎样重新定义责任。这里分析的是电视剧的安排；巡逻名单、人物对白和报告细节，不直接当作独立历史证据。",
+  "introSource": "history",
+  "hero": "assets/return.jpg",
+  "heroAlt": "冬季阿格诺镇的房屋、光秃树木与驶入街道的军用车辆",
+  "heroCaption": "HBO《兄弟连》S01E08 剧中画面／SIMKL 本集截图页。阿格诺建立场景；不是历史档案照片。",
+  "sources": [
+    {"id":"guide","title":"NWCG Leadership in Cinema｜The Last Patrol","url":"https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-06/band-of-brothers-part8.pdf","note":"采用第 4—7 页关于经验、疲劳、换人和第二次巡逻的教学讨论，以及末尾角色说明。文件中的部分军衔、演员表与地理措辞有误，未照搬；本页角色职级按本集呈现。"},
+    {"id":"history","title":"History Channel｜第 8 集教学指南","url":"https://cdn.history.com/sites/2/2015/08/BandofBrothers.8.pdf","note":"支持韦伯斯特返队、老兵与新军官的隔阂、疲劳与任务代价主题。它强调历史剧对白不等于历史记录；指南的月份表述与本集不同，本页采用剧集中的 1945 年 2 月。"},
+    {"id":"transcript","title":"Springfield! Springfield!｜S01E08 台词文本","url":"https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e08&tv-show=band-of-brothers","note":"核对三条短台词，以及 Jackson 伤亡、译员调整和巡逻简报上下文。文本无逐行人物署名，归属结合具体场景核对；中文台词均为本页自译。"},
+    {"id":"recap","title":"Pontificating｜第 8 集逐段剧情回顾","url":"https://pontificating-randy.blogspot.com/2023/09/band-of-brothers-episode-8-last-patrol.html","note":"交叉核对换人、渡河、抓俘虏、报告与本集末尾晋升顺序；只采用可与指南及台词相互印证的剧情事实，解读为原创。"},
+    {"id":"teleplay","title":"8FLiX｜The Last Patrol 编剧稿介绍","url":"https://8flix.com/scripts/tv/band-of-brothers-108-the-last-patrol-teleplay/","note":"核对本集标题、主线及所转述 HBO 梗概；剧本草稿与播出版存在差别，不以草稿补出成片未展示的事实。"},
+    {"id":"stills","title":"SIMKL｜S01E08 本集截图页","url":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","note":"七张图片均下载并目视检查，场景归属与本集截图序列、台词相互核对。所有图片为电视剧画面；代表性配图另行标明。"}
+  ],
+  "images": [
+    {"file":"assets/return.jpg","url":"https://simkl.net/episodes/39/394228413beea7fd7_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。阿格诺镇建立场景：车辆经过冬季街道。","alt":"白灰色天空下的阿格诺街道与军用车辆"},
+    {"file":"assets/jones.jpg","url":"https://simkl.net/episodes/39/39422940b32087d6b_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。琼斯初到连部，站在房间右侧。","alt":"年轻的琼斯站在连部室内右侧，士兵从前景走过"},
+    {"file":"assets/volunteer.jpg","url":"https://simkl.net/episodes/39/39423222e9029490c_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。琼斯再次向温特斯请求参加巡逻。","alt":"戴头盔的琼斯在街边向前景中的温特斯说话"},
+    {"file":"assets/preparation.jpg","url":"https://simkl.net/episodes/39/39423325331996d3f_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。巡逻前的室内士兵群像，马丁位于中央。","alt":"马丁站在室内中央，周围士兵拿着金属杯或整理装备"},
+    {"file":"assets/patrol.jpg","url":"https://simkl.net/episodes/39/3942342ec431ce9de_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。夜间巡逻中，琼斯在掩体附近等待。","alt":"暗蓝夜色中几名士兵蹲在掩体后，琼斯位于右侧"},
+    {"file":"assets/decision.jpg","url":"https://simkl.net/episodes/39/394237264b1a3166e_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。第二次巡逻简报中，温特斯宣布让士兵睡一整夜，并交代次日汇报口径。","alt":"温特斯在室内低头向巡逻队交代决定"},
+    {"file":"assets/relief.jpg","url":"https://simkl.net/episodes/39/3942374afd3276d8f_0.jpg","sourceUrl":"https://simkl.com/tv/3744/band-of-brothers/season-1/episode-8/screencaps/","caption":"HBO S01E08／SIMKL。本集末段的阿格诺院落，士兵经过沙袋与建筑。环境代表配图，不作为某人晋升的画面证据。","alt":"士兵走过堆有沙袋和弹药箱的冬季院落"}
+  ],
+  "scenes": [
+    {"id":"return","time":1,"where":"阿格诺／韦伯斯特返队","title":"熟悉的名字，陌生的连队","image":"assets/return.jpg","caption":"本集阿格诺建立场景；作为返队段落的环境配图，不是韦伯斯特受冷遇的近景。","fact":"在荷兰负伤后，韦伯斯特经过住院、康复和补充兵营才返回。他错过了巴斯托涅，发现昔日战友已有多人缺席，自己也遭到冷淡对待。","analysis":"观众与韦伯斯特一起重新清点这支连队，但老兵没有义务替他重新讲述自己的痛苦。对他们而言，服役资格仍在，情感上的共同时间却断了一截。本集先让人感到隔阂，再让人理解隔阂背后的创伤，避免把返队简单写成受欢迎的团圆。","source":"history"},
+    {"id":"new-officer","time":2,"where":"连部与二排驻地／琼斯报到","title":"军衔能让人服从，经验才能让人放心","image":"assets/jones.jpg","caption":"琼斯站在连部右侧，随后被安排到二排；真实本集画面。","fact":"琼斯从西点毕业后加入 E 连，主动申请巡逻却因缺乏经验被拒。他到二排找马拉其了解情况，一边履行军官职责，一边面对老兵的疑虑。","analysis":"琼斯的紧张在于：他有正式位置，却没有能证明自己的共同经历。老兵衡量军官的尺度，是这个人能不能带他们回来。温特斯拒绝让热情直接兑换指挥权，实际上同时保护了琼斯和将要听从他的人；培养军官也必须有边界。","source":"guide"},
+    {"id":"small-comforts","time":3,"where":"镇内驻地／热水与新制服","title":"有了屋顶，危险也没有消失","graphic":"屋顶与热水 → 以为能喘口气 → 街头炮火仍在 → 巡逻命令传来","caption":"原创因果示意；没有用不对应的剧照代替 Kiehn 遇袭。","fact":"士兵终于能洗澡、领取干净制服。可就在镇内，拎着土豆的 Kiehn 被炮火杀死；与此同时，抓俘虏的巡逻名单仍在逐步确定。","analysis":"热水、新衣服和土豆让生存有了非常具体的形状：人们开始恢复日常，才更清楚日常可能随时被夺走。阿格诺并不安全，它只比此前的森林更像生活。于是同一道命令的重量发生变化——士兵已经能够想象不用再去的另一种夜晚。","source":"recap"},
+    {"id":"exchange","time":4,"where":"巡逻名单确定前／韦伯斯特与琼斯商议","title":"一个想去，一个终于可以休息","image":"assets/volunteer.jpg","caption":"琼斯再次向温特斯提出请求；他这次强调马拉其需要休息。","fact":"韦伯斯特建议琼斯争取替马拉其参加巡逻。琼斯向温特斯说明马拉其的疲劳，最终获准以观察员身份随队；指挥交给有经验的马丁。","analysis":"琼斯起初强调的是自己需要什么，后来终于说出别人需要什么。这个变化使他的愿望成为一个可以讨论的安排。韦伯斯特也通过照顾眼前的人重新找到位置；在这里，融入无需夸耀过去，而可以从帮一个疲惫的战友减少负担开始。","source":"guide"},
+    {"id":"briefing","time":5,"where":"连部／第一次巡逻简报","image":"assets/preparation.jpg","title":"任务是带回活人，不是杀得更多","caption":"马丁与士兵在巡逻前的室内群像；代表准备阶段，不是温特斯讲解地图的画面。","fact":"温特斯交代渡河、抓俘虏和撤退的安排，由马丁带队，琼斯观察。韦伯斯特指出队伍有两名译员，斯皮尔斯让利布戈特留下，他自己随队。","analysis":"这次行动的目标对战斗冲动提出了限制：必须辨认、控制并带走活人。韦伯斯特指出冗余后，获得休息的是利布戈特，而不是自己。前面那种爱逃避的评价因此被画面修正；理解一个人物，要看他的建议最后让谁承担风险。","source":"transcript"},
+    {"id":"crossing","time":6,"where":"河对岸／夜间突袭","title":"计划很短，危险却能无限展开","image":"assets/patrol.jpg","caption":"琼斯与队员在夜间掩体附近；真实本集巡逻画面，不是翻船或受伤瞬间。","fact":"渡河时一艘小艇翻覆，任务仍继续。马丁指挥包围与撤退，队伍抓到德国俘虏；杰克逊冲向哨所时，被自己投出的手榴弹碎片击中。","analysis":"本集用低光、近距离和急促口令缩窄观众视野，让人只能跟着下一项行动走。琼斯没有靠抢夺指挥来证明价值；服从有经验的人，同样是一种判断。突袭达成目标与突袭造成伤亡在同一夜发生，观众很难只用一种情绪为它命名。","source":"recap"},
+    {"id":"jackson","time":7,"where":"己方地下室／巡逻返回后","title":"战果之外，一个人没有回来","graphic":"俘虏到手 → 杰克逊被抬回 → 同伴安慰与求救 → 救治未能挽回生命","caption":"原创事件示意；避免把环境配图当作救治杰克逊的场景截图。","fact":"杰克逊被抬回后，战友和军医试图救治，他仍伤重死亡。马丁汇报时，上级得知俘虏已到手；辛克随后要求同一支队伍再进行一次巡逻。","analysis":"旁白把死亡通知里的抽象措辞与地下室里的恐惧并置。对外是一项帮助赢得战争的任务，对身边的人却是他们无法救回的杰克逊。这不是否认战斗目标，而是拒绝让目标吞掉一个人的具体痛苦。第二道命令因此不能再按第一道命令的方式接受。","source":"teleplay"},
+    {"id":"sleep","time":8,"where":"连部／第二次巡逻简报与撤离前","title":"最有力量的命令：今晚睡觉","image":"assets/decision.jpg","caption":"温特斯交代第二次巡逻的汇报口径；真实本集画面。","fact":"温特斯先说明第二次任务的安排，随后让队员整夜休息，次日汇报未抓到活俘虏。巡逻没有发生；本集末尾还有利普顿、琼斯与温特斯的晋升。","analysis":"他把拒绝冒险转化为自己承担的命令与报告责任，士兵因此不用各自违令。此举包含欺瞒上级的真实伦理代价，不能概括成随意抗命的榜样。但在本集给出的疲劳、已有情报和新增危险之间，他选择不让下属再次支付代价，领导力也因此从推进任务走向保护生命。","source":"guide"}
+  ],
+  "characters": [
+    {"id":"webster","name":"韦伯斯特","en":"David Webster","role":"返队士兵／本集叙述视角与巡逻译员","fact":"在荷兰负伤后返队，错过巴斯托涅，受到部分战友冷遇；本集随巡逻队行动。","analysis":"他让观众从队伍外缘重新进入 E 连。知识与过去的服役经历都无法立刻修复关系，他必须承认别人身上发生了自己没有经历的改变。","source":"history"},
+    {"id":"jones","name":"琼斯","en":"Henry Jones","role":"新到的少尉／本集末晋升中尉并调往团部","fact":"急于获得作战经验，最终以观察员身份参加任务，听从马丁指挥。","analysis":"他的成长不是突然变成最勇猛的人，而是把证明自己的愿望调整到不妨碍团队的位置。懂得自己还不会什么，是军官责任的一部分。","source":"guide"},
+    {"id":"malarkey","name":"马拉其","en":"Donald Malarkey","role":"二排军士／疲惫的老兵骨干","fact":"承担二排领导工作，原定带巡逻队，后来获得休息，由马丁接替。","analysis":"连续失去朋友之后，经验反而容易变成继续被派出的理由。本集终于允许一个可靠的人显出疲惫，让休息也成为他值得得到的待遇。","source":"guide"},
+    {"id":"martin","name":"马丁","en":"John Martin","role":"军士／第一次巡逻的实际指挥者","fact":"代替马拉其指挥行动，安排分组、捕俘与撤退，事后向温特斯报告伤亡。","analysis":"他承担琼斯尚不能承担的现场决断，也承担战果之后仍无法消失的痛苦。他的表现让经验保持重量：经验能减少混乱，无法保证无人牺牲。","source":"recap"},
+    {"id":"jackson","name":"杰克逊","en":"Eugene Jackson","role":"参与第一次夜间巡逻的士兵","fact":"突袭中被自己手榴弹的碎片所伤，返回己方后抢救无效。","analysis":"他让成功这个词无法顺滑地说出口。叙事留在他的恐惧和战友的无助上，使一个战损数字重新成为一个想活下去的人。","source":"transcript"},
+    {"id":"winters","name":"温特斯","en":"Richard Winters","role":"营部军官／本集为上尉，末尾晋升少校","fact":"安排第一次巡逻的人员和保障，随后决定不执行第二次巡逻，并交代虚假汇报口径。","analysis":"他既要完成命令，也看见命令执行后的具体代价。最终的决定不是没有风险，而是把士兵面临的身体风险转成由自己承担的指挥责任。","source":"teleplay"}
+  ],
+  "phases": [
+    {"title":"返队与隔阂","note":"韦伯斯特想回到原有关系，琼斯想获得作战资格；老兵先看到两人缺少的经历。"},
+    {"title":"换人与渡河","note":"马拉其休息，马丁指挥，琼斯观察；角色依据能力与疲劳重新分配。"},
+    {"title":"伤亡与止步","note":"杰克逊死亡改变战果的意义；温特斯拒绝把第一次成功当作自动重来的理由。"}
+  ],
+  "relationships": [
+    {"from":"webster","to":"jones","label":"两个外来者互相搭桥","type":"trust","phases":[0,1],"fact":"两人被安排到二排；韦伯斯特为琼斯提出替马拉其参加巡逻的办法。","analysis":"一人失去旧归属，一人尚未建立新归属。两种缺口使他们能够看见对方的需要，也找到对老兵有益的共同方案。","source":"recap"},
+    {"from":"webster","to":"malarkey","label":"看见疲劳","type":"care","phases":[0,1],"fact":"韦伯斯特察觉马拉其不适合继续承担这次任务，向琼斯提出换人的想法。","analysis":"他重新进入共同体的入口，是看见眼前人的负担；无需声称自己完全理解巴斯托涅，也可以做一件切实减负的事。","source":"recap"},
+    {"from":"jones","to":"malarkey","label":"经验与休息的交换","type":"care","phases":[0,1],"fact":"琼斯说明马拉其需要休息，并获得温特斯许可随队；马拉其不再参加。","analysis":"年轻人的进取与老兵的退让，在这里不必彼此羞辱。承认疲惫使交换成为照顾，而不是对马拉其能力的否定。","source":"guide"},
+    {"from":"winters","to":"jones","label":"允许参与，限制指挥","type":"command","phases":[0,1],"fact":"温特斯先拒绝琼斯的请求，后来准许他以观察员身份参加，明确由马丁指挥。","analysis":"授权可以分层：让一个人学习，不等于让所有人承担他首次决策的风险。限制责任也能帮助新人真正获得信任。","source":"guide"},
+    {"from":"jones","to":"martin","label":"军衔让位于现场经验","type":"trust","phases":[1,2],"fact":"琼斯军衔较高，巡逻仍由马丁带领；任务结束时两人互相肯定。","analysis":"本集将正式等级与实际能力暂时拆开，既保存指挥清晰，也给琼斯一个不用表演权威的成长位置。","source":"recap"},
+    {"from":"martin","to":"jackson","label":"指挥者无法消去的伤亡","type":"loss","phases":[1,2],"fact":"杰克逊在马丁指挥的巡逻中负伤死亡，马丁返回后报告这一损失。","analysis":"没有明显的指挥失误，不意味着指挥者能够轻松接受结果。他必须把任务完成与队员死亡一起带回来。","source":"transcript"},
+    {"from":"webster","to":"jackson","label":"从旁观到陪伴","type":"care","phases":[1,2],"fact":"杰克逊受伤返回后，韦伯斯特留在他身边；其死亡成为本集旁白的核心。","analysis":"被视作局外人的韦伯斯特，此时无法站在痛苦之外。他的叙述把队友的死亡保留为具体经历，而不只是报告里的结论。","source":"transcript"},
+    {"from":"winters","to":"martin","label":"保护执行命令的人","type":"care","phases":[1,2],"fact":"温特斯听取马丁的汇报，随后让第二次巡逻的队员休息，承担报告安排。","analysis":"他没有将一切危险都转交给经验丰富的军士。保护的含义从提供掩护火力，扩大到判断一项命令是否还值得执行。","source":"guide"}
+  ],
+  "comparison": {
+    "title":"同一次巡逻：任务完成与代价过高",
+    "left":{"title":"向上汇报的成功","summary":"抓到可审讯的俘虏、行动返回、情报到手；辛克希望重复这样的战果。","image":"assets/preparation.jpg"},
+    "right":{"title":"队伍内部的代价","summary":"杰克逊没有活下来；同一批疲惫士兵还要去更深的敌方区域，再承担一次不可逆的损失。","image":"assets/decision.jpg"},
+    "rows":[
+      {"label":"首先看见什么","left":"任务目标已经达成，带回了俘虏。","right":"一个熟悉的人在救治中死去。"},
+      {"label":"如何解释下一次","left":"已有成功经验，可以再抓更多人。","right":"敌方会更加警觉，新目标更深入；不能照搬上一夜。"},
+      {"label":"谁支付代价","left":"战果沿着指挥链传递，容易成为可复制的成果。","right":"具体的人承受伤亡，活下来的人继续背负失去。"}
+    ],
+    "conclusion":"这是本页对剧情的对照解读，不是对真实辛克内心的裁定。俘虏确实有军事用途，第一次任务也并非毫无意义；本集质疑的是，既有战果是否足以自动证明下一次冒险值得。温特斯停止第二次任务，是对新增收益与新增风险作出判断。"
+  },
+  "quotes": [
+    {"en":"We're too far along for that.","zh":"我们已经走到这一步了。","speaker":"温特斯","scene":"第一次巡逻安排时，要求斯皮尔斯尽量确保安全。","context":"他不希望在战争的这一阶段，再让人承担可以避免的危险。此处的走到这一步指战争进程，而不是巡逻已经走得太远。","analysis":"同一句话可以支持两种相反反应：再坚持一点，或不要白白失去已经坚持到这里的人。温特斯在本集选择让后者获得分量。","image":"assets/jones.jpg","source":"transcript"},
+    {"en":"Sergeant Malarkey could use a break.","zh":"马拉其军士该歇一歇了。","speaker":"琼斯","scene":"再次请求温特斯批准参加巡逻。","context":"琼斯已与马拉其谈过，并把请求从自己的经验需求转到老兵需要休息。","analysis":"转折藏在句子的主语里：他终于没有只说自己。无论愿望里仍有多少证明自己的成分，这个理由确实让疲惫的马拉其被看见。","image":"assets/volunteer.jpg","source":"transcript"},
+    {"en":"I want you all to get a full night's sleep tonight.","zh":"我要你们今晚都睡个整觉。","speaker":"温特斯","scene":"第二次巡逻简报，说明计划后突然改变方向。","context":"他随即交代次日的汇报口径；第二次巡逻实际上没有执行。","analysis":"这里休息是正式命令，因此保护也进入了责任结构。士兵无需自行选择服从或逃避；温特斯用自己的权限把他们从那个选择中解放出来。","image":"assets/decision.jpg","source":"transcript"}
+  ],
+  "motifs": [
+    {"title":"热水与新衣服：生活开始有轮廓","fact":"士兵获知有淋浴和新制服；韦伯斯特的旁白也把让马拉其休息与这些小小的舒适并列。","analysis":"这些物件不是无关紧要的日常装饰。冷、脏、疲惫持续太久后，恢复身体的舒适会重新唤起未来感。人一旦开始想象活着回家，对无谓风险就会更敏感。","source":"transcript","steps":["得到一点日常舒适","开始想象战争之外","重新衡量还要承担的危险"]},
+    {"title":"两张资格表：有经历的人想休息","fact":"琼斯几次要求参加；马拉其等有经验的人已十分疲惫，最终由马丁负责指挥。","analysis":"本集不断对照谁想去与谁适合去，揭示热情、能力和承受余量是三件不同的事。安排任务不能只找最可靠的人，也必须问这个可靠的人还有多少力气。","source":"guide","steps":["新人要求证明自己","经验丰富的人继续被点名","重新分配参与和指挥职责"]},
+    {"title":"报告与记忆：谁决定成功的措辞","fact":"第一次巡逻被视为成功，辛克要求再来一次；第二次则通过虚假汇报代替实际行动。","analysis":"报告有能力把一夜的混乱压缩成少数结论，旁白却把被压缩的恐惧重新展开。结尾再次使用报告保护士兵，同时留下诚实与照顾之间的伦理裂缝。本集没有让这个裂缝凭空消失。","source":"teleplay","steps":["战果被压缩为成功","具体伤亡逼人重想成功","温特斯用报告承担停止的责任"]}
+  ],
+  "ending": {
+    "headline":"活着回家，终于也成为一种要认真保护的结果。",
+    "text":"第二次巡逻没有发生。连队准备离开阿格诺，本集以晋升、告别和韦伯斯特对战争代价的追问结束。没有新战果的那一夜，反而让人第一次清楚感到：剩下的人可以不用继续交付一切。温特斯的决定保住的是未来的可能，杰克逊的死亡则提醒观众，这个可能从来不会自动到来。",
+    "image":"assets/relief.jpg"
+  }
+}

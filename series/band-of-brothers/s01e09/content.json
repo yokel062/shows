@@ -1,0 +1,485 @@
+{
+  "episode": 9,
+  "title": "Why We Fight",
+  "chineseTitle": "为何而战",
+  "subtitle": "越接近胜利，越需要重新回答为何而战",
+  "period": "1945 年春｜德国与兰茨贝格周边；剧中日期存在冲突",
+  "question": "当士兵只想回家，营门之后的发现怎样改变他们对这场战争的理解？",
+  "intro": "第九集把胜利前夕拍成了意义最不稳定的时刻。德国抵抗渐弱，士兵谈论回家，尼克森却在酒、坏消息与阵亡通知之间失去方向。林中一扇营门，让他们从自己的损失看见另一群人的处境；但看见并不等于懂得怎样救助。本文只涉及第九集与此前剧情，以人物反应和环境配图梳理发现、翻译与救助的难题。剧中的人物言行属于戏剧化叙述，不能直接作为历史证言；片头日期和真实营地解放顺序另有校正。",
+  "introSource": "history",
+  "hero": "assets/town.jpg",
+  "heroAlt": "废墟中的德国小镇、清理瓦砾的居民与街头弦乐演奏者",
+  "heroCaption": "HBO S01E09／SIMKL 本集画面：废墟、清理与弦乐。",
+  "sources": [
+    {
+      "id": "history",
+      "title": "History Channel｜第 9 集教学指南",
+      "url": "https://images.history.com/images/media/pdf/BandofBrothers.9.pdf",
+      "note": "核对贝多芬首尾回环、尼克森与军官妻子的两次相遇及本集主题。该指南明确区分电视剧与历史作品；不以剧中台词替代历史证据。"
+    },
+    {
+      "id": "guide",
+      "title": "NWCG Leadership in Cinema｜Why We Fight",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-06/band-of-brothers-part9.pdf",
+      "note": "用于降职、巡逻发现营地与领导责任场景交叉核对。指南把本集空降误写成诺曼底首次空降，角色表也有职级错误；本页未采用这些信息，也不采用其近似时间码。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield!｜S01E09 台词文本",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e09&tv-show=band-of-brothers",
+      "note": "核对短台词、翻译段落和救助命令。文本未逐行注明说话人，人物归属结合本集场景与教学指南核对；中文台词均为本页自译。"
+    },
+    {
+      "id": "stills",
+      "title": "SIMKL｜S01E09 本集截图页",
+      "url": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "note": "真实本集剧中画面的来源；下载后逐张目视检查。集中营段落使用营门、人物反应与清理工作画面，配图不作为历史档案证据。"
+    },
+    {
+      "id": "review",
+      "title": "Alan Sepinwall｜第 9 集回顾",
+      "url": "https://www.whatsalanwatching.com/band-of-brothers-rewind-episode-9-why/",
+      "note": "交叉核对尼克森的疲惫、阵亡通知、离婚来信，以及佩康特与韦伯斯特的愤怒。本文分析原创；该文章涉及后续内容的部分不用于本页。"
+    },
+    {
+      "id": "chronology",
+      "title": "Movie Mistakes｜本集日期冲突",
+      "url": "https://www.moviemistakes.com/tv3009/episode1414",
+      "note": "核对片头“1945 年 4 月 11 日”与结尾回到同一场景后的希特勒死讯不相容。真实死亡日期另以 USHMM 核验，不据错误片头推算本集日历。"
+    },
+    {
+      "id": "camp",
+      "title": "美国大屠杀纪念馆｜Kaufering",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/kaufering",
+      "note": "历史校正：Kaufering 为达豪附属营网络；12 装甲师 4 月 27 日到达 Kaufering IV，101 空降师 4 月 28 日到达。剧中巡逻发现的叙述不能替代这一真实顺序。"
+    },
+    {
+      "id": "hitler",
+      "title": "美国大屠杀纪念馆｜希特勒自杀",
+      "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1942-1945/hitler-commits-suicide",
+      "note": "史实：1945 年 4 月 30 日；用于说明本集片头日期错误。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/town.jpg",
+      "url": "https://simkl.net/episodes/39/3942278a5c13a6050_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。废墟中的德国小镇、清理瓦砾的居民与街头弦乐演奏者；非历史档案照片。",
+      "alt": "废墟中的德国小镇、清理瓦砾的居民与街头弦乐演奏者"
+    },
+    {
+      "file": "assets/window.jpg",
+      "url": "https://simkl.net/episodes/39/3942198e944c34803_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。尼克森背对镜头站在窗前，右侧桌上放着酒瓶；非历史档案照片。",
+      "alt": "尼克森背对镜头站在窗前，右侧桌上放着酒瓶"
+    },
+    {
+      "file": "assets/reaction.jpg",
+      "url": "https://simkl.net/episodes/39/3942252cf7af90118_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。两名戴头盔的美军士兵在集中营内注视侧方；非历史档案照片。",
+      "alt": "两名戴头盔的美军士兵在集中营内注视侧方"
+    },
+    {
+      "file": "assets/gate.jpg",
+      "url": "https://simkl.net/episodes/39/3942248a84af27a70_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。美军士兵在铁丝网围栏的营门前与营内人员接触；非历史档案照片。",
+      "alt": "美军士兵在铁丝网围栏的营门前与营内人员接触"
+    },
+    {
+      "file": "assets/nixon-camp.jpg",
+      "url": "https://simkl.net/episodes/39/3942274dc624bb516_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。尼克森走出营门，身后德国居民带着工具进入营地；非历史档案照片。",
+      "alt": "尼克森走出营门，身后德国居民带着工具进入营地"
+    },
+    {
+      "file": "assets/wife.jpg",
+      "url": "https://simkl.net/episodes/39/3942276eb667807e8_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。德国军官的妻子穿着黑色衣服，在营地清理工作中抬头注视；非历史档案照片。",
+      "alt": "德国军官的妻子穿着黑色衣服，在营地清理工作中抬头注视"
+    },
+    {
+      "file": "assets/violin.jpg",
+      "url": "https://simkl.net/episodes/39/39422801f32ec552f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。小提琴演奏者在小镇废墟中拉琴；非历史档案照片。",
+      "alt": "小提琴演奏者在小镇废墟中拉琴"
+    },
+    {
+      "file": "assets/house.jpg",
+      "url": "https://simkl.net/episodes/39/394223882e4d83f09_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。尼克森在德国军官家中停在摆放玻璃器皿的桌子旁；非历史档案照片。",
+      "alt": "尼克森在德国军官家中停在摆放玻璃器皿的桌子旁"
+    },
+    {
+      "file": "assets/wife-home.jpg",
+      "url": "https://simkl.net/episodes/39/39422406a0d21ddf8_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
+      "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。德国军官的妻子背对镜头站在家中，身旁是家具与画像；非历史档案照片。",
+      "alt": "德国军官的妻子背对镜头站在家中，身旁是家具与画像"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "quartet",
+      "time": 8,
+      "where": "德国小镇废墟／先展示后来，再进入回叙",
+      "title": "先听到音乐，还没有看见营门",
+      "fact": "街头弦乐四重奏伴随居民清理废墟。尼克森纠正战友：演奏的是贝多芬。随后本集转入此前的经历；结尾回到这一场景。片头日期与后文死讯冲突，时间线仅表示叙事先后。",
+      "analysis": "观众最初容易把清理街道理解为恢复正常。回到同一音乐时，我们已经知道附近发生过什么。镜头没有替音乐宣布无罪，也没有把德国文化一笔抹去；相同声音承载了不同的认识。",
+      "source": "chronology",
+      "caption": "本集首尾回环段落中的小镇清理与弦乐；不是营地清理画面。",
+      "image": "assets/town.jpg"
+    },
+    {
+      "id": "letters",
+      "time": 1,
+      "where": "德国驻地／尼克森返回空降任务后",
+      "title": "活下来的人，必须为死者写信",
+      "fact": "尼克森向温特斯讲述空降中飞机遭击、自己和少数人脱险。他被告知调回营部 S3，但更困扰他的是：怎样向阵亡者的父母解释他们的死亡。",
+      "analysis": "降职是制度给出的评价，写信却是私人无法卸下的责任。他没有在战斗中开枪，并不意味着战争没有穿过他的生活。温特斯的回答维持了对战友牺牲的尊重，却无法替朋友消除失去意义的感觉。",
+      "source": "guide",
+      "caption": "尼克森在窗前的本集驻地画面；作为这一段疲惫与交谈的代表配图，不是空降事故截图。",
+      "image": "assets/window.jpg"
+    },
+    {
+      "id": "home",
+      "time": 2,
+      "where": "驻地与向南行进的车队／发现营地之前",
+      "title": "有人急着参战，有人只想回家",
+      "fact": "佩康特对渴望战斗的新兵奥基夫发火。尼克森收到离婚来信；车上谈起战后的生活，韦伯斯特又向撤退的德军斥骂，质问为什么自己的生活会被战争打断。",
+      "analysis": "同一句“战争快结束了”，在新兵耳中意味着错过经历，在老兵耳中意味着终于可能活着离开。愤怒的对象并不相同，底层却都是被夺走的生活。这里的闲谈为后面发现营地留下了理解的落差。",
+      "source": "review",
+      "caption": "原创叙事示意，不是历史照片。",
+      "graphic": "想要经历战斗 ↔ 想要结束战斗 → 谁的生活被夺走？"
+    },
+    {
+      "id": "portrait",
+      "time": 3,
+      "where": "德国家宅／尼克森寻找酒时",
+      "title": "一张肖像，两种尊严",
+      "fact": "尼克森闯入一户德国人家找酒，拿起军官的肖像，随后让它跌落。军官的妻子出现，冷冷地看着他。他没有得到想要的东西，离开了房间。",
+      "analysis": "这场相遇先让尼克森显得像侵犯别人生活的占领者。妻子的凝视要求观众看到她的尊严，同时肖像提醒我们屋内并非没有政治与军队的痕迹。到第二次相遇时，镜头会迫使双方面对家宅之外的现实。",
+      "source": "history",
+      "caption": "本集尼克森进入军官家宅寻酒的画面；与军官妻子首次相遇的同一段落。",
+      "image": "assets/house.jpg"
+    },
+    {
+      "id": "discovery",
+      "time": 4,
+      "where": "兰茨贝格周边林地／巡逻归来",
+      "title": "报告第一次失去现成的名称",
+      "fact": "巡逻队在树林中发现被遗弃的营地。佩康特赶回驻地向温特斯报告，却无法清楚说出那是什么。军官随后抵达，士兵打开营门，原本的巡逻转为救助。",
+      "analysis": "过去报告的词是敌军、火力、伤员与阵地；眼前的情景超出了士兵熟悉的任务分类。佩康特说不清，不等于信息不重要。温特斯需要先相信部下的震动，亲自看见，才能重新定义眼前的责任。",
+      "source": "guide",
+      "caption": "本集营门开启与士兵接触营内人员的画面；不是战争年代的照片。",
+      "image": "assets/gate.jpg"
+    },
+    {
+      "id": "translation",
+      "time": 5,
+      "where": "营门内／最初接触与问话",
+      "title": "翻译，让眼前的人重新拥有身份",
+      "fact": "温特斯找来会德语的利布戈特。幸存者讲述守卫离开前的杀害与纵火；问及关押原因时，利布戈特列出他们原来的职业，并明确提到犹太人与其他遭纳粹迫害的群体。",
+      "analysis": "温特斯从自己熟悉的“罪犯”类别发问，翻译一步步拆开这个错误前提。职业让人重新成为医生、音乐家和农民。利布戈特承担的远超词语转换：他必须在指挥者与幸存者之间承受每句话的重量。",
+      "source": "transcript",
+      "caption": "本集营内士兵的反应镜头；用来观察目击者的震动，并非利布戈特问话的特写。",
+      "image": "assets/reaction.jpg"
+    },
+    {
+      "id": "limits",
+      "time": 6,
+      "where": "营地／送来食物之后",
+      "title": "帮助开始于冲动，也需要接受限制",
+      "fact": "士兵先送水、食物与毯子。医生肯特随后要求停止自由发放食物，并集中幸存者以监督治疗。温特斯让利布戈特解释暂时返回营地的命令，后者难以开口。",
+      "analysis": "刚打开的营门又成为一道边界，难怪这个命令像背叛。剧中医生解释的是严重饥饿者的治疗风险，但幸存者接收到的首先是再次受限。善意需要专业判断，也需要承担解释、寻找更好安置的责任。",
+      "source": "transcript",
+      "caption": "原创叙事示意，不是历史照片。",
+      "graphic": "打开营门 → 紧急援助 → 医生提出风险 → 监督治疗与重新安置"
+    },
+    {
+      "id": "witness",
+      "time": 7,
+      "where": "营地／当地居民奉命清理",
+      "title": "第二次凝视，不再能退回家宅",
+      "fact": "当地居民被要求到营地清理、埋葬死者。尼克森再次遇到那位军官的妻子；她参与了清理工作，两人长久对视。本集随后回到废墟中的弦乐与新的军令。",
+      "analysis": "第一次，他侵入她的私人空间；第二次，她被带到公共罪行留下的现场。镜头没有交代她此前究竟知道多少，也没有宣判她的内心。对视的力量在于：他们都无法再让家宅的体面遮住眼前发生过的事。",
+      "source": "history",
+      "caption": "本集军官妻子参加营地清理时抬头的镜头；呈现见证与对视，不作恐怖装饰。",
+      "image": "assets/wife.jpg"
+    }
+  ],
+  "characters": [
+    {
+      "id": "nixon",
+      "name": "尼克森",
+      "en": "Lewis Nixon",
+      "role": "上尉；由团部调回营部 S3",
+      "fact": "本集集中呈现他的酗酒、降职、阵亡通知与离婚来信。",
+      "analysis": "他是我们进入本集的视角：越接近胜利，越难把日常的破碎解释为值得。发现营地带来的是新的认识，并不等于创伤或酗酒已经治愈。",
+      "source": "review"
+    },
+    {
+      "id": "winters",
+      "name": "温特斯",
+      "en": "Richard Winters",
+      "role": "少校；营级指挥者",
+      "fact": "听取佩康特报告，进入营地，组织救助并传达医疗限制。",
+      "analysis": "本集考验他从战术指挥转向不熟悉的人道救助。能做决定依然重要，但决定需要借助幸存者的证言、翻译和医生的知识。",
+      "source": "transcript"
+    },
+    {
+      "id": "liebgott",
+      "name": "利布戈特",
+      "en": "Joseph Liebgott",
+      "role": "E 连士兵；本集德语翻译",
+      "fact": "将幸存者的话转达给军官，也被要求解释暂时返回营地的命令。",
+      "analysis": "电视剧通过他谈论犹太家庭的愿望强化这场相遇的情感联系。这里分析的是剧中塑造，不以此替真实人物裁定宗教身份。他的痛苦来自理解和传达同一份痛苦。",
+      "source": "review"
+    },
+    {
+      "id": "perconte",
+      "name": "佩康特",
+      "en": "Frank Perconte",
+      "role": "E 连老兵；巡逻发现者之一",
+      "fact": "前半集对新兵的参战热情愤怒，后半集急忙报告林中发现。",
+      "analysis": "他从“别再让我参战”转为“必须立刻让军官来看”。这不是对前面疲惫的否定，而是新事实改变了必须做什么的判断。",
+      "source": "guide"
+    },
+    {
+      "id": "sink",
+      "name": "辛克",
+      "en": "Robert Sink",
+      "role": "上校；第 506 团指挥官",
+      "fact": "来到营地，与肯特医生一起向温特斯说明集中治疗的要求。",
+      "analysis": "他的指令把临时善意接入医疗和军队的组织资源。指挥层知道为什么要限制食物，不能使命令自动变得容易接受；解释和安置仍是命令的一部分。",
+      "source": "guide"
+    },
+    {
+      "id": "wife",
+      "name": "德国军官的妻子",
+      "en": "German Officer’s Wife",
+      "role": "本集两次与尼克森对视的德国居民",
+      "fact": "先在家中遇到寻酒的尼克森，后在营地清理时与他再次相遇。",
+      "analysis": "她没有独白，因此不要把眼神擅自写成供认、羞愧或无辜的确证。这个人物让观众思考私人尊严、社会参与和不愿面对之间的关系。",
+      "source": "history"
+    }
+  ],
+  "phases": [
+    {
+      "title": "01／先问：为什么还在这里？",
+      "note": "发现营地之前，降职、失去生活与归乡愿望占据视野；片头弦乐属于后来的框架场景。"
+    },
+    {
+      "title": "02／营门打开：听见被迫害者",
+      "note": "巡逻发现使任务转变；温特斯组织救助，利布戈特让证言进入指挥者的理解。"
+    },
+    {
+      "title": "03／看见以后：承担照护与见证",
+      "note": "救助遭遇医疗限制；居民被带到现场，尼克森再次对视。相同音乐已有不同含义。"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "nixon",
+      "to": "winters",
+      "label": "朋友承受意义的分歧",
+      "type": "trust",
+      "phases": [
+        0,
+        2
+      ],
+      "fact": "尼克森问怎样写阵亡通知；温特斯仍肯定死者的牺牲。",
+      "analysis": "朋友的回答可能支撑人，也可能暂时无法抵达对方。他们的信任容纳了不一致，而没有要求尼克森立刻振作。",
+      "source": "review"
+    },
+    {
+      "from": "nixon",
+      "to": "sink",
+      "label": "制度约束私人崩塌",
+      "type": "command",
+      "phases": [
+        0
+      ],
+      "fact": "温特斯向尼克森转达辛克的关切及调回营部 S3 的决定。",
+      "analysis": "降职处理的是职位适任，阵亡与家庭消息造成的空洞却无法通过调职解决。制度与个人照护面对的是不同层面。",
+      "source": "guide"
+    },
+    {
+      "from": "nixon",
+      "to": "wife",
+      "label": "两次凝视改变处境",
+      "type": "contrast",
+      "phases": [
+        0,
+        2
+      ],
+      "fact": "家中的冷眼与营地清理时的对视，形成两次相遇。",
+      "analysis": "双方第一次只看见对方如何侵犯自己的世界；第二次，无法被私人叙述容纳的事实进入了两人之间。",
+      "source": "history"
+    },
+    {
+      "from": "perconte",
+      "to": "winters",
+      "label": "把震动带回指挥层",
+      "type": "trust",
+      "phases": [
+        1
+      ],
+      "fact": "佩康特找温特斯报告发现，难以给营地一个清楚名称。",
+      "analysis": "这种信任建立在允许部下暂时说不清。指挥者需要辨认报告背后的紧急性，并通过到场观察补足信息。",
+      "source": "guide"
+    },
+    {
+      "from": "winters",
+      "to": "liebgott",
+      "label": "证言与命令的桥梁",
+      "type": "tension",
+      "phases": [
+        1,
+        2
+      ],
+      "fact": "温特斯先找他翻译问话，随后要求他传达返回营地的命令。",
+      "analysis": "翻译者先承接希望，再承接限制。军官可以发出命令，但无法替他承受每个词在幸存者耳中的意义。",
+      "source": "transcript"
+    },
+    {
+      "from": "sink",
+      "to": "winters",
+      "label": "援助转入组织治疗",
+      "type": "care",
+      "phases": [
+        2
+      ],
+      "fact": "辛克把医生的限制要求转为需要执行的营地安排。",
+      "analysis": "这场关系没有轻松的“正确答案”。监督治疗有目的，临时留在营地有伤害感；救助者必须同时承认两者。",
+      "source": "guide"
+    }
+  ],
+  "comparison": {
+    "title": "同一个尼克森，两次相遇：看见怎样改变位置",
+    "left": {
+      "title": "军官家中／寻酒时",
+      "summary": "一个疲惫的美国军官闯入家宅。观看的中心暂时是酒、失序和对主人尊严的侵犯。",
+      "image": "assets/wife-home.jpg"
+    },
+    "right": {
+      "title": "营地清理／再次相遇",
+      "summary": "军官的妻子与尼克森都置身于罪行留下的现场。观众已经听见幸存者，无法只沿私人遭遇判断。",
+      "image": "assets/nixon-camp.jpg"
+    },
+    "rows": [
+      {
+        "label": "观看范围",
+        "left": "家宅、肖像与主人冷眼",
+        "right": "营门、清理劳动与见证者"
+      },
+      {
+        "label": "尼克森的任务",
+        "left": "寻找酒来度过自己的坏消息",
+        "right": "直面无法靠酒解释的公共罪行"
+      },
+      {
+        "label": "不能擅自推断",
+        "left": "妻子的冷眼不证明她无辜",
+        "right": "妻子的对视也不等于承认了全部知情"
+      }
+    ],
+    "conclusion": "这里改变的是我们掌握的信息与尼克森所处的空间。剧集没有提供这位妻子的完整证词；有力的解读应保留这一空白，而不是用一个眼神给所有德国居民定罪。"
+  },
+  "quotes": [
+    {
+      "en": "You really still believe that?",
+      "zh": "你真的还相信这一点吗？",
+      "speaker": "尼克森",
+      "scene": "谈论给阵亡者父母写信",
+      "context": "温特斯建议肯定死者的牺牲，尼克森反问。",
+      "analysis": "他质疑的既是措辞，也是自己还能否相信这种措辞。讥讽的语气挡在脆弱前面；朋友听见的应该是疲惫，而不仅是冒犯。中文为本页自译。",
+      "image": "assets/window.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "I can't tell them that, sir.",
+      "zh": "长官，我没法对他们说这件事。",
+      "speaker": "利布戈特",
+      "scene": "被要求解释暂时返回营地的命令",
+      "context": "救助需要集中监督治疗，但刚获救的人又将被限制行动。",
+      "analysis": "“说不出口”不是语言能力不足，是已经理解对方以后产生的痛。翻译让人彼此相见，也把传达坏消息的责任放到一个士兵身上。中文为本页自译。",
+      "image": "assets/reaction.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "That's Beethoven.",
+      "zh": "那是贝多芬。",
+      "speaker": "尼克森",
+      "scene": "废墟中的弦乐框架场景",
+      "context": "战友把街头演奏的作曲者说成莫扎特，他纠正了名字。",
+      "analysis": "一句知识性的纠正承认德国拥有被珍视的文化，也让营地的存在显得更难解释。文化成就不会自动阻止暴行；镜头要求观众把这两件事同时放在视野中。中文为本页自译。",
+      "image": "assets/violin.jpg",
+      "source": "transcript"
+    }
+  ],
+  "motifs": [
+    {
+      "title": "信件：家变得遥远，却又无处不在",
+      "fact": "尼克森需要为阵亡者写信，同时收到妻子的离婚消息。",
+      "analysis": "一种信解释别人回不了家，另一种信告诉自己回去后也可能没有原来的生活。私人坏消息没有抹掉公共责任，公共责任也不会取消私人痛苦。",
+      "source": "review",
+      "steps": [
+        "想象回家",
+        "信件改变想象",
+        "仍需承担对死者家属的责任"
+      ]
+    },
+    {
+      "title": "营门：自由不只是门被打开",
+      "fact": "营门被打开后，剧中医疗安排又要求幸存者暂时集中留在营地。",
+      "analysis": "开门是人人看得见的解放动作，后续照护却需要资源、知识与安置。剧集让这两个阶段产生冲突：帮助不能只靠冲动，也不能只靠不解释的限制。",
+      "source": "transcript",
+      "steps": [
+        "结束囚禁",
+        "启动救助",
+        "处理治疗与安置"
+      ]
+    },
+    {
+      "title": "贝多芬：相同旋律，不同的听者",
+      "fact": "弦乐出现在开头与结尾，清理废墟的画面构成本集的框架。",
+      "analysis": "开头的旋律可以像战后生活的预告；结尾再听，无法忘记林中的营地。回环改变了观众，不需要换一首更悲伤的曲子。",
+      "source": "history",
+      "steps": [
+        "废墟中的音乐",
+        "进入回叙与营地",
+        "带着新认识听同一旋律"
+      ]
+    }
+  ],
+  "historicalNotes": [
+    {
+      "title": "日期冲突：故事时间不等于可靠日历",
+      "text": "本集片头写“1945 年 4 月 11 日”，随后回叙；结尾回到同一弦乐场景，尼克森却宣布希特勒死讯。真实自杀日期为 4 月 30 日。这是剧中日期错误，页面的“故事时间”只重排叙事先后，不把营地发现或死讯强行放到 4 月 11 日。",
+      "source": "hitler"
+    },
+    {
+      "title": "剧集的发现者与真实的解放顺序",
+      "text": "本集把林中发现组织为 E 连的巡逻经历。美国大屠杀纪念馆记载：Kaufering IV 是达豪附属营，第 12 装甲师 1945 年 4 月 27 日先到，101 空降师次日到达。因此不能把本集概括成“E 连在史实上首先解放达豪”。",
+      "source": "camp"
+    },
+    {
+      "title": "一个营地不能代表所有营地的结构",
+      "text": "Kaufering 是服务于军工建设的强迫劳动营网络，囚禁大批犹太人；严重饥饿、疾病和暴力造成大量死亡，撤退前守卫还纵火杀害无法移动的囚犯。剧中谈到其他地方的毒气室与焚尸设施，不能反过来认定本集营地拥有完全相同的设施。",
+      "source": "camp"
+    }
+  ],
+  "ending": {
+    "headline": "营门打开之后，“为何而战”才开始有了具体的对象",
+    "text": "本集没有用集中营把此前所有痛苦简单兑换成光荣。士兵仍然疲惫，尼克森仍有自己的崩塌，幸存者更需要长久的治疗与生活。新的认识是：战争中要阻止的恶，以及眼前需要照护的人，都有了具体面貌。回到街头的音乐，不是遗忘的许可，而是提醒我们让文化、日常与被遮住的事实同时进入记忆。",
+    "image": "assets/town.jpg"
+  }
+}

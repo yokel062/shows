@@ -1,0 +1,452 @@
+{
+  "episode": 6,
+  "title": "Bastogne",
+  "chineseTitle": "巴斯托涅",
+  "subtitle": "守住阵地，也守住一个人",
+  "period": "1944 年 12 月 · 比利时巴斯托涅及周边阿登森林",
+  "question": "当救护员无法救下所有人，他还能怎样继续照顾眼前的人？",
+  "intro": "前一集把 E 连送进巴斯托涅附近的森林；这一集沿着医务兵尤金·罗的脚步，重新丈量这场围困。对指挥者来说，地图上要守住的是一条防线；对罗来说，同一片树林被分成一处处等待救护的散兵坑。吗啡、绷带、干袜子和一块巧克力，成为他不断寻找、分配的东西。镇内的护士勒梅尔让他短暂遇见一个理解照护重负的人，而圣诞节的破坏又把他推回失去与疲惫之中。本篇仅讨论前六集：从救护的物资条件，到不能兑现的承诺，再到结尾的一次包扎，追问人与人怎样继续互相托住。",
+  "introSource": "history",
+  "hero": "assets/hero.jpg",
+  "heroAlt": "雪落在罗的头发和军服上，他坐在林间，左臂戴着红十字袖章。",
+  "heroCaption": "《兄弟连》第 6 集人物画面／TVmaze 单集页；此图为罗在雪中的人物配图，非每个救护场景的逐帧对应。",
+  "sources": [
+    {
+      "id": "history",
+      "title": "History Channel · Episode 6 Study Guide",
+      "url": "https://cdn.history.com/sites/2/2015/08/BandofBrothers.6.pdf",
+      "note": "核对时间、地点、严寒与补给短缺；指南明确提醒剧作对白不等于历史记录。"
+    },
+    {
+      "id": "guide",
+      "title": "NWCG · Leadership in Cinema: Bastogne",
+      "url": "https://fs-prod-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-06/band-of-brothers-part6.pdf",
+      "note": "核对罗搜集医药物资、巡逻撤退、赫夫隆的失落、护足提醒及圣诞消息等具体片段。人物职务采用本集表现，不照抄跨集职级表。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield Springfield · S01E06 台词记录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e06&tv-show=band-of-brothers",
+      "note": "核对本集对白与救护顺序；该页没有完整说话人标签，引用对象结合 NWCG 片段和 IMDb 单集引句交叉确认。三句中文均为本站自译。"
+    },
+    {
+      "id": "quotes",
+      "title": "IMDb · Bastogne 单集引句",
+      "url": "https://www.imdb.com/title/tt1247462/quotes/",
+      "note": "交叉核对勒梅尔与罗、赫夫隆与罗的对白归属。"
+    },
+    {
+      "id": "tvmaze",
+      "title": "TVmaze · 1×06 Bastogne",
+      "url": "https://www.tvmaze.com/episodes/42795/band-of-brothers-1x06-bastogne",
+      "note": "核对单集标题与罗的医务兵视角，并提供雪地人物图；已目视核对人物与场景。"
+    },
+    {
+      "id": "images",
+      "title": "Fan Fun with Damian Lewis · Bastogne 图片评论",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=7394",
+      "note": "本集温特斯剃须与罗给赫夫隆包扎的画面；只作画面来源，不采用文章对真实历史的推测。"
+    },
+    {
+      "id": "renee-image",
+      "title": "Ranker · 本集罗与勒梅尔交谈画面",
+      "url": "https://www.ranker.com/list/heartwrenching-moments-band-of-brothers/thomas-west",
+      "note": "仅取图并目视核对：来源将交谈画面用于失去护士的条目，本站按实际画面标注。该链接含全剧剧透，未看完请勿打开全文。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/hero.jpg",
+      "url": "https://static.tvmaze.com/uploads/images/original_untouched/401/1004924.jpg",
+      "sourceUrl": "https://www.tvmaze.com/episodes/42795/band-of-brothers-1x06-bastogne",
+      "caption": "HBO 剧集人物画面／TVmaze；罗坐在雪中，红十字袖章可见。本页将其用于医务兵视角的配图。",
+      "alt": "雪中的尤金·罗，军服左臂有红十字袖章。"
+    },
+    {
+      "file": "assets/winters-shaving.jpg",
+      "url": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2015/12/22029_original.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=7394",
+      "caption": "HBO 第 6 集画面／Fan Fun with Damian Lewis；温特斯在雪地剃须。对应本集日常片段，不是下达防守命令的镜头。",
+      "alt": "温特斯站在积雪的树林中，用剃刀刮去脸上的泡沫。"
+    },
+    {
+      "file": "assets/roe-heffron.png",
+      "url": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2015/12/imageedit_72_5629683133.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=7394",
+      "caption": "HBO 第 6 集结尾画面／Fan Fun with Damian Lewis；左侧的罗为右侧赫夫隆包扎手部，蓝色布条可见。",
+      "alt": "散兵坑中，罗用蓝色布条处理赫夫隆的手部伤口。"
+    },
+    {
+      "file": "assets/roe-renee.jpg",
+      "url": "https://imgix.ranker.com/user_node_img/50145/1002896192/original/1002896192-photo-u-1876126032?auto=format&dpr=2&fit=crop&fm=pjpg&q=60&w=650",
+      "sourceUrl": "https://www.ranker.com/list/heartwrenching-moments-band-of-brothers/thomas-west",
+      "caption": "HBO 第 6 集画面／Ranker；罗与勒梅尔坐在镇内积雪的建筑外交谈。来源文章把此图放在失去护士的条目中，本页按实际画面注明为两人交谈，不称其为废墟寻人的镜头。",
+      "alt": "罗与戴蓝色头巾的勒梅尔坐在镇内建筑外，两人周围是积雪和破损家具。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "winter-line",
+      "time": 1,
+      "where": "阿登森林 · 围困初期",
+      "title": "防线是一片没有暖气的树林",
+      "image": "assets/winters-shaving.jpg",
+      "caption": "温特斯雪中剃须／本集日常配图，非将军视察的对应镜头。",
+      "fact": "E 连在巴斯托涅外围守住阵地。严寒、缺少冬装与补给，使散兵坑里的等待本身成为消耗；指挥层仍要求守线、填补空隙。",
+      "analysis": "先看懂“守住”的成本，才能看懂本集的慢。部队没有向前推进，并不表示身体和心理停止受损。温特斯仍剃须的微小动作，可以读作在环境失控时维持一点日常秩序；这不是对其他士兵疲惫状态的责备。",
+      "source": "history"
+    },
+    {
+      "id": "scavenge",
+      "time": 2,
+      "where": "林间散兵坑与指挥所",
+      "title": "救护，从寻找一把剪刀开始",
+      "image": "assets/hero.jpg",
+      "caption": "罗的雪地人物配图；寻找物资的行动由下方文字与学习指南核对。",
+      "fact": "罗四处寻找吗啡、绷带、血浆和工具。他向戴克询问急救包里的物资，发现对方不清楚物品放在哪里；手上有一份急救包并不代表知道怎么用。",
+      "analysis": "救护能力在这里是一条脆弱的链：找到东西、及时到场、判断伤情、完成转运，任何一环断掉都会产生后果。镜头跟着罗跑来跑去，观众因此开始关心药品在哪个口袋里，而不只是关心敌军在哪个方向。",
+      "source": "guide"
+    },
+    {
+      "id": "town-aid",
+      "time": 3,
+      "where": "巴斯托涅镇内 · 伤员收治处",
+      "title": "进了救护站，也没有离开围困",
+      "image": "assets/roe-renee.jpg",
+      "caption": "罗与勒梅尔在镇内交谈／本集配图，非首次索取补给的镜头。",
+      "fact": "罗送来伤员，向护士勒梅尔索取医用品。镇内也缺物资，伤员无法继续撤离；她给出有限的补给和用作绷带的床单，并送他一块巧克力。",
+      "analysis": "树林与镇内并非“危险”和“安全”的简单分界。罗带来需要护理的人，也带走有限物资；两处共同承受同一个包围圈。巧克力的出现让交易之外多了一次关心：被需要了一整天的罗，也短暂成为被照顾的人。",
+      "source": "transcript"
+    },
+    {
+      "id": "julian",
+      "time": 4,
+      "where": "森林 · 接敌巡逻",
+      "title": "一个承诺，碰到无法跨越的火线",
+      "graphic": "承诺带回物品 → 巡逻遭伏击 → 被迫撤退",
+      "caption": "本集事件示意图；箭头表示剧情因果，不表示精确战术位置。",
+      "fact": "巡逻遭到伏击，朱利安倒在敌方火力范围内。赫夫隆想把他带回来，尼克森命令撤退；后来，赫夫隆说自己答应过把朱利安的东西送给其母亲。",
+      "analysis": "赫夫隆面对的是一个具体的人和一句具体的承诺；尼克森面对的是继续接近伤员会让更多人暴露的局面。这里没有足够信息让观众把决定简化成冷酷或正确。不可完成的救援，仍会在幸存者心里留下必须承担的重量。",
+      "source": "guide"
+    },
+    {
+      "id": "comfort",
+      "time": 5,
+      "where": "散兵坑之间 · 巡逻之后",
+      "title": "伤口，有时没有流血",
+      "image": "assets/hero.jpg",
+      "caption": "罗雪中人物配图；安慰赫夫隆与检查托伊脚部并非此图的对应动作。",
+      "fact": "罗提醒托伊保持脚部干燥、换袜子，随后找到沉浸在自责中的赫夫隆，给他巧克力。赫夫隆坚持认为自己本该救到朱利安。",
+      "analysis": "本集把预防、包扎和安慰放在同一条照护路径里。巧克力不能反驳赫夫隆的内疚，罗也没有让一句安慰解决一切。他选择先坐下来、把一点食物递过去；陪伴的价值，正在于不要求对方马上变得好受。",
+      "source": "guide"
+    },
+    {
+      "id": "hands",
+      "time": 6,
+      "where": "镇内收治处外 · 再次相见",
+      "title": "被称为天赋的人，也会疲惫",
+      "image": "assets/roe-renee.jpg",
+      "caption": "本集画面：罗与勒梅尔坐在建筑外，讨论护理与痛苦。",
+      "fact": "罗注意到勒梅尔的双手，认为她的触碰能够安抚伤者，是来自上帝的天赋。勒梅尔拒绝这种说法，直言护理让她痛苦，并说自己不想再面对伤员。",
+      "analysis": "这段对话打断了对照护者的浪漫想象。罗表达敬意，勒梅尔却提醒他：能够帮助别人，并不会自动消除自己所受的损伤。两个人之间的亲近，可以理解为终于遇到懂得这种矛盾的人，不必把它断言为爱情。",
+      "source": "transcript"
+    },
+    {
+      "id": "christmas",
+      "time": 7,
+      "where": "圣诞前后 · 森林与镇内",
+      "title": "庆祝坚守的消息，和停不下来的伤亡",
+      "graphic": "圣诞消息 / 拒绝投降 ↔ 炮击 / 救护仍在继续",
+      "caption": "并置关系示意；没有把不同场景压缩成同一分钟。",
+      "fact": "辛克传达麦考利夫拒绝投降的圣诞消息。威尔士随后受伤，疲惫的罗继续救护；他再进镇时，收治处已遭轰炸，他在废墟中找到勒梅尔的蓝色头巾。",
+      "analysis": "集体叙事能够说“我们挡住了进攻”，个人却还在经历一位朋友的消失。两种尺度在圣诞节相遇，使胜利的意义变得沉重。废墟与头巾传达了剧中失去的事实；此处不把两人私下相处或道具细节当成逐项历史证据。",
+      "source": "transcript"
+    },
+    {
+      "id": "babe",
+      "time": 8,
+      "where": "森林 · 本集结尾",
+      "title": "把留下的东西，用来照顾还在的人",
+      "image": "assets/roe-heffron.png",
+      "caption": "本集结尾画面：罗为赫夫隆包扎手部，使用蓝色布条。",
+      "fact": "罗回到阵地，发现赫夫隆的手受伤，撕开蓝色头巾替他包扎。赫夫隆注意到罗叫了他的昵称“Babe”；两人有了短暂的玩笑，随后继续守线。",
+      "analysis": "结尾没有让罗发表战胜悲伤的宣言。他只是处理眼前这只手，并在称呼上靠近了一点。头巾从私人记忆变成实际的包扎材料，失去因此进入下一次照护。亲近没有取消岗位责任；一句催他盯住防线的提醒把两者重新放在一起。",
+      "source": "transcript"
+    }
+  ],
+  "characters": [
+    {
+      "id": "roe",
+      "name": "尤金·罗",
+      "en": "Eugene Roe",
+      "role": "E 连医务兵 · 本集视角人物",
+      "fact": "四处搜集医用品、处理伤情，也检查脚部并安慰战友。",
+      "analysis": "越是知道每个人的名字，救援失败越难被抽象成战报数字。他的克制可以读作继续工作的保护层，而不是缺乏感情。",
+      "source": "guide"
+    },
+    {
+      "id": "renee",
+      "name": "勒梅尔",
+      "en": "Renée Lemaire",
+      "role": "巴斯托涅的比利时护士 · 剧中收治处照护者",
+      "fact": "在镇内护理伤员，给罗有限物资，并与他谈论照护带来的痛苦。",
+      "analysis": "她有帮助他人的能力，也有拒绝被赞美掩盖的疲惫。与罗的私人交流在本页只作为电视剧人物塑造，不认定为历史中逐项发生过的会面。",
+      "source": "transcript"
+    },
+    {
+      "id": "heffron",
+      "name": "赫夫隆",
+      "en": "Edward “Babe” Heffron",
+      "role": "E 连士兵 · 朱利安的朋友",
+      "fact": "试图救回巡逻中倒下的朱利安，撤退后陷入未能履行承诺的自责。",
+      "analysis": "他的痛苦让“带回一个人”和“保存更多人的安全”发生冲突；罗给他的巧克力与包扎，分别回应了没有血迹和有血迹的伤口。",
+      "source": "guide"
+    },
+    {
+      "id": "julian",
+      "name": "朱利安",
+      "en": "John Julian",
+      "role": "E 连士兵 · 接敌巡逻中的伤员",
+      "fact": "巡逻遭伏击时倒下，队伍因火力无法将他带回。",
+      "analysis": "他是赫夫隆承诺所指向的具体朋友。本页不以未来剧情补全他的故事；重点是撤离时无法抵达的距离，如何留在战友心里。",
+      "source": "guide"
+    },
+    {
+      "id": "nixon",
+      "name": "尼克森",
+      "en": "Lewis Nixon",
+      "role": "营部军官 · 本集参与阵地情况汇报和巡逻撤退判断",
+      "fact": "听取巡逻情况后命令撤退；与温特斯向来访将军汇报防守困境。",
+      "analysis": "他的职责要求把整个队伍纳入判断。影片让这份责任与赫夫隆的私人承诺并置，使撤退决定呈现出难以互相替代的两种视角。",
+      "source": "guide"
+    },
+    {
+      "id": "winters",
+      "name": "温特斯",
+      "en": "Richard Winters",
+      "role": "营部军官 · 参与巴斯托涅外围防守",
+      "fact": "汇报补给与阵地困难；罗在雪地中穿行救护，温特斯也要求他进镇休息、吃顿热饭。",
+      "analysis": "医疗支持不只要求医务兵继续工作，也要求有人注意他已经接近耗尽。职务上的关怀在本集落实为一个很小、却非常具体的休息安排。",
+      "source": "transcript"
+    }
+  ],
+  "phases": [
+    {
+      "title": "严寒与补给",
+      "note": "阵地和镇内都缺少物资，罗与勒梅尔建立有限的补给与理解。"
+    },
+    {
+      "title": "不能完成的救援",
+      "note": "朱利安倒下后，赫夫隆的承诺、尼克森的撤退判断与罗的安慰发生交汇。"
+    },
+    {
+      "title": "圣诞与继续照护",
+      "note": "庆祝坚守的消息与失去并行；罗回到阵地，把记忆转为下一次包扎。"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "roe",
+      "to": "renee",
+      "label": "照护者彼此理解",
+      "type": "trust",
+      "phases": [
+        0,
+        1,
+        2
+      ],
+      "fact": "勒梅尔提供物资；两人交流照护的痛苦，罗后来在废墟中寻找她。",
+      "analysis": "从职业互助走向能够谈疲惫的空间；末段以遗留头巾呈现这段关系的失去。",
+      "source": "transcript"
+    },
+    {
+      "from": "roe",
+      "to": "heffron",
+      "label": "安慰与包扎",
+      "type": "care",
+      "phases": [
+        1,
+        2
+      ],
+      "fact": "罗送巧克力安慰赫夫隆，结尾用蓝色布条包扎他的手。",
+      "analysis": "照护把一份无法解除的自责，和一个能处理的伤口接在一起；昵称变化显示接近。",
+      "source": "guide"
+    },
+    {
+      "from": "heffron",
+      "to": "julian",
+      "label": "无法兑现的承诺",
+      "type": "loss",
+      "phases": [
+        1,
+        2
+      ],
+      "fact": "赫夫隆想救回朱利安，并说答应过将朋友的物品交给其母亲。",
+      "analysis": "撤退终止了救援行动，却没有终止承诺在赫夫隆心里的要求。",
+      "source": "guide"
+    },
+    {
+      "from": "nixon",
+      "to": "heffron",
+      "label": "求援与撤退命令",
+      "type": "command",
+      "phases": [
+        1
+      ],
+      "fact": "赫夫隆要求回去救人，尼克森判断局面后坚持撤退。",
+      "analysis": "关系里的张力来自不同责任尺度；不用事后结果替现场人物取消困难。",
+      "source": "guide"
+    },
+    {
+      "from": "nixon",
+      "to": "julian",
+      "label": "无法接近的伤员",
+      "type": "loss",
+      "phases": [
+        1
+      ],
+      "fact": "尼克森听取朱利安倒下的位置与接敌情况，随后命令队伍退回。",
+      "analysis": "一名伤员能否被带回，被敌方火力和剩余人员风险共同限制。",
+      "source": "guide"
+    },
+    {
+      "from": "winters",
+      "to": "nixon",
+      "label": "共同汇报防线",
+      "type": "trust",
+      "phases": [
+        0
+      ],
+      "fact": "两人向将军说明阵地、资源和补给的困难。",
+      "analysis": "上级命令与前线承受能力之间，需要有人把具体困难说出来。",
+      "source": "guide"
+    },
+    {
+      "from": "winters",
+      "to": "roe",
+      "label": "提醒救护员休息",
+      "type": "care",
+      "phases": [
+        2
+      ],
+      "fact": "罗继续处理威尔士的伤情后，温特斯要求他进镇吃热饭。",
+      "analysis": "罗照顾所有人，温特斯则需要看见罗本人的耗竭；关怀不沿单一方向流动。",
+      "source": "transcript"
+    },
+    {
+      "from": "roe",
+      "to": "julian",
+      "label": "救护的距离极限",
+      "type": "loss",
+      "phases": [
+        1
+      ],
+      "fact": "巡逻被迫撤退时无法带回朱利安，罗在同一场巡逻中参与救护。",
+      "analysis": "医务兵能做什么，首先受是否能安全抵达伤员制约；本集没有把技巧写成万能答案。",
+      "source": "guide"
+    }
+  ],
+  "comparison": {
+    "title": "守一条防线，和照顾一个人",
+    "left": {
+      "title": "指挥者的地图",
+      "summary": "指挥必须考虑阵地缺口、火力、撤退和整体补给，决定会影响一支队伍。",
+      "image": "assets/winters-shaving.jpg"
+    },
+    "right": {
+      "title": "医务兵的双手",
+      "summary": "罗接触的是具体伤口、冻伤与惊恐；他需要在同一环境里找到可以立即使用的东西。",
+      "image": "assets/hero.jpg"
+    },
+    "rows": [
+      {
+        "label": "怎样感知危险",
+        "left": "空隙会被敌军穿透，前进救人也会暴露更多士兵。",
+        "right": "药品不足、脚部潮湿和无法撤离的伤员，都在制造损伤。"
+      },
+      {
+        "label": "必须做的选择",
+        "left": "命令维持阵地；巡逻接敌后决定是否继续暴露人员。",
+        "right": "分配有限医用品，判断先处理哪种伤情，也决定何时坐下陪一个人。"
+      },
+      {
+        "label": "怎样理解坚守",
+        "left": "一条防线没有崩溃，是集体层面的结果。",
+        "right": "一次包扎、一次护足提醒，也是在避免这条防线的人继续耗损。"
+      }
+    ],
+    "conclusion": "两种尺度共同构成坚守。全局判断不能消除个体悲痛，个人照护也无法代替作战部署。本集的独特之处，是让观众走进战报无法充分容纳的那部分责任。"
+  },
+  "quotes": [
+    {
+      "en": "We got nothing.",
+      "zh": "我们什么都没有了。〔本站自译〕",
+      "speaker": "尤金·罗，对勒梅尔",
+      "scene": "向镇内收治处索取医药物资",
+      "context": "罗已把伤员送入收治处，开口要吗啡和绷带；对方也只能提供一点。配图为罗的雪地人物画面。",
+      "analysis": "“没有”把战争拉到一个医务兵可以触摸的尺度。职责仍然在，完成职责所需的东西却不在；下一段剧情于是由他寻找资源的路线驱动。",
+      "image": "assets/hero.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "God would never give such a painful thing.",
+      "zh": "上帝不会赐予这样痛苦的东西。〔本站自译〕",
+      "speaker": "勒梅尔，对尤金·罗",
+      "scene": "收治处外谈论安抚伤员的双手",
+      "context": "罗将她安抚伤员的能力称作天赋；她回应其中的痛苦。配图为两人在镇内建筑外交谈的本集画面。",
+      "analysis": "她不否认自己能够帮助人，而是拒绝让赞美抹去代价。台词使“关怀”具有双向责任：帮助别人的人，也需要有人承认其痛苦。",
+      "image": "assets/roe-renee.jpg",
+      "source": "transcript"
+    },
+    {
+      "en": "You called me Babe.",
+      "zh": "你刚才叫我“Babe”了。〔本站自译〕",
+      "speaker": "赫夫隆，对尤金·罗",
+      "scene": "本集结尾，罗替赫夫隆包扎手部",
+      "context": "本页按 IMDb 单集引句采用这四个词；字幕站同处带有起句和标点差异。此前罗通常叫姓氏，结尾的昵称引起赫夫隆注意。",
+      "analysis": "感情变化没有被演成告白，而被藏在一个称呼里。失去之后，罗仍靠近一个活着的战友；这不能证明悲伤已经结束，却让继续照护有了可以看见的动作。",
+      "image": "assets/roe-heffron.png",
+      "source": "quotes"
+    }
+  ],
+  "motifs": [
+    {
+      "title": "物资在不同的人之间移动",
+      "fact": "吗啡和绷带靠搜集获得，床单成为绷带，巧克力从勒梅尔传到罗，再到赫夫隆。",
+      "analysis": "人与人的联系在本集常常通过物品流转呈现。每一次递交都回应一个具体需要，而小东西的稀缺，使这些动作具有分量。",
+      "source": "transcript",
+      "steps": [
+        "围困让供应不足",
+        "把手上有限东西交出去",
+        "另一个人得以继续承受"
+      ]
+    },
+    {
+      "title": "手：被夸赞，也需要包扎",
+      "fact": "罗谈及勒梅尔能安抚伤者的双手；结尾又发现并处理赫夫隆的手部伤口。",
+      "analysis": "手既执行照护，也承受伤害。前后场景将“能够治愈”的赞美拉回身体的脆弱，没有让帮助别人变成免于受伤的身份。",
+      "source": "transcript",
+      "steps": [
+        "注意到照护者的双手",
+        "听见能力背后的痛苦",
+        "把关注落实成下一次包扎"
+      ]
+    },
+    {
+      "title": "蓝色头巾：记忆转成材料",
+      "fact": "勒梅尔戴着蓝色头巾，罗在收治处废墟中找到它，后来撕成布条为赫夫隆包扎。",
+      "analysis": "蓝色在雪地和灰暗建筑之间格外醒目。道具的重复让两段关系发生连接：失去的朋友没有被替代，留下的物品却帮助罗照顾仍在眼前的战友。",
+      "source": "images",
+      "steps": [
+        "相识时的可见细节",
+        "废墟中的遗留之物",
+        "结尾用于活人的伤口"
+      ]
+    }
+  ],
+  "ending": {
+    "headline": "继续工作的那双手，也需要有人看见",
+    "text": "本集收在一只受伤的手和一个意外的昵称上。罗没有获得足以解释所有损失的答案；他找到了眼前仍然能做的一件事。这次包扎同时保存着勒梅尔的记忆，也回应了赫夫隆的需要。读到这里，可以把本集理解成一个关于照护限度的故事：不能救下所有人，并不会让下一次帮助失去意义。剧透止于第 6 集，不讨论之后的战况与人物命运。",
+    "image": "assets/roe-heffron.png"
+  }
+}

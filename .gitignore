@@ -4,6 +4,7 @@
 **/.playwright/
 **/.openai/
 **/node_modules/
+**/__pycache__/
 .DS_Store
 AGENTS.local.md
 *.log
