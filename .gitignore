@@ -1,0 +1,12 @@
+# Local artifacts and tool state
+**/output/
+**/.playwright-cli/
+**/.playwright/
+**/.openai/
+**/node_modules/
+.DS_Store
+AGENTS.local.md
+*.log
+.env
+.env.*
+!.env.example

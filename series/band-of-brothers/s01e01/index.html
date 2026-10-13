@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171c16">
+  <meta name="description" content="《兄弟连》第1集 Currahee 图解笔记：跟随训练与出征的时间线，探索人物关系、领导力冲突与台词。仅含第1集剧情。">
+  <title>Currahee · 兄弟连第一集图解笔记</title>
+  <link rel="icon" href="assets/insignia.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#story">跳到剧情梳理</a>
+  <div class="reading-progress" aria-hidden="true"><span id="progress"></span></div>
+  <header class="masthead">
+    <a class="brand" href="#top"><span class="brand-mark">✦</span> 剧中人 <span class="brand-en">STORY FIELDNOTES</span></a>
+    <nav aria-label="章节导航"><a href="#story">剧情</a><a href="#relations">人物</a><a href="#leadership">深读</a><a href="#quotes">台词</a></nav>
+    <span class="episode-label">档案 001 <i></i> S01 · E01</span>
+  </header>
+  <main>
+    <section class="hero" id="top">
+      <img class="hero-image" src="assets/company.jpg" alt="第1集画面：E连士兵在写着506伞兵步兵连的营房前列队" fetchpriority="high" width="1200" height="675">
+      <div class="hero-scrim"></div>
+      <div class="hero-content">
+        <div class="eyebrow"><span class="tiny-line"></span> BAND OF BROTHERS / 兄弟连</div>
+        <h1>CURRAHEE<span>一群人，<br>怎样成为一支连队。</span></h1>
+        <p class="hero-deck">战斗还没有开始，信任已经接受考验。<br>从托科阿的山路，到诺曼底出发前的夜晚。</p>
+        <div class="hero-actions"><a class="primary" href="#story">翻开这一集 <span>↓</span></a><span class="scope">仅含第 1 集剧情<br><small>剧情事实 × 个人解读</small></span></div>
+      </div>
+      <div class="hero-foot"><span>01 / CURRAHEE</span><span>1942—1944 · 训练与出征</span><span class="photo-credit">本集画面 · HBO / Apple TV</span></div>
+    </section>
+
+    <section class="opening content-width">
+      <div class="section-index">阅读线索<br><span>THE QUESTION</span></div>
+      <div class="opening-text"><h2>你愿意把命，<br>交给谁来指挥？</h2><p>第一集把大量时间留给训练，因为连队的体能、纪律和相互信任，就是在这里形成的。Sobel 把 E 连练得出色，Winters 则逐渐赢得士兵的信任；当演习暴露指挥问题，这两种权威开始发生冲突。<a class="ref" href="#source-guide">[1]</a></p><p class="interpretation"><span>本页解读</span> 这一集可以沿着三个问题来读：共同吃苦怎样形成归属感？军衔如何获得服从？什么又能让士兵愿意跟随？</p></div>
+      <div class="field-stamp"><span>506</span><strong>EASY COMPANY</strong><small>101st AIRBORNE<br>CURRAHEE</small></div>
+    </section>
+
+    <section id="story" class="story-section">
+      <div class="content-width">
+        <div class="section-heading"><div><div class="eyebrow">01 / THE STORY</div><h2>从山路，到机舱。</h2><p>沿着八个关键场景，读懂这一集的因果。</p></div><div class="segmented" role="group" aria-label="时间线排列顺序"><button class="active" data-order="screen" aria-pressed="true">播出顺序</button><button data-order="time" aria-pressed="false">故事时间</button></div></div>
+        <p class="order-note" id="order-note" aria-live="polite">本集先来到 1944 年的英国，再回望 1942 年开始的训练。</p>
+        <div class="timeline" id="timeline"></div>
+        <noscript><p>请启用 JavaScript 阅读互动时间线。人物、深读与资料来源仍可在下方阅读。</p></noscript>
+        <div class="cause-strip"><span>本集主线</span><p>严苛训练 <b>→</b> 形成凝聚力 <b>→</b> 演习暴露问题 <b>→</b> 信任危机 <b>→</b> 指挥调整</p><small>因果归纳 · 本页解读</small></div>
+      </div>
+    </section>
+
+    <section id="relations" class="relations-section content-width">
+      <div class="section-heading"><div><div class="eyebrow">02 / THE PEOPLE</div><h2>军衔之外，还有信任。</h2><p>切换本集阶段，再点一个人物，看清关系为什么会变。</p></div><span class="margin-label">关系图 · 本集视角</span></div>
+      <div class="phase-tabs" role="group" aria-label="人物关系阶段"><button class="active" data-phase="training" aria-pressed="true"><small>1942</small>托科阿训练</button><button data-phase="exercise" aria-pressed="false"><small>英国</small>演习与冲突</button><button data-phase="departure" aria-pressed="false"><small>1944</small>出征之前</button></div>
+      <div class="relationship-layout">
+        <div class="graph-panel">
+          <div class="graph-canvas">
+            <svg class="graph-lines" viewBox="0 0 700 510" aria-hidden="true">
+              <path d="M350 86 L160 210" class="command"/><path d="M350 86 L540 210" class="command"/>
+              <path d="M190 240 L500 240" class="conflict"/><path d="M160 280 L180 400" class="command" id="sobel-easy-line"/>
+              <path d="M500 280 L230 400" class="trust"/><path d="M540 280 L560 400" class="trust"/>
+              <text x="210" y="133">任命 / 监督</text><text x="442" y="133">认可</text>
+              <text id="edge-conflict" x="350" y="225" class="conflict-text">上级与下属</text>
+              <text id="edge-easy" x="105" y="353">严苛训练</text><text id="edge-winters" x="335" y="355">共同训练</text><text x="574" y="352">战友</text>
+            </svg>
+            <button class="person sink" data-person="sink" aria-label="查看辛克的关系"><span class="avatar">RS</span><strong>辛克</strong><small>Robert Sink · 团长</small></button>
+            <button class="person sobel selected" data-person="sobel" aria-label="查看索贝尔的关系" aria-pressed="true"><span class="avatar photo"><img src="assets/sobel.jpg" alt="剧中索贝尔" loading="lazy"></span><strong>索贝尔</strong><small>Herbert Sobel</small></button>
+            <button class="person winters" data-person="winters" aria-label="查看温特斯的关系"><span class="avatar photo"><img src="assets/winters.jpg" alt="剧中温特斯" loading="lazy"></span><strong>温特斯</strong><small>Richard Winters</small></button>
+            <button class="person easy" data-person="easy" aria-label="查看E连士兵的关系"><span class="avatar">E</span><strong>E 连士兵</strong><small>士兵与士官群体</small></button>
+            <button class="person nixon" data-person="nixon" aria-label="查看尼克森的关系"><span class="avatar">LN</span><strong>尼克森</strong><small>Lewis Nixon · 军官</small></button>
+          </div>
+          <div class="graph-legend"><span><i class="line command"></i>指挥关系</span><span><i class="line conflict"></i>矛盾 / 压力</span><span><i class="line trust"></i>信任 / 战友情</span></div>
+          <p class="graph-note" id="graph-note">训练阶段 · 上级权威和士兵的信任，正在沿不同路径形成。</p>
+        </div>
+        <aside class="person-detail" aria-live="polite" aria-atomic="true" id="person-detail"></aside>
+      </div>
+      <div class="command-note"><span>本集易混淆处</span><p>Sobel 调任后，<strong>Thomas Meehan 接任 E 连连长</strong>。Winters 的威望上升，并不等于他在本集已经接任连长。<a class="ref" href="#source-script">[2]</a></p></div>
+    </section>
+
+    <section id="leadership" class="leadership-section">
+      <div class="content-width"><div class="section-heading"><div><div class="eyebrow">03 / A CLOSER LOOK</div><h2>同一支连队，两种领导方式。</h2><p>以下分析针对本集的人物呈现。</p></div><span class="analysis-badge">个人解读</span></div>
+        <div class="leader-pair">
+          <article class="leader"><figure><img src="assets/sobel.jpg" alt="索贝尔在队列中检查士兵" loading="lazy" width="1000" height="563"><figcaption>检查场景 · HBO / Ranker</figcaption></figure><div class="leader-name"><small>HERBERT SOBEL</small><h3>索贝尔</h3><span>用压力建立标准</span></div><p>他盯住细节、施加惩罚，把“必须合格”贯彻到每一天。但演习中的失误，使士兵开始怀疑：这套标准是否也能转化成战场上的判断力？<a class="ref" href="#source-leadership">[3]</a></p></article>
+          <article class="leader"><figure><img src="assets/winters.jpg" alt="温特斯戴着钢盔、持步枪参加演习" loading="lazy" width="1920" height="1080"><figcaption>演习画面 · HBO / TVmaze</figcaption></figure><div class="leader-name"><small>RICHARD WINTERS</small><h3>温特斯</h3><span>用行动积累信任</span></div><p>他与士兵共同训练，在等待协同受阻时作出现场安排，又以正式程序回应不公指控。信任来自一连串可观察的行动，而不是一次慷慨激昂的演说。<a class="ref" href="#source-script">[2]</a></p></article>
+        </div>
+        <div class="comparison"><div><small>看待部下</small><p>首先要求服从</p><span>↔</span><p>在共同任务中赢得跟随</p></div><div><small>面对不确定</small><p>演习暴露犹疑与判断失误</p><span>↔</span><p>根据现场条件调整行动</p></div><div><small>权威的来源</small><p>职位、检查和惩罚</p><span>↔</span><p>专业表现与日常信任</p></div></div>
+        <div class="reading-insight"><span>值得保留的矛盾</span><h3>训练的功劳，与指挥的局限，<br>可以同时存在。</h3><p>把 Sobel 只读成一个“坏上司”，会漏掉本集更复杂的地方：辛克认可他的训练成果，士兵却不愿让他带队进入实战。优秀训练者和可靠战场指挥官，需要的能力并不完全相同。这一差异，也是解读冲突的一条线索。<a class="ref" href="#source-guide">[1]</a></p></div>
+      </div>
+    </section>
+
+    <section id="quotes" class="quotes-section content-width">
+      <div class="section-heading"><div><div class="eyebrow">04 / BETWEEN THE LINES</div><h2>台词，放回场景里读。</h2><p>短句原文、中文自译，以及它在这一刻的分量。</p></div><span class="margin-label">04 张台词笔记</span></div>
+      <div class="quote-layout"><div class="quote-visual"><img id="quote-image" src="assets/run.jpg" alt="E连在训练中跑山" loading="lazy"><span id="quote-scene">场景 / 跑山口号</span><div class="quote-controls"><button id="quote-prev" aria-label="上一张台词卡">←</button><span id="quote-count" aria-live="polite">01 / 04</span><button id="quote-next" aria-label="下一张台词卡">→</button></div></div><article class="quote-note" id="quote-note" aria-live="polite" aria-atomic="true"></article></div>
+      <p class="quote-foot">英文短句核对自第 1 集文字转录；中文为本页自译。解读是一种阅读角度。<a class="ref" href="#source-script">[2]</a></p>
+    </section>
+
+    <section class="motifs-section content-width" id="motifs">
+      <div class="section-heading"><div><div class="eyebrow">05 / WHAT TO NOTICE</div><h2>再看一遍，留意这三个细节。</h2><p>只讨论本集内部的呼应，不提前揭示后续。</p></div></div>
+      <div class="motif-grid"><article><span class="motif-number">01</span><h3>跑山，从惩罚到身份。</h3><p>同一条山路反复出现。最初是让人喘不过气的任务，后来也成为他们辨认“我们是谁”的共同语言。</p><div class="mini-diagram"><span>被命令去跑</span><b>→</b><span>共同经历</span><b>→</b><span>连队口号</span></div><small>个人解读 · 观察口号在不同场景中的变化</small></article><article><span class="motif-number">02</span><h3>模仿声音，是一次权威测试。</h3><p>Luz 模仿 Horton 的声音，让 Sobel 按“上级命令”剪断围栏。笑点也提出一个问题：服从命令的动作，能否替代对现场情况的判断？</p><div class="mini-diagram"><span>听见命令</span><b>→</b><span>执行动作</span><b>≠</b><span>判断正确</span></div><small>剧情依据 [2] · 个人解读</small></article><article><span class="motif-number">03</span><h3>家书，把战争带进私人生活。</h3><p>Guarnere 从信中得知兄长阵亡。出发前的战争不再只是地图上的任务，也带着个人的悲伤。群像因此出现了另一种情绪尺度。<a class="ref" href="#source-summary">[4]</a></p><div class="mini-diagram"><span>远处的战场</span><b>→</b><span>一封家书</span><b>→</b><span>个人的失去</span></div><small>个人解读 · 不延伸到下一集</small></article></div>
+    </section>
+
+    <section class="closing">
+      <img src="assets/briefing.jpg" alt="第1集画面：士兵坐在草地上听取任务说明" loading="lazy" width="1200" height="675"><div class="closing-scrim"></div><div class="closing-text"><div class="eyebrow">END OF EPISODE 01</div><h2>走进机舱时，<br>他们已经一起走了很远。</h2><p>第一集停在出征。训练场上的信任能否经受实战，<br>是留给接下来观看的一个问题。</p><a href="#top">回到档案首页 ↑</a></div>
+    </section>
+
+    <footer id="sources" class="sources content-width"><div class="source-intro"><div class="eyebrow">READING NOTES / 资料与图像</div><h2>让分析有据可循。</h2><p>本页是影视阅读样板，分析的是剧集呈现，未逐项考证历史。剧情事实与个人解读分开标注。引用链接可能涉及整集或更多内容，首次观看请按需打开。</p></div><ol><li id="source-guide"><a href="https://cdn.history.com/sites/2/2015/08/BandofBrothers.1.pdf" target="_blank" rel="noopener">History Channel · 第 1 集学习指南 ↗</a><span>叙事结构、训练背景与领导力讨论。</span></li><li id="source-script"><a href="https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e01&amp;tv-show=band-of-brothers" target="_blank" rel="noopener">Springfield! Springfield! · 第 1 集文字转录 ↗</a><span>台词、围栏演习与军法审判申请场景；非官方转录。</span></li><li id="source-leadership"><a href="https://fs-dev-nwcg.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-06/band-of-brothers-part1.pdf" target="_blank" rel="noopener">NWCG · Leadership in Cinema: Currahee ↗</a><span>本集剧情与领导力观察材料。</span></li><li id="source-summary"><a href="https://www.historyonthenet.com/band-of-brothers-episode-1-currahee" target="_blank" rel="noopener">History on the Net · 第 1 集介绍 ↗</a><span>调任、士官抗议与 Guarnere 家书情节。</span></li></ol><details class="asset-sources"><summary>查看图像来源与角色译名</summary><p>剧集画面版权归 HBO 及相关权利人。仅作本集阅读与评论的配图；原图未由 AI 生成。</p><ul><li><a href="https://tv.apple.com/us/episode/currahee/umc.cmc.4a435ouc2nb07ewbxs5igji0x" target="_blank" rel="noopener">营房前列队 · Apple TV 本集页面</a></li><li><a href="https://tv.apple.com/us/episode/band-of-brothers-pt-1-currahee/umc.cmc.11d1xjgqelraf8zq3b13qqtur" target="_blank" rel="noopener">草地任务说明 · Apple TV 本集页面</a></li><li><a href="https://clip.cafe/band-of-brothers-2001/you-people-are-at-the-position-of-attention/" target="_blank" rel="noopener">Perconte 检查场景 · Clip.Cafe</a></li><li><a href="https://www.ranker.com/list/band-of-brothers-moments-that-really-happened/emily-mast" target="_blank" rel="noopener">跑山画面 · Ranker</a></li><li><a href="https://www.ranker.com/list/band-of-brothers-accurate-scenes/alby-thompson" target="_blank" rel="noopener">Sobel 检查画面 · Ranker</a></li><li><a href="https://www.tvmaze.com/episodes/42790/band-of-brothers-1x01-currahee" target="_blank" rel="noopener">Winters 演习画面 · TVmaze 本集页面</a></li><li><a href="https://www.warhistoryonline.com/world-war-ii/court-martial-band-of-brothers.html" target="_blank" rel="noopener">Sobel / Winters 冲突配图 · War History Online</a></li></ul><p>译名采用：Sobel 索贝尔、Winters 温特斯、Nixon 尼克森、Sink 辛克；不同字幕版本可能有差异。</p></details><div class="footer-bottom"><a class="brand" href="#top">✦ 剧中人</a><span>一集一份档案 · BAND OF BROTHERS / 001</span><a href="#top">回到顶部 ↑</a></div></footer>
+  </main>
+</body>
+</html>
