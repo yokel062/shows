@@ -9,6 +9,7 @@
 | 作品 | 内容 | 剧透范围 | 在线阅读 |
 | --- | --- | --- | --- |
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
+| 亿万 · Billions | 第一季第一集 · Pilot | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/billions/s01e01/) |
 
 ## 兄弟连十集目录
 
@@ -24,6 +25,20 @@
 | 08 | The Last Patrol | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e08/) |
 | 09 | Why We Fight | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e09/) |
 | 10 | Points | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e10/) |
+
+## 亿万首集档案
+
+**[作品目录](https://yokel062.github.io/shows/series/billions/)** · **[S01E01 · Pilot](https://yokel062.github.io/shows/series/billions/s01e01/)**
+
+包含十个剧情节点、十八张真实本集截图、六位人物的统一角色照与三阶段关系图、四张英文短台词卡，以及权力对照、细节呼应和观剧词典。场景解读默认展开，作品目录中的单集入口在新标签页打开。只梳理首集，剧情事实、制度背景和个人解读分开标注；所有文字与图像出处见篇末。
+
+文字编辑源为 `series/billions/s01e01/content.json`，角色照登记在 `series/billions/shared/portraits.json`。修改后运行：
+
+```bash
+python tools/build_billions.py
+```
+
+生成单集和作品目录的静态 HTML，不需要线上构建。桌面交互共用 `series/billions/shared/episode.css` 与 `episode.js`。
 
 ## 目录约定
 

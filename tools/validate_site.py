@@ -33,9 +33,11 @@ class Page(HTMLParser):
 
 
 def main():
-    files = [ROOT / 'index.html', ROOT / 'series' / 'band-of-brothers' / 'index.html']
-    files.extend(sorted((ROOT / 'series' / 'band-of-brothers').glob('s01e*/index.html')))
-    assert len(files) == 12, f'Expected catalogue and ten episode pages; found {len(files)}'
+    files = [ROOT / 'index.html']
+    files.extend(sorted((ROOT / 'series').rglob('index.html')))
+    files.extend(sorted((ROOT / 'movies').rglob('index.html')))
+    bob_episodes = list((ROOT / 'series' / 'band-of-brothers').glob('s01e*/index.html'))
+    assert len(bob_episodes) == 10, f'Expected ten Band of Brothers episodes; found {len(bob_episodes)}'
     pages = {}
     for path in files:
         parser = Page(path)
@@ -87,6 +89,8 @@ def main():
         assert '../shared/' + portraits[key]['file'] in pages[(first / 'index.html').resolve()].images
     images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
     raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]
+    extra_images = [path for path in image_paths if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]
+    raster_images = sorted(set(raster_images + extra_images))
     for path in raster_images:
         with Image.open(path) as picture:
             picture.verify()

@@ -1,0 +1,70 @@
+{
+  "characters": {
+    "chuck": {
+      "name": "查克",
+      "en": "Chuck Rhoades",
+      "actor": "Paul Giamatti",
+      "file": "portraits/chuck.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/4351128bd330d1279_0.jpg",
+      "kind": "character-still",
+      "position": "50% 36%",
+      "zoom": 1.4
+    },
+    "axe": {
+      "name": "阿克斯",
+      "en": "Bobby “Axe” Axelrod",
+      "actor": "Damian Lewis",
+      "file": "portraits/axe.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/4351088bba2b1ba78_0.jpg",
+      "kind": "character-still",
+      "position": "35% 35%",
+      "zoom": 1.25
+    },
+    "wendy": {
+      "name": "温迪",
+      "en": "Wendy Rhoades",
+      "actor": "Maggie Siff",
+      "file": "portraits/wendy.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/4351116d2f7ded02e_0.jpg",
+      "kind": "character-still",
+      "position": "35% 35%",
+      "zoom": 1.4
+    },
+    "lara": {
+      "name": "劳拉",
+      "en": "Lara Axelrod",
+      "actor": "Malin Åkerman",
+      "file": "portraits/lara.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/43511026d4721f743_0.jpg",
+      "kind": "character-still",
+      "position": "100% 35%",
+      "zoom": 1.4
+    },
+    "senior": {
+      "name": "老查克",
+      "en": "Chuck Rhoades Sr.",
+      "actor": "Jeffrey DeMunn",
+      "file": "portraits/senior.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/43511543b5792de92_0.jpg",
+      "kind": "character-still",
+      "position": "64% 38%",
+      "zoom": 1.3
+    },
+    "hall": {
+      "name": "霍尔",
+      "en": "Hall",
+      "actor": "Terry Kinney",
+      "file": "portraits/hall.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "originalUrl": "https://simkl.net/episodes/43/43511602a3bc12263_0.jpg",
+      "kind": "character-still",
+      "position": "72% 40%",
+      "zoom": 1.45
+    }
+  }
+}

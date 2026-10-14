@@ -1,0 +1,472 @@
+{
+  "title": "Pilot",
+  "chineseTitle": "当正义与财富，开始争夺控制权。",
+  "subtitle": "一栋海边豪宅，如何把一条交易线索变成公开战争？",
+  "spoiler": "只剧透 S01E01《Pilot》，含本集结尾；不引用后续情节解释首集。",
+  "intro": "查克掌握起诉的权力，阿克斯掌握金钱与信息；连接他们的温迪，既是查克的妻子，也是 Axe Capital 不可轻易替代的表现教练。首集沿着一条调查线索，把工作、婚姻、自尊与公共形象缠在一起。读完这一页，可以回到那个问题：他们是在守护原则，还是在守护“我不能输”？",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E01 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e01",
+      "note": "核对短台词、父子对话及结尾；非官方转录，不是拍摄剧本。台词中文均为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Celeb Dirty Laundry · 首播逐场回顾",
+      "url": "https://www.celebdirtylaundry.com/2016/billions-recap-11716-season-1-episode-1-premiere-pilot/",
+      "note": "交叉核对场景顺序、竞价及 Skip 支线；该文个别姓名和人物主语有笔误，未沿用。"
+    },
+    {
+      "id": "digest",
+      "title": "High-Def Digest · Pilot 回顾",
+      "url": "https://www.highdefdigest.com/blog/billions-pilot-recap/",
+      "note": "交叉核对线索、胜率、信息渠道和首尾呼应；评论观点属于原作者，不作为人物动机的定论。文中将 Hall 简化成 FBI 联系人的说法未沿用。"
+    },
+    {
+      "id": "ginges",
+      "title": "Ginges Be Cray · S1E1 回顾",
+      "url": "https://gingesbecray.com/billions-recap-s1e1-pilot-aka-norton-sells-to-who/",
+      "note": "核对披萨店、资助聚会、父子商议和竞价；原文误写 FCC、选举及其他细节，本页以对白和交叉资料为准。"
+    },
+    {
+      "id": "film",
+      "title": "Film-Book · Pilot 分集评论",
+      "url": "https://film-book.com/tv-review-billions-season-1-episode-1-pilot-showtime/",
+      "note": "交叉参照交易讨论与家庭段落；本页的主题归纳和人物解读独立撰写。"
+    },
+    {
+      "id": "maze",
+      "title": "TVmaze · Pilot 与演员表",
+      "url": "https://www.tvmaze.com/episodes/257722/billions-1x01-pilot",
+      "note": "集名、2016 年 1 月 17 日电视首播资料与核心人物身份；演员表另见图像登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E01 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "note": "18 张本集截图的源页，已逐张辨认人物与场景；没有采用网页自动生成的剧情问答。原图链接逐项列在下方。"
+    },
+    {
+      "id": "doj",
+      "title": "美国司法部 · SDNY 办公室介绍",
+      "url": "https://www.justice.gov/usao-sdny/about",
+      "note": "只用于解释联邦检察官的机构身份，剧中人物是虚构角色。"
+    },
+    {
+      "id": "sec",
+      "title": "SEC · Insider Trading — A U.S. Perspective",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/spch221-insider-trading-us-perspective",
+      "note": "术语背景：重大非公开信息及信任义务。只作观剧入门，不把交易成功或一句暗语当作法律结论。"
+    },
+    {
+      "id": "short",
+      "title": "Investor.gov · 做多与做空",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/how-stock-markets-work/stock-purchases-and-sales-long-and",
+      "note": "术语背景：做空的基本机制。"
+    },
+    {
+      "id": "fund",
+      "title": "Investor.gov · 对冲基金",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/private-investment-funds/hedge-funds",
+      "note": "术语背景：对冲基金的基本形式，不将剧中的交易方式推广为投资建议。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/chuck-office.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/435110061bd3a362f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Chuck 在办公室谈论出手时机的近景",
+      "caption": "本集办公室场景截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/pizza.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43510862e446e36e2_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "披萨店老板 Bruno 站在店内与 Axe 交谈",
+      "caption": "本集披萨店场景截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/charity.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43510945f8a190583_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Axe 与 Lara 面向受资助家庭说话",
+      "caption": "本集资助聚会场景截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/lara.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43511026d4721f743_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Lara 对 June 说话的近景",
+      "caption": "本集 Lara 与 June 谈话截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/wendy-work.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351108e4f1e4c59e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Wendy 坐在公司办公室与交易员谈话",
+      "caption": "本集 Wendy 与交易员会谈截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/wendy-home.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351116d2f7ded02e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Wendy 在家中回应 Chuck 的职业安排",
+      "caption": "本集夫妻争论截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/skip.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351124730bbea0d0_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Skip 的律师与 Chuck 的父亲站在检察官办公室",
+      "caption": "本集求情会议截图；画面是律师和父亲，不是 Skip 本人",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/warehouse.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/435113247da8d6446_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "仓库卷帘门下方可见堆积的汽车零件包装",
+      "caption": "本集插叙截图：Dollar Bill 获得工厂信息的画面",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/basketball.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351130a2375569a3_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Axe 在儿子的篮球赛场边听取交易意见",
+      "caption": "本集篮球场交易讨论截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/chuck-public.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351128bd330d1279_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Chuck 穿西装出席记者会的近景",
+      "caption": "本集记者会截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/axe-office.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/435114292b2a31286_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Axe 在办公室与 Wendy 讨论购房冲动",
+      "caption": "本集 Axe 与 Wendy 谈话截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/senior.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43511543b5792de92_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "老 Chuck 在家中与儿子谈论舆论和豪宅",
+      "caption": "本集父子谈话截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/hall.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43511602a3bc12263_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "戴眼镜的 Hall 在隐蔽会面中与 Axe 谈话",
+      "caption": "本集 Axe 与 Hall 会面截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/reporter.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351164e747366df7_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "记者 Mike Dimonda 在餐桌旁与 Axe 交谈",
+      "caption": "本集记者午餐会谈截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/faceoff.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/43511726387375abe_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Axe 在会议后的走廊中与 Chuck 对峙",
+      "caption": "本集走廊对峙截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/bid.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351176d37cb228ee_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Axe 在家中接到竞价电话",
+      "caption": "本集竞价消息截图；不是豪宅本身的外观",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/night-call.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/4351178bed0cd6744_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Chuck 在夜间接听有关 Skip 的电话",
+      "caption": "本集夜间电话截图",
+      "kind": "episode-still"
+    },
+    {
+      "file": "assets/aftermath.jpg",
+      "originalUrl": "https://simkl.net/episodes/43/435118041f06b2cb9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
+      "alt": "Chuck 在办公室向团队谈论起诉带来的后果",
+      "caption": "本集团队讲话截图",
+      "kind": "episode-still"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "signal",
+      "lane": "law",
+      "where": "联邦检察官办公室",
+      "title": "线索来了，查克却没有立即出手",
+      "image": "chuck-office",
+      "source": "digest",
+      "fact": "SEC 的 Spyros 带来异常交易线索：三家小公司的交易与 Axe 有关联。查克谨慎评估这条线索，不愿贸然挑战一个实力强、声望高的对手。",
+      "analysis": "怀疑、调查与足以起诉的证据之间有距离。但他的谨慎也服务于个人事业：81 胜、0 负既是履历，也可能让他回避最难打的案子。开局的张力来自两种要求同时存在——公众期待检察官行动，他则想选一个能赢的时机。",
+      "effect": "线索尚不足以决胜 → 寻找能削弱对手的位置"
+    },
+    {
+      "id": "goodwill",
+      "lane": "capital",
+      "where": "披萨店 → 资助聚会",
+      "title": "先看见一个会记恩情的亿万富翁",
+      "image": "charity",
+      "secondary": "lara",
+      "source": "ginges",
+      "fact": "阿克斯帮助曾照顾自己的披萨店老板，也资助遇难同事的孩子读书。聚会上 June 质问他的幸存；随后劳拉私下警告她，不要把不满公开化。",
+      "analysis": "这一组场景让善意和力量出现在同一个家庭里。阿克斯的帮助可以是真诚的，也能产生声誉与依附；劳拉则负责维护边界。当资助者拥有压倒性的资源，“受帮助”与“可以自由批评”未必同时成立。不能因为善举认定清白，也不能把善举一概写成表演。",
+      "effect": "善意赢得信任 → 劳拉守住家族的公开形象",
+      "extra": "pizza"
+    },
+    {
+      "id": "coach",
+      "lane": "wendy",
+      "where": "Axe Capital · 温迪的办公室",
+      "title": "让交易员重新相信自己的判断",
+      "image": "wendy-work",
+      "source": "recap",
+      "fact": "业绩低迷的 Danzig 向温迪求助。她让他回想过去的成功，辨认自我否定的声音，并要求他处理明知无望却不肯放手的持仓。",
+      "analysis": "她的专业能力与基金的盈利机器紧密相连：交易员失去自信，公司也会失去行动力。值得观察的是，她是在帮助一个人，还是在恢复一份可用的生产力？本集没有要求我们只选一个答案，两者可以重叠。这也解释了阿克斯为什么无法轻易替换她。",
+      "effect": "恢复行动力 → 看见温迪在公司的独立价值"
+    },
+    {
+      "id": "marriage",
+      "lane": "wendy",
+      "where": "罗兹家 · 晚间",
+      "title": "一句“换工作吧”，把案子带进婚姻",
+      "image": "wendy-home",
+      "source": "film",
+      "fact": "查克建议温迪考虑另一份工作。温迪察觉他的安排意图，强调她在 Axe 工作早于两人的婚姻，也坚持自己的职业同样重要。",
+      "analysis": "查克试图用家庭中的协调，解决职业上的障碍；温迪拒绝让“妻子”自动覆盖“专业人士”。争论里，公共利益、收入、职位和尊重交替出现。她既不是丈夫的附属，也不是老板的传声筒，恰恰因为有自己的事业，才会成为双方都无法绕开的那个人。",
+      "effect": "职业安排被拒 → 双方无法消除温迪这条连接"
+    },
+    {
+      "id": "skip",
+      "lane": "law",
+      "where": "检察官办公室 · 求情会议",
+      "title": "不向父亲通融，也能成为一种资本",
+      "image": "skip",
+      "source": "digest",
+      "fact": "已被定罪的 Skip 想用更大的金钱代价换取居家服刑，老查克陪同求情。查克拒绝让财富与私交改变处理；稍后父子谈话揭示，父亲预料到这种拒绝会强化儿子的强硬形象。",
+      "analysis": "拒绝通融有其原则价值，而老查克能把这个拒绝再利用一次，变成公众眼中的廉洁证明。这层揭示让前面的激烈对话变得复杂：原则没有因此失效，但原则如何被讲述、被传播，也能进入权力的计算。父子有分歧，却并非始终站在相反阵营。",
+      "effect": "拒绝求情 → 强硬姿态进入舆论"
+    },
+    {
+      "id": "certainty",
+      "lane": "capital",
+      "where": "篮球赛场边 · 工厂插叙",
+      "title": "“并非不确定”：信息的边界藏在措辞里",
+      "image": "basketball",
+      "secondary": "warehouse",
+      "source": "film",
+      "fact": "交易员对 Superior 的前景意见相反。Dollar Bill 的信息支持做空；插叙显示他通过工厂人员获得现场情况。阿克斯追问把握程度，Bill 用一句迂回的答复结束争论。",
+      "analysis": "画面把交易意见背后的信息获取过程露给观众，却没有让他们在现场完整讲清。问题于是从“谁分析得更好”转向“谁知道别人不知道的东西”。这句答复可以读为一种不肯说透的默契；它和可疑画面值得警觉，但不能凭这一句话就断言法律要件已经全部成立。",
+      "effect": "表面是研究分歧 → 真正的优势来自信息渠道"
+    },
+    {
+      "id": "house",
+      "lane": "law",
+      "where": "记者会 → 父子谈话",
+      "title": "豪宅还没买，已经变成一枚棋子",
+      "image": "chuck-public",
+      "secondary": "senior",
+      "source": "ginges",
+      "fact": "记者追问查克为何不对付 Axe，并提到温迪的工作。查克通过 Bryan 和律师 Bach 传话，劝阿克斯别买豪宅；他和父亲随后商量，如何利用公开消费削弱对手的声誉。",
+      "analysis": "这里同时出现媒体施压和心理施压。查克知道阿克斯不喜欢别人替自己设限，于是把“别买”变成试探。老查克再提出用竞价激起对方的好胜心。要保留一个区别：买房可以暴露性格、改变舆论，却不等于证明内幕交易。查克的心理判断仍只是他的判断。",
+      "effect": "调查迟迟没有突破 → 把战场移向自尊和舆论"
+    },
+    {
+      "id": "defense",
+      "lane": "capital",
+      "where": "温迪会谈 → 隐蔽会面 → 记者午餐",
+      "title": "先稳住自己，再把注意力引向别人",
+      "image": "axe-office",
+      "secondary": "hall",
+      "source": "recap",
+      "fact": "温迪劝阿克斯放弃买房，并谈起职业成长。可疑访客离开后，Hall 向阿克斯报告情况，并建议利用记者，把注意力引向另一位基金经理 Steven Birch；阿克斯随后提供相关线索。",
+      "analysis": "这一段展示两种防御：温迪让他识别自己的冲动，Hall 让他改变威胁的指向。前者需要克制，后者利用信息和记者的职业需求。同时，温迪提出成长空间，本是关于自己的谈话，却被阿克斯带到安全顾问面前讨论。危机开始把长期信任也翻译成了风险。",
+      "effect": "克制冲动 / 转移火力 → 信任也开始受到审视",
+      "extra": "reporter"
+    },
+    {
+      "id": "faceoff",
+      "lane": "cross",
+      "where": "金融会议后的走廊",
+      "title": "第一次正面交锋：谁有资格叫谁退让？",
+      "image": "faceoff",
+      "source": "recap",
+      "fact": "两人在会议后直接对话。查克警告阿克斯不要给自己采取行动的理由；阿克斯反击他的完美战绩和家庭财富，并拒绝让检察官规定自己可以买什么。",
+      "analysis": "阿克斯把限制解释为屈服，查克把公权力作为威慑。双方都读懂了对方的软肋：一个不想被管束，一个不愿输掉纪录。台词越有气势，越暴露他们已经不只在讨论证据。温迪此前劝过的那场无谓争斗，此刻真的在走廊里发生。",
+      "effect": "间接传话 → 公开确认彼此的对手身份"
+    },
+    {
+      "id": "ending",
+      "lane": "cross",
+      "where": "竞价电话 → 次日办公室 → 罗兹家",
+      "title": "房子买下了，代价却刚刚显形",
+      "image": "bid",
+      "secondary": "aftermath",
+      "source": "recap",
+      "fact": "阿克斯得知竞争出价后，提出 6,300 万美元现金买房。查克得知 Skip 自杀，向团队承认行动有预期之外的后果。购房消息登上头版；结尾回到夫妻私密相处，揭示开场支配查克的人是温迪。",
+      "analysis": "阿克斯赢下了竞价，却走进查克期待的舆论位置；查克维持原则，也必须面对无法轻轻带过的死亡。首尾的私密场景又重新分配权力：白天掌握公权力的人，在亲密关系里接受另一套角色。第一集完成的是冲突的建立，并没有给出一份谁更正义的判决。",
+      "effect": "买房成为公开挑战 → 调查的威胁升级",
+      "extra": "night-call"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "纽约南区联邦检察官",
+      "fact": "谨慎处理 Axe 线索，拒绝 Skip 求情，再通过豪宅与舆论试探对手。",
+      "analysis": "他维护执法原则，也维护自己的胜率与事业。理解这两种驱动如何交织，胜过急着给他贴上正义或虚伪的标签。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人 · 对冲基金经理",
+      "fact": "帮助故人、资助遇难同事子女；经营信息渠道，最终决定买房。",
+      "analysis": "善意与竞争性并存。他最难控制的可能不是钱，而是别人试图决定他能做什么时产生的反抗。"
+    },
+    "wendy": {
+      "role": "精神科医生 · 基金表现教练 · 查克的妻子",
+      "fact": "辅导交易员、劝阿克斯不要买房，并拒绝丈夫替自己安排职业。",
+      "analysis": "她能看清两个人的动机，也有自己的成长诉求。“连接双方”不意味着她会自动为任何一方服务。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 · 家庭与声誉的维护者",
+      "fact": "参与资助聚会，私下警告 June 不要公开攻击阿克斯。",
+      "analysis": "她熟悉这份财富的脆弱边界：关系需要照顾，公开形象也需要维护。温和的措辞与直接的威胁可以出现在同一次谈话里。"
+    },
+    "senior": {
+      "role": "查克的父亲 · 有资源与人脉的长辈",
+      "fact": "陪 Skip 求情，随后解释儿子的拒绝如何帮助其形象，并提议制造竞价压力。",
+      "analysis": "他可以把儿子的反抗也读成一种资源。父子之间既有控制和分歧，也有共享的阶层经验与策略语言。"
+    },
+    "hall": {
+      "role": "阿克斯的隐蔽信息与安全顾问",
+      "fact": "调查可疑访客的背景，提醒阿克斯注意联邦起诉风险，并提出转移注意力。",
+      "analysis": "他让阿克斯提前获得威胁信息，也把对人与关系的判断变成安全议题。本页不额外断言其官方身份。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 初始结构",
+      "note": "工作与家庭原本是两张网；一条交易线索让它们开始重叠。",
+      "edges": [
+        "潜在调查对象",
+        "婚姻关系",
+        "长期合作",
+        "夫妻 / 共同生活",
+        "父子 / 人脉",
+        "信息与安全支持"
+      ],
+      "details": {
+        "chuck": "查克尚在衡量线索：要面对一个受欢迎的对手，还要面对妻子与这家公司的长期关系。",
+        "axe": "阿克斯拥有金钱、人才与声誉。温迪的专业服务和 Hall 的信息支持分别维护这套体系。",
+        "wendy": "两条最重要的连接都经过温迪：与查克是婚姻，与阿克斯是职业和长期信任。",
+        "lara": "劳拉与阿克斯共同经营家庭，也维护这份财富所依赖的关系和形象。",
+        "senior": "父亲拥有儿子熟悉的人脉；这些关系既提供资源，也可能构成对职业独立性的压力。",
+        "hall": "Hall 的存在表明，阿克斯的安全判断不只来自公开的法律与市场信息。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 试探与施压",
+      "note": "一个要求换工作，一个得到“别买”的建议；他们对边界的反应推动了冲突。",
+      "edges": [
+        "豪宅 / 舆论试探",
+        "职业边界争执",
+        "劝阻购房 / 成长诉求",
+        "维护公开形象",
+        "协商策略",
+        "识别访客 / 转移火力"
+      ],
+      "details": {
+        "chuck": "换工作的建议遭拒后，查克不能直接移走这条连接。他转向传话、豪宅与公开形象。",
+        "axe": "温迪劝他克制，他暂时接受；面对外部权威时，好胜心却让这个选择难以保持。",
+        "wendy": "她拒绝丈夫安排职业，也敢向老板说“别买”。她的判断力来自独立性，而非选边站。",
+        "lara": "June 的公开质问触及声誉边界，劳拉在私下直接表达了威胁。",
+        "senior": "父子谈话揭示：求情被拒也能转化为政治形象，竞价也能用于激发对手的冲动。",
+        "hall": "访客事件让他介入；他把记者和 Birch 看作可以改变压力方向的渠道。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 本集结尾",
+      "note": "买房登上头版。对手关系公开化，而温迪仍保有自己的专业与亲密角色。",
+      "edges": [
+        "公开对峙 / 调查威胁",
+        "首尾呼应 / 私密角色",
+        "合作仍在 / 信任受试探",
+        "共同接受购房结果",
+        "共享策略 / 后果显现",
+        "报告调查动向"
+      ],
+      "details": {
+        "chuck": "Skip 的死让查克承认决定的重量；购房头版则意味着双方试探走向下一阶段。",
+        "axe": "6,300 万美元买下的不只是房子：这次决定也公开回应了查克的警告。",
+        "wendy": "结尾确认了开场的支配者身份。婚姻、专业与亲密关系里的权力，不必遵循同一种排列。",
+        "lara": "她与阿克斯一起接受了新房这一结果；首集没有交代由此产生的全部后果。",
+        "senior": "父子的策略获得了对手买房这一反应，但公开事件带来的代价无法全部预先计算。",
+        "hall": "他报告可能已开启针对阿克斯的案卷。这个报告是剧中信息，不是已经定罪的证明。"
+      }
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I am not uncertain.",
+      "zh": "我并非不确定。",
+      "speaker": "Dollar Bill → 阿克斯",
+      "context": "篮球赛场边，阿克斯询问交易信息的把握程度。",
+      "image": "basketball",
+      "analysis": "双重否定把“有把握”说得曲折。结合工厂插叙，可以读出一种不肯说透的默契；这是叙事解读，不能把措辞本身当作定罪证据。"
+    },
+    {
+      "en": "Don't buy it.",
+      "zh": "别买。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "办公室里，温迪劝他停止为反抗权威而买房。",
+      "image": "axe-office",
+      "analysis": "查克也传过类似建议。相似的话，一边是控制冲动的帮助，一边藏着对冲动的试探。意思由关系、动机和时机共同决定。"
+    },
+    {
+      "en": "Walk away.",
+      "zh": "收手吧。",
+      "speaker": "查克 → 阿克斯",
+      "context": "会议后的走廊，双方从试探进入正面威慑。",
+      "image": "faceoff",
+      "analysis": "表面上还有退出的选项，话语却已经在确认谁有资格命令谁。对一个把独立看得很重的人，这种退路反而可能激发反抗。"
+    },
+    {
+      "en": "What’s the point of having “fuck you” money if you never say “fuck you”?",
+      "zh": "有了能说“去你的”的钱，却从不说“去你的”，那有什么用？",
+      "speaker": "阿克斯 → 查克",
+      "context": "紧接查克的劝退，阿克斯把财富与拒绝服从联系起来。",
+      "image": "faceoff",
+      "analysis": "财富在这里是一种拒绝的能力。但如果每次被挑衅都必须证明这种能力，他的选择就会被挑衅者牵动。买房同时证明了他的自主，也暴露了别人可以利用的冲动。"
+    }
+  ]
+}
