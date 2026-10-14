@@ -1,0 +1,642 @@
+{
+  "title": "Arrivals",
+  "chineseTitle": "抵达",
+  "date": "2021-07-11",
+  "spoiler": "仅 S01E01，包含本集结尾；不揭示死者身份，不引用后续剧情。",
+  "intro": "一群客人抵达夏威夷的豪华酒店。有人来度蜜月，有人带着母亲的骨灰，有人想暂时摆脱工作和身体的恐惧。酒店许诺让一切轻松起来，第一天却已经有人被冷落、有人被盘问、有人连疼痛都不敢说出口。首集让我们看见：被照顾的资格，和照顾别人的义务，分配得很不均匀。",
+  "sources": [
+    {
+      "id": "official",
+      "title": "HBO / WBD · 首集官方简介",
+      "url": "https://press.wbd.com/ca/synopses/episode-1-arrivals?language_content_entity=en",
+      "note": "核对集名、主线、演员与编导。首播日期另见 HBO 2021 年 6 月 23 日发布的开播公告。"
+    },
+    {
+      "id": "release",
+      "title": "HBO / WBD · 2021 年开播公告",
+      "url": "https://press.wbd.com/us/media-release/new-hbo-limited-series-white-lotus-mike-white-debuts-july-11-official-trailer-key-art",
+      "note": "核对首播日期、毛伊岛拍摄与演员身份。公告包含后续剧情，且现有页面的首集段落拼入了其他集简介，本页不照抄其情节。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E01 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-white-lotus-2021&episode=s01e01",
+      "note": "非官方转录；用于交叉核对短台词与场景顺序。正文结尾后的预告和制作访谈已排除；不把预告台词当成本集剧情。中文台词均为本页自译。"
+    },
+    {
+      "id": "cheatsheet",
+      "title": "Showbiz Cheat Sheet · 首播分场回顾",
+      "url": "https://www.cheatsheet.com/news/the-white-lotus-episode-1-recap-arrivals-who-died.html/",
+      "note": "核对预订邮件、厨房床位、浮潜、晚宴和未公布的检查结果。文中猜测死者并排除员工的说法没有证据，本页不沿用。"
+    },
+    {
+      "id": "wrap",
+      "title": "TheWrap · 首集回顾",
+      "url": "https://www.thewrap.com/the-white-lotus-episode-one-recap-class-trouble-in-paradise/",
+      "note": "交叉核对首尾结构、拉妮的处境与客房／办公室的交叉叙事。个别人物姓名与职位写法有误，未沿用；个人解读独立撰写。"
+    },
+    {
+      "id": "ready",
+      "title": "Ready Steady Cut · Arrivals 分集回顾",
+      "url": "https://readysteadycut.com/2021/07/12/the-white-lotus-episode-1-arrivals-hbo-recap/",
+      "note": "交叉参照瑞秋、坦娅、贝琳达与莫斯巴赫一家的人物设置。评论者的判断不作为剧情事实。"
+    },
+    {
+      "id": "cinemaholic",
+      "title": "The Cinemaholic · 首集情节核对",
+      "url": "https://thecinemaholic.com/the-white-lotus-episode-1-recap-and-ending-explained/",
+      "note": "交叉核对机场、骨灰、健康焦虑与新员工支线。文章包含关于死者的推测及其他集信息，本页未采用。"
+    },
+    {
+      "id": "caps",
+      "title": "TV-Screencaps · S01E01 本集画面图库",
+      "url": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/",
+      "note": "所有图片均取自本集，已逐张辨认场景；图号是图库编号，不是时间码。人物照从同一批本集画面选取，在各处统一复用。图像版权归 HBO 及原权利人。"
+    }
+  ],
+  "opening": {
+    "fact": "谢恩独自坐在机场候机。陌生旅客提起白莲花酒店发生的死亡事件，问起他的妻子；他拒绝继续交谈。镜头展示装运遗体的箱子，随后回到一周前。死者是谁、瑞秋在哪里，本集都没有给出答案。",
+    "analysis": "先知道有人会死，再看一群人轻松抵达，平常的笑脸就有了第二层意味。这个开场也把观众放到一个不太舒服的位置：我们和机场旅客一样，急着从一个人的表情里得到别人的灾难。看首集时可以保留疑问，别把镜头没交代的事补成结论。",
+    "sources": [
+      "cinemaholic",
+      "cheatsheet"
+    ]
+  },
+  "acts": [
+    {
+      "id": "welcome",
+      "number": "I",
+      "title": "欢迎来到，别人的工作日。",
+      "deck": "抵达、入住、第一次投诉。度假的秩序由谁维持？",
+      "summary": "客人开始要求酒店兑现承诺；员工则被要求藏起自己的生活。一个房间的差错，先暴露了这套服务秩序怎样处理麻烦。"
+    },
+    {
+      "id": "needs",
+      "number": "II",
+      "title": "每个人，都带来一份需求。",
+      "deck": "一个床位、一场谈话、一次疗愈。谁能得到回应？",
+      "summary": "房间已经很宽敞，关系里的位置仍然紧张。瑞秋想被倾听，坦娅想被托住，马克想被记住；拉妮最迫切的需要，反而藏在服务表面之下。"
+    },
+    {
+      "id": "night",
+      "number": "III",
+      "title": "夜色里，体面终于露出缝隙。",
+      "deck": "晚宴继续，后台失序。舒适和疼痛发生在同一晚。",
+      "summary": "投诉与求助在同一时刻到来，却没有同样的分量。首集收尾时，客人仍在谈论自己的幸福和恐惧，阿蒙德终于意识到，他整天没有真正看见身边的人。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "welcome",
+      "act": "welcome",
+      "where": "海岸 · 员工列队迎宾",
+      "title": "笑容是一项工作要求",
+      "image": "arrival",
+      "fact": "客船将到，阿蒙德指导第一天上班的拉妮：保持热情，减少自我表露，让员工成为可替换的服务者。他注意到她制服上的污渍，让她用托盘遮住。",
+      "analysis": "这个欢迎仪式同时面向两种人：客人看到的是专门为自己准备的笑容，拉妮听到的是把自己藏起来的要求。阿蒙德很懂这门生意，但他看得见衣服上的痕迹，看不见痕迹背后的人。后来发生的事，会让这段看似轻巧的培训变得刺痛。",
+      "turn": "客人的假期，以员工的自我隐藏开场。",
+      "sources": [
+        "transcript",
+        "wrap"
+      ]
+    },
+    {
+      "id": "suite",
+      "act": "welcome",
+      "where": "棕榈套房 · 新婚夫妇入住",
+      "title": "同一个房间，两种蜜月",
+      "image": "suite",
+      "fact": "瑞秋满意眼前的海景套房，谢恩却发现它没有预期的私人小泳池。他记得母亲预订的房型，开始确认酒店是否给错房间。",
+      "analysis": "瑞秋先感受到共同旅行的愉快，谢恩先拿现实核对自己应当得到的东西。两种反应都能理解，但从这一刻起，他们的注意力不再朝向同一处：她看眼前的风景，他看缺席的泳池。蜜月尚未开始，他们已经在争夺这一天该由什么来定义。",
+      "turn": "房型问题开始占据两个人的共同时间。",
+      "sources": [
+        "cheatsheet",
+        "ready"
+      ]
+    },
+    {
+      "id": "booking",
+      "act": "welcome",
+      "where": "酒店前台 · 首次交涉",
+      "title": "投诉有依据，敷衍也有代价",
+      "image": "booking",
+      "fact": "谢恩向阿蒙德询问菠萝套房。阿蒙德对客人否认订房有误，私下却告诉拉妮，自己可能把那间房重复预订了，并希望客人不再追究。",
+      "analysis": "如果只把谢恩看成娇惯的富家子，就会漏掉阿蒙德确实回避了自己的失误。他用现有房间的优点安抚客人，省掉了最难做的一步：承认差错。于是投诉不再只是房型问题，也涉及谁的说法可信。酒店先选择敷衍，为接下来的反复较劲提供了理由。",
+      "turn": "隐瞒错误，把可处理的差错变成信任问题。",
+      "sources": [
+        "cheatsheet",
+        "wrap"
+      ]
+    },
+    {
+      "id": "family",
+      "act": "needs",
+      "where": "莫斯巴赫套房 · 客厅与小厨房",
+      "title": "最宽敞的套房，也会有人被挤出去",
+      "image": "kitchen",
+      "fact": "奥利维娅让弟弟奎因睡在狭小的厨房区域。妮可提出反对，女儿和葆拉则用关于他的性与游戏习惯的嘲弄来辩解。奎因缩在自己的角落里。",
+      "analysis": "空间充足没有自动带来公平，床位取决于谁能占住话语。妮可知道这不合理，却没有当场落实改变；两个女孩把排挤包装成对弟弟的了解，而奎因的退让又变成她们继续安排他的理由。厨房像这个家庭的缩影：被照顾的人，也可能在更小的范围内支配别人。",
+      "turn": "家庭内部同样存在谁能占据中心的问题。",
+      "sources": [
+        "cheatsheet",
+        "official"
+      ]
+    },
+    {
+      "id": "lani",
+      "act": "needs",
+      "where": "员工区域 · 拉妮打电话求助",
+      "title": "疼痛不能等，下班却还很远",
+      "image": "lani",
+      "fact": "拉妮察觉身体异常，打电话告诉伴侣孩子可能要出生了。她没有告诉酒店自己怀孕，也不敢在第一天离开岗位。阿蒙德后来让她去办公室休息，仍以为她可能是吃坏了东西。",
+      "analysis": "她不是不会求助，而是担心求助让刚得到的工作变得不稳。开场的培训在这里产生了具体后果：客人可以直接表达不满意，她却先替酒店考虑自己的身体会不会添麻烦。剧集没有交代雇佣政策，不能断言酒店一定会辞退她；已经清楚的是，她觉得自己承受不起冒这个险。",
+      "turn": "最急迫的需求，被当事人自己压低了声音。",
+      "sources": [
+        "transcript",
+        "wrap"
+      ]
+    },
+    {
+      "id": "pool",
+      "act": "needs",
+      "where": "泳池边 · 瑞秋与两个女孩",
+      "title": "闲聊，悄悄变成身份审查",
+      "image": "pool",
+      "fact": "奥利维娅和葆拉问瑞秋在哪上学、做什么工作、怎样认识丈夫，得知她是记者，两人的相识和结婚很快。瑞秋想把话题转回她们身上，对方却没有同等程度地敞开。",
+      "analysis": "问问题的一方掌握着给人分类的权力，回答的一方则不断解释自己。两人并未直说瑞秋不配进入这个世界，问题的排列却足以让她不自在。读这一场不必替女孩断言嫉妒；更可见的不对等是，她们享有审视别人的自由，却不必接受同样的审视。",
+      "turn": "瑞秋第一次在蜜月里感到，自己也在被估价。",
+      "sources": [
+        "cheatsheet",
+        "ready"
+      ]
+    },
+    {
+      "id": "care",
+      "act": "needs",
+      "where": "水疗室与海边 · 两组并行的求助",
+      "title": "一个人想被托住，一个人想被记住",
+      "image": "therapy",
+      "fact": "坦娅带着母亲的骨灰来酒店，向贝琳达谈起悲伤与感情中的依恋。贝琳达通过身体照护和引导让她安静下来。另一边，等待检查结果的马克试着陪奎因，却仍被自己的健康焦虑牵住。",
+      "analysis": "两人的痛苦都是真实的。坦娅把自己交给一个愿意倾听的人，马克则想借亲子时间确认自己仍然重要。区别在于回应如何发生：贝琳达能放下自己，专心接住坦娅；马克很难停止讲自己的恐惧，留给儿子的空间就少了。有人得到照料，有人想表达爱，却还没学会听。",
+      "turn": "换一个地方，不会自动改变人与人相处的方式。",
+      "sources": [
+        "ready",
+        "cinemaholic"
+      ]
+    },
+    {
+      "id": "dinner",
+      "act": "night",
+      "where": "龙虾晚宴 · 同一张餐桌",
+      "title": "饭桌上，没有人肯放下自己的立场",
+      "image": "dinner",
+      "fact": "妮可与女儿一方因希拉里·克林顿发生争执。谢恩白天已收到母亲转来的预订邮件，也答应瑞秋不再提房间，却仍在晚宴追着阿蒙德谈这件事。",
+      "analysis": "两桌人都更在意自己的判断被承认。妮可听到的是女儿否定她敬重的女性榜样，女孩把反驳变成刺激母亲的办法；谢恩则把维护蜜月理解成继续追责。瑞秋已经表达的愿望，反而无法改变他的行动。立场可能有依据，但有依据不等于愿意听见身边的人。",
+      "turn": "争执持续，因为每个人都在捍卫自己认定的重要事。",
+      "sources": [
+        "transcript",
+        "cheatsheet"
+      ]
+    },
+    {
+      "id": "labor",
+      "act": "night",
+      "where": "酒店办公室 · 宾客仍在晚宴",
+      "title": "被要求消失的人，终于无法消失",
+      "image": "office",
+      "fact": "拉妮在阿蒙德办公室进入分娩过程，贝琳达赶来帮忙，医生随后到场。阿蒙德在客人与后台之间奔走；坦娅仍想指定贝琳达给自己做下一次护理。阿蒙德承认，自己没有发现拉妮的处境。",
+      "analysis": "这里最有力的不是把谁写成坏人，而是让需求同时出现。坦娅确实感激贝琳达，也没有被告知全部情况；拉妮的身体却已经不能继续等。阿蒙德熟悉客人的名字、房型和偏好，直到危机才真正注意到自己的员工。开场的服务哲学，被一件无法维持体面的事打断了。",
+      "turn": "员工的生活，冲破了酒店精心维持的表面。",
+      "sources": [
+        "wrap",
+        "transcript"
+      ]
+    },
+    {
+      "id": "night",
+      "act": "night",
+      "where": "客房 · 第一天的夜晚",
+      "title": "所有人都入住了，问题也一起入住",
+      "image": "night",
+      "fact": "马克接到诊所来电，但医生未能接通，检查结果仍未公布。奥利维娅追问葆拉是否注意到晚宴上的男子。瑞秋担心两人日后积累怨恨，谢恩用永远相爱的话安慰她。",
+      "analysis": "首集没有替任何一段关系结账。身体的未知仍在，友情里已有试探，新婚的甜蜜也盖不住白天的分歧。最后隔着门框看夫妇亲近，观众像停在一间漂亮客房外：我们听见保证，却刚刚见过它怎样与实际行为错开。下一步值得观察的，是谁愿意调整自己，而不只是要求别人调整。",
+      "turn": "夜晚暂时结束，矛盾仍留在房间里。",
+      "sources": [
+        "transcript",
+        "cheatsheet"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "shane",
+      "role": "新郎 · 家境优渥",
+      "fact": "追查预订差错，并反复向经理提出投诉。",
+      "reading": "他把得到最好的一切理解成对婚姻的负责，却很少询问妻子此刻想要什么。"
+    },
+    {
+      "id": "rachel",
+      "role": "新娘 · 自由撰稿记者",
+      "fact": "想享受蜜月，也因泳池边的盘问感到不自在。",
+      "reading": "她进入了丈夫熟悉的阶层，却还在寻找自己的位置。被爱与被听见，开始显出距离。"
+    },
+    {
+      "id": "tanya",
+      "role": "独行客人 · 带着母亲骨灰",
+      "fact": "向贝琳达倾诉悲伤，并希望由她继续护理。",
+      "reading": "她需要的亲近远超过一次服务能承载的范围；感谢之中，已经生出依赖。"
+    },
+    {
+      "id": "nicole",
+      "role": "莫斯巴赫家母亲 · 企业高管",
+      "fact": "整理公共空间，反对厨房床位安排，劝丈夫陪儿子。",
+      "reading": "她习惯用解决问题的方式表达关心。安排得很勤快，不代表每个人的需要都被理解。"
+    },
+    {
+      "id": "mark",
+      "role": "莫斯巴赫家父亲 · 等待检查结果",
+      "fact": "担心自己患癌，尝试与奎因一起活动并谈心。",
+      "reading": "健康恐惧牵动父亲去世的记忆，也牵动他在家庭中的价值感。靠近儿子的愿望并不虚假。"
+    },
+    {
+      "id": "quinn",
+      "role": "莫斯巴赫家儿子 · 沉浸于游戏",
+      "fact": "被姐姐安排睡厨房，被父亲带出去活动。",
+      "reading": "他常被家人描述，却少有机会描述自己。沉默与屏幕是他当前保留空间的方式。"
+    },
+    {
+      "id": "olivia",
+      "role": "莫斯巴赫家女儿 · 大学生",
+      "fact": "与葆拉评论其他客人、盘问瑞秋、嘲弄弟弟。",
+      "reading": "敏锐的判断力和对他人的体贴并未同时出现。她熟悉批评权力的语言，也享受小范围内的支配。"
+    },
+    {
+      "id": "paula",
+      "role": "奥利维娅的朋友 · 同行客人",
+      "fact": "参与泳池盘问与床位争执，晚宴后被朋友试探。",
+      "reading": "两人共同构成审视别人的阵线，但葆拉依靠朋友家庭进入这次旅行，位置并不完全相同。"
+    },
+    {
+      "id": "armond",
+      "role": "度假酒店经理",
+      "fact": "迎宾、回避订房失误，直到危机才发现拉妮临产。",
+      "reading": "他既承担客人的压力，也把压力传给员工。理解他的劳动处境，不能免去他对差错和下属的责任。"
+    },
+    {
+      "id": "belinda",
+      "role": "水疗主管",
+      "fact": "安抚坦娅，并在拉妮临产时转去帮忙。",
+      "reading": "她在本集最擅长接住别人的脆弱。客人觉得她不可替代，酒店却期待她持续随时可用。"
+    },
+    {
+      "id": "lani",
+      "role": "第一天上班的新员工",
+      "fact": "隐瞒怀孕、忍受身体不适，最终在办公室临产。",
+      "reading": "她把保住工作放在表达需要之前。她的处境让酒店的服务话术显出实实在在的重量。"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "honeymoon",
+      "label": "蜜月里的三角",
+      "title": "他要讨回正确，她要过好今天。",
+      "people": [
+        "shane",
+        "armond",
+        "rachel"
+      ],
+      "edges": [
+        "谢恩 ↔ 阿蒙德：订房差错与可信度",
+        "谢恩 ↔ 瑞秋：追责与共享蜜月",
+        "瑞秋 → 阿蒙德：试图缓和争执"
+      ],
+      "fact": "阿蒙德可能重复预订了菠萝套房，却对客人否认出错；谢恩拿到邮件后继续交涉。瑞秋明确希望他放下这件事，他仍在晚宴追问。",
+      "analysis": "这组冲突要同时看清两层责任：经理该诚实处理订房，丈夫该回应伴侣。谢恩在投诉上的正当性，不能替代他在婚姻中的倾听；瑞秋想休息，也不能证明酒店没有出错。最让她孤独的，是丈夫口口声声为两人争取最好，却没有把她的感受纳入“最好”的定义。",
+      "question": "当你说“我是为你好”，对方还可以说自己想要什么吗？",
+      "scene": "booking"
+    },
+    {
+      "id": "care",
+      "label": "护理与依赖",
+      "title": "一次善意，开始被期待为持续陪伴。",
+      "people": [
+        "tanya",
+        "belinda"
+      ],
+      "edges": [
+        "坦娅 → 贝琳达：悲伤、倾诉与指定护理",
+        "贝琳达 → 坦娅：专业照护与安抚"
+      ],
+      "fact": "贝琳达在预约已满时提供另一种护理方式，坦娅得到安慰，并要求下一次仍由她接待。拉妮需要帮助时，贝琳达必须转身离开。",
+      "analysis": "坦娅的感激可以是真诚的，关系的不平等也可以同时存在。客人用私人情感理解这次相遇，员工仍要在工作中安排时间。首集只显示依赖正在形成，尚不足以判断未来谁会伤害谁。此刻最值得看的是，坦娅有没有意识到，照料她的人也属于别人的生活。",
+      "question": "感觉被理解之后，会不会把对方的付出当成随时可以再次获得的东西？",
+      "scene": "care"
+    },
+    {
+      "id": "parents",
+      "label": "家庭里的价值感",
+      "title": "母亲负责安排，父亲想被需要。",
+      "people": [
+        "nicole",
+        "mark",
+        "quinn"
+      ],
+      "edges": [
+        "妮可 → 马克：劝他陪伴儿子",
+        "马克 → 奎因：活动、谈心与寻求认同",
+        "奎因 → 父母：很少得到发言空间"
+      ],
+      "fact": "妮可让焦虑的马克把注意力转向奎因。父子活动后，马克谈到男性处境；奎因直接问，这是否与母亲收入比父亲高有关。",
+      "analysis": "马克想弥补父子之间的距离，却把自己的价值焦虑带进了谈话。他问的近乎是：你会不会把我记成一个有分量的父亲？奎因的直问把这层不安说破了。妮可的安排可能出于关心，但家庭成员并不会像工作任务一样，收到指令就建立亲密。",
+      "question": "和孩子共处时，谈话是在认识他，还是在请他确认自己的价值？",
+      "scene": "care"
+    },
+    {
+      "id": "girls",
+      "label": "年轻人的小权力",
+      "title": "一起嘲笑别人，不等于彼此平等。",
+      "people": [
+        "olivia",
+        "paula",
+        "quinn"
+      ],
+      "edges": [
+        "奥利维娅 ↔ 葆拉：朋友与共同审视者",
+        "女孩们 → 奎因：嘲弄与床位排挤",
+        "奥利维娅 → 葆拉：晚宴后的试探"
+      ],
+      "fact": "两个女孩一起评价客船上的人、盘问瑞秋，也一起为奎因睡厨房辩解。夜里，奥利维娅问葆拉是否觉得晚宴上的某个男子有吸引力，葆拉回避了这个话题。",
+      "analysis": "首集只让这段友情露出一点不对称：旅行依托奥利维娅的家庭，她也更习惯提出问题。不能从一个追问就认定她的全部动机，但共同攻击别人确实很容易制造亲密的错觉。两人对社会的批评很锋利，对身边更弱的人却并不温柔。",
+      "question": "批评更大的不公平时，有没有看见自己手里的那一点权力？",
+      "scene": "pool"
+    },
+    {
+      "id": "staff",
+      "label": "服务表面与员工身体",
+      "title": "经理看见了污渍，没看见疼痛。",
+      "people": [
+        "armond",
+        "lani",
+        "belinda"
+      ],
+      "edges": [
+        "阿蒙德 → 拉妮：培训、要求与迟来的注意",
+        "拉妮 → 阿蒙德：隐瞒孕情以留在岗位",
+        "贝琳达 → 拉妮：危机中的实际帮助"
+      ],
+      "fact": "阿蒙德要求拉妮压低个人存在，几次注意到她不舒服，却没有知道原因。直到她在办公室临产，贝琳达和医生赶来，经理才承认自己的疏忽。",
+      "analysis": "阿蒙德不是没有观察力，而是观察被工作目的筛选了：衣服要干净，客人要满意，员工的不适先被当成流程里的障碍。拉妮为了就业藏起身体，他为了服务藏起麻烦，两种自我约束叠在一起。首集真正让这套规则停下的，是身体已经无法再配合。",
+      "question": "当一个地方要求所有人都表现得很好，谁还敢说自己正在撑不住？",
+      "scene": "labor"
+    }
+  ],
+  "readings": [
+    {
+      "number": "01",
+      "title": "一间套房，照见两套标准",
+      "left": "suite",
+      "right": "booking",
+      "leftLabel": "客房里：瑞秋想享受已经拥有的东西",
+      "rightLabel": "前台前：谢恩追索应该拥有的东西",
+      "analysis": "房间同时是消费承诺和婚姻空间。谢恩不断把它拉回交易：订了什么、付了多少、谁说谎；瑞秋不断把它拉回共处：我们能不能先过好今天。两套标准都具体，却没有被真正商量。房型成了一个很小的开口，让他们对生活的默认期待提前显形。",
+      "scene": "suite"
+    },
+    {
+      "number": "02",
+      "title": "谁值得被看见？",
+      "left": "arrival",
+      "right": "lani",
+      "leftLabel": "迎宾时：员工要把自己藏在笑容后面",
+      "rightLabel": "员工区域：拉妮打电话承认自己撑不住",
+      "analysis": "阿蒙德认为客人需要特别的关注，却要求员工减少个人存在。这个不对称不是抽象口号：谢恩可以一再谈泳池，拉妮却不敢谈正在发生的分娩。她在电话里终于说出自己的需要，镜头也才让观众短暂离开酒店的顾客视角。两张图之间的距离，是谁有资格成为此刻最重要的人。",
+      "scene": "lani"
+    },
+    {
+      "number": "03",
+      "title": "客房与后台，同一晚的两种时间",
+      "left": "night",
+      "right": "office",
+      "leftLabel": "客房：新婚夫妇为未来作出保证",
+      "rightLabel": "后台：工作人员赶往办公室处理危机",
+      "analysis": "客人可以暂停问题，把明天想象成永远甜蜜；后台的时间却被身体催促，一刻也不能耽搁。结尾的交叉叙事让两种经验相邻，而不是让客人突然认识到员工的世界。我们看到的比住客更多，漂亮的酒店于是多出了一层他们不必看见的日常。",
+      "scene": "labor"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "阿蒙德 · 对拉妮",
+      "en": "They just need to feel seen.",
+      "zh": "他们只是需要觉得自己被看见。",
+      "image": "booking",
+      "context": "首轮房型交涉后，经理解释怎样安抚客人。配图为这次交涉的本集画面，不指认说出此句的那一帧。",
+      "analysis": "经理洞悉客人对特殊关注的渴望，却没有把同样的注意给身边的员工。“看见”于是先是一项服务技术，直到结尾才成为他需要重新理解的伦理要求。"
+    },
+    {
+      "speaker": "贝琳达引导 · 坦娅复述",
+      "en": "I fill my own cup.",
+      "zh": "我把自己的杯子装满。",
+      "image": "therapy",
+      "context": "水疗室中，贝琳达引导坦娅用一组自我照料的话安定下来；坦娅跟着重复。本图为同一护理段落。",
+      "analysis": "这句话指向自己照顾自己的能力，实际说出它却依靠另一个人的陪伴。这个温柔的矛盾贯穿首集：人需要他人帮助才能站稳，但帮助能否变成自己继续走下去的力量，仍然没有答案。"
+    },
+    {
+      "speaker": "拉妮 · 对阿蒙德",
+      "en": "I needed work, okay?",
+      "zh": "我需要这份工作，好吗？",
+      "image": "lani",
+      "context": "临产时，拉妮解释为什么没有告知怀孕。配图是她白天给伴侣打电话的画面，不是此句发生的办公室镜头。",
+      "analysis": "她几乎是在为自己的需要辩护。相较于客人那些自然说出口的要求，这句话需要疼痛和危机才能得到空间。全篇的权力差异，在这里变成一个人的生计。"
+    }
+  ],
+  "ending": {
+    "title": "行李放下了，\n生活没有。",
+    "text": "首集完成的，是把每个人惯用的相处方式带进酒店：有人追责，有人管理，有人审视，有人求安慰，也有人默默承受。后面值得留意的，是这些方式遇到彼此的需要时，谁会改变，谁会要求别人继续让步。",
+    "known": [
+      "房型交涉有实际依据，经理回避了自己的差错。",
+      "拉妮临产，酒店的服务表面被现实打断。",
+      "马克的检查结果、机场遗体的身份，本集都未揭晓。"
+    ]
+  },
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "frame": 721,
+      "width": 1920,
+      "height": 1080,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-721.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=5",
+      "kind": "episode-still",
+      "alt": "员工在海岸树下列队，远处是夕光中的大海",
+      "caption": "本集迎宾画面 · 酒店员工等待客船；HBO / TV-Screencaps · 图库 #721"
+    },
+    {
+      "id": "arrival",
+      "file": "assets/arrival.jpg",
+      "frame": 681,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-681.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=4",
+      "kind": "episode-still",
+      "alt": "阿蒙德和拉妮向客船上的人招手",
+      "caption": "本集迎宾段落 · 阿蒙德与拉妮列队招手 · 图库 #681"
+    },
+    {
+      "id": "boat",
+      "file": "assets/boat.jpg",
+      "frame": 641,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-641.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=4",
+      "kind": "episode-still",
+      "alt": "客船驶向夕阳下的海岸",
+      "caption": "本集客船抵达画面 · 非旅游宣传照片 · 图库 #641"
+    },
+    {
+      "id": "suite",
+      "file": "assets/suite.jpg",
+      "frame": 1441,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-1441.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=9",
+      "kind": "episode-still",
+      "alt": "谢恩站在海景套房中，瑞秋坐在床上",
+      "caption": "本集入住场景 · 海景客房中，谢恩与瑞秋的注意力开始分开 · 图库 #1441"
+    },
+    {
+      "id": "kitchen",
+      "file": "assets/kitchen.jpg",
+      "frame": 3241,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-3241.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=19",
+      "kind": "episode-still",
+      "alt": "奎因缩在厨房区域，低头看手中的屏幕",
+      "caption": "本集厨房床位画面 · 奎因独自在套房的角落里 · 图库 #3241"
+    },
+    {
+      "id": "booking",
+      "file": "assets/booking.jpg",
+      "frame": 2521,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-2521.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=15",
+      "kind": "episode-still",
+      "alt": "瑞秋和谢恩站在前台，与画外的经理交涉",
+      "caption": "本集首次房型交涉画面 · 两人面对阿蒙德 · 图库 #2521"
+    },
+    {
+      "id": "lani",
+      "file": "assets/lani.jpg",
+      "frame": 2341,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-2341.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=14",
+      "kind": "episode-still",
+      "alt": "穿粉色制服的拉妮在员工区域打电话",
+      "caption": "本集白天画面 · 拉妮打电话给伴侣；非办公室分娩镜头 · 图库 #2341"
+    },
+    {
+      "id": "pool",
+      "file": "assets/pool.jpg",
+      "frame": 4141,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-4141.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=24",
+      "kind": "episode-still",
+      "alt": "奥利维娅和葆拉坐在泳池躺椅上，看着画外的瑞秋",
+      "caption": "本集泳池谈话画面 · 两个女孩坐在躺椅上 · 图库 #4141"
+    },
+    {
+      "id": "therapy",
+      "file": "assets/therapy.jpg",
+      "frame": 5041,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-5041.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=29",
+      "kind": "episode-still",
+      "alt": "坦娅闭眼躺在护理床上，贝琳达的手扶着她的头",
+      "caption": "本集护理画面 · 贝琳达照护坦娅 · 图库 #5041"
+    },
+    {
+      "id": "father",
+      "file": "assets/father.jpg",
+      "frame": 5941,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-5941.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=34",
+      "kind": "episode-still",
+      "alt": "马克坐在海边，面对身旁的儿子说话",
+      "caption": "本集父子海边谈话画面 · 马克试着靠近奎因 · 图库 #5941"
+    },
+    {
+      "id": "dinner",
+      "file": "assets/dinner.jpg",
+      "frame": 6621,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-6621.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=37",
+      "kind": "episode-still",
+      "alt": "妮可与马克坐在露天晚宴的餐桌边",
+      "caption": "本集龙虾晚宴画面 · 妮可与马克；非谢恩出示邮件的镜头 · 图库 #6621"
+    },
+    {
+      "id": "office",
+      "file": "assets/office.jpg",
+      "frame": 6661,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-6661.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=38",
+      "kind": "episode-still",
+      "alt": "酒店工作人员向办公室门内张望，身后仍有往来的客人",
+      "caption": "本集后台危机段落 · 工作人员赶往办公室；非分娩特写 · 图库 #6661"
+    },
+    {
+      "id": "night",
+      "file": "assets/night.jpg",
+      "frame": 7741,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-7741.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=44",
+      "kind": "episode-still",
+      "alt": "从门外远处看见瑞秋与谢恩在客房床上相拥",
+      "caption": "本集结尾客房画面 · 门框把观众留在房间之外 · 图库 #7741"
+    },
+    {
+      "id": "sea",
+      "file": "assets/sea.jpg",
+      "frame": 7021,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-7021.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=40",
+      "kind": "episode-still",
+      "alt": "夜晚的海面上有微弱的亮光",
+      "caption": "本集夜间海面画面 · 不指认任何死亡事件 · 图库 #7021"
+    },
+    {
+      "id": "wallpaper",
+      "file": "assets/wallpaper.jpg",
+      "frame": 1,
+      "width": 1440,
+      "height": 810,
+      "originalUrl": "https://imgs.screencaps.us/tv/the-white-lotus/the-white-lotus-s01e01/full/the-white-lotus-s01e01-tv-screencaps.com-1.jpg",
+      "sourceUrl": "https://tv-screencaps.com/the-white-lotus-s01e01-arrivals/?page=1",
+      "kind": "episode-still",
+      "alt": "片头的热带植物与鸟类壁纸图案",
+      "caption": "本集片头图案 · 作为装饰配图，不用于证明剧情 · 图库 #1"
+    }
+  ]
+}

@@ -10,6 +10,7 @@
 | --- | --- | --- | --- |
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
 | 亿万 · Billions | 第一季完整十二集 | 单集包含截至该集的剧情 | [十二集目录](https://yokel062.github.io/shows/series/billions/) |
+| 白莲花 · The White Lotus | 第一季第一集 · Arrivals | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/) |
 
 ## 兄弟连十集目录
 
@@ -54,6 +55,20 @@ python tools/build_billions.py --complete
 ```
 
 工具核验十二集数据，生成第 2—12 集、作品目录与 `season.json`，默认保留首集 HTML。第 2—12 集模板为 `shared/season-episode.html`，共用 `episode.css`、`season.css` 和 `episode.js`。只生成一集可使用 `--episode 5`；修改首集正文后使用 `python tools/build_billions.py --pilot --complete`，由保留的首集模板与构建器重新生成。生成后的 HTML 提交到仓库，网站无需线上构建。
+
+## 白莲花首集档案
+
+**[作品目录](https://yokel062.github.io/shows/series/the-white-lotus/)** · **[S01E01 · Arrivals](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/)**
+
+暖白与深绿的桌面阅读页面，以三幕、十个剧情节点梳理抵达的第一天；十一位人物复用统一角色照，五组冲突关系可切换查看。另有三组画面对照、三句英文短台词及本集结尾的已知／未知边界。场景解读默认展开，画面支持点击放大和 Escape 关闭。剧情事实、个人解读及图像对应范围分别标注，逐张原图和演员出处见篇末；仅讨论首集，不提前揭晓死亡事件。
+
+文字和图片登记源为 `series/the-white-lotus/s01e01/content.json`，统一角色照登记在 `series/the-white-lotus/shared/portraits.json`。修改后运行：
+
+```bash
+python tools/build_white_lotus.py
+```
+
+单集与目录模板、CSS、JS 均在 `series/the-white-lotus/shared/`。构建后得到完整静态 HTML，无需线上构建，也不依赖运行时请求 JSON；关闭 JavaScript 仍可阅读所有剧情与冲突关系。
 
 ## 目录约定
 
