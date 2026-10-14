@@ -1,0 +1,672 @@
+{
+  "title": "Quality of Life",
+  "chineseTitle": "谁有权决定，最后几个月的价值？",
+  "subtitle": "葬礼让一个人的愿望，与两个人的胜负重新放在一起。",
+  "hero": "eulogy-wide",
+  "heroTitle": "钱可以留下。\n时间由谁选择？",
+  "heroDeck": "唐尼的葬礼，穿插着他接受安排的过去。\n四千万美元保住家人的未来。\n一个未被告诉他的选项，却改变了这份交易。",
+  "openingTitle": "一个人同意了交易，是否就同意了所有代价？",
+  "openingFact": "唐尼的生命走到终点。查克认识到关键证词可能无法成立，司法部长办公室准备收走案件。",
+  "openingReading": "本集不是简单解释一招如何取胜；它把策略结果与被使用之人的生活重新并置，追问哪些选择由他作出，哪些由别人替他作出。",
+  "stamp": {
+    "value": "40M",
+    "label": "FOR THE FAMILY",
+    "note": "四千万美元是真实保障，也无法覆盖最后时间里每一种愿望。"
+  },
+  "storyTitle": "在葬礼中，重新理解此前的安排。",
+  "storyDeck": "按照本集揭示顺序阅读：现在的损失、过去的约定，最后是未被说出的选项。",
+  "spoiler": "剧透至 S01E10 结尾，含唐尼之死、安排插叙与医生段落；不引用第十一集会谈为当前动机作结论。",
+  "intro": "查克承认自己因愤怒忘了赢，案件随唐尼的死亡而失去关键支点。插叙告诉观众，唐尼曾为家人的未来接受阿克斯的安排；另一边，Bill 的假争执和 Wilcox 的告别会展示两位主角如何利用信息差重新夺回控制。最后，唐尼想再过一次圣诞节的愿望，与一个被隐瞒的医疗选项相遇，让所谓“生活质量”重新成为属于谁的问题。",
+  "catalogueIntro": "唐尼之死让案件转移，插叙揭出他为家人接受的四千万安排。假争执、法官告别会与葬礼相互穿插；末尾一个未被告诉患者的医疗选项，改变了我们对胜利的理解。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E10 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e10",
+      "note": "核对台词与事件顺序；非官方转录。中文台词均为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 10 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "note": "核对场景与图像归属；原作者对心理及动机的推测未作为剧情事实。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E10 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "note": "只用于本集画面和人物辨认；未采用自动生成的剧情问答。"
+    },
+    {
+      "id": "recap",
+      "title": "Den of Geek · Quality of Life 评论",
+      "url": "https://www.denofgeek.com/tv/billions-quality-of-life-review/",
+      "note": "交叉核对唐尼安排、Ionosphere 条件及结尾试验治疗；本页不沿用原文对动机的结论。"
+    },
+    {
+      "id": "observer",
+      "title": "Observer · 1×10 Death Becomes Them 回顾",
+      "url": "https://observer.com/2016/03/billions-1x10-recap-death-becomes-them/amp/",
+      "note": "参照插叙结构、温迪被排除与人物转折；原文将南区与东区的承诺及逮捕方向写反，本页已按对白纠正。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/eulogy-wide.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1014.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "阿克斯站在追悼会人群中举杯",
+      "caption": "本集截图：唐尼的户外追悼会；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1586,
+      "height": 770
+    },
+    {
+      "file": "assets/cancer.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep109.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "阿克斯在卫生间面对唐尼，镜中映出两人",
+      "caption": "本集插叙截图：阿克斯得知癌症；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/agreement.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep108.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "唐尼与阿克斯在玻璃办公室内对坐",
+      "caption": "本集插叙截图：讨论给家人留下的保障；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/chuck-loss.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520024ba9c45b953_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "alt": "查克向办案团队解释失败",
+      "caption": "本集截图：查克承认自己的愤怒破坏策略；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/hospital.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452003415a016d23b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "alt": "阿克斯在医院走廊与医生交谈",
+      "caption": "本集医院走廊截图；医生信息段落的代表配图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/investors.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452004682cbc75e95_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "alt": "阿克斯在餐桌前面对投资者",
+      "caption": "本集截图：劝说投资者放弃 Ionosphere；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/dismissal.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45200541989e7e6a3_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "alt": "Wilcox 坐在法庭席位上",
+      "caption": "本集截图：Dollar Bill 案被驳回；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/fake-fight.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1030-1.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "员工隔着玻璃观看阿克斯与 Bill 的假争执",
+      "caption": "本集截图：只看见动作、听不见实话的围观；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1612,
+      "height": 712
+    },
+    {
+      "file": "assets/wendy-alone.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1034.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "温迪独自离开 Walter 的住处",
+      "caption": "本集截图：慰问之后的温迪；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1558,
+      "height": 724
+    },
+    {
+      "file": "assets/wendy-chuck.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1015.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "温迪在追悼会前要求查克离开",
+      "caption": "本集截图：夫妻在追悼会相遇；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1636,
+      "height": 714
+    },
+    {
+      "file": "assets/ionosphere.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1057.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "阿克斯进入灯光昏暗的新基金办公室",
+      "caption": "本集截图：Ionosphere 亏损后的会面；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2440,
+      "height": 898
+    },
+    {
+      "file": "assets/walter.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452012046ca5f4c1a_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-10/screencaps/",
+      "alt": "Walter 在追悼会后向阿克斯说话",
+      "caption": "本集截图：Walter 谈到唐尼盼望再过一次圣诞节；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/photo-leaves.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep1061.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "alt": "唐尼的照片被秋叶环绕",
+      "caption": "本集截图：依唐尼的心愿以秋叶覆盖照片；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2522,
+      "height": 1190
+    }
+  ],
+  "scenes": [
+    {
+      "id": "chess",
+      "act": "setup",
+      "lane": "law",
+      "where": "检察官办公室",
+      "title": "他想毁掉对手，却忘了怎样赢",
+      "image": "chuck-loss",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克向团队讲述自己少年下棋时，常因鄙视对手而陷入愤怒，忽视防守。他判断阿克斯借唐尼提供无法在庭上确认的信息，承认自己失策，并预告司法部长办公室将把案件转走，由自己承担责任。",
+      "analysis": "这不是客套的失败总结。他准确说出一个反复出现的盲点：把击败对手改写成让对手受到羞辱，就会放弃胜利需要的耐心。此刻对唐尼安排的说明仍是查克的推断；接下来的插叙才让观众得到独立信息。公共目标与私人怒火，开始被他自己分开。",
+      "turn": "因此 → 案件的失去迫使他先承认自己的判断错误。"
+    },
+    {
+      "id": "diagnosis",
+      "act": "setup",
+      "lane": "capital",
+      "where": "插叙：公司卫生间 / 现在：医院",
+      "title": "知道病情后，他先提供帮助，也想到用途",
+      "image": "cancer",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "插叙中，阿克斯察觉唐尼状态异常，追进卫生间，得知他患了晚期胰腺癌。他承诺安排由自己长期资助的顶尖肿瘤医生 Ari Gilbert 治疗。回到现在，唐尼在医院去世，劳拉留下帮 Walter 通知亲友。",
+      "analysis": "帮助与利用并非必须先后替换，往往在同一个人身上同时出现。阿克斯确实带来医疗资源，随后那句“我有个想法”又开启另一种关系。镜头把捐助者与病人都放在普通卫生间里，再让财富进入诊疗安排：他有能力提供选项，也可能掌握选项的入口。",
+      "turn": "因此 → 死亡已成为事实；观众开始看到此前计划的起点。"
+    },
+    {
+      "id": "forty-million",
+      "act": "setup",
+      "lane": "capital",
+      "where": "插叙：阿克斯办公室",
+      "title": "四千万美元，换最后几个月不再属于自己",
+      "image": "agreement",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "唐尼解释，出柜与离婚后他把财产留给前妻，原本还想用十年保障孩子和 Walter 的未来。阿克斯提出税前四千万美元，但明确说需要欺骗，他最后的时间将不再属于自己；唐尼担心坐牢，阿克斯让律师处理。",
+      "analysis": "这场交易有当事人的愿望和回应，不能把唐尼写成毫无选择的木偶；同时，绝症与家人的经济压力也让他的谈判空间非常狭窄。阿克斯以远超普通收入的数字解决家庭未来，把眼前几个月纳入自己的防御计划。是否同意某种欺骗，与是否知道全部医疗选项，仍是两个问题。",
+      "turn": "因此 → 观众知道他主动接受了保障安排，却尚不知道还有什么被隐瞒。"
+    },
+    {
+      "id": "case-transfer",
+      "act": "setup",
+      "lane": "cross",
+      "where": "司法部长办公室来访 / 追悼会",
+      "title": "一个案件被收走，两种损失在葬礼相遇",
+      "image": "wendy-chuck",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "DeGiulio 正式通知查克，阿克斯相关事项改由东区处理；查克接受，却转谈新的职位布局。本集稍后的追悼会前，温迪发现丈夫到场，认为不合适并要求他离开。查克离开前与阿克斯握手，双方承认唐尼之死是共同的损失。",
+      "analysis": "对一个人死亡的哀悼与一条证据路径的消失在这里重叠，而两者重量显然不同。握手可以有礼仪、有试探，也有对共同处境的承认；不能替他们读成秘密和解。温迪拒绝让丈夫在这里继续扮演熟悉的角色，是在保护追悼会，也是在回应他对自己持续的隐瞒。",
+      "turn": "因此 → 案件退出并没有结束竞争，家庭距离已经扩大。",
+      "detail": "此节点并读较早的案件移交与稍后的追悼会；两者之间还有下一幕的 Bill 案裁决与法官调查。配图为追悼会场面。"
+    },
+    {
+      "id": "rival-fund",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "Ionosphere 筹资消息 / 早餐桌",
+      "title": "先请人撤资，发现旧情已经不能兑换服从",
+      "image": "investors",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Wags 告诉阿克斯，离职三人创办 Ionosphere，管理两亿美元，其中四千万来自他们自己，其余部分来自旧客户。阿克斯试图让出资者撤回支持，甚至提出降低自己基金的费率，对方仍拒绝。",
+      "analysis": "声誉受损后，他的劝阻不再自动被当成明智建议。出资者已经得到有利条款，可以把这场对立当成另一次投资机会；阿克斯却担心外界相信优秀人才已另挂旗帜。他真正要维护的是领导权和品牌归属，因此不能满足于“离开的人不要再回来了”。",
+      "turn": "因此 → 温和劝阻失败，他开始设计能把对手拉回控制下的行动。"
+    },
+    {
+      "id": "bill-free",
+      "act": "pressure",
+      "lane": "law",
+      "where": "联邦法院",
+      "title": "同一笔医疗帮助，双方讲成相反的故事",
+      "image": "dismissal",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bach 把 Bill 替工厂信息提供者女儿支付医疗费说成救命的善意；Bryan 主张这二十一万余美元是内幕信息的利益交换，帮助基金赚取八千九百万。Wilcox 准许驳回案件，并指责南区用公共资源解决私人恩怨。",
+      "analysis": "争论的难点不在数字，而在帮助与交易之间的因果。律师让一张孩子照片承载“你也会救她”的直觉，检方试图把医疗支出与信息、盈利相连。法官的裁定结束这一案，却不能替观众确认 Bill 内心。更不能用后来针对法官的指控，倒推每一句辩方话都是假的。",
+      "turn": "因此 → Bill 重获自由，查克又失去一条通向阿克斯的线。"
+    },
+    {
+      "id": "glass-theatre",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "阿克斯玻璃办公室 / Ionosphere",
+      "title": "给外面看一场争吵，给里面说一份计划",
+      "image": "fake-fight",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bill 回公司受欢迎，阿克斯把他叫进隔音办公室，让他假装争吵、互相推搡，再大声辱骂着离开。真实目的，是让 Ionosphere 相信他们失和。Bill 随后接近三人，先用有用信息获取信任，再提供造成损失的交易消息。",
+      "analysis": "玻璃提供可见度，隔音取消了验证内容的机会；旁观者反而更容易确信自己亲眼看懂了。阿克斯没有要求所有人保守秘密，只需让他们传播同一个误会。这段幽默的假打斗与唐尼线共享一种技术：让他人确信自己抓到了一个真实裂口，然后沿裂口走进被设计的路径。",
+      "turn": "因此 → 谣言变成进入新基金的通行证。"
+    },
+    {
+      "id": "judge-leverage",
+      "act": "pressure",
+      "lane": "law",
+      "where": "公园 / Wilcox 书房",
+      "title": "真问题被找到，又被拿来交换一个座位",
+      "image": "dismissal",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Lonnie 发现 Wilcox 的量刑变化与投资营利监狱企业有关：对贫困黑人和拉丁裔重判，对有资源者宽松，资金流向海外。查克据此要求他立即辞职，并承诺南区不予起诉，以避免漫长的争斗。",
+      "analysis": "查到司法权力与经济利益的关系，是这一线真实的公共价值；查克想用迅速离任替代完整程序，也明显服务于自己的布局。两种动机不应相互取消。此刻我们知道的是剧中调查结果和施压条件，尚不是法院已经作出的腐败定罪。一个人的退场同时意味着另一个人的机会。",
+      "turn": "因此 → Wilcox 同意离任，查克获得可以重新安排的空缺。"
+    },
+    {
+      "id": "outside-family",
+      "act": "collision",
+      "lane": "wendy",
+      "where": "Walter 家 / 追悼会 / Axelrod 家",
+      "title": "人人说这是家，她却被挡在信息之外",
+      "image": "wendy-alone",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪带食物慰问 Walter，才知道唐尼曾遗憾无法向她谈病情；劳拉接手 Secret Santa 礼物后冷淡地催她离开。追悼会间，温迪问阿克斯，距他们上次真正会谈多久，邀请他来见自己；劳拉在家又质疑温迪的作用。",
+      "analysis": "“公司是家”听上去能保证归属，却也允许某些人被判定站在门外。温迪既是唐尼的治疗者，也是查克的妻子，因此被保留了同事称呼，却拿不到其他人早已拥有的信息。她邀请阿克斯会谈，是一次重新建立直接信任的尝试，本集尚未展开那场会谈。",
+      "turn": "因此 → 长期合作仍在，但温迪已经感到自己被两边排除。"
+    },
+    {
+      "id": "retirement-trap",
+      "act": "collision",
+      "lane": "law",
+      "where": "Wilcox 告别聚会",
+      "title": "他没有违背原话，却利用了对方漏听的范围",
+      "image": "chuck-loss",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克在 Wilcox 告别会上赞美司法奉献并带头唱歌。随后 Lonnie 带联邦人员来逮捕法官；查克解释，自己只承诺南区不予起诉，无法代表东区。Bryan 随后推测查克正帮 DeGiulio 转任法官，争取新的上级支持。",
+      "analysis": "承诺的每个字都可以成立，整段沟通却让对方形成错误预期。查克把范围差异当作武器，也把庆祝仪式当成羞辱的舞台。这与开场“别忘了赢”的反省形成紧张关系：他学会了布局，却未必放下毁掉对手的快感。Bryan 对人事计划的说明是推测，不当成已完成任命。",
+      "turn": "因此 → 法官退场，查克试图把一个障碍转换成自己的保护条件。"
+    },
+    {
+      "id": "owned-rivals",
+      "act": "collision",
+      "lane": "capital",
+      "where": "Ionosphere 办公室",
+      "title": "给你资金，也把独立的出口一起封住",
+      "image": "ionosphere",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Ionosphere 因 Bill 提供的消息损失了约百分之二十八的基金资金。阿克斯登门，提出二亿五千万美元种子资金，条件包括四成收入分成、每晚交交易文件、禁止竞争和挖人、管理额不得达到十亿美元，以及自己随时撤资。三人接受。",
+      "analysis": "他没有把对手彻底消灭，而是让他们继续工作、继续盈利，只是成果和生存都受制于自己。看似救助的新资金，与极高的控制权同时到场。最严厉的惩罚不是一次亏损，而是未来成功也无法换来自由：即使他们表现好，仍不能买断这份分成和依赖。",
+      "turn": "因此 → 离开公司的人被拉回阿克斯的经济控制下。"
+    },
+    {
+      "id": "christmas",
+      "act": "collision",
+      "lane": "cross",
+      "where": "追悼会 / 插叙：医生办公室外",
+      "title": "原来他想要的，不只是留给家人的钱",
+      "image": "walter",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "追悼会后 Wags 失言提到唐尼给家人留下四千万，令温迪起疑。Walter 说唐尼想活到圣诞节，再做一次送礼的 Santa。最后插叙揭示 Gilbert 曾提出试验治疗可延寿数月，阿克斯以生活质量为由说不必告诉唐尼，医生同意。",
+      "analysis": "这是结尾真正改变全篇的地方。唐尼参与了资金安排，却没有参与最后的医疗选项讨论。阿克斯和医生把“可能辛苦”直接变成“不告诉他”，把自己的判断放在患者选择之前。试验并非保证有效，死亡也不能被简化成某人直接造成；但失去知情和决定机会，是镜头明确呈现的剥夺。",
+      "turn": "因此 → 四千万解决了家庭未来，却无法替唐尼回答最后几个月怎样生活。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "setup",
+      "number": "I",
+      "title": "先承认失去，再看到约定。",
+      "deck": "案件退出，生命结束，插叙将之前的压力带回一个家庭的未来。",
+      "range": "01—04",
+      "summary": "唐尼曾主动接受资金安排，温迪却被病情与计划一起排除。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "玻璃、法庭与看不见的条件。",
+      "deck": "对手相信自己看到了真相，往往正是布局开始奏效的时刻。",
+      "range": "05—08",
+      "summary": "假争执引开 Ionosphere，法官调查成为新的谈判支点。"
+    },
+    {
+      "id": "collision",
+      "number": "III",
+      "title": "他们重新得势，他却不能再选择。",
+      "deck": "一个辞职承诺被拆开，一份资金救助封住出口，圣诞愿望揭出沉默的代价。",
+      "range": "09—12",
+      "summary": "最后的医生插叙让知情权成为整集最沉重的空缺。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "联邦检察官 · 失去阿克斯案",
+      "fact": "承认失策，接受案件转移，再借 Wilcox 调查重建布局。",
+      "analysis": "他学会区别愤怒与策略，却仍在羞辱对手的场面里获得满足。"
+    },
+    "axe": {
+      "role": "基金创办人 · 唐尼安排的设计者",
+      "fact": "给唐尼家庭保障，压制 Ionosphere；结尾显示他让医生隐瞒延寿试验。",
+      "analysis": "真诚的帮助与控制并行。关键不是他是否毫无感情，而是他如何把他人的时间与选择纳入自己的利益。"
+    },
+    "wendy": {
+      "role": "表现教练 · 唐尼的治疗者",
+      "fact": "发现病情对自己保密，被劳拉排斥，又听到四千万安排的线索。",
+      "analysis": "她开始意识到，帮助人继续工作，也可能帮助组织延长对人的使用。"
+    },
+    "donnie": {
+      "role": "已去世的交易员 · 插叙中心",
+      "fact": "接受家人经济保障与欺骗安排，但未被告知医生提出的试验治疗。",
+      "analysis": "他的生前愿望在不同人叙述里被拆开：子女未来、尊严、最后一次圣诞节都属于他。"
+    },
+    "bill": {
+      "role": "Dollar Bill · 基金交易员",
+      "fact": "案件被驳回；与阿克斯演出假争执，诱使 Ionosphere 信任自己。",
+      "analysis": "他展示忠诚的方式是帮助雇主设计误会；外表像叛徒，真实行动恰好相反。"
+    },
+    "wags": {
+      "role": "Axe Capital 运营主管",
+      "fact": "提供离职三人的资金信息，追悼会中失言说出唐尼四千万。",
+      "analysis": "他以数字评估一生的得失，恰好把温迪最需要知道的组织安排泄露出来。"
+    },
+    "bryan": {
+      "role": "助理联邦检察官",
+      "fact": "输掉 Bill 案，得知上级在法官和司法部长办公室之间重新布局。",
+      "analysis": "庭上他为市场公平辩护，庭外却越来越接近另一种以位置和动机为核心的现实。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 死亡与失败",
+      "note": "检方失去证人，插叙让观众知道曾经的安排。",
+      "edges": [
+        "案件撤走 / 竞争未停",
+        "葬礼中的疏离",
+        "病情与计划未对她开放"
+      ],
+      "details": {
+        "chuck": "承认执念破坏了策略，接受失败。",
+        "axe": "面对唐尼之死，也继续处理内部竞争。",
+        "wendy": "哀悼患者，却知道自己漏掉了最重要的信息。",
+        "donnie": "本集现在时已经死亡；角色变化通过插叙呈现。",
+        "bill": "仍等待法庭结果。",
+        "wags": "提醒老板新基金与客户的威胁。",
+        "bryan": "与上级一起承受案件转移。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 让对方相信裂口",
+      "note": "双方都使用信息差，把失败转成新布局。",
+      "edges": [
+        "各自重建攻势",
+        "隐瞒导致持续不信任",
+        "温迪邀请重启会谈"
+      ],
+      "details": {
+        "chuck": "用腐败调查逼法官离任，保留辖区措辞的后手。",
+        "axe": "安排假争执，让 Bill 进入竞争基金。",
+        "wendy": "被劳拉排除后，寻求与阿克斯直接谈话。",
+        "donnie": "插叙显示他同意用最后的时间换取家人保障。",
+        "bill": "外部显示失和，内部执行忠诚任务。",
+        "wags": "协助资金和对手信息的控制。",
+        "bryan": "案件失败后开始观察上级的人事策略。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 钱不能替人作最后的选择",
+      "note": "竞争者被控制，法官被逮捕，唐尼的愿望却无法兑现。",
+      "edges": [
+        "暂时各有所得",
+        "距离没有修复",
+        "四千万失言触发怀疑"
+      ],
+      "details": {
+        "chuck": "失去本案，却获得新的任命布局机会。",
+        "axe": "收服 Ionosphere；末尾揭出自己参与了医疗信息隐瞒。",
+        "wendy": "四千万使她知道，秘密比单纯病情更大。",
+        "donnie": "想再当一次 Santa 的愿望由 Walter 说出。",
+        "bill": "用假信息帮老板让竞争者承受损失。",
+        "wags": "将钱的数字当成安慰，反而留下线索。",
+        "bryan": "对查克计划有推测，任命尚未完成。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "fake-break",
+      "title": "隔音玻璃如何让假争执变成可信消息？",
+      "intro": "完整计划只存在于房间里面；外部传播的是可见动作。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "提出表演与潜入计划",
+          "portrait": "axe",
+          "scene": "glass-theatre"
+        },
+        {
+          "name": "玻璃外的同事",
+          "role": "看见推搡，误认失和",
+          "portrait": null,
+          "scene": "glass-theatre"
+        },
+        {
+          "name": "Bill",
+          "role": "进入 Ionosphere 并喂消息",
+          "portrait": "bill",
+          "scene": "glass-theatre"
+        },
+        {
+          "name": "Ionosphere",
+          "role": "亏损后接受限制资金",
+          "portrait": null,
+          "scene": "owned-rivals"
+        }
+      ],
+      "result": "传播路径按阿克斯期待运转；看得见并不等于掌握了完整事实。"
+    },
+    {
+      "id": "medical-gate",
+      "title": "延寿选项为何没有到达唐尼面前？",
+      "intro": "图示只归纳结尾显示的谈话，不假定试验一定成功。",
+      "nodes": [
+        {
+          "name": "Gilbert 医生",
+          "role": "提出可能延寿的试验",
+          "portrait": null,
+          "scene": "christmas"
+        },
+        {
+          "name": "阿克斯",
+          "role": "以生活质量为由劝其不提",
+          "portrait": "axe",
+          "scene": "christmas"
+        },
+        {
+          "name": "医生的同意",
+          "role": "方案被挡在告知之前",
+          "portrait": null,
+          "scene": "christmas"
+        },
+        {
+          "name": "唐尼与 Walter",
+          "role": "只能面对未包含此选项的未来",
+          "portrait": "donnie",
+          "scene": "christmas"
+        }
+      ],
+      "result": "资金交易得到唐尼回应，试验治疗却没有进入他的选择范围。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Forty million.",
+      "zh": "四千万。",
+      "speaker": "阿克斯 → 唐尼",
+      "context": "问清家人未来的缺口后提出数字。",
+      "image": "agreement",
+      "analysis": "数字解决了遗产焦虑，也把不可替代的时间折算成一份可谈判的保障。"
+    },
+    {
+      "en": "Pretend we're having an argument.",
+      "zh": "假装我们在吵架。",
+      "speaker": "阿克斯 → Bill",
+      "context": "隔音办公室里开始表演。",
+      "image": "fake-fight",
+      "analysis": "观众听见真指令，同事看见假动作。一个透明的房间，可以制造比不透明更确信的误会。"
+    },
+    {
+      "en": "Maybe we shouldn't bring it up.",
+      "zh": "也许我们不该提起它。",
+      "speaker": "阿克斯 → Gilbert 医生",
+      "context": "讨论试验治疗时；配图为本集医院段落。",
+      "image": "hospital",
+      "analysis": "真正的夺取发生在“提不提”之前。困难的医疗选择没有交给患者，而由能控制资源的人先取消。"
+    },
+    {
+      "en": "Let's do this.",
+      "zh": "来，干这一杯。",
+      "speaker": "阿克斯 → 追悼会众人",
+      "context": "结束致辞，举杯敬唐尼。",
+      "image": "eulogy-wide",
+      "analysis": "他称赞唐尼承担了所有事情。追悼的语言确认了忠诚，却没有让众人知道这份忠诚背后被保留的治疗信息。"
+    }
+  ],
+  "comparison": {
+    "title": "他亲口接受的钱，与他没能选择的时间。",
+    "deck": "两种安排都被包装成照顾家人，知情的程度却不同。",
+    "left": {
+      "image": "agreement",
+      "caption": "本集插叙截图：唐尼与阿克斯商谈",
+      "speaker": "唐尼与阿克斯",
+      "title": "保障家人，是他表达过的愿望。",
+      "text": "他讲出财务担心，听见需要欺骗与失去自由时间的代价，并担心坐牢。镜头给了他回应的位置。"
+    },
+    "right": {
+      "image": "walter",
+      "caption": "本集截图：Walter 说出圣诞愿望",
+      "speaker": "Walter 的回忆 / 医生插叙",
+      "title": "最后几个月，是他没能作的选择。",
+      "text": "Walter 说他想再做一次 Santa。接下来的医生插叙显示，可能延长生命的方案没有被告诉他。"
+    },
+    "rows": [
+      {
+        "label": "愿望怎样进入场景",
+        "left": "唐尼自己说明家人保障",
+        "right": "Walter 在死亡后补述圣诞愿望"
+      },
+      {
+        "label": "选择条件",
+        "left": "听见安排与风险后回应",
+        "right": "选项在告知前被取消"
+      },
+      {
+        "label": "照顾的边界",
+        "left": "提供资源可以扩大选择",
+        "right": "隐瞒资源也可以缩小选择"
+      }
+    ],
+    "insight": {
+      "kicker": "WHO DECIDES?",
+      "title": "生活质量不是一个可以代答的标题。",
+      "text": "试验可能有效，也可能很辛苦。问题不在我们能否保证更好的结果，而在唐尼和家人为何没得到权衡的机会。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "隔音的玻璃",
+      "fact": "同事看见阿克斯与 Bill 推搡，听不见真实内容。",
+      "analysis": "他们传播的是亲眼所见，却不知道自己看到的正是为传播而设计的戏。",
+      "steps": [
+        "动作可见",
+        "真话不可听",
+        "误会传出去"
+      ]
+    },
+    {
+      "title": "“南区”两个字",
+      "fact": "查克承诺南区不诉，东区却来逮捕 Wilcox。",
+      "analysis": "限定范围让原话没有落空，也让承诺失去对方理解中的保护；形式真实与沟通诚实并不总一致。",
+      "steps": [
+        "提出条件",
+        "迅速辞职",
+        "东区逮捕"
+      ]
+    },
+    {
+      "title": "秋叶中的照片",
+      "fact": "按照唐尼心愿，众人以秋叶覆盖他的照片。",
+      "analysis": "当交易数字和职业计划不断说话，照片提醒观众，不能把他的生活只压缩成一段证词或四千万。",
+      "steps": [
+        "给钱留下",
+        "向人告别",
+        "看见未竟愿望"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "photo-leaves",
+    "kicker": "QUALITY OF WHOSE LIFE?",
+    "value": "+",
+    "title": "更多的钱。\n少一个被告诉的选项。",
+    "text": "唐尼的家人得到保障，阿克斯的案件危机得到缓解；结尾留下的却是一个没有让患者参与的决定。那些未被说出的几个月，无法由成功的策略替他定义。"
+  },
+  "version": 2,
+  "season": 1,
+  "episode": 10
+}

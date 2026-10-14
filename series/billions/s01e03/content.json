@@ -1,0 +1,731 @@
+{
+  "version": 2,
+  "season": 1,
+  "episode": 3,
+  "title": "YumTime",
+  "chineseTitle": "谁可以说不，谁必须先让步？",
+  "subtitle": "点心的配方要回到过去，人的退路却被一步步改写。",
+  "hero": "taste-wide",
+  "heroTitle": "他想找回旧味道。\n别人正在失去选择。",
+  "heroDeck": "一口不对劲的点心，发动一场董事会更替。\n一场保密会谈，迫使温迪重新选择自己的职责。\n查克与劳拉则把压力，送向对方最在意的人。",
+  "openingTitle": "有了杠杆之后，人会怎样使用它？",
+  "openingFact": "阿克斯与 Ben Kim 品尝童年熟悉的 YumTime 点心，发现味道变了；检方得知东区已经抓到 Decker 的下属。双方都要争回对自己重要的东西。",
+  "openingReading": "“这应该是什么样”在本集不断变成要求：产品应恢复配方，员工应表现忠诚，证人应开始合作。区别在于，谁能施压，谁只能承受。",
+  "stamp": {
+    "value": "4.9%",
+    "label": "A SEAT AT THE TABLE",
+    "note": "持股让阿克斯得以逼近董事会，却还需要说服能改变表决的人。"
+  },
+  "storyTitle": "从点心配方，到一个人的退路。",
+  "storyDeck": "先找出关键连接，再决定是说服、保护，还是让对方无法拒绝。",
+  "intro": "阿克斯从一口点心发起 YumTime 的治理行动，并在董事会中找到真正能让局面转向的人。查克用另一宗大案换回 Decker，却发现寻常的认罪压力无效。温迪听到 Wags 打算报复 Maria 的职业谈判，必须在保密与保护之间作选择。劳拉则取得 June 的书稿，用关系和沉默控制公开故事。每条线都在问：让别人点头，究竟需要付出什么？",
+  "spoiler": "只剧透 S01E03《YumTime》，含本集结尾；不引用后续剧情解释未公开的书稿、交易或人物动机。",
+  "catalogueIntro": "点心味道变了，阿克斯开始改写 YumTime 董事会。查克换回关键证人，温迪面对患者之间的报复计划，劳拉阻止一本书的危险章节。四条线共同检验一件事：当一个人掌握别人的退路，他会怎样使用它。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E03 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e03",
+      "note": "核对配方、保密会谈、案卷交换、书稿协议、家庭账户和周一会面承诺。非官方播出版转录；短台词中文均为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · Yum Time",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=8371",
+      "note": "逐场与图像交叉来源。对老查克所理解的私生活信号保留归属，不把它直接等同于阿克斯完整动机。"
+    },
+    {
+      "id": "recap",
+      "title": "Celeb Dirty Laundry · S01E03 逐场回顾",
+      "url": "https://www.celebdirtylaundry.com/2016/billions-recap-13116-season-1-episode-3-yumtime/",
+      "note": "核对场景次序及四条支线收束；该文有把 Purk 和 Bruno 混称的笔误，本页按对白区分。"
+    },
+    {
+      "id": "second",
+      "title": "Fan Fun with Damian Lewis · 第二篇 YumTime 评论",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=8542",
+      "note": "交叉核对 Wags 对忠诚的定义、温迪处境与家族账户。其关于温迪投资动机的猜测未作为事实。"
+    },
+    {
+      "id": "forbes",
+      "title": "Forbes · Episode 3 的积极股东行动",
+      "url": "https://www.forbes.com/sites/maggiemcgrath/2016/01/31/billions-for-the-99-episode-3-when-an-activist-investor-goes-after-scrumpets-dingdoodles-and-kookoonutties/",
+      "note": "参照持股与争取董事会的区别；现实机制与剧中理想化呈现分开，不由单一股权数字推定控制权。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E03 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "note": "已看原图并核对人物、服装、场景；不采用自动剧情问答。球场段落用本集此前 Decker 出场画面代表，并明确说明。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/ben.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520722b91bf712a9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Ben Kim 在阿克斯家中拿着点心",
+      "caption": "本集品尝点心截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/promenade.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520726932ed65331_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "查克在布鲁克林步道上质问遛狗者",
+      "caption": "本集公共步道截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/wags.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520734f93310c51f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Wags 在温迪办公室谈话",
+      "caption": "本集保密会谈截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/board-pressure.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep318.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8371",
+      "alt": "阿克斯在非正式董事接触中坐在沙发上提出治理要求",
+      "caption": "本集截图：阿克斯初步接触 YumTime 董事；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1673,
+      "height": 793
+    },
+    {
+      "file": "assets/case-trade.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520744a152a2d94b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Bryan 与查克在办公室查看资料",
+      "caption": "本集讨论东区案卷交换的截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/decker.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45207685ae73d7847_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Pete Decker 在南区接受首次问询",
+      "caption": "本集首次问询 Decker 的截图；也代表结尾继续施压，非球场画面；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/proffer.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45207745401712344_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "查克在办公室面对 Decker",
+      "caption": "本集首次问询截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/pizza.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520780275ff0f4ff_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "阿克斯在披萨店向 Purk 解释童年点心",
+      "caption": "本集披萨店谈话截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/purk.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452079205ff665fd1_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Purk 在董事会会议中发言",
+      "caption": "本集董事会表决截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/maria-talk.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45207947369a8ae55_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "温迪面对 Maria 谈未来的选择",
+      "caption": "本集温迪引导 Maria 设想人生的截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/kate.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520806a1c52d39c2_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "Kate 身穿去歌剧院的礼服来到办公室",
+      "caption": "本集 Kate 带来父母账户线索的截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/june-pressure.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45208003f7a05e895_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "June 在车里听到儿子录取被拒的消息",
+      "caption": "本集 June 接到 Stanford 电话的截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/lara-agreement.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45208103dee6d55ff_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-3/screencaps/",
+      "alt": "劳拉在家门口听 June 提出删稿和保密",
+      "caption": "本集书稿交涉截图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/taste-wide.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep31.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8371",
+      "alt": "Ben Kim 与阿克斯在厨房并排品尝 YumTime 点心",
+      "caption": "本集宣传剧照：童年品牌的味道不再相同；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "acts": [
+    {
+      "id": "leverage",
+      "number": "I",
+      "title": "杠杆：先找到能够改变局面的人。",
+      "deck": "产品、证人和雇员，各自进入一张可以施压的关系网。",
+      "range": "01—04",
+      "summary": "旧配方激起阿克斯的行动，东区线索令查克着急。Wags 暴露报复计划，董事会指向 Purk。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "施压：谁能把“不同意”说到最后？",
+      "deck": "查克换案、试探；阿克斯用熟悉的味道改变一名董事的选择。",
+      "range": "05—08",
+      "summary": "案卷交换换回 Decker，首次问询仍失败。Purk 接受改组方向，CEO 与 Evelyn 离席。"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "选择：退路被关上，也被悄悄打开。",
+      "deck": "温迪、劳拉与查克，都改变了别人愿意承担的代价。",
+      "range": "09—12",
+      "summary": "Maria 离开，June 删稿；Kate 找到家庭账户，查克在球场拿到 Decker 周一会面的承诺。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "taste",
+      "act": "leverage",
+      "lane": "capital",
+      "where": "阿克斯家 / 厨房",
+      "title": "先把公司放进嘴里",
+      "image": "ben",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "Ben Kim 送来一车 YumTime 产品，两人聊起各自童年吃过的 Scrumpet。阿克斯品尝后觉得味道不对，扔掉点心。他已有接近百分之五的股份，开始把配方变化和企业经营联系起来；CEO Hutch Bailey III 得知持股消息后感到威胁。",
+      "analysis": "这次入口不是复杂财报，而是一个顾客可以直接辨认的经验。Ben 与阿克斯的成长背景让味觉记忆具有共同性，但“我吃过”本身仍不能回答治理和估值问题。阿克斯随后必须把私人不满翻译成对利润、薪酬与管理的判断，才可能推动董事会。",
+      "turn": "因此 → 怀旧成为治理行动的起点，而非已完成的商业论证。"
+    },
+    {
+      "id": "public-duty",
+      "act": "leverage",
+      "lane": "law",
+      "where": "布鲁克林步道 / 工作来电",
+      "title": "让一名遛狗者服从，比抢回证人容易",
+      "image": "promenade",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "查克坚持让不清理狗粪的人当场收拾，拒绝接受“让它过去”的说法。此时 Bryan 来电：东区抓到 Decker 的下属，对方开始合作；Spyros 正参与那边的调查。查克意识到自己追 Birch 时，别人已抢先靠近原来的目标。",
+      "analysis": "步道上，他把小规则失守推演成整个公共环境恶化，以职位之外的个人意志迫使人行动。电话马上让这份控制感遇到更大的结构：另一个办公室有自己的案件和利益，不会因为他觉得目标重要就交出证人。公共原则与地盘竞争在这里贴得很近。",
+      "turn": "因此 → 查克需要为调查控制权找出能交换的筹码。"
+    },
+    {
+      "id": "wags-plan",
+      "act": "leverage",
+      "lane": "wendy",
+      "where": "温迪诊疗室",
+      "title": "涨薪可以给，成长却准备悄悄拿走",
+      "image": "wags",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "Wags 在保密会谈中说，Maria 用外部 offer 要求提高待遇，他认可她赚钱能力，也会给反报价。但他计划留下她后逐步削减信息和交易机会，让两年后的她只值现在一小部分。温迪质疑其中的权力与性别问题，没有把计划告诉 Maria。",
+      "analysis": "名义上的加薪与实际上的报复可以同时成立，因此 Maria 单看合同和态度很难识别危险。Wags 反复用忠诚和好士兵解释资源分配，把市场议价读成对自己的冒犯。温迪获得了最该提醒另一人的信息，却受到会谈保密约束；她不能把自己简单放回人力资源的位置。",
+      "turn": "因此 → 温迪必须寻找既保护患者、又不直接泄露会谈的办法。"
+    },
+    {
+      "id": "board-map",
+      "act": "leverage",
+      "lane": "capital",
+      "where": "YumTime 初步接触 / 老查克与 Evelyn",
+      "title": "少数股份，怎样找到多数表决的入口？",
+      "image": "board-pressure",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "阿克斯与 Wags 指出 YumTime 利润下降、管理层待遇上涨，要求参与决策。董事提到主席 Purk 与 Bailey 家族的关系，二人确认他是关键。Evelyn 随后把股东信拿给老查克；他认为这在向自己和她的私情发信号。",
+      "analysis": "阿克斯没有靠持股比例直接命令董事会，而是从回答中识别能够让决定成立的人。老查克的解释给这场治理行动加上一层私人对抗，但这仍是他的判断。剧中确实展示 Evelyn 的席位与他的关系；它没有要求观众把恢复配方的愿望和打击对手拆成非此即彼。",
+      "turn": "因此 → 两边都知道这场公司行动正在触及私人关系。"
+    },
+    {
+      "id": "horse-trade",
+      "act": "pressure",
+      "lane": "law",
+      "where": "查克办公室 / 与东区通话",
+      "title": "想拿回一个人，先交出另一位同事两年的工作",
+      "image": "case-trade",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "查克最初拿普通案件交换遭东区拒绝，随后要求 Lonnie 把筹备两年的自由女神像未遂爆炸案交出去。东区接受这个更有分量的条件，却坚持让 Spyros 随案参与。Decker 的调查回到南区，Lonnie 被要求为了团队接受自己失去主导的结果。",
+      "analysis": "案卷不是抽象筹码，它带着同事的时间、职业回报和个人投入。查克用团队利益解释牺牲，与 Wags 的好士兵语言遥相呼应；但这里的目标是重新控制执法方向。交换成功仍留下代价：同事的不满与不喜欢的合作对象，不能随一次通话结束而消除。",
+      "turn": "因此 → 查克得到 Decker，也接受了他不想要的 Spyros。"
+    },
+    {
+      "id": "failed-proffer",
+      "act": "pressure",
+      "lane": "law",
+      "where": "Decker 住处外 → 南区问询室",
+      "title": "“别人已经说了”，没有让他开口",
+      "image": "proffer",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "Bryan 与 FBI 等孩子上学后拦下 Decker，他随后带律师进入问询室。查克声称另有人做过相同药品交易且十分健谈，强调先合作的好处。Decker 拒绝把交易牵到阿克斯；Spyros 几次插话，律师结束会谈，三人的配合也变得紧张。",
+      "analysis": "查克试图改变 Decker 对别人是否沉默的预期，让不合作变成最危险的选择。对方并没有因为这段说辞就动摇，说明熟悉的施压公式需要可信条件。Spyros 的抢话又把统一压力拆成几种声音；没有结果的会谈同时暴露证据与团队控制的不足。",
+      "turn": "因此 → 检方需要一种不能仅靠嘴上描述的损失。"
+    },
+    {
+      "id": "purk-pizza",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "Bruno 的披萨店",
+      "title": "用没有变过的味道，说服能让公司改变的人",
+      "image": "pizza",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "阿克斯把 Purk 带到熟悉的披萨店，解释 Bruno 坚持原配方从没令自己失望。他回忆送报后奖励自己一块 Scrumpet，如今配方却换成便宜原料。他把产品变差与第三代 CEO 的经营方式相连，说服 Purk 支持恢复品质与调整管理层。",
+      "analysis": "Purk 不需要再听一遍敌意威胁；他需要一个能够同时顾及公司传统和经营未来的理由。披萨店把这个理由变成桌上的食物：维持品质并不等于拒绝商业。阿克斯找到对方能够接受的语言，使自己的外来者身份暂时变成替创办者守住遗产的人。",
+      "turn": "因此 → 关键董事愿意把怀旧转成表决行动。"
+    },
+    {
+      "id": "board-vote",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "YumTime 董事会",
+      "title": "配方要恢复，椅子也要换主人",
+      "image": "purk",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "正式会上，阿克斯提出恢复原配方，并以削减高层薪酬、待遇与专机等开支补足成本。Hutch 指责他是会拆卖公司的掠夺者；Purk 与多数董事仍通过罢免 CEO 的动议。Evelyn 也被撤下，由阿克斯取代其席位，离开前受到公开羞辱。",
+      "analysis": "商业理由在台面上成立，但权力更替也清楚惩罚了阻力。CEO 的“掠夺者”说法是人物指控，不能直接当作后来必然发生的结果；同样，阿克斯的“恢复荣耀”也不是未来兑现保证。席位真正变动后，老查克才把这件事当成必须由儿子回应的私人损失。",
+      "turn": "因此 → 阿克斯进入董事会，查克家族感到自己的关系网被摸到。"
+    },
+    {
+      "id": "maria-choice",
+      "act": "choice",
+      "lane": "wendy",
+      "where": "温迪诊疗室 / Maria 离职",
+      "title": "不说出秘密，也能让她看见另一种人生",
+      "image": "maria-talk",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "Maria 说反报价与 Wags 的尊重让自己犹豫。温迪让她设想八十岁时回看留在 Axe 或转往 Zenobia 的生活，不公开报复计划。Maria 最终离开；夜里温迪向 Maria 新去的 Zenobia 基金认投二十五万美元，双方约定不让阿克斯知道。",
+      "analysis": "想象练习没有把决定写成“你必须走”，而是让职业满足与更好的自己进入选择标准。但温迪掌握额外信息，提问也有明确方向，所以这不是完全中性的咨询。私下投资进一步改变医生与患者的距离：她帮助一人获得退路，同时承担了与雇主利益冲突的隐秘选择。",
+      "turn": "因此 → Maria 逃出预定的报复，温迪的职业边界却出现另一种复杂性。"
+    },
+    {
+      "id": "parents",
+      "act": "choice",
+      "lane": "law",
+      "where": "南区办公室 / Kate 原本要去歌剧院",
+      "title": "她找到的不是弱交易员，而是父母的账户",
+      "image": "kate",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "Kate 查出 Decker 的父母退休前是教师和店员，账户净值却达八位数，账单全送到儿子那里，并参与可疑交易。Bryan 质疑父母可能不知情，查克仍认为可以施压，称是 Decker 让他们暴露。Kate 因这条线索被邀加入重要案件，放弃当晚歌剧。",
+      "analysis": "Kate 从家庭财务安排找到另一种证据路径，也因此得到职业机会。可账户异常与账户主人明知犯罪之间还有距离，Bryan 把这个距离说了出来。查克没有先解决无辜与否，而是把漏洞看成让 Decker 动摇的杠杆；这一步将决定结尾施压所付的伦理成本。",
+      "turn": "因此 → 检方把压力对象从嫌疑人扩展到他在意的人。"
+    },
+    {
+      "id": "june-deal",
+      "act": "choice",
+      "lane": "capital",
+      "where": "劳拉家门口 / 修订书稿",
+      "title": "章节删了，录取“误会”也有望消失",
+      "image": "lara-agreement",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "劳拉此前取得 June 回忆录，认定第十章有问题，并咨询律师；June 随后失去健身课、高尔夫机会，又听到儿子未被 Stanford 接受。她最终登门交出删改版，主动提出对删去内容保密。劳拉备好协议，并称录取资料存在误差、正在修正。",
+      "analysis": "压力没有在一次争吵中说完，而是从社交日常一路蔓延到孩子前途。剪辑和劳拉的联系把这些遭遇连到一起，具体干预过程并未全部展示。June 提出的“自愿”保密因而带着明显的不对等；劳拉替丈夫保护声誉，同时决定哪些经历不得进入公共叙述。",
+      "turn": "因此 → 危险章节被封住；儿子的最终正式录取结果本集未展示。"
+    },
+    {
+      "id": "ballgame",
+      "act": "choice",
+      "lane": "law",
+      "where": "周六儿童棒球场",
+      "title": "她删去章节，他答应周一来谈",
+      "image": "decker",
+      "sources": [
+        "transcript",
+        "fan",
+        "recap"
+      ],
+      "fact": "查克带团队到 Decker 执教的儿童球场，表示这次目标是来探望孙子的父母。他说已取得账户资料，威胁逮捕并让他们周末留置；Decker 抗议父母不该承受，随后答应周一到办公室。查克没有在现场抓父母，也没有在本集获得其后完整证词。",
+      "analysis": "结尾与 June 的让步相互照亮：直接对抗没有成功，亲属的处境却让人改变决定。查克说自己不是来找 Decker，形式上的转移并未遮住真正目的。上一集他为判刑影响孩子而困扰，本集则主动使用家庭痛苦制造配合；有效与正当之间的张力被保留下来。",
+      "turn": "因此 → 南区获得新的谈话承诺，真正的合作内容仍停在边界之外。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "纽约南区联邦检察官",
+      "fact": "交换大案夺回 Decker 调查，并以父母账户与周末拘留风险促其来谈。",
+      "analysis": "他坚持公共规则，也积极经营案件杠杆；家庭代价从困扰变成了自己的施压工具。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人 / 积极股东",
+      "fact": "从品尝点心到争取 Purk，推动撤换 YumTime CEO 和 Evelyn。",
+      "analysis": "顾客记忆、投资收益与私人对抗可以共存；本集没有公开一个排斥其他解释的唯一动机。"
+    },
+    "wendy": {
+      "role": "精神科医生 / 表现教练",
+      "fact": "听到 Wags 的报复计划，引导 Maria 离开，并私下投入新机会。",
+      "analysis": "保护患者的选择越来越主动，也把她推向保密、雇佣利益与个人投资的交叉处。"
+    },
+    "wags": {
+      "role": "首席运营官",
+      "fact": "准备削减 Maria 的信息和机会；同时协助阿克斯向董事会施压。",
+      "analysis": "同一个相信杠杆的人，拒绝雇员用杠杆谈待遇。忠诚在他那里成为分配未来的标准。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 / 家庭声誉维护者",
+      "fact": "取得 June 书稿，安排安静的压力，收到删稿和保密协议。",
+      "analysis": "她善用关系而少留公开冲突；沉默也因此成为可以被迫签字的成果。"
+    },
+    "maria": {
+      "role": "投资组合经理",
+      "fact": "以外部 offer 获得反报价，最终接受温迪引导而离开 Axe Capital。",
+      "analysis": "她起初只看见待遇和友好态度，观众却知道机会将被削减。离开是一种保住未来的选择。"
+    },
+    "decker": {
+      "role": "Quaker Ridge 负责人 / 前 Axe 员工",
+      "fact": "首次问询拒绝合作，父母面临拘留威胁后答应周一来谈。",
+      "analysis": "个人忠诚或自保无法解释全部沉默；本集真正改变他选择的是亲人的处境。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 寻找入口",
+      "note": "每一方先确认谁掌握关键连接。",
+      "edges": [
+        "隔着 Decker 的调查",
+        "各自工作 / 婚姻并行",
+        "信任仍在 / 保密困境"
+      ],
+      "details": {
+        "chuck": "发现东区抢先，自己的目标正受办公室竞争牵动。",
+        "axe": "用品尝经验启动治理，寻找董事会中真正能转向的人。",
+        "wendy": "得知 Wags 的职业报复，不能把秘密直接交给另一名患者。",
+        "wags": "答应给 Maria 钱，却决定削减她未来的能力与机会。",
+        "lara": "获得 June 书稿，准备保护家庭名声。",
+        "maria": "认为外部报价证明自己的市场价值。",
+        "decker": "下属被捕，自己进入执法关注。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 杠杆生效与失效",
+      "note": "案卷交换能夺回调查，问询话术却不能让证人立刻让步。",
+      "edges": [
+        "治理触及查克父亲",
+        "家庭仍是倾诉空间",
+        "雇主利益 / 医生责任分岔"
+      ],
+      "details": {
+        "chuck": "牺牲同事主导的大案换回 Decker，首次问询仍无突破。",
+        "axe": "以披萨与旧配方说服 Purk，争得董事会行动。",
+        "wendy": "向医生朋友请教怎样把帮助优先给更需要的人。",
+        "wags": "不知温迪会改变 Maria 的选择，继续参与治理施压。",
+        "lara": "June 的社交资格与孩子前途接连受挫，压力逐步累积。",
+        "maria": "反报价让她犹豫，尚不知道留下后的报复。",
+        "decker": "带律师离开，没有被“别人已说”的压力说服。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 退路被重新分配",
+      "note": "有人通过离开保住未来，有人通过让步保护亲属。",
+      "edges": [
+        "得到 Decker 会面承诺",
+        "父亲问题进入亲密时刻",
+        "职业合作继续 / 私下分歧"
+      ],
+      "details": {
+        "chuck": "在球场迫使 Decker 答应周一会面，未展示后续证词。",
+        "axe": "获得董事席位，也赞赏劳拉处理书稿的成果。",
+        "wendy": "Maria 已离开，她又私下投资，职业与个人身份更难分开。",
+        "wags": "看着 Maria 离开，原定报复失去可执行的对象。",
+        "lara": "收到删改和保密；她对录取修正的说法没有等同于正式结果。",
+        "maria": "去往 Zenobia，得到温迪的个人资金支持。",
+        "decker": "父母风险压过继续沉默的选择，但合作范围尚未公开。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "board",
+      "title": "一个顾客的不满，怎样变成董事会表决？",
+      "intro": "恢复配方需要经营理由，更需要能投票的人。",
+      "nodes": [
+        {
+          "name": "点心变味",
+          "role": "形成具体不满",
+          "portrait": null,
+          "scene": "taste"
+        },
+        {
+          "name": "阿克斯 / Wags",
+          "role": "提出经营和薪酬问题",
+          "portrait": "axe",
+          "scene": "board-map"
+        },
+        {
+          "name": "Purk",
+          "role": "接受恢复品质的方向",
+          "portrait": null,
+          "scene": "purk-pizza"
+        },
+        {
+          "name": "董事会",
+          "role": "CEO 与席位更替",
+          "portrait": null,
+          "scene": "board-vote"
+        }
+      ],
+      "result": "4.9% 不是控制权的魔法数字。董事的改变让行动成立，收益与承诺仍需以后兑现。"
+    },
+    {
+      "id": "triage",
+      "title": "温迪怎样在不泄露秘密时改变结果？",
+      "intro": "她从会谈得知的危险，不能照搬给另一名患者。",
+      "nodes": [
+        {
+          "name": "Wags",
+          "role": "公开自己的报复计划",
+          "portrait": "wags",
+          "scene": "wags-plan"
+        },
+        {
+          "name": "温迪",
+          "role": "选择优先保护潜在受害者",
+          "portrait": "wendy",
+          "scene": "maria-choice"
+        },
+        {
+          "name": "Maria",
+          "role": "比较两种未来并离开",
+          "portrait": "maria",
+          "scene": "maria-choice"
+        },
+        {
+          "name": "温迪的投资",
+          "role": "私下资金支持",
+          "portrait": null,
+          "scene": "maria-choice"
+        }
+      ],
+      "result": "离开阻止了公司内的报复；私下投资则使这次保护带上另一层利益关系。"
+    },
+    {
+      "id": "family-pressure",
+      "title": "首次问询失败以后，压力如何抵达父母？",
+      "intro": "这一条路径只画本集实际展示的发现与威胁。",
+      "nodes": [
+        {
+          "name": "Decker",
+          "role": "拒绝首次合作",
+          "portrait": "decker",
+          "scene": "failed-proffer"
+        },
+        {
+          "name": "Kate",
+          "role": "查到代管父母账户",
+          "portrait": null,
+          "scene": "parents"
+        },
+        {
+          "name": "查克",
+          "role": "提出周末拘留风险",
+          "portrait": "chuck",
+          "scene": "ballgame"
+        },
+        {
+          "name": "Decker",
+          "role": "承诺周一来谈",
+          "portrait": "decker",
+          "scene": "ballgame"
+        }
+      ],
+      "result": "账户材料并不自动证明父母明知犯罪。承诺会面与已经提供证词，也须分开。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "You cannot leverage us.",
+      "zh": "你不能拿筹码来压我们。",
+      "speaker": "Wags → 温迪",
+      "context": "他解释为何打算留下 Maria 又毁掉她的职业前景。",
+      "image": "wags",
+      "analysis": "一句话揭出待遇谈判的非对称：公司可以施压，雇员的同类行为却被读成冒犯。"
+    },
+    {
+      "en": "Men renegotiate.",
+      "zh": "男人也会重新谈待遇。",
+      "speaker": "温迪 → Wags",
+      "context": "她追问对 Maria 的愤怒是否来自性别与权力。",
+      "image": "wags",
+      "analysis": "她没有把自己的怀疑直接宣布为最终结论，却逼他解释为什么这次议价特别不可原谅。"
+    },
+    {
+      "en": "a beacon of hope.",
+      "zh": "一座希望的灯塔。",
+      "speaker": "阿克斯 → YumTime 董事",
+      "context": "他为治理行动描述自己的角色。",
+      "image": "board-pressure",
+      "analysis": "这句自我定位需要与实际人事表决一起看：救产品与换掉阻力，在同一场行动里发生。"
+    },
+    {
+      "en": "Right and wrong.",
+      "zh": "对与错。",
+      "speaker": "查克 → Decker",
+      "context": "在球场，Decker 指责拿父母施压不对，查克以这条界线回应。左图为本集较早的问询配图，非这句台词的球场画面。",
+      "image": "decker",
+      "analysis": "短语没有替他完成伦理论证。恰恰因为结尾成功了，读者更需要问成功的代价由谁承担。"
+    }
+  ],
+  "comparison": {
+    "title": "两位女性，怎样处理“别人将被伤害”的消息？",
+    "deck": "从动作和信息看差别，避免把两个人压成善恶标签。",
+    "left": {
+      "image": "maria-talk",
+      "caption": "本集截图：温迪引导 Maria 比较人生选择。",
+      "speaker": "温迪 → Maria",
+      "title": "把另一条路打开。",
+      "text": "她知道报复计划，却不直接泄密。她引导患者看见离开的未来，再私下提供资金；保护与利益边界随之纠缠。"
+    },
+    "right": {
+      "image": "lara-agreement",
+      "caption": "本集截图：劳拉接过修订稿与保密提议。",
+      "speaker": "劳拉 → June",
+      "title": "让危险的故事没有路可走。",
+      "text": "她取得书稿后逐步缩小对方的社交与家庭退路，最后收到删改和签字；夫妻名声因此被保护。"
+    },
+    "rows": [
+      {
+        "label": "掌握什么",
+        "left": "会谈中的职业报复计划",
+        "right": "未出版的回忆录"
+      },
+      {
+        "label": "行动指向",
+        "left": "潜在受害者可以离开",
+        "right": "作者必须删去危险内容"
+      },
+      {
+        "label": "自己的代价",
+        "left": "保密与投资身份冲突",
+        "right": "把家庭前途卷入声誉控制"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "保护谁，决定了“帮助”是什么样。",
+      "text": "温迪的提问与劳拉的体贴都可以让人点头。看见她们在保护谁、哪些信息被保留、哪些退路被改变，比只比较语言温柔与否更有用。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "原配方",
+      "fact": "阿克斯要求恢复 sugar 等旧原料，而不是接受变味后的点心。",
+      "analysis": "怀旧提供动力，治理提供执行办法；二者不能替代检验商业结果。",
+      "steps": [
+        "记得味道",
+        "找出改动",
+        "改写治理"
+      ]
+    },
+    {
+      "title": "好士兵",
+      "fact": "Wags 以忠诚解释资源倾斜，并把 Maria 议价视为越界。",
+      "analysis": "把员工当士兵会让合理谈判变成不服从，职业成长因此由上级是否被冒犯决定。",
+      "steps": [
+        "忠诚标准",
+        "信息分配",
+        "未来价值"
+      ]
+    },
+    {
+      "title": "亲属的账本",
+      "fact": "June 的孩子前途和 Decker 父母账户分别进入施压。",
+      "analysis": "压力绕过直接拒绝者，转向他们无法放下的人；那一句自愿因此不能脱离处境理解。",
+      "steps": [
+        "直接碰壁",
+        "寻找亲属",
+        "得到让步"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "decker",
+    "kicker": "THE PRICE OF YES",
+    "value": "MON",
+    "title": "他说周一会来。\n这一个“好”，是谁替他付了代价？",
+    "text": "Maria 通过离开保住未来，June 通过删稿保护孩子，Decker 通过答应会面挡住对父母的威胁。结尾重回步道，之前的遛狗者已带上清理袋，与查克点头致意：几种服从都出现了，但并非来自同一种自由。新的谈话承诺也还不能提前写成合作与真相的结果。"
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "title": "The Conversation",
+  "chineseTitle": "两个人都失去了她，却仍坚持下一回合。",
+  "subtitle": "公司可以重建，关系不能按原价买回。",
+  "hero": "ruins",
+  "heroTitle": "他们拆开了房间。\n没有拆开自己的理由。",
+  "heroDeck": "筹资回归，新调查又来。\n信任被当成漏洞，隐私被当成筹码。\n温迪离开之后，两人仍决定继续对抗。",
+  "openingTitle": "当一次坦白变成威胁，关系还剩下什么？",
+  "openingFact": "阿克斯以新车感谢温迪，准备重启筹资；查克已将秘密读来的 Danzig 信息交给 Lonnie，要求隐藏自己的参与。",
+  "openingReading": "同一份会谈帮助一人恢复行动，又被另一人用来开始调查。保密承诺先在后台失效，随后前台的感谢也迅速翻成怀疑。",
+  "stamp": {
+    "value": "0",
+    "label": "NO WIRE FOUND",
+    "note": "搜索没有找到监听器，却把真实的公司与关系都拆出了伤口。"
+  },
+  "storyTitle": "十二次选择，把他们带到最后的对话。",
+  "storyDeck": "顺着信息来源、威胁、拒绝与假消息，看谁仍能控制自己的出口。",
+  "spoiler": "剧透至第一季 S01E12 结尾，含笔记来路、奖金、辞职和办公室拆毁；不引用后续季。",
+  "intro": "阿克斯筹资重获成功，查克也以另一个案件继续追他。消息走到温迪面前时，被包装成她出卖了雇主；消息走到办案团队时，又被包装成独立发现。温迪拆穿两种包装，要求丈夫离家，向老板辞职。最后，假监听情报让阿克斯拆开公司，两位对手在废墟中相遇，仍用各自的公共理由解释私人执念。",
+  "catalogueIntro": "保密会谈的内容引出新案，阿克斯却误把温迪当成泄密者。她向丈夫要责任、向老板要离开的自由；一条假监听消息让公司成了废墟，两位对手在其中继续争论。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E12 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e12",
+      "note": "核对台词与事件顺序；非官方转录。中文台词均为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 12 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "note": "核对场景与图像归属；原作者对心理及动机的推测未作为剧情事实。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E12 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-12/screencaps/",
+      "note": "只用于本集画面和人物辨认；未采用自动生成的剧情问答。"
+    },
+    {
+      "id": "recap",
+      "title": "Ginges Be Cray · S1E12 逐场回顾",
+      "url": "https://gingesbecray.com/billions-s1e12-the-conversation-recap/",
+      "note": "核对删除录音的主语、奖金、辞职、线人假消息与结尾。原文车型、投资损失与个别机构名称有误，以对白和画面为准。"
+    },
+    {
+      "id": "review",
+      "title": "Den of Geek · The Conversation 评论",
+      "url": "https://www.denofgeek.com/tv/billions-season-1-finale-review-the-conversation/",
+      "note": "交叉参照婚姻争论、助手选择与结尾；关于人物谁“做对了”的评价不作为本页结论。"
+    },
+    {
+      "id": "observer",
+      "title": "Observer · 第一季结局回顾",
+      "url": "https://observer.com/2016/04/billions-season-finale-recap-imitation-is-the-sincerest-form-of-television/amp/",
+      "note": "参照拆毁办公室和片名呼应；叙事解读由本页独立撰写。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/gift.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1270-e1469251714416.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯在车边把钥匙交给温迪",
+      "caption": "本集截图：送给温迪的会谈谢礼；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 500,
+      "height": 260
+    },
+    {
+      "file": "assets/new-tip.jpg",
+      "originalUrl": "https://simkl.net/episodes/46/4628582ffa5b1484c_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-12/screencaps/",
+      "alt": "查克在办公室向 Lonnie 布置任务",
+      "caption": "本集截图：把 Danzig 信息交给 Lonnie；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/fundraise.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1271.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "穿西装的阿克斯与 Wags 坐在出资者面前",
+      "caption": "本集截图：筹资会议的第一种面貌；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1896,
+      "height": 1090
+    },
+    {
+      "file": "assets/staley-pitch.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1225.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯换回黑色连帽外套向 Carter Staley 推销基金",
+      "caption": "本集截图：阿克斯用限时上车的说法促使 Carter Staley 出资；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1580,
+      "height": 780
+    },
+    {
+      "file": "assets/traffic.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1235.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯的汽车与警车停在树林旁",
+      "caption": "本集截图：Raul 在路边向阿克斯示警；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1548,
+      "height": 782
+    },
+    {
+      "file": "assets/stadium.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1274.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯、Hall 与 Bach 在空旷体育场会面",
+      "caption": "本集截图：讨论武器与警察付款的风险；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1788,
+      "height": 868
+    },
+    {
+      "file": "assets/blackmail.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1210.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯拿着澡堂照片面对温迪",
+      "caption": "本集宣传剧照：用照片指责并威胁温迪；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/lara-plan.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1275.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "劳拉在夜间考虑全家离开的安排",
+      "caption": "本集截图：逃离计划启动后的劳拉；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1984,
+      "height": 1064
+    },
+    {
+      "file": "assets/marriage.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1276.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "温迪面对查克，质问他的秘密行为",
+      "caption": "本集截图：夫妻争吵；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1942,
+      "height": 1000
+    },
+    {
+      "file": "assets/terminated.jpg",
+      "originalUrl": "https://simkl.net/episodes/46/462864876e679637c_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-12/screencaps/",
+      "alt": "穿背心的查克向团队宣布停止调查",
+      "caption": "本集截图：终止 Danzig 与警察付款调查；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/recording.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1211.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "温迪举起手机中的录音界面面对阿克斯",
+      "caption": "本集宣传剧照：播放丈夫承认窃阅的录音；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/leaving.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1280.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "温迪坐在新车驾驶座上离开",
+      "caption": "本集截图：辞职后的离开；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2044,
+      "height": 976
+    },
+    {
+      "file": "assets/bach.jpg",
+      "originalUrl": "https://simkl.net/episodes/46/462865638946d9595_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-12/screencaps/",
+      "alt": "Bach 坐在披萨店桌边向 Bryan 解释信息来源",
+      "caption": "本集截图：律师与旧学生的会面；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/recruitment.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1250.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯与 Bryan 隔着披萨桌交谈",
+      "caption": "本集截图：阿克斯提出转入私人律师事务所；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1462,
+      "height": 802
+    },
+    {
+      "file": "assets/sweep.jpg",
+      "originalUrl": "https://simkl.net/episodes/46/462866883e23bf7cf_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-12/screencaps/",
+      "alt": "昏暗公司内有人用仪器搜索监听设备",
+      "caption": "本集截图：监听器排查；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/ruins.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1281.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "查克走进拆毁后的 Axe Capital 办公区域",
+      "caption": "本集截图：搜查监听器后的公司；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1924,
+      "height": 1030
+    },
+    {
+      "file": "assets/faceoff.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1246.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "alt": "阿克斯与查克在被拆开的公司里面对面交锋",
+      "caption": "本集截图：最后一次对话；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1334,
+      "height": 1116
+    }
+  ],
+  "scenes": [
+    {
+      "id": "gift",
+      "act": "setup",
+      "lane": "wendy",
+      "where": "健身房外 / 新车旁",
+      "title": "他觉得恢复了，她提醒别人未必准备好",
+      "image": "gift",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯找到刚离开健身房的温迪，送她一辆车作为会谈谢礼，并说明奖金仍按工作贡献计算。他说那晚之后觉得自己可以开始筹资；温迪看见他恢复状态，也提醒他，潜在投资者未必已经准备好。",
+      "analysis": "一场有效会谈可以让来访者更能行动，不能让外部世界同步改变。礼物是真实谢意，也把职业帮助转换成财富回报；她在接受时仍给出一个不迎合老板的判断。很快，筹资场景就会证明，自我感觉重新对齐，并不等于他人愿意承担同样的风险。",
+      "turn": "因此 → 阿克斯开始重返市场，旧声誉问题仍在等待他。"
+    },
+    {
+      "id": "laundered-tip",
+      "act": "setup",
+      "lane": "law",
+      "where": "检察官办公室 / Greenwich 警方",
+      "title": "一条秘密读来的信息，换了一个正式入口",
+      "image": "new-tip",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克欢迎 Lonnie 回南区，立即让他查 Danzig 的自动武器事件及警察受贿，要求不能追溯到自己。Lonnie 查值班记录和出警人员，发现相关警员去过瓦努阿图。面对询问，警员的律师要求有明确指控才继续。",
+      "analysis": "线索来自温迪笔记，查克却把它包装成另一个人的调查起点。后续翻阅记录可以是真实工作，不能因此抹去最初来源的问题。Lonnie 得到任务，并不等于此时知道笔记如何被拿走；把“执行者”与“秘密来源的知情者”分开，才能看清上级如何隔离责任。",
+      "turn": "因此 → 新调查开始，而团队不掌握完整的信息来路。"
+    },
+    {
+      "id": "fundraise-refusal",
+      "act": "setup",
+      "lane": "capital",
+      "where": "多轮筹资会议",
+      "title": "报酬很好，他们仍不想承受他的人生",
+      "image": "fundraise",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯与 Wags 穿西装、带资料向出资者讲成绩。对方关注基金的动荡、名誉和外部资金流失，不愿只听收益解释；下一组又问 Carter Staley 是否加入。Wags 认为需要一个重要配置者带头，其余资金才会跟进。",
+      "analysis": "买基金的人并不只买一条收益曲线，也买自己愿意承担的麻烦。阿克斯不断谈竞争优势，对方不断把话带回声誉与不确定性。这一错位说明他还需要改变说服的内容：不能只保证自己会赚钱，还要让别人相信，此刻不上车的代价大于陪他承受动荡。",
+      "turn": "因此 → Carter Staley 成为重新打开资金入口的关键。"
+    },
+    {
+      "id": "bullet-train",
+      "act": "setup",
+      "lane": "capital",
+      "where": "街道换装 / Carter Staley 会面",
+      "title": "脱掉西装，把迟疑变成错过的恐惧",
+      "image": "staley-pitch",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯把西装和领带扔下，换回熟悉的日常衣服。他向 Carter Staley 承认声誉动荡，又强调长期跑赢市场；当对方说一年后再谈，他限时要求立即决定，否则永远不再获得机会。出资者接受，公司庆祝筹资回归。",
+      "analysis": "衣服改变的不是数字，而是他发出邀请的方式。他停止模仿稳重的标准推销者，重新用个人确信和稀缺机会施压。承认风险让讲话更可信，倒计时又把审慎延期改写成可能终身后悔的失机。筹资成功是本集结果，不是未来业绩保证。",
+      "turn": "因此 → 他刚恢复主动，就收到新的刑事风险警告。"
+    },
+    {
+      "id": "warning",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "树林路边 / 空体育场 / 家中",
+      "title": "真正危险的不是失言，而是他立刻指定了叛徒",
+      "image": "stadium",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Raul 告诉阿克斯，检察官正在查 Danzig、武器和付钱警员。体育场里 Bach 说明若能追到资金或供述将有重大风险，Hall 说海外与中间人只能拖延。阿克斯想到最近的会谈，认定温迪泄密，请 Hall 准备针对她的材料，并让劳拉启动离境预案。",
+      "analysis": "信息只告诉他调查出现了，没有告诉他是谁主动提供。阿克斯却从时间接近直接跳到背叛结论，把原本允许自己敞开的关系重新归入安全问题。Hall 的材料因此不是普通防卫资料，而是准备拿来限制一个熟人的武器。风险感知很敏锐，并不保证归因正确。",
+      "turn": "因此 → 未经核实的判断，开始伤害最重要的职业信任。"
+    },
+    {
+      "id": "threat",
+      "act": "pressure",
+      "lane": "wendy",
+      "where": "阿克斯办公室",
+      "title": "昨天的坦白，今天被他用来要求服从",
+      "image": "blackmail",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪来见阿克斯，他立即指责她出卖自己，展示她的网络浏览记录以及两人在澡堂的照片，威胁自己若出事她也一起受损。温迪坚决否认，要求可以给自己测谎；想到信息泄露的另一条路径后，她离开。",
+      "analysis": "被攻击的不只是隐私，也包括她对这份长期关系的理解。他把自己说出的秘密当成她必须服从的债务，再拿职业声誉与丈夫职位做筹码。照片是否足以证明任何不当关系，在本集没有得到结论；它们的威力来自被公开后足以制造误读与羞辱。",
+      "turn": "因此 → 温迪意识到，可信的泄露路径指向家里的电脑。"
+    },
+    {
+      "id": "escape-and-doubt",
+      "act": "pressure",
+      "lane": "cross",
+      "where": "离境方案会面 / 餐馆",
+      "title": "一边准备带全家走，一边怀疑团队没听到真话",
+      "image": "lara-plan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉咨询瑞士住处、学校与飞机安排，坚持全家同行且孩子保留原名，为尽快起飞愿意加倍付款。另一边，Bryan 追问 Lonnie 的“灵感”来源，怀疑查克直接喂给他线索；Lonnie 承认自己有来源，却拒绝进一步交代。",
+      "analysis": "劳拉让应急计划具体到孩子是否还叫自己的名字，显示逃离的代价不是换个富人住处这么简单。Bryan 关心的则是另一种归属：还能不能信任自己所属的办案团队。两人都在保护一套关系，却分别遇到别人先替自己作完决定的局面。",
+      "turn": "因此 → 家庭准备离开，团队内部的信任也开始撤退。"
+    },
+    {
+      "id": "marital-choice",
+      "act": "pressure",
+      "lane": "wendy",
+      "where": "罗兹家客厅",
+      "title": "她不给他把“没有选择”当成理由",
+      "image": "marriage",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪把孩子送走，录下与查克的争论。他承认打开笔记，却说自己没有选择、会再做一次。温迪表示若使用资料且查出来源，她会自愿作证。他又承认去见 Troy，并把自己的行为归因于阿克斯；温迪要求他收拾行李离开。",
+      "analysis": "这一对话把案件伦理与婚姻责任一起摊开。查克谈对手怎样拆散家庭，温迪要求他对自己采取的行动负责；知道密码、共有住处、害怕失去都不能自动构成许可。她对保密资料法律效力的说法是剧中立场，本页不把争论当成完整法律意见。",
+      "turn": "因此 → 丈夫离开家，原本秘密的行为得到一份由她掌握的录音。"
+    },
+    {
+      "id": "terminated",
+      "act": "collision",
+      "lane": "law",
+      "where": "次日检察官办公室",
+      "title": "他停止案件，却没有给团队完整解释",
+      "image": "terminated",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Lonnie 带来警员海外账户的进展，尚需继续追踪资金来源。查克宣布案件终止，称不存在能得到的枪支，也不愿再追幽灵。Bryan 和 Kate 听到突然转向，都意识到理由与前一天的信心不相称；查克没有说明笔记来源。",
+      "analysis": "停止使用受污染的起点，降低了进一步越界的风险；但不交代来路，又把知情差保留在团队之内。Bryan 无法只按“案件输了”理解这次退出，因为专业工作尚在前进，决定却在家庭对话后突然改变。他看到的是上级判断不透明，而不是法院已经宣告阿克斯无罪。",
+      "turn": "因此 → 新调查被关闭，助手对上级的怀疑没有被关闭。"
+    },
+    {
+      "id": "quit",
+      "act": "collision",
+      "lane": "wendy",
+      "where": "阿克斯办公室 / 车内",
+      "title": "拿回自己的收入，拒绝出售另一个人的弱点",
+      "image": "recording",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪向阿克斯播放查克承认窃阅的录音。他道歉，承诺销毁所有威胁图片副本，并把奖金由二百万加到五百万，当即汇入她个人账户；又开价三倍买录音。温迪拒绝，删除自己掌握的录音，直说不再否认公司的非法手段，随后辞职开车离开。",
+      "analysis": "她没有把被错怪的自己再包装成可收买的盟友。拿到自己可支配的奖金、保留车，与拒绝把孩子父亲的弱点出售并不矛盾；离开才是终止未来服务的动作。阿克斯承诺销毁照片是可核对的台词，但镜头没有让观众逐份验证所有副本都消失。录音的删除主语则是温迪。",
+      "turn": "因此 → 两个男人都失去对她的默认支配，她也停止为公司继续自我辩护。"
+    },
+    {
+      "id": "mole-and-offer",
+      "act": "collision",
+      "lane": "cross",
+      "where": "检察官办公室 / Axelrod 家 / 披萨店",
+      "title": "对助手说实话，对线人喂假话",
+      "image": "recruitment",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克查出内线清洁工，故意在他面前对 Dale 提起虚构监听器。阿克斯向劳拉说明不用离境，却保留应急现金黄金。披萨店里，Bach 告诉 Bryan 笔记来路；阿克斯以七位数起薪邀他转入 Bach 事务所。Bryan 听完离开，没有接受。",
+      "analysis": "查克把自己的消息漏洞反转成假消息渠道；阿克斯则把对方团队的道德裂缝反转成人才入口。告诉 Bryan 真相也服务于招募，因此诚实与算计仍会共同出现。Bryan 愿意听完不等于已经答应，阿克斯所说“没有听见不”只是招募者的解释，不能替他的选择作结论。",
+      "turn": "因此 → 两种反制同时发出，只有监听谣言马上触发对手行动。"
+    },
+    {
+      "id": "conversation",
+      "act": "collision",
+      "lane": "cross",
+      "where": "Axe Capital / 被拆毁的办公室",
+      "title": "房间被拆到底，理由却又回到原点",
+      "image": "ruins",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Hall 接到线人报告，称公司已有监听设备。连续排查无果后，阿克斯要求拆得更深，办公室被破坏，仍找不到监听器。查克带着装裱的旧和解支票到来；两人承认都失去温迪，又分别以规则和创造财富为由继续指责对方。",
+      "analysis": "结尾没有新的定罪，也没有和解。阿克斯亲手参与破坏自己的控制中心，是对不可确定威胁的过度回应；查克则把家庭损失转成“没什么可失去”的威慑。两人都能指出对方真实的问题，也都把自己的代价改写成继续竞争的理由。对话没有改变方向，只让失去变得更清楚。",
+      "turn": "因此 → 第一季以对抗的继续收束，而不是以任何一方被证明完全正确结束。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "setup",
+      "number": "I",
+      "title": "他们都准备重新出手。",
+      "deck": "会谈恢复了信心，秘密信息开启了调查，资金还要通过自己的门。",
+      "range": "01—04",
+      "summary": "筹资成功并没有取消已有行为的风险。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "谁把信任改成了弱点？",
+      "deck": "照片、笔记、账户与名字；亲密关系里可以被使用的东西越来越多。",
+      "range": "05—08",
+      "summary": "温迪将“没有选择”的借口还给采取行动的人。"
+    },
+    {
+      "id": "collision",
+      "number": "III",
+      "title": "她离开，他们留下。",
+      "deck": "案件被停止，录音被拒售，假情报却让整座公司变成搜索现场。",
+      "range": "09—12",
+      "summary": "终局没有判决；可见的代价是失去伙伴、家庭与原本完整的空间。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "联邦检察官 · 已被要求离家",
+      "fact": "秘密启动新调查后终止，用内线散播假监听消息，最后与阿克斯对峙。",
+      "analysis": "他能拒绝继续一条越界线，也会把失去的关系重新转成竞争理由。"
+    },
+    "axe": {
+      "role": "基金创办人 · 重新筹资者",
+      "fact": "筹资成功，误怪温迪并威胁她，失去她后又因假消息拆毁公司。",
+      "analysis": "钱能扩大行动空间，无法买回被自己攻击过的信任。越害怕不确定，越想把所有东西拆开查看。"
+    },
+    "wendy": {
+      "role": "精神科医生 · 选择离开基金的表现教练",
+      "fact": "录下查克承认窃阅，拒售并删除录音，拿回奖金，辞职。",
+      "analysis": "她不为任一方提供对抗武器，也不再靠否认环境的性质来维持自己的工作。"
+    },
+    "lara": {
+      "role": "阿克斯妻子 · 家庭应急安排者",
+      "fact": "准备全家赴瑞士，风险暂退后停止离境，家中仍留现金和黄金。",
+      "analysis": "逃离方案可以被取消，失去安全感却不随一次案件终止立刻消失。"
+    },
+    "hall": {
+      "role": "信息与安全顾问",
+      "fact": "准备温迪的威胁材料，根据线人误报搜索监听器。",
+      "analysis": "他掌握秘密渠道，也会被同一渠道传来的假消息牵动。安全能力不等于信息一定可靠。"
+    },
+    "bryan": {
+      "role": "助理联邦检察官",
+      "fact": "怀疑线索来路，得知查克窃阅后听阿克斯招募，最终离开会面。",
+      "analysis": "坚持原则时，先失去的是对“自己这一边天然正确”的确信；离开会面仍不等于正式接受转职。"
+    },
+    "bach": {
+      "role": "阿克斯的律师 · Bryan 旧日教授",
+      "fact": "解释新案风险，告诉 Bryan 线索来源，参与私人事务所招募。",
+      "analysis": "他提供专业判断，也懂得用对方的道德失落打开另一条职业路。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 各自觉得可以回来",
+      "note": "筹资恢复与秘密新案同时开始，温迪还相信会谈被保密。",
+      "edges": [
+        "筹资回归 / 新调查暗起",
+        "笔记已被取用，妻子未察觉",
+        "感谢与职业合作"
+      ],
+      "details": {
+        "chuck": "让 Lonnie 建立正式调查入口，隐藏自己。",
+        "axe": "送谢礼，准备重新吸引外部资金。",
+        "wendy": "接受礼物，也提醒投资者未必准备好。",
+        "lara": "仍在维持家庭日常。",
+        "hall": "掌握警察付款的安全安排。",
+        "bryan": "从新调查的巧合里发现不正常。",
+        "bach": "判断若资金与供述被连接，风险重大。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 亲近被改成武器",
+      "note": "阿克斯误判背叛，查克承认越界，家庭与团队开始分开。",
+      "edges": [
+        "警察案成为新威胁",
+        "争吵 / 要求离家",
+        "照片与网络记录的威胁"
+      ],
+      "details": {
+        "chuck": "试图以恐惧与正义解释窃阅。",
+        "axe": "以公开隐私威胁温迪，准备离境。",
+        "wendy": "识别电脑路径，录下承认，并要求丈夫离开。",
+        "lara": "把撤离准备具体到名字、学校和飞机。",
+        "hall": "把熟人的私人资料转成安全材料。",
+        "bryan": "怀疑上级喂线索，尚不知道实际窃阅。",
+        "bach": "离开秘密材料讨论，让 Hall 接手。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 两个人都失去温迪",
+      "note": "她退出两套默认安排，助手的选择仍开放，对抗继续。",
+      "edges": [
+        "假监听消息 / 末尾交锋",
+        "查克已离家，婚姻未获修复",
+        "辞职 / 拒绝继续否认"
+      ],
+      "details": {
+        "chuck": "案件终止，散播假消息，让对手自毁空间。",
+        "axe": "筹资回归，但失去温迪，并把公司拆得面目全非。",
+        "wendy": "奖金进入个人账户，删除录音，开车离开。",
+        "lara": "不必离境，但保留应急现金黄金。",
+        "hall": "错误信息导致搜索，仍不能保证没有未知威胁。",
+        "bryan": "知道真相，听到转职条件，没有接受邀约。",
+        "bach": "提供招募渠道，等待学生自己的决定。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "tip-source",
+      "title": "同一条信息，怎样在两边被讲成两个故事？",
+      "intro": "上游是真实窃阅，下游一边包装成调查发现，一边误判成主动泄密。",
+      "nodes": [
+        {
+          "name": "温迪笔记",
+          "role": "记下保密会谈",
+          "portrait": "wendy",
+          "scene": "laundered-tip"
+        },
+        {
+          "name": "查克 → Lonnie",
+          "role": "隐藏来源，建立调查",
+          "portrait": "chuck",
+          "scene": "laundered-tip"
+        },
+        {
+          "name": "Raul → 阿克斯",
+          "role": "告知警察付款被查",
+          "portrait": "axe",
+          "scene": "warning"
+        },
+        {
+          "name": "温迪",
+          "role": "被误指为泄密者",
+          "portrait": "wendy",
+          "scene": "threat"
+        }
+      ],
+      "result": "误会来自来源被隐去，不来自温迪实际主动交出了患者信息。"
+    },
+    {
+      "id": "mole-feedback",
+      "title": "曾经有效的线人渠道，怎样反过来摧毁公司？",
+      "intro": "Dale 不知情地参与了假消息表演；图示没有把他写成真正安装监听器的人。",
+      "nodes": [
+        {
+          "name": "查克",
+          "role": "故意提起虚构监听器",
+          "portrait": "chuck",
+          "scene": "mole-and-offer"
+        },
+        {
+          "name": "清洁工内线",
+          "role": "听见并向 Hall 报告",
+          "portrait": null,
+          "scene": "mole-and-offer"
+        },
+        {
+          "name": "Hall",
+          "role": "把来源内容传给阿克斯",
+          "portrait": "hall",
+          "scene": "conversation"
+        },
+        {
+          "name": "阿克斯",
+          "role": "无果后要求拆得更深",
+          "portrait": "axe",
+          "scene": "conversation"
+        }
+      ],
+      "result": "没有查到设备的每一次搜索，都让对手提供的假消息获得更大破坏力。"
+    },
+    {
+      "id": "recording-choice",
+      "title": "一份录音，为什么没有变成新的进攻武器？",
+      "intro": "录下、播放、拒售、删除是温迪作出的四个动作。",
+      "nodes": [
+        {
+          "name": "温迪",
+          "role": "录下丈夫承认窃阅",
+          "portrait": "wendy",
+          "scene": "marital-choice"
+        },
+        {
+          "name": "阿克斯",
+          "role": "听见来源，认错并付款",
+          "portrait": "axe",
+          "scene": "quit"
+        },
+        {
+          "name": "阿克斯的报价",
+          "role": "想买下能攻击查克的录音",
+          "portrait": null,
+          "scene": "quit"
+        },
+        {
+          "name": "温迪",
+          "role": "拒绝出售，删除并辞职",
+          "portrait": "wendy",
+          "scene": "quit"
+        }
+      ],
+      "result": "她结束未来的职业服务，没有把自己的受伤换成另一场竞争的材料。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Pack your shit.",
+      "zh": "收拾你的东西。",
+      "speaker": "温迪 → 查克",
+      "context": "争论之后要求他离家。",
+      "image": "marriage",
+      "analysis": "她把关于谁破坏家庭的争论，落到一个自己有权要求的具体动作上。"
+    },
+    {
+      "en": "I quit, Bobby.",
+      "zh": "我辞职，Bobby。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "拒售录音后宣布离开。",
+      "image": "recording",
+      "analysis": "奖金能补偿贡献，不能替她购买继续参与的同意。离开是她停止否认工作环境的方式。"
+    },
+    {
+      "en": "You can never be sure.",
+      "zh": "你永远不能完全确定。",
+      "speaker": "Hall → 阿克斯",
+      "context": "公司拆到底仍找不到监听器；配图为排查段落。",
+      "image": "sweep",
+      "analysis": "信息顾问最后承认知识有边界。阿克斯越想抹掉不确定，越把真实空间破坏掉。"
+    },
+    {
+      "en": "Because you're a criminal, Bob.",
+      "zh": "因为你是罪犯，Bob。",
+      "speaker": "查克 → 阿克斯",
+      "context": "结尾解释自己为什么追他。",
+      "image": "faceoff",
+      "analysis": "这是查克的立场和指控，不能当作本季已经产生的法院判决。对话暴露执念，没有完成司法结论。"
+    }
+  ],
+  "comparison": {
+    "title": "同一个女人，两次终止默认的安排。",
+    "deck": "她要求丈夫离家，也向老板辞职；两段关系不能因为她离开就被简化成选边。",
+    "left": {
+      "image": "marriage",
+      "caption": "本集截图：罗兹家争论",
+      "speaker": "温迪 → 查克",
+      "title": "承担自己的行为，再谈我们的家庭。",
+      "text": "她拒绝用阿克斯的存在替查克解释窃阅与隐瞒。住处、婚姻和密码，都不构成自动访问的许可。"
+    },
+    "right": {
+      "image": "recording",
+      "caption": "本集宣传剧照：录音与辞职段落",
+      "speaker": "温迪 → 阿克斯",
+      "title": "归还我被误判的忠诚，也允许我离开。",
+      "text": "她证明自己没有主动出卖患者，却拒绝把丈夫的弱点卖给老板。拿回收入之后，她终止继续服务。"
+    },
+    "rows": [
+      {
+        "label": "对方如何解释",
+        "left": "我没有选择，全是为了家庭",
+        "right": "我感到被出卖，需要反击"
+      },
+      {
+        "label": "她要求什么",
+        "left": "对自己的动作负责",
+        "right": "停止威胁，并承认她没有泄密"
+      },
+      {
+        "label": "她决定什么",
+        "left": "丈夫离开共同住处",
+        "right": "自己离开工作关系"
+      }
+    ],
+    "insight": {
+      "kicker": "HER OWN EXIT",
+      "title": "离开两张网，才能停止被当成两张网之间的通道。",
+      "text": "温迪没有替任何一方赢下第一季。她改变的，是别人默认可以通过她得到信息、保护或报复的关系结构。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "西装与倒计时",
+      "fact": "阿克斯换回日常衣服，以十秒决定压力说服出资者。",
+      "analysis": "他把自身身份变成产品，也把投资者的迟疑改写成机会成本；说服成功不能抹去风险。",
+      "steps": [
+        "标准推介",
+        "换回自己",
+        "稀缺施压"
+      ]
+    },
+    {
+      "title": "名字与黄金",
+      "fact": "劳拉坚持孩子用原名，离境取消后仍保留应急现金黄金。",
+      "analysis": "钱可以被搬走，身份不能随同交易完全重置。家中留下的预案说明威胁已经进入生活。",
+      "steps": [
+        "安排离境",
+        "保留名字",
+        "留住应急"
+      ]
+    },
+    {
+      "title": "被拆开的办公室",
+      "fact": "连续排查后仍无监听器，阿克斯要求拆到最深处。",
+      "analysis": "查克利用的不是设备，而是对未知的恐惧；控制中心被破坏，主人仍无法获得绝对确定。",
+      "steps": [
+        "听见假情报",
+        "一遍遍搜索",
+        "自己拆开"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "faceoff",
+    "kicker": "THE CONVERSATION CONTINUES",
+    "value": "↔",
+    "title": "他们都失去了她。\n都还想赢下一回。",
+    "text": "查克把损失说成无所畏惧，阿克斯把成功说成存在的正当理由。第一季留下的不是一个被解决的案件，而是两个人如何继续用正确的话，包裹无法放下的竞争。"
+  },
+  "version": 2,
+  "season": 1,
+  "episode": 12
+}

@@ -1,0 +1,691 @@
+{
+  "title": "Magical Thinking",
+  "chineseTitle": "修好赚钱的能力，先拆开自己的面具。",
+  "subtitle": "一场坦白的夜谈，和一次没有许可的进入。",
+  "hero": "balcony",
+  "heroTitle": "他终于说出秘密。\n秘密却没有留在房间里。",
+  "heroDeck": "四亿美元的风险，拆开“我总能改变结果”的信念。\n温迪让阿克斯面对唐尼，也面对自己。\n同一夜，查克跨过了她的职业边界。",
+  "openingTitle": "如果只想恢复赚钱的能力，为什么必须谈唐尼？",
+  "openingFact": "阿克斯拒绝 Mafee 减仓 Biolance 的建议，药品审批失败后承受巨额损失；温迪正考察另一份工作。",
+  "openingReading": "市场里的一次错误，来自他对自身身份的坚持。温迪必须把交易决定和人的其余部分重新连接，才可能理解真正失灵的是什么。",
+  "stamp": {
+    "value": "4×10⁸",
+    "label": "THE MISS",
+    "note": "四亿美元是眼前风险，不是对一次会谈或一个生命的定价。"
+  },
+  "storyTitle": "从交易失误，走到不能再回避的名字。",
+  "storyDeck": "公司、政治与夜晚交叉展开；最后所有边界都汇到一台电脑。",
+  "spoiler": "剧透至 S01E11 结尾，含会谈承认、Troy 段落与笔记窃阅；不提前展开第十二集调查和威胁。",
+  "intro": "阿克斯不是没有收到风险提醒，而是在众人反对时更想证明自己。温迪返回主持一场延长到深夜的会谈，把他对赚钱、忠诚与感情的解释逐层拆开。查克则一面经营重返竞争的政治关系，一面恐惧失去婚姻。当温迪与阿克斯的谈笑被他看见，保密笔记就成了私人嫉妒和职业执念共同觊觎的入口。",
+  "catalogueIntro": "Biolance 的失误迫使阿克斯向温迪求助。一场深夜会谈触及唐尼、照顾员工和自我形象；查克看见两人谈笑后，越过了婚姻与职业共有的保密边界。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E11 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e11",
+      "note": "核对台词与事件顺序；非官方转录。中文台词均为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 11 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "note": "核对场景与图像归属；原作者对心理及动机的推测未作为剧情事实。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E11 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "note": "只用于本集画面和人物辨认；未采用自动生成的剧情问答。"
+    },
+    {
+      "id": "recap",
+      "title": "Ginges Be Cray · S1E11 逐场回顾",
+      "url": "https://gingesbecray.com/billions-s1e11-magical-thinking-recap/",
+      "note": "核对会谈、政治交换、Troy 与笔记转发的顺序；原作者将人物动机说得较确定，本页分开事实与解读。"
+    },
+    {
+      "id": "review",
+      "title": "Den of Geek · Magical Thinking 评论",
+      "url": "https://www.denofgeek.com/tv/billions-magical-thinking-review/",
+      "note": "交叉参照 Biolance、姐妹线与会谈结构。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/risk-meeting.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45199221763d72fd9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "alt": "阿克斯在明亮办公室面对 Mafee 与 Wags",
+      "caption": "本集截图：Biolance 风险争论；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/loss-screen.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1164.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "平板显示下跌的价格曲线",
+      "caption": "本集截图：Biolance 交易后的损失；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2116,
+      "height": 964
+    },
+    {
+      "file": "assets/zenobia.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1126.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "温迪在 Zenobia 与接待者交谈",
+      "caption": "本集截图：温迪考察另一家公司；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1632,
+      "height": 732
+    },
+    {
+      "file": "assets/urgent-text.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1156.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "手机屏幕显示阿克斯请温迪尽快来帮忙",
+      "caption": "本集截图：紧急会谈请求；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1886,
+      "height": 900
+    },
+    {
+      "file": "assets/degiulio.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4519938d636df67cc_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "alt": "DeGiulio 在查克家中讨论任命安排",
+      "caption": "本集截图：法官任命与继任者安排；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/lara-warning.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1125.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "劳拉面对阿克斯，关注即将进行的会谈",
+      "caption": "本集宣传剧照：劳拉提醒会谈可能触及唐尼；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1566,
+      "height": 750
+    },
+    {
+      "file": "assets/session-room.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1127.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "温迪站在办公室前景，阿克斯在后方等待",
+      "caption": "本集截图：温迪安排会谈的位置；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1640,
+      "height": 698
+    },
+    {
+      "file": "assets/care-claim.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1162.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "阿克斯与温迪在办公室交谈",
+      "caption": "本集截图：会谈中的照顾员工论述；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1904,
+      "height": 1074
+    },
+    {
+      "file": "assets/balcony.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45199700cf508b95f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "alt": "温迪与阿克斯在公司楼上栏杆边看向下方",
+      "caption": "本集截图：扔纸团与讨论自我形象；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/chuck-ira.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45199820698a702d3_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "alt": "查克在夜店里与 Ira 谈话",
+      "caption": "本集截图：无法排遣的婚姻焦虑；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/lara-lu.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep71.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "劳拉与 Lu 在夜色中并肩出游",
+      "caption": "本集截图：姐妹试图找回旧日的夜晚；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1772,
+      "height": 802
+    },
+    {
+      "file": "assets/confession.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1158.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "阿克斯在夜色中向温迪说出唐尼的事",
+      "caption": "本集截图：承认隐瞒治疗与死亡后的轻松感；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1564,
+      "height": 760
+    },
+    {
+      "file": "assets/smoking-wide.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1173.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "温迪与阿克斯在露台分享电子烟并谈笑",
+      "caption": "本集截图：会谈结束后的谈笑；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1718,
+      "height": 870
+    },
+    {
+      "file": "assets/home-tears.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45200207b64507a7d_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "alt": "阿克斯回家与劳拉亲近，谈到自己有时也会哭",
+      "caption": "本集截图：阿克斯把一点情绪带回家庭；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/private-notes.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/04/billionsep1181.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=10462",
+      "alt": "笔记本屏幕上显示阿克斯会谈笔记及邮件界面",
+      "caption": "本集结尾截图：查克打开并转发温迪的笔记；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2112,
+      "height": 1140
+    }
+  ],
+  "scenes": [
+    {
+      "id": "biolance",
+      "act": "setup",
+      "lane": "capital",
+      "where": "Axe Capital / 公告前后",
+      "title": "他拒绝退出，因为大家都认为应该退出",
+      "image": "risk-meeting",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Biolance 的药品审批即将公布。Mafee 建议减仓，锁定约一成利润，避免可能四亿美元的损失；阿克斯拒绝并将他解雇。FDA 随后不批准药品，股票停牌，损失还可能扩大；阿克斯留下 Mafee，承认自己犯了错。",
+      "analysis": "正确的异议在这一刻被老板当成对自身能力的挑战。不是信息不存在，而是“所有人都不同意”激发了他证明自己能改变结果的冲动。留下 Mafee 修正了用人错误，却没有解释为何坚持交易。他因此需要的帮助不只是再来一条市场信息，而是重新理解自己的决定。",
+      "turn": "因此 → 市场损失把他送回温迪面前。"
+    },
+    {
+      "id": "zenobia",
+      "act": "setup",
+      "lane": "wendy",
+      "where": "Zenobia Capital",
+      "title": "换一个环境，能否改变她工作的含义？",
+      "image": "zenobia",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪考察女性基金经理较多的 Zenobia，对方谈社会责任投资、文化和她可以获得的位置，但仍希望她培养强悍的赢家。收到阿克斯请她立即帮忙的短信后，温迪中断访问，返回 Axe Capital。",
+      "analysis": "更舒适的价值语言并不自动改变表现教练服务于利润的结构。温迪在这里确实看见另一个职业选择，却很快又回应旧团队的危机。这一返回可能体现责任、依赖或长期信任，本集没有给她的职业未来一个单一答案；她仍在尝试判断，究竟想换公司还是换一种关系。",
+      "turn": "因此 → 离职考察与救助老板同时存在，阿克斯的危机重新拉住她。"
+    },
+    {
+      "id": "appointment",
+      "act": "setup",
+      "lane": "law",
+      "where": "罗兹家 / DeGiulio 会面",
+      "title": "一个法官空缺，换一个上级保护条件",
+      "image": "degiulio",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克告诉 DeGiulio 他将被提名填补 Wilcox 的法官席位，提出借参议员的力量推动确认；条件是对方在司法部长办公室的继任者要由自己认可。DeGiulio 看出这仍与阿克斯案有关，提醒他克制。",
+      "analysis": "这里的专业词汇是提名与确认，真正交换的却是未来行事空间。查克不能凭自己任命法官，也不能保证国会行动；他能组织关系、承诺支持，争取继任者的善意。一项依法经过程序的任命，也可能被人物拿来安排私人竞争中的保护伞。",
+      "turn": "因此 → 案件表面退出后，查克仍在为重新出手创造条件。"
+    },
+    {
+      "id": "family-warning",
+      "act": "setup",
+      "lane": "capital",
+      "where": "公司厨房 / 阿克斯办公室",
+      "title": "妻子知道问题在哪里，却不是被求助的人",
+      "image": "lara-warning",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉带 Lu 看公司的厨房，想让妹妹留下工作；Lu 不喜欢这里的生活方式。阿克斯告诉劳拉自己必须留给温迪整晚会谈，劳拉担心温迪会问唐尼的事，提醒两人之间的处境已与几年前不同。",
+      "analysis": "劳拉既知道丈夫需要帮助，也知道真正的危险话题。她能维护家庭和团队，却不能自动进入阿克斯愿意暴露脆弱的那间房。Lu 的拒绝又把劳拉带回另一个问题：财富改变了姐妹的处境，也改变了她怎样理解自己。她的夜晚不会只围绕丈夫被谁照顾展开。",
+      "turn": "因此 → 姐妹另去寻找自己的时间，阿克斯则清空办公室准备会谈。"
+    },
+    {
+      "id": "adjustment",
+      "act": "pressure",
+      "lane": "wendy",
+      "where": "温迪办公室",
+      "title": "他想只修复赚钱的部分，她要求看完整的人",
+      "image": "session-room",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯让员工离开，向温迪请求调整。她决定两人坐在哪里，追问当日的选择；阿克斯承认，得知所有人都不看好交易时，自己更要坚持，以证明仍是决定胜负的人。温迪指出赚钱的能力与其余自我无法分开修补。",
+      "analysis": "会谈的第一个边界是她掌握过程，而不是雇主点一项服务便即时修复。阿克斯可以解释自己没有迷信，却还得回答“证明给谁看”。交易本来讨论概率，后来变成维护身份的试验。温迪要找到的不是坏运气，而是让他将反对意见读成自我威胁的内部连接。",
+      "turn": "因此 → 问题从一笔交易扩大为他怎样认识自己。"
+    },
+    {
+      "id": "care-and-bribe",
+      "act": "pressure",
+      "lane": "wendy",
+      "where": "办公室 / 会谈继续",
+      "title": "“照顾自己人”，也包括让违法后果消失",
+      "image": "care-claim",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪承认唐尼的死让自己难过，尤其痛苦于患者没有向她敞开。她追问阿克斯的失误是否与唐尼有关；他辩称自己照顾每个人，并举出替 Danzig 收拾自动武器事件、付钱给警察让事情消失作为例子。",
+      "analysis": "这条信息此刻属于保密会谈中的自述，不能写成已经经过审判的犯罪结论；它却明确展示阿克斯怎样理解忠诚。他把提供治疗与支付警察放进同一套“我照顾你”的语言里。温迪还未直接反驳这个例子，而是继续寻找其自我解释背后的缺口。",
+      "turn": "因此 → 一项可能触发新调查的细节进入了温迪的笔记。"
+    },
+    {
+      "id": "father-favor",
+      "act": "pressure",
+      "lane": "law",
+      "where": "老查克家 / 夜晚的安排",
+      "title": "刚拒绝父亲的人，又来借父亲的网络",
+      "image": "degiulio",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克向父亲请求帮忙联系参议员 Vanderveer，推动 DeGiulio 的确认。老查克指出自己仍懂这套游戏，要求儿子承认这一点；查克道谢并为之前的冲突道歉。随后他与 Ira 出门，却始终牵挂不知道在哪里的温迪。",
+      "analysis": "前一集的拒绝让他短暂获得独立姿态，本集的请求说明独立并没有让继承来的资源消失。他又进入熟悉的父子交换：父亲提供保护网络，儿子认可父亲的能力。这条线与阿克斯的自我神话互相映照——强者的行动，也往往依赖自己难以承认的关系。",
+      "turn": "因此 → 政治布局得到支撑，婚姻的不安却无处安放。"
+    },
+    {
+      "id": "blindspot",
+      "act": "pressure",
+      "lane": "cross",
+      "where": "公司露台 / 街道 / 夜店 / 姐妹夜游",
+      "title": "想回到从前的人，仍要面对现在的自己",
+      "image": "balcony",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪借投纸团谈阿克斯的自我形象，指出坚信自己万能既支持冒险，也形成盲点。散步时他承认会因父亲归来的军人视频而哭，连劳拉也不知道。另一边，查克向 Ira 说自己怕失去婚姻，劳拉与 Lu 发现旧酒吧并不能带回旧日快乐。",
+      "analysis": "本集反复把熟练的生活方式打开一点：万能老板、稳定丈夫、无所畏惧的大姐都不能完整解释眼前的人。温迪把面具下是否仍会被爱的问题交给阿克斯；夜店和怀旧酒吧则没有替另外两人给出答案。失去原先角色的人，需要新的话，而不只是换一个地方重复旧动作。",
+      "turn": "因此 → 会谈继续向唐尼推进，家庭成员也开始承认各自的缺口。"
+    },
+    {
+      "id": "donnie-truth",
+      "act": "collision",
+      "lane": "wendy",
+      "where": "公司外 / 夜间会谈",
+      "title": "他承认偷走的，是唐尼的时间",
+      "image": "confession",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪说自己知道唐尼曾被当成盾牌，却不知道全部过程。阿克斯承认隐瞒试验治疗，因为延寿也可能让唐尼有时间作证，不符合自己的目的；他又承认听到死讯时先感到轻松，担心自己是没有感情的人。",
+      "analysis": "这一集才由本人说出阻止告知的自利目的，不能倒写成第十集已被所有角色知道。温迪将交易失误理解为罪疚与自罚，是会谈中的心理判断，而非旁白认证的病理事实。真正有分量的承认，是他不再只说“我替家人留下了钱”，而是说“未经允许拿走了时间”。",
+      "turn": "因此 → 阿克斯必须面对自己的行为，不能再只修理盈利能力。"
+    },
+    {
+      "id": "aftercare",
+      "act": "collision",
+      "lane": "wendy",
+      "where": "会谈尾声 / 公司露台",
+      "title": "她没有放弃他，却仍保留自己的选择",
+      "image": "smoking-wide",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪提醒阿克斯，会谈可能有余震；他能改变事情，却不是神，疾病与市场都不会完全服从他。她说自己并未因这些坦白而厌恶他，两人共享电子烟并谈笑。阿克斯问她是否在看别家公司，她承认 Zenobia，却把职业选择留到另一次谈话。",
+      "analysis": "坦白没有消灭两人关系里的复杂性。她依然能够关照他，也承认自己对他的判断带着特别的宽容；同时，她不把这份亲近变成留下来的承诺。阿克斯得到了暂时的重整，却还想确认重要伙伴会不会离开。会谈结束的松弛与没有解决的职业问题同时存在。",
+      "turn": "因此 → 这份亲近被窗外另一双眼睛看见。"
+    },
+    {
+      "id": "watched-night",
+      "act": "collision",
+      "lane": "cross",
+      "where": "Axe Capital 外 / Troy 工作处 / Axelrod 家",
+      "title": "看到亲密，便想用另一种亲密止痛",
+      "image": "home-tears",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克来到公司，看见妻子与阿克斯谈笑，随后让司机带自己回城，去见 Troy。没有事先与温迪商议的私密活动很快被他叫停；他向 Troy 谈婚姻困境。有人一路拍摄他。阿克斯回家则告诉劳拉，自己有时也会哭。",
+      "analysis": "两人都从温迪的关系返回家庭之外的现实。阿克斯试着把一点脆弱带给妻子；查克却先把旁观到的亲密理解成自己正在被排除，并借另一段场景处理失落。有人跟拍是镜头展示的事实，摄影者受谁指挥在此时未被确认，不能先替后续威胁指定来源。",
+      "turn": "因此 → 查克回到家时仍带着不安，也得到接触妻子电脑的机会。"
+    },
+    {
+      "id": "notes-stolen",
+      "act": "collision",
+      "lane": "law",
+      "where": "罗兹家卧室",
+      "title": "她允许他知道密码，没有允许他读患者",
+      "image": "private-notes",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪洗澡时，查克打开她放在床上的电脑，使用已知密码进入会谈笔记。看到阿克斯支付警察处理 Danzig 事件的记录，他将文件发到自己邮箱，再删除已发送邮件的痕迹。本集停在这一秘密取用上。",
+      "analysis": "笔记原本帮助温迪记住一次会谈，现在被查克改成寻找对手弱点的材料。知道密码只提供技术通道，没有构成访问患者信息的许可。最直接的伤害因此发生在动作里：他既进入妻子的职业空间，又试图让她不知道自己已经进去。案件与嫉妒终于共用同一个越界入口。",
+      "turn": "因此 → 尚未公开的会谈信息，已转移到检察官手中。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "setup",
+      "number": "I",
+      "title": "赚钱的机制失灵了。",
+      "deck": "市场拒绝他的坚持，她看见另一份工作，他寻找新的保护。",
+      "range": "01—04",
+      "summary": "专业求助与家庭担忧一起把阿克斯送入温迪的办公室。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "自我神话，开始露出接线。",
+      "deck": "谁照顾谁，谁借谁的网络，谁害怕失去原来的角色？",
+      "range": "05—08",
+      "summary": "照顾员工的自述带出警察付款，面具下面的脆弱逐渐可以说出口。"
+    },
+    {
+      "id": "collision",
+      "number": "III",
+      "title": "秘密被允许说出，却被秘密拿走。",
+      "deck": "承认、理解与告别尚未结束，另一条越界路径已经开启。",
+      "range": "09—12",
+      "summary": "阿克斯得到暂时重整，温迪不知道自己的笔记已成为对手的材料。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "联邦检察官 · 温迪的丈夫",
+      "fact": "筹划任命，寻求父亲支持，夜访公司，最后偷读并转发妻子的笔记。",
+      "analysis": "他能修复职业布局，却不能忍受私人关系中的不确定，最终把两种欲望放进同一行为。"
+    },
+    "axe": {
+      "role": "基金创办人 · 本次会谈来访者",
+      "fact": "坚持 Biolance 致损，向温迪承认利用唐尼和隐瞒试验的目的。",
+      "analysis": "他第一次把有效策略的代价说成自己的道德恐惧，而不只说成付出的资金。"
+    },
+    "wendy": {
+      "role": "表现教练 · 保密会谈的主持者",
+      "fact": "考察 Zenobia，返回帮助阿克斯，仍将自己的职业决定保留。",
+      "analysis": "她能揭开他的解释，也承认自己对他的特殊宽容；独立性并不要求毫无感情。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 · Lu 的姐姐",
+      "fact": "担心会谈触及唐尼，与妹妹夜游，最后听丈夫说自己会哭。",
+      "analysis": "她寻找的不只是怀旧快乐，也是一个不被丈夫危机完全定义的位置。"
+    },
+    "mafee": {
+      "role": "基金交易员",
+      "fact": "提出降低 Biolance 风险，被解雇后又留下。",
+      "analysis": "正确的专业异议触发了老板的身份危机；被留下修复的是一次决定，并未保证所有风险消失。"
+    },
+    "bryan": {
+      "role": "助理联邦检察官",
+      "fact": "装箱旧案，与 Kate 讨论执法动机，保留装裱好的和解支票。",
+      "analysis": "他仍尊重查克的反抗，却也开始问自己的工作究竟能改变多少市场结构。"
+    },
+    "senior": {
+      "role": "查克父亲 · 人脉提供者",
+      "fact": "答应借参议员关系推进提名，要求儿子承认自己仍懂政治。",
+      "analysis": "资源交换让父子重新靠近，却也让儿子的独立再次以父亲的保护网为条件。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 修复与重新出手",
+      "note": "一笔失误催生会谈，一次任命催生保护条件。",
+      "edges": [
+        "各自准备回到竞争",
+        "丈夫不知妻子安排",
+        "紧急求助 / 她仍考察离职"
+      ],
+      "details": {
+        "chuck": "借任命窗口重建行动空间。",
+        "axe": "交易判断失灵，决定向温迪求助。",
+        "wendy": "在另一家公司看见选择，又返回熟悉的危机。",
+        "lara": "知道丈夫有问题，担心温迪碰到唐尼。",
+        "mafee": "异议被惩罚后，阿克斯修正解雇决定。",
+        "bryan": "装箱案件，仍相信上级没有放弃。",
+        "senior": "拥有儿子需要的国会人脉。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 面具出现裂缝",
+      "note": "会谈揭出自我形象，政治交换揭出资源依赖。",
+      "edges": [
+        "执念持续 / 尚未新案",
+        "嫉妒与距离扩大",
+        "职业信任允许更深坦白"
+      ],
+      "details": {
+        "chuck": "从父亲那里获得支持，从 Ira 处谈出婚姻恐惧。",
+        "axe": "承认万能形象会逼自己坚持错误决定。",
+        "wendy": "把交易能力与完整人格一起放进会谈。",
+        "lara": "发现旧日夜生活不能简单恢复旧身份。",
+        "mafee": "他提出的风险判断成为会谈追查失误的起点。",
+        "bryan": "与 Kate 讨论法律手段与市场公平的关系。",
+        "senior": "帮忙，也重新确认自己对儿子的价值。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 敞开与窃取同时发生",
+      "note": "一方被允许进入情绪，另一方秘密进入笔记。",
+      "edges": [
+        "保密信息进入检方",
+        "电脑窃阅 / 婚姻隐瞒",
+        "会谈重建亲近 / 职业选择未决"
+      ],
+      "details": {
+        "chuck": "将妻子患者笔记转给自己并删掉痕迹。",
+        "axe": "承认唐尼安排的自利部分，带一点脆弱回家。",
+        "wendy": "帮助结束，却不知道笔记已被秘密复制。",
+        "lara": "听到丈夫说自己有时会哭，短暂得到情绪连接。",
+        "mafee": "留在公司，专业分歧尚不能恢复为平等关系。",
+        "bryan": "没有被展示参与笔记窃取；不要把上级秘密行动算到他头上。",
+        "senior": "任命关系已被请求，提名确认仍是计划。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "loss-to-confession",
+      "title": "一笔损失怎样通向唐尼的名字？",
+      "intro": "这是会谈里的解释过程；温迪对罪疚的判断仍属于角色观点。",
+      "nodes": [
+        {
+          "name": "Mafee",
+          "role": "提出大家都认可的减仓建议",
+          "portrait": "mafee",
+          "scene": "biolance"
+        },
+        {
+          "name": "阿克斯",
+          "role": "以坚持证明自己仍能改变结果",
+          "portrait": "axe",
+          "scene": "adjustment"
+        },
+        {
+          "name": "温迪",
+          "role": "追问证明给谁与自我惩罚",
+          "portrait": "wendy",
+          "scene": "care-and-bribe"
+        },
+        {
+          "name": "阿克斯",
+          "role": "承认唐尼安排与轻松感",
+          "portrait": "axe",
+          "scene": "donnie-truth"
+        }
+      ],
+      "result": "市场失误使他无法继续只用“我照顾自己人”解释所有选择。"
+    },
+    {
+      "id": "private-file",
+      "title": "保密自述如何成为检察官手里的文件？",
+      "intro": "本集只展示信息被复制，不展示后续起诉结果。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "会谈中说出给警察付钱",
+          "portrait": "axe",
+          "scene": "care-and-bribe"
+        },
+        {
+          "name": "温迪",
+          "role": "写入患者会谈笔记",
+          "portrait": "wendy",
+          "scene": "notes-stolen"
+        },
+        {
+          "name": "查克",
+          "role": "趁洗澡打开电脑与文件",
+          "portrait": "chuck",
+          "scene": "notes-stolen"
+        },
+        {
+          "name": "私人邮箱",
+          "role": "转发后删除发送痕迹",
+          "portrait": null,
+          "scene": "notes-stolen"
+        }
+      ],
+      "result": "职业信息经过未经允许的家庭访问转移；技术上能打开，不代表关系中获得许可。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I need an adjustment.",
+      "zh": "我需要调整一下。",
+      "speaker": "阿克斯 → 温迪",
+      "context": "请求重新开始真正会谈。",
+      "image": "session-room",
+      "analysis": "这个说法最初像维修一台赚钱机器。温迪让他看到机器与整个人并不能拆开。"
+    },
+    {
+      "en": "I stole from him.",
+      "zh": "我从他那里偷走了东西。",
+      "speaker": "阿克斯 → 温迪",
+      "context": "最终谈到唐尼的时间与治疗。",
+      "image": "confession",
+      "analysis": "由“我提供保障”到“我拿走时间”，主语没有变，动作的道德方向却完全改变。"
+    },
+    {
+      "en": "you're not a god.",
+      "zh": "你不是神。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "会谈结束时提醒他不能支配所有结果。",
+      "image": "smoking-wide",
+      "analysis": "她没有以无所不能替他开脱，也没有以彻底无情概括他；承认能力，同时承认人的限制。"
+    },
+    {
+      "en": "That's for a different session.",
+      "zh": "那要留到另一次会谈。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "对方问她为什么考察别的公司。",
+      "image": "smoking-wide",
+      "analysis": "她可以陪他走完整个夜晚，仍保留自己职业选择的讨论时机。亲近没有取消她决定边界的权利。"
+    }
+  ],
+  "comparison": {
+    "title": "一种敞开经过允许，另一种进入取消了允许。",
+    "deck": "同一个夜晚，阿克斯说出自己害怕的真相，查克拿走妻子没有给他的内容。",
+    "left": {
+      "image": "confession",
+      "caption": "本集截图：夜间会谈的承认",
+      "speaker": "阿克斯与温迪",
+      "title": "让对方知道，自己是什么样的人。",
+      "text": "温迪追问，阿克斯回应。他仍试探、仍害怕，但秘密是由本人说出来的，会谈规则承诺它不会自动流入案件。"
+    },
+    "right": {
+      "image": "private-notes",
+      "caption": "本集结尾截图：打开笔记的电脑",
+      "speaker": "查克的秘密动作",
+      "title": "不让对方知道，自己已经进去。",
+      "text": "查克用共享密码读取职业笔记，转发，再删除发送痕迹。他不仅拿走信息，也取消了妻子回应这次进入的机会。"
+    },
+    "rows": [
+      {
+        "label": "谁决定开始",
+        "left": "求助者与会谈主持者",
+        "right": "秘密访问者单方决定"
+      },
+      {
+        "label": "脆弱如何被处理",
+        "left": "说出后得到回应",
+        "right": "记录被改成对手线索"
+      },
+      {
+        "label": "关系留下什么",
+        "left": "亲近与尚未解决的选择",
+        "right": "一个暂时无人知道的背叛"
+      }
+    ],
+    "insight": {
+      "kicker": "ACCESS IS NOT CONSENT",
+      "title": "密码让门能开，关系才决定是否可以进去。",
+      "text": "本集最强的对照并不是两个男人谁更诚实，而是同一份信任如何被建立，又如何被另一个行动穿透。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "药品审批",
+      "fact": "风险分析指向减仓，阿克斯坚持持有。",
+      "analysis": "专业意见变成身份威胁时，市场就被当成证明自身特别的舞台。",
+      "steps": [
+        "听见异议",
+        "坚持身份",
+        "承受损失"
+      ]
+    },
+    {
+      "title": "摘下面具",
+      "fact": "阿克斯会因军人回家的视频流泪，温迪谈到被看见与被爱。",
+      "analysis": "会谈把完整的人与万能老板区别开，让他尝试暴露可以失败、可以哭的部分。",
+      "steps": [
+        "承认会哭",
+        "追问被爱",
+        "带回家庭"
+      ]
+    },
+    {
+      "title": "装裱的支票",
+      "fact": "Bryan 为查克保留早前被撕毁的和解支票。",
+      "analysis": "原来的拒绝被做成英雄纪念品，而本集又出现助手对执法动机的疑问；象征不会替他解决这些疑问。",
+      "steps": [
+        "拒绝和解",
+        "保存象征",
+        "重新追问"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "private-notes",
+    "kicker": "THE PRIVATE FILE",
+    "value": "→",
+    "title": "一句保密的自述。\n一条没有许可的出口。",
+    "text": "阿克斯的会谈还没有给他的职业关系一个结局，查克却已替会谈内容改变了用途。第十一集到此结束：妻子还不知道，患者也还不知道。"
+  },
+  "version": 2,
+  "season": 1,
+  "episode": 11
+}

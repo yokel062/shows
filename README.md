@@ -9,7 +9,7 @@
 | 作品 | 内容 | 剧透范围 | 在线阅读 |
 | --- | --- | --- | --- |
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
-| 亿万 · Billions | 第一季第一集 · Pilot | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/billions/s01e01/) |
+| 亿万 · Billions | 第一季完整十二集 | 单集包含截至该集的剧情 | [十二集目录](https://yokel062.github.io/shows/series/billions/) |
 
 ## 兄弟连十集目录
 
@@ -26,19 +26,34 @@
 | 09 | Why We Fight | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e09/) |
 | 10 | Points | [图解笔记](https://yokel062.github.io/shows/series/band-of-brothers/s01e10/) |
 
-## 亿万首集档案
+## 亿万第一季十二集
 
-**[作品目录](https://yokel062.github.io/shows/series/billions/)** · **[S01E01 · Pilot](https://yokel062.github.io/shows/series/billions/s01e01/)**
+**[完整目录](https://yokel062.github.io/shows/series/billions/)**
 
-按三幕梳理十二个剧情节点，配以十六张本集截图和首集宣传剧照；七位人物复用统一角色照，关系图可切换三个阶段。另有三条消息与试探路径、球场与工厂的画面对照，以及四张英文短台词卡。场景解读默认展开，作品目录中的单集入口在新标签页打开。只梳理首集，剧情事实、制度背景和个人解读分开标注；所有文字与图像出处见篇末。
+每集以三幕组织剧情节点，配真实截图或明确标注的宣传剧照，包含分阶段人物关系、消息与选择路径、对照深读和英文短台词卡。剧情事实与个人解读分别标注，场景解读默认展开，图片出处逐张登记；每篇只讨论截至该集的内容。首集保留已完成的重做版本。
 
-文字编辑源为 `series/billions/s01e01/content.json`，角色照登记在 `series/billions/shared/portraits.json`。修改后运行：
+| 集数 | 标题 | 在线阅读 |
+| --- | --- | --- |
+| 01 | Pilot | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e01/) |
+| 02 | Naming Rights | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e02/) |
+| 03 | YumTime | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e03/) |
+| 04 | Short Squeeze | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e04/) |
+| 05 | The Good Life | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e05/) |
+| 06 | The Deal | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e06/) |
+| 07 | The Punch | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e07/) |
+| 08 | Boasts and Rails | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e08/) |
+| 09 | Where the F*ck Is Donnie? | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e09/) |
+| 10 | Quality of Life | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e10/) |
+| 11 | Magical Thinking | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e11/) |
+| 12 | The Conversation | [图解笔记](https://yokel062.github.io/shows/series/billions/s01e12/) |
+
+文字编辑源为 `series/billions/s01eXX/content.json`，统一角色照登记在 `series/billions/shared/portraits.json`。修改后运行：
 
 ```bash
-python tools/build_billions.py
+python tools/build_billions.py --complete
 ```
 
-页面模板在 `series/billions/shared/episode.html`，生成单集和作品目录的静态 HTML，不需要线上构建。桌面交互共用 `series/billions/shared/episode.css` 与 `episode.js`。
+工具核验十二集数据，生成第 2—12 集、作品目录与 `season.json`，默认保留首集 HTML。第 2—12 集模板为 `shared/season-episode.html`，共用 `episode.css`、`season.css` 和 `episode.js`。只生成一集可使用 `--episode 5`；修改首集正文后使用 `python tools/build_billions.py --pilot --complete`，由保留的首集模板与构建器重新生成。生成后的 HTML 提交到仓库，网站无需线上构建。
 
 ## 目录约定
 
@@ -57,8 +72,17 @@ series/
       content.json
       index.html
       assets/
+  billions/
+    index.html
+    season.json
+    shared/
+    s01e01/ ... s01e12/
+      content.json
+      index.html
+      assets/
 tools/
   build_episodes.py
+  build_billions.py
 movies/
   <movie-slug>/
 ```
@@ -78,7 +102,7 @@ TMPDIR=/data/wangxw/tmp TMP=/data/wangxw/tmp TEMP=/data/wangxw/tmp \
 
 打开 `http://localhost:38723/`。无需安装依赖或运行构建。
 
-## 编辑单集
+## 编辑兄弟连单集
 
 第 1 集保留最初的独立页面。第 2—10 集使用 `content.json` 保存经过核对的文字、人物关系和配图出处，由共享阅读组件展示。修改数据后，在仓库根目录运行：
 

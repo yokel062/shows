@@ -1,0 +1,688 @@
+{
+  "version": 2,
+  "season": 1,
+  "episode": 7,
+  "title": "The Punch",
+  "chineseTitle": "一拳打出去，谁来定义它？",
+  "subtitle": "图像、职位与家庭规则，都在决定谁能收回行动的后果。",
+  "hero": "pool",
+  "heroTitle": "一拳之后，\n每个人都在改写故事。",
+  "heroDeck": "父亲、客户、警方与员工，\n看见的是四种不同的阿克斯。",
+  "openingTitle": "把危险解释成胜利，会不会失去判断？",
+  "openingFact": "谈判破裂后，阿克斯发现邻居酒后驾车送回儿子，冲过去将其打倒。查克已正式回避案件，却仍想掌握 Bryan 正在经营的合作人。温迪则开始试探公司以外的职业可能。",
+  "openingReading": "同一段暴力可以被理解为保护、失控或英雄行为。本集关注的是后果怎样被不同关系加工：图像补足事实，机会交换延迟曝光，“公共利益”又能替隐蔽介入提供理由。",
+  "stamp": {
+    "value": "01",
+    "label": "THE PUNCH",
+    "note": "一次出拳，多个需要收拾的后果。"
+  },
+  "storyTitle": "从被拍下的拳头，到被讲述的胜利。",
+  "storyDeck": "图像、职位与家庭规则，都在决定谁能收回行动的后果。",
+  "intro": "阿克斯打了让儿子坐上酒后驾驶车辆的邻居，律师和公关团队急于取得完整视频，重要客户则警告他不能继续失控。检方已有来自公司内部的合作人 Donnie，查克在回避状态下仍借别的会议介入。温迪探索新职位并察觉 Donnie 的变化；劳拉希望孩子学会独立，阿克斯却在一场舆论翻盘后又充当救援者。",
+  "catalogueIntro": "一拳让阿克斯同时成为被追究的人和员工眼里的英雄。完整视频能够补回事实，不能替代家庭教育；查克以公共使命说服 Bryan 留下，温迪则开始计算离开公司会失去什么，又可能获得什么。",
+  "spoiler": "只剧透 S01E07《The Punch》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E07 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e07",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 7 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E07 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-7/screencaps/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun with Damian Lewis · The Punch 人物与家庭评论",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=9713",
+      "note": "交叉核对酒后驾驶、家庭教育和相反道德判断；文末对 Donnie 的策略猜测没有用于本集叙事。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/pool.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep742.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "阿克斯在自家泳池里停下，面露疲惫",
+      "caption": "本集截图：出拳之前的泳池段落；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2124,
+      "height": 1106
+    },
+    {
+      "file": "assets/layner-house.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452032877afca957f_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-7/screencaps/",
+      "alt": "阿克斯穿泳裤站在邻居住宅台阶上质问对方",
+      "caption": "本集截图：在 Layner 家的正面冲突；画面停在出拳前；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/crisis-team.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep78.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "退休警官 Mueller 与公关 Sheryl 站在桌边面对阿克斯",
+      "caption": "本集宣传剧照：危机应对团队；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/axe-rally.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep729.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "阿克斯站在公司内笑着回应员工",
+      "caption": "本集截图：员工对出拳表示支持；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1577,
+      "height": 745
+    },
+    {
+      "file": "assets/press-dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep737.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "阿克斯在餐厅与 Dimonda 交谈",
+      "caption": "本集截图：阿克斯要求延缓视频报道；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1911,
+      "height": 1012
+    },
+    {
+      "file": "assets/covert-case.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep725.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "查克与 Bryan 在办公室站着相对交谈",
+      "caption": "本集截图：回避后的案件介入；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1631,
+      "height": 740
+    },
+    {
+      "file": "assets/bryan.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep743.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "Bryan 神情紧张地坐在检察官办公室",
+      "caption": "本集截图：Bryan 面对上级的干预；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2092,
+      "height": 1056
+    },
+    {
+      "file": "assets/delivery.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep724.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "Bryan 在暗处用手电查看收到的存储设备",
+      "caption": "本集截图：Donnie 送来的材料；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1575,
+      "height": 757
+    },
+    {
+      "file": "assets/headhunter.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep741.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "温迪拿着杯子与 Chase 会面",
+      "caption": "本集截图：温迪探索新的职业选择；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2160,
+      "height": 1108
+    },
+    {
+      "file": "assets/wendy-office.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep72.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "温迪穿蓝色衣裙坐在办公室内",
+      "caption": "本集宣传剧照：温迪的职业角色；用于首轮求职段落配图；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 534
+    },
+    {
+      "file": "assets/wendy-axe.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep730.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "阿克斯面对温迪，解释自己在谈判中的立场",
+      "caption": "本集截图：温迪追问冲动和失败谈判；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1591,
+      "height": 744
+    },
+    {
+      "file": "assets/chuck-home.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/03/billionsep733.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "alt": "查克在家中低头回答温迪的问题",
+      "caption": "本集截图：查克解释谈判破裂；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1574,
+      "height": 749
+    },
+    {
+      "file": "assets/gilberts.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520386b7a61d829e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-7/screencaps/",
+      "alt": "查克与温迪坐在餐桌旁回应另一对夫妻",
+      "caption": "本集截图：与 Gilberts 的晚餐；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/donnie-meeting.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452040825ed264d15_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-7/screencaps/",
+      "alt": "Donnie 站在秘密会面房间另一端，Bryan 面向他",
+      "caption": "本集截图：Donnie 与 Bryan 的合作会谈；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/spyros.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520330963b292141_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-7/screencaps/",
+      "alt": "Spyros 站在查克办公室中，秘书从旁走过",
+      "caption": "本集截图：Spyros 要求扩大在案件中的位置；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    }
+  ],
+  "scenes": [
+    {
+      "id": "punch",
+      "act": "setup",
+      "lane": "capital",
+      "where": "阿克斯家 → Layner 家",
+      "title": "孩子回来了，怒气仍要找到出口。",
+      "image": "layner-house",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉接到朋友 Lilly 的电话，得知 Layner 可能酒后驾车送回四个孩子。儿子确认车里有啤酒味和酒罐，说没有反对是因为对方是大人。阿克斯从泳池起身，赶到邻居家质问；Layner 淡化饮酒并辱及孩子，阿克斯将他打倒，旁人要求报警。",
+      "analysis": "保护孩子的理由有现实基础，出拳却是阿克斯自己作出的行动。儿子对成人权威的依赖，与父亲对挑衅的即时反应相邻，提出的是同一个问题：遇到危险时，谁能停下来判断？他阻止不了已经发生的酒后驾驶，反而让家庭面对另一项可能失控的后果。",
+      "turn": "因此 → 暴力事件被拍下，家庭与公司都必须应对。"
+    },
+    {
+      "id": "ci",
+      "act": "setup",
+      "lane": "law",
+      "where": "检方 / Donnie 戴监听设备",
+      "title": "内部合作人已经出现，证据还没有。",
+      "image": "donnie-meeting",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "检方让 Donnie 戴设备接近阿克斯，要求他引出 Kemlot 交易的信息来源。Donnie 去询问，阿克斯只让他等，随后谈起自己后悔出拳、害怕孩子将之视为正确行为。Donnie 称赞他为孩子挺身而出；这次接触没有得到检方要的明确内幕指令。",
+      "analysis": "对观众而言，关系现在有了双重听众：老板以为在谈父亲的愧疚，检方等的是交易证据。Donnie 对老板的肯定在本集既可以表现亲近，也显示合作中的迟疑；不能凭后面的情节替此刻指定完整动机。监听设备可以记录言语，却不能强迫对方给出需要的主题。",
+      "turn": "因此 → Bryan 仍需要有效材料，合作人的压力继续上升。",
+      "detail": "配图为本集 Donnie 与 Bryan 的另一次秘密会面，代表其合作处境；不是阿克斯家中的谈话。"
+    },
+    {
+      "id": "damage-control",
+      "act": "setup",
+      "lane": "capital",
+      "where": "阿克斯家 / 应对会议",
+      "title": "要挽救公司，先得找回视频里缺少的部分。",
+      "image": "crisis-team",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bach 警告即使轻罪定罪也可能重创公司，公关 Sheryl 要求 Lilly 公开确认酒后驾驶。退休警官 Mueller 得知警方持有打人视频，正在安排低调到场说明情况。单看出拳的版本对阿克斯不利，团队必须获得能够说明前因的证词与完整图像。",
+      "analysis": "这些人面对的不是谁最生气，而是不同机构需要什么。公众可能接受保护孩子，警方和检察机关还要判断事件材料，投资人则担心经理会否再失控。完整视频可以纠正缺失上下文的叙事，但团队争取它的方式同样依赖金钱、人脉和时间，说明危机并非人人同样容易收拾。",
+      "turn": "因此 → 获取原片成为法律与声誉两条线的共同目标。"
+    },
+    {
+      "id": "career-and-story",
+      "act": "setup",
+      "lane": "wendy",
+      "where": "猎头会面 / 公司 / 罗兹家",
+      "title": "她先问能否离开，又问那天究竟发生什么。",
+      "image": "wendy-axe",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪与 Chase 谈求职，拒绝去竞争基金，发现脱离金融业很难同时保住报酬与直接帮助人的满足。她随后质问阿克斯的冲动和谈判失败，他说自己确实准备和解。温迪回家再问查克，查克仍把结尾讲成阿克斯的一次失控，没有主动说自己追加的条件。",
+      "analysis": "职业选择和事实核对在她这里连接起来：她要知道自己所在的关系，是否仍值得继续投入。两名男人提供的叙事不相同，她没有立即用其中一人的解释替另一人定案。求职也不只是被丈夫劝退，而是尝试计算独立性：离开谁、去做什么、还能保有何种专业生活。",
+      "turn": "因此 → 她继续寻找更合适的工作，也更谨慎地听取双方说法。"
+    },
+    {
+      "id": "children-client",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "家中早餐 / 挖蛤蜊 / Gomez 到访",
+      "title": "如果大人都能破例，孩子怎样学会判断？",
+      "image": "pool",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "孩子嫌弃厨师做的早餐，并指出爸爸从不要求他们吃完。劳拉让他们道歉，又带去挖蛤蜊，试图教会劳动和自立；她担心儿子对酒后驾驶也缺乏判断。Gomez 同时警告阿克斯：若打人案造成哪怕轻罪定罪，养老基金也会撤资，不能再任其把冲动说成胜利。",
+      "analysis": "家庭与投资人在这里都反对一种被财富缓冲的习惯。孩子没有理由相信规则稳固，因为父亲常替他们移开不舒服；客户也不能只听经理保证，他已经让风险发生了。劳拉教的是遇事可以质疑成人，Gomez 要的是经理必须在行动前管理自己。两种要求都让阿克斯的英雄姿态接受检验。",
+      "turn": "因此 → 家庭转向野外训练，公司则更急于解决法律后果。",
+      "detail": "配图为本集泳池段落，代表家庭冲突起点；不冒充挖蛤蜊或 Gomez 来访的现场。"
+    },
+    {
+      "id": "spyros-leverage",
+      "act": "pressure",
+      "lane": "law",
+      "where": "查克办公室 / Slovis 来访",
+      "title": "他用一个人的伤害，重排另一个人的职位。",
+      "image": "spyros",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Spyros 威胁公开追查查克回避后仍介入，并要求案件主导权。查克找来 Martina Slovis，重提她曾向自己指控 Spyros 强奸，表示相信她，并以公开指控压制对方。之后他尝试替她安排工作，但面试认为经验不够，只将她列入外地办公室推荐名单。",
+      "analysis": "本集没有对指控进行司法审理；场面的确定事实是查克把它用作影响力。他曾听过她的遭遇，却直到需要反制 Spyros 时才把此事带回办公室。帮她求职无法自动抵销这种用途。一个被伤害者想要的生活，与检察官此刻想控制的案件，不应被轻易写成同一份利益。",
+      "turn": "因此 → Spyros 的施压被击退，回避规则仍未真正恢复。"
+    },
+    {
+      "id": "media-delay",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "与 Dimonda 的晚餐",
+      "title": "不要求撤稿，只购买一天。",
+      "image": "press-dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Lilly 因丈夫担心生意受影响而拒绝出面，阿克斯只能加快找原片。Dimonda 表示视频报道已核实、会照发；阿克斯没有要求永久压下，而是提出暂缓一天，并介绍他去见电视网高层讨论自己的节目。记者接受短暂延迟，公关团队因此获得额外时间。",
+      "analysis": "交换的价值恰好是记者对前途的愿望：一顿饭没有改变决定，一个节目机会却改变了时机。报道可能仍真实，排期却已受到来源的资源影响。阿克斯用有限要求降低对方接受的门槛；这不需要记者完全成为他的代言人，也足够让修复叙事有机会赶在损害之前。",
+      "turn": "因此 → 原片搜集得到窗口，新闻竞争的节奏被私人机会改动。"
+    },
+    {
+      "id": "dinner-camp",
+      "act": "pressure",
+      "lane": "cross",
+      "where": "Gilberts 晚餐 / 阿克斯夫妻",
+      "title": "两套家庭都在讨论：靠得太近，还是太受照顾？",
+      "image": "gilberts",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Gilberts 说夫妻共同经营事业、共享密码，并选择把生活合在一起；查克与温迪对此态度不同，查克后来补给她自己的密码。阿克斯夫妻则谈怎样让孩子获得韧性，他指出孩子现在就是富家孩子，承诺支持劳拉安排野外营地，让他们暂时离开被照顾的环境。",
+      "analysis": "紧密关系可以提供安全，也可以让独立选择难以辨认。罗兹夫妇被另一种婚姻模型触动，阿克斯夫妇面对的是财富怎样塑造下一代。对劳拉来说，韧性需要孩子学会忍受边界；对阿克斯来说，过去的贫困也曾让自己过于强硬。两人不只是好警察与坏警察，而是在争论经验值不值得复制。",
+      "turn": "因此 → 新的家庭承诺被说出口，随后还要经受实际的不便。"
+    },
+    {
+      "id": "wendy-options",
+      "act": "result",
+      "lane": "wendy",
+      "where": "温迪办公室 / 与 Chase 喝酒",
+      "title": "她察觉别人退缩，也认真试穿自己的退路。",
+      "image": "headhunter",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪询问 Donnie 最近为何不再主动会谈、又与阿克斯变得亲近；他以疲惫和不想破坏好状态解释，没有向她透露合作。Chase 随后带来大型咨询公司的职位，兼顾挑战与报酬。温迪承认感兴趣，并坚持若成事要付佣金；回家时却把会面说成与女同学喝酒。",
+      "analysis": "她敏锐地看见 Donnie 的变化，却没有因此自动掌握秘密。求职机会让前一轮“不可能兼得”的判断出现例外，也把独立性带入新的交换：她不愿靠猎头的私人好意欠人情，仍主动保留收费关系。与此同时，她也向丈夫隐去实际会面，说明她维护职业空间时并非完全透明。",
+      "turn": "因此 → 新的职位仍只是机会，现有的婚姻与工作都多了一层未说明的信息。"
+    },
+    {
+      "id": "hidden-meeting",
+      "act": "result",
+      "lane": "law",
+      "where": "安全地点 / Donnie 会谈",
+      "title": "回避的人，藏在合作会谈的另一侧。",
+      "image": "donnie-meeting",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "此前查克得知 Donnie 因 Rubinex 交易的研究、合规与内幕联系问题而被要求合作，又建议加强压力。Bryan 到安全地点警告 Donnie 别拖延，他回应背叛老板让自己难受。会后查克突然现身，原来在旁听。Bryan 愤怒，查克只说次日再听意见。",
+      "analysis": "安全地点保护合作人的身份，也替查克制造了隐蔽介入的条件。Bryan 以为自己运行案件，却发现上级连会谈现场都已进入。Donnie 的迟疑目前只能按言语和行动理解，既不能当成完全清白，也不能替他揭出未展示的计划。真正清楚的越界发生在查克：他以经验指导的名义恢复控制。",
+      "turn": "因此 → Bryan 必须决定能否在这样的权限关系中继续负责。"
+    },
+    {
+      "id": "hero-and-purpose",
+      "act": "result",
+      "lane": "cross",
+      "where": "完整视频公开 / 查克与 Bryan",
+      "title": "一边把拳头讲成保护，一边把介入讲成使命。",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Sheryl 找到完整视频，片中 Layner 承认酒后驾车；公开后舆论转向，退休警官告知打人案不再继续，客户重新支持阿克斯。Bryan 同时要求真正独立掌案，否则换别人；查克让他坐进自己的椅子，用工人、退休者和公平市场的使命解释为何需要自己越过通常道德界限。",
+      "analysis": "视频提供了可核对的新事实，查克的演说提供的是价值理由，两者不能被视为同一种证明。公众支持不会普遍授权私人暴力，保护弱者也不会自动授权破坏回避。双方都能用一个值得认同的目标重新组织后果；本集让我们看见，这种解释怎样缓解了权力者的不安，却留下执行者自己的疑问。",
+      "turn": "因此 → 声誉暂时修复，职业权限与道德代价仍没有得到同样清楚的处理。"
+    },
+    {
+      "id": "ending",
+      "act": "result",
+      "lane": "cross",
+      "where": "野外营地 → 回家的车 / Bryan 收件",
+      "title": "规则刚开始起作用，父亲就来接人。",
+      "image": "delivery",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "孩子进营后应交出电子设备，Gordie 留着手机并联系父亲。阿克斯把两人接走，称赞保留手机的机灵，说一晚已经够让他们珍惜原有生活，带他们去喝奶昔。另一条线里，Bryan 收到 Donnie 送来的存储设备和让他会满意的留言；本集没有展示它能证明什么。",
+      "analysis": "家中的规矩被父亲的救援轻易缩短，孩子学到的可能是难受时可以找到例外；这与他刚得到的英雄称赞形成微妙回声。检方则拿到一个看似进展的物件，却尚未拿到确定结果。两条线以不同方式保存悬念：一边有能力立刻解除不适，一边还必须等待材料接受检验。",
+      "turn": "因此 → 一拳的眼前危机落幕，规则与信息的可靠性仍留待下一步。",
+      "detail": "配图为 Bryan 夜间检查存储设备；营地救援是同集结尾另一条线，不在此图中。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "setup",
+      "number": "I",
+      "title": "出拳：好理由与坏后果。",
+      "deck": "家庭危险触发冲动，法律风险与合作人的新路径同时出现。",
+      "range": "01—04",
+      "summary": "阿克斯打倒邻居，公司找原片；温迪探索退路并核对谈判说法。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "改写：谁能换到时间？",
+      "deck": "客户、邻居、记者与家庭，各自提出不同的接受条件。",
+      "range": "05—08",
+      "summary": "Spyros 的施压被私下反制，报道获准延迟，两个家庭开始谈边界与依赖。"
+    },
+    {
+      "id": "result",
+      "number": "III",
+      "title": "胜利：被解除的风险，被留下的疑问。",
+      "deck": "原片修复声誉，使命压过程序；一次父亲救援再度松开规则。",
+      "range": "09—12",
+      "summary": "温迪继续求职，查克隐蔽旁听，Bryan 质疑权限，阿克斯将孩子提前带走。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "已正式回避的联邦检察官",
+      "fact": "反制 Spyros，隐蔽旁听合作会谈，以公共使命说服 Bryan 继续。",
+      "analysis": "他把正确目标与自己的不可替代性连在一起，难以接受程序真的把自己排除。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人 / 父亲",
+      "fact": "出拳后后悔，又通过完整视频成为舆论英雄；结尾提前接走孩子。",
+      "analysis": "他的保护能提供即时安全，也不断替他人把不舒服的规则移开。"
+    },
+    "wendy": {
+      "role": "精神科医生 / 表现教练",
+      "fact": "探索新职位，核对双方的谈判说法，察觉 Donnie 退缩。",
+      "analysis": "她既想保留专业价值，也开始为不再站在两人中间寻找现实可能。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 / 母亲",
+      "fact": "确认酒后驾驶，求证 Lilly，要求孩子学会自立并安排营地。",
+      "analysis": "她保护家庭的办法包含劳动和边界，与丈夫的即时救援发生张力。"
+    },
+    "bryan": {
+      "role": "案件实际负责人",
+      "fact": "经营 Donnie，反对回避后的干预，并要求自己真正运行案件。",
+      "analysis": "职位责任若没有权限就成为空壳；他试图保护的不只是胜诉，还有自己的判断。"
+    },
+    "donnie": {
+      "role": "Axe Capital 经理 / 检方合作人",
+      "fact": "戴设备询问交易，未取得明确证据；拒绝对温迪开放，向 Bryan 交材料。",
+      "analysis": "本集展示合作压力与对老板的亲近，不足以确定完整隐情或未来行动。"
+    },
+    "spyros": {
+      "role": "SEC 调查人员",
+      "fact": "威胁追查查克的假回避，要求主导；被 Slovis 的旧指控压制。",
+      "analysis": "对手掌握的私人指控使职业谈判失衡；本集没有完成事实审理。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 一拳之后",
+      "note": "正式回避与新的内部合作人，构成双方尚不知道的局面。",
+      "edges": [
+        "间接对抗 / CI 路径",
+        "回避后的信任待检验",
+        "追问冲动与谈判"
+      ],
+      "details": {
+        "chuck": "身份上已退出，仍想得到合作人与证据的细节。",
+        "axe": "担心自己给孩子作了坏示范，却也得到员工喝彩。",
+        "wendy": "核对不同说法，并尝试了解离职条件。",
+        "lara": "确认危险后，发现孩子不会质疑成人。",
+        "bryan": "需要把 Donnie 的接近转成有效证据。",
+        "donnie": "在老板面前肯定保护行为，监听没有取得目标指令。",
+        "spyros": "试图借回避问题重新索取案件位置。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 各自交换",
+      "note": "前途、声誉与秘密都被用来改变行动时机。",
+      "edges": [
+        "隐蔽介入 / 反制监管",
+        "婚姻亲近与职业隐瞒",
+        "新职位机会 / 留任未定"
+      ],
+      "details": {
+        "chuck": "以旧指控压制 Spyros，进一步接近本应隔离的案子。",
+        "axe": "向记者提供机会换一天时间，让原片搜集赶上报道。",
+        "wendy": "尝试新工作，尚未告诉丈夫完整求职情况。",
+        "lara": "Lilly 拒绝出面，使她看到邻里支持的限度。",
+        "bryan": "发现上级藏在会谈之后，对权限关系愤怒。",
+        "donnie": "面对压力表达背叛的不适，继续交付材料。",
+        "spyros": "主导要求被拒，私人风险压过了职业筹码。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 本集结尾",
+      "note": "舆论胜利、使命演说与救援，都没有自动解决边界。",
+      "edges": [
+        "声誉修复 / 调查未明",
+        "各自保留未说明的选择",
+        "工作关系仍在 / 去留未定"
+      ],
+      "details": {
+        "chuck": "以工人与退休者的使命论证越界需要，要求 Bryan 留下。",
+        "axe": "获得警方与客户的有利反应，又提前终止孩子的营地训练。",
+        "wendy": "职位机会尚未接受；她仍察觉公司关系正在改变。",
+        "lara": "获得丈夫口头支持的营地计划，却被提前接人改写。",
+        "bryan": "材料到手，尚未知道其证明力；权限质疑仍成立。",
+        "donnie": "交出存储设备，完整动机没有在本集披露。",
+        "spyros": "施压失败，本集未给出进一步行动或指控处理。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "video",
+      "title": "视频怎样从威胁变成声誉修复？",
+      "intro": "原片补足事实，资源交换改变公开时机。",
+      "nodes": [
+        {
+          "name": "拍摄者 / 原片",
+          "role": "记录冲突前因",
+          "portrait": null,
+          "scene": "punch"
+        },
+        {
+          "name": "Sheryl",
+          "role": "寻找并取得完整版本",
+          "portrait": null,
+          "scene": "damage-control"
+        },
+        {
+          "name": "阿克斯 → Dimonda",
+          "role": "以机会换短暂延迟",
+          "portrait": "axe",
+          "scene": "media-delay"
+        },
+        {
+          "name": "公众 / 客户",
+          "role": "看完整材料后转向支持",
+          "portrait": null,
+          "scene": "hero-and-purpose"
+        }
+      ],
+      "result": "公众的肯定与本案不再追究是剧中结果；不能据此推广成打人必然合法。"
+    },
+    {
+      "id": "covert-control",
+      "title": "正式回避的人，怎样再次进入现场？",
+      "intro": "从问询细节到提供场所，再到隐蔽旁听。",
+      "nodes": [
+        {
+          "name": "Bryan",
+          "role": "说明 Donnie 的合作基础",
+          "portrait": "bryan",
+          "scene": "hidden-meeting"
+        },
+        {
+          "name": "查克",
+          "role": "建议加强压力与安全地点",
+          "portrait": "chuck",
+          "scene": "hidden-meeting"
+        },
+        {
+          "name": "合作会谈",
+          "role": "检方要求更有效材料",
+          "portrait": "donnie",
+          "scene": "hidden-meeting"
+        },
+        {
+          "name": "查克现身",
+          "role": "隐蔽参与被看见",
+          "portrait": "chuck",
+          "scene": "hidden-meeting"
+        }
+      ],
+      "result": "安全安排也成为权力回流路径；Bryan 质疑的是权限实质。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Nothing without a compromise.",
+      "zh": "没有无需妥协的选择。",
+      "speaker": "Chase → 温迪",
+      "context": "第一轮求职中，工作满足与报酬暂时不能同时保留。",
+      "image": "wendy-office",
+      "analysis": "这句话逼她把“离开”拆成实际需要，而不是停留在抽象忠诚。"
+    },
+    {
+      "en": "They are the rich kids.",
+      "zh": "他们就是富家孩子。",
+      "speaker": "阿克斯 → 劳拉",
+      "context": "两人讨论怎样让儿子获得自己当年的韧性。",
+      "image": "pool",
+      "analysis": "父母希望传下克服贫困的本领，却已经替孩子移除了产生它的环境。"
+    },
+    {
+      "en": "I need to protect my integrity.",
+      "zh": "我要保护自己的正直。",
+      "speaker": "Bryan → 查克",
+      "context": "他要求有责任就应有实际掌案权限。",
+      "image": "bryan",
+      "analysis": "“正直”在这里首先是具体的程序关系：不能署名负责却被暗中指挥。"
+    },
+    {
+      "en": "Sometimes even I lose perspective.",
+      "zh": "有时连我也会失去尺度。",
+      "speaker": "查克 → Bryan",
+      "context": "公共使命演说的开头。",
+      "image": "covert-case",
+      "analysis": "承认局限能拉近关系，却在随后转为“因此你需要我”。自省与继续控制出现在同一段话里。"
+    }
+  ],
+  "comparison": {
+    "title": "怎样把后果解释成“做了该做的事”？",
+    "deck": "一边有补全的图像，一边有足够有力的使命。",
+    "left": {
+      "image": "layner-house",
+      "caption": "邻居家冲突截图：完整视频后来补足前因。",
+      "speaker": "阿克斯与公关团队",
+      "title": "保护孩子的父亲。",
+      "text": "完整视频让公众看见酒后驾驶的语境，改变了对出拳的评价，也帮助恢复客户支持。"
+    },
+    "right": {
+      "image": "covert-case",
+      "caption": "办公室截图：查克仍在接近已回避的案子。",
+      "speaker": "查克与 Bryan",
+      "title": "保护公众的检察官。",
+      "text": "查克将自己隐蔽介入解释为维护工人和退休者，要求 Bryan 把他视为必不可少的同伴。"
+    },
+    "rows": [
+      {
+        "label": "原有问题",
+        "left": "暴力及其法律、客户风险",
+        "right": "回避仍干预、责任权限不一致"
+      },
+      {
+        "label": "新增材料",
+        "left": "能够核对事件前因的视频",
+        "right": "关于公平与使命的价值论证"
+      },
+      {
+        "label": "尚未解决",
+        "left": "孩子会把出拳学成什么",
+        "right": "公共目的是否足以授权越界"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "理由有分量，仍不能替后果作最后判决。",
+      "text": "保护孩子与保护劳动者都值得认真对待。问题是目标被讲清后，具体行动是否还接受独立检验；本集把事实补全与道德说服并置，邀请我们保留这一区别。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "完整与删去",
+      "fact": "公众先面对出拳片段，原片后来补入酒后驾驶语境。",
+      "analysis": "事实需要上下文，但能够安排谁先看到什么的人也在经营评价。",
+      "steps": [
+        "片段风险",
+        "争取时间",
+        "补入前因"
+      ]
+    },
+    {
+      "title": "椅子与位置",
+      "fact": "查克让 Bryan 坐在自己的椅子里，谈未来的职责。",
+      "analysis": "职位象征被用来鼓励下属，也让他更难拒绝上级的继续介入。",
+      "steps": [
+        "提出独立",
+        "坐进位置",
+        "使命说服"
+      ]
+    },
+    {
+      "title": "密码与手机",
+      "fact": "罗兹夫妇讨论共享密码，营地要求收手机，Gordie 保留手机联系父亲。",
+      "analysis": "连接既提供亲近与救援，也能使边界无法落实；安全和自主并不总朝同一方向。",
+      "steps": [
+        "共享信任",
+        "设定规矩",
+        "找到例外"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "delivery",
+    "kicker": "THE UNOPENED RESULT",
+    "value": "?",
+    "title": "一场危机已经翻盘。\n一份材料还没有说明自己。",
+    "text": "喝奶昔的轻快结尾没有替家庭规则作答，送来的存储设备也没有替案件作答。所谓胜利，目前只是有些后果被暂时移开。"
+  }
+}

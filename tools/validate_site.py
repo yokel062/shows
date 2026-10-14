@@ -87,14 +87,44 @@ def main():
     assert '<details class="scene-analysis" open>' in (first / 'app.js').read_text()
     for key in ['sink', 'sobel', 'winters', 'nixon']:
         assert '../shared/' + portraits[key]['file'] in pages[(first / 'index.html').resolve()].images
+    billions = ROOT / 'series' / 'billions'
+    season = json.loads((billions / 'season.json').read_text())
+    assert season['complete'] and [e['episode'] for e in season['episodes']] == list(range(1, 13)), 'Billions season must contain all twelve episodes'
+    from build_billions import validate
+    billions_portraits = json.loads((billions / 'shared' / 'portraits.json').read_text())['characters']
+    for number in range(1, 13):
+        directory = billions / f's01e{number:02}'
+        source = json.loads((directory / 'content.json').read_text())
+        source.setdefault('episode', number)
+        source.setdefault('season', 1)
+        validate(source, directory, billions_portraits)
+        html = (directory / 'index.html').read_text()
+        payload = json.loads(re.search(r'<script type="application/json" id="episode-data">(.*?)</script>', html, re.DOTALL)[1])
+        for key, value in source.items():
+            if key in ['episode', 'season', 'sources']:
+                continue
+            assert payload[key] == value, f'{directory}: stale rendered field {key}'
+        for item in source['sources']:
+            assert item in payload['sources'], f'{directory}: stale rendered source {item["id"]}'
+        rendered_page = pages[(directory / 'index.html').resolve()]
+        for scene in source['scenes']:
+            assert 'scene-' + scene['id'] in rendered_page.ids
+        assert html.count('<details class="scene-analysis" open>') == len(source['scenes'])
+        for key in source['characters']:
+            assert payload['portraits'][key] == billions_portraits[key], f'{directory}: stale portrait {key}'
+            assert '../shared/' + billions_portraits[key]['file'] in rendered_page.images
+        for item in source['images']:
+            with Image.open(directory / item['file']) as picture:
+                assert picture.size == (item['width'], item['height']), f'{directory}: wrong image dimensions'
     images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
+    images += list(billions.glob('s01e*/assets/*')) + list((billions / 'shared' / 'portraits').glob('*'))
     raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]
     extra_images = [path for path in image_paths if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]
     raster_images = sorted(set(raster_images + extra_images))
     for path in raster_images:
         with Image.open(path) as picture:
             picture.verify()
-    print(f'Validated {len(files)} HTML pages, {links} local links/anchors, {len(raster_images)} raster images, {len(portraits)} shared character portraits')
+    print(f'Validated {len(files)} HTML pages, {links} local links/anchors, {len(raster_images)} raster images, {len(portraits) + len(billions_portraits)} shared character portraits; Billions twelve-episode data matches rendered pages')
 
 
 if __name__ == '__main__':

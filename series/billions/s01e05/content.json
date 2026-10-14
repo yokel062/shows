@@ -1,0 +1,615 @@
+{
+  "version": 2,
+  "season": 1,
+  "episode": 5,
+  "title": "The Good Life",
+  "chineseTitle": "可以停下来，为什么还要回去？",
+  "subtitle": "一个假装离开，一个拒绝退出；两人的决定最终在逮捕行动中相遇。",
+  "hero": "boat",
+  "heroTitle": "离开市场，\n不等于离开游戏。",
+  "heroDeck": "一艘名叫“美好生活”的船到了。\n一条酒店积分记录，也找到了主人。",
+  "openingTitle": "他说要收摊，所有人都必须相信吗？",
+  "openingFact": "上一集阿克斯要求减仓。本集他继续从电信开始卖出，准备带家人出海；检方则把调查集中到 Dollar Bill 与 Pepsum 研究人员的联系。",
+  "openingReading": "这集把退场的自由和留场的依赖放在一起：阿克斯有能力离开，却未必愿意失去游戏；查克想赢下案件，却越发分不清公务与私人焦虑。",
+  "stamp": {
+    "value": "OUT",
+    "label": "THE EXIT",
+    "note": "撤仓、出海与回归，三个不同的决定。"
+  },
+  "storyTitle": "两条路，都通向办公室。",
+  "storyDeck": "一个假装离开，一个拒绝退出；两人的决定最终在逮捕行动中相遇。",
+  "intro": "阿克斯让公司停止买入，自己在家做早餐、看电影，安排一家人出海。Wags 和温迪都不知道他是否真的要结束事业。查克一边追查 Bill 的消息来源，一边被妻子与调查对象的联系搅动。电信公司丑闻公布后，阿克斯承认撤仓策略里也有真实的退意，但他仍回到交易大厅；紧接着，FBI 来了。",
+  "catalogueIntro": "阿克斯清仓，准备带家人登上“美好生活”；公司失去方向，检方找到 Bill 的酒店积分记录。一个人的退出计划，让两套体系同时暴露了对他的依赖，也让查克更难维持公私边界。",
+  "spoiler": "只剧透 S01E05《The Good Life》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E05 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s01e05",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 5 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S01E05 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-1/episode-5/screencaps/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun with Damian Lewis · The Good Life 人物评论",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=9079",
+      "note": "交叉参照家庭、Wags 和退休段落；未沿用文中的未来猜测及将 Kate 担保写成已经接受的说法，本页以实际对白为准。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/boat.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep517.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "阿克斯戴墨镜坐在行驶的接驳艇上",
+      "caption": "本集截图：阿克斯前往新游艇；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1673,
+      "height": 815
+    },
+    {
+      "file": "assets/hall-fair.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep512.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "阿克斯站在游乐场摊位前",
+      "caption": "本集宣传剧照：游乐场段落，用于 Hall 的警告；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/screening.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep529.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "阿克斯坐在放映室内与温迪谈话",
+      "caption": "本集截图：温迪到访放映室；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1655,
+      "height": 776
+    },
+    {
+      "file": "assets/investigation.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep520.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "Kate、Bryan 和 FBI 探员围桌讨论 Bill 的资料",
+      "caption": "本集截图：研究人员及行程线索讨论；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2408,
+      "height": 970
+    },
+    {
+      "file": "assets/farm-walk.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep515.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "查克和团队沿着玉米田走向研究人员的住处",
+      "caption": "本集截图：艾奥瓦取证；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1677,
+      "height": 847
+    },
+    {
+      "file": "assets/farm-couple.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/4520568333e52a6ff_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-5/screencaps/",
+      "alt": "Clayton 与妻子坐在自家桌边，神色沉重",
+      "caption": "本集截图：研究人员夫妇接受查克询问；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/surveillance.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/452060050df1f7083_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-5/screencaps/",
+      "alt": "查克与 Bryan 坐在办公室讨论，桌上摆着食物",
+      "caption": "本集截图：查克收到温迪到访阿克斯家的监视报告；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/gomez.jpg",
+      "originalUrl": "https://simkl.net/episodes/45/45206148e1732f193_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-5/screencaps/",
+      "alt": "阿克斯在餐厅与画面前景中的 Gomez 对话",
+      "caption": "本集截图：阿克斯与警察养老基金负责人 Gomez 会面；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/market-news.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep521.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "手机屏幕显示 Mundia-Tel 高层被起诉的新闻提醒",
+      "caption": "本集截图：Mundia-Tel 丑闻公布；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1973,
+      "height": 1130
+    },
+    {
+      "file": "assets/raid.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/02/billionsep531.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "alt": "Bryan 与 FBI 探员进入 Axe Capital 的交易大厅",
+      "caption": "本集结尾截图：前来逮捕 Bill 的检方团队；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1676,
+      "height": 843
+    }
+  ],
+  "scenes": [
+    {
+      "id": "exit",
+      "act": "setup",
+      "lane": "capital",
+      "where": "阿克斯家 / 给 Wags 的电话",
+      "title": "“全部卖掉”，这次仍然算数。",
+      "image": "boat",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯骑车取蛋、给家人做早餐，并提议新游艇到港后去加拉帕戈斯。Wags 再次确认撤仓命令，他坚持逐行业卖出，要求通知大客户公司准备收摊。劳拉提醒他，自己的餐厅正逢忙季，旅行不能只由他决定。",
+      "analysis": "清仓和家庭早餐互相衬托，使“退出”成为一个看似完整的新生活。他拥有买船和空出日程的能力，却仍习惯替别人确定时间。劳拉追问那个“我们”，让自由显出代价：当一个人的愿望能让整个家庭和公司转向，别人就得承担他尚未说明的理由。",
+      "turn": "因此 → 公司必须执行撤仓，家庭则先处理突然到来的旅行。",
+      "detail": "配图为本集后段去看新船的截图，代表出海计划；并非早餐现场。"
+    },
+    {
+      "id": "bill-link",
+      "act": "setup",
+      "lane": "law",
+      "where": "检察官办公室",
+      "title": "好父亲的画像，不能填补证据的空缺。",
+      "image": "investigation",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "检方怀疑 Bill 用医疗资助换取 Pepsum 农业试验的非公开结果，但暂时不能证明他在关键时间到过艾奥瓦。团队看到的是一位热心家庭与社区的富豪，查克要求把人物背景继续追成能够用于逮捕的具体联系。",
+      "analysis": "查克不缺目标，缺的是时间、地点和信息交付的链条。这里把“人看上去很好”与“交易可能有问题”拆开：前者不能免责，后者也不能只靠怀疑成立。追问行程的工作比一句仇富判断扎实；随后真正打开案件的，恰好是 Bill 最舍不得放弃的小便宜。",
+      "turn": "因此 → 调查从个人形象转向可核对的行程记录。"
+    },
+    {
+      "id": "rewards",
+      "act": "setup",
+      "lane": "law",
+      "where": "行程查证 / Chuck 与 Bryan",
+      "title": "现金藏住账单，积分留下足迹。",
+      "image": "investigation",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bill 付现金住酒店、没有留下机票记录，却使用了会员积分卡。检方在德梅因万豪酒店找到登记记录，终于能把他放到艾奥瓦；Bryan 准备去询问研究员，查克决定同行，拒绝了 Bryan 关于回避利益冲突的提醒。",
+      "analysis": "证据没有来自豪华消费，而来自节省的习惯。对小收益的执着反而留下追踪线索，与阿克斯难以放弃市场的兴奋构成呼应。Bryan 的提醒还点出另一种执着：查克也有能力退出这一案，却把亲自参与当成不可替代的职责。这两个难以松手的人正向同一个冲突靠近。",
+      "turn": "因此 → 取证机会出现，利益冲突却没有随之解决。"
+    },
+    {
+      "id": "hall-warning",
+      "act": "pressure",
+      "lane": "capital",
+      "where": "游乐场射击摊位",
+      "title": "度假计划收到另一种解释。",
+      "image": "hall-fair",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯带儿子去游乐场，在摊位前与 Hall 短暂见面。Hall 指出 FBI 正在跟踪，并表示检方可能更着急，也可能更接近目标。阿克斯说自己将带家人离开一阵；Hall 认为时机不错，两人没有把这等同于已经脱险。",
+      "analysis": "同一趟旅行在家庭中意味着陪伴，在安全顾问口中却意味着暂避压力。这并不能证明旅行只为逃避调查，但会让观众重新衡量它。阿克斯并未公开告诉团队全部风险，知情范围因此不均匀：最接近他的同事和家人，仍只能从行为猜测下一步。",
+      "turn": "因此 → 退场的动机保持多义，公司中的不安继续扩大。"
+    },
+    {
+      "id": "farm",
+      "act": "pressure",
+      "lane": "law",
+      "where": "Clayton Grunwald 的家",
+      "title": "他说会尽力，夫妇听见的是保全家庭。",
+      "image": "farm-couple",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Clayton 解释 Bill 帮他患囊性纤维化的女儿安排医疗，他把对方当朋友，交出了试验结果。查克说会尽力让他陪女儿毕业；夫妇签下供述后，才听到仍需面对传讯与延期起诉协议，妻子质问为何没有早说清楚。",
+      "analysis": "检方获得了明确的信息交付供述，但场面没有被拍成纯粹胜利。Bill 曾以家庭困境建立关系，查克又借同一个困境获得合作。“尽力”保留了检方的余地，却让夫妇把愿望当成保证。受压的人需要理解后果，握有目标的人则急于拿到签字；这个差距构成取证的道德重量。",
+      "turn": "因此 → Bill 的逮捕基础成形，合作人却承担了未充分预料的后果。"
+    },
+    {
+      "id": "public-pressure",
+      "act": "pressure",
+      "lane": "law",
+      "where": "Lonnie 与记者 / 检察官办公室",
+      "title": "失去案子的同事，变成报道的入口。",
+      "image": "surveillance",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Dimonda 抓住 Lonnie 对案件被转走和职业前景的不满，诱使他提供背景。随后报道指查克因妻子在 Axe 工作而迟疑。另一边，Bryan 因租房缺少担保与 Kate 谈到金钱差距；他明确没有接受她的担保，仍留在旧公寓。",
+      "analysis": "查克用资源交换取得旧案线索，也留下了不满的同事。记者不需要证明案件受偏袒，只需要能讲述这种可能性的内部声音。Bryan 与 Kate 的钱与职业谈话则提醒我们，同一办公室的人拥有不同退路；这些差异并未直接决定泄密，却让“所有人都为同一目标”变得不稳。",
+      "turn": "因此 → 调查不仅受到对手反击，也受到内部关系与报道压力影响。",
+      "detail": "配图为同集查克与 Bryan 的办公室谈话；Lonnie 与记者的会面不在这张图中。"
+    },
+    {
+      "id": "wendy-visit",
+      "act": "pressure",
+      "lane": "cross",
+      "where": "阿克斯家 / 监视报告 / 查克办公室",
+      "title": "职业到访，在丈夫眼里变成了监视对象。",
+      "image": "screening",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "交易员停止买入后开始躁动，Wags 请温迪介入。她到放映室见阿克斯，要求他若要退出就亲自向员工说明。FBI 把她到访的消息报给查克；查克要求逐分钟更新，又提议监听阿克斯，Bryan 再次提出应考虑回避。",
+      "analysis": "温迪没有把老板拉回交易桌，而是要求他为选择负责，给员工解释。与此并置的是查克对空间和信息的焦虑：妻子的专业会谈成了需要靠监视填补的未知。他的官方权限因此贴近私人不安。Bryan 的反问不是阻止调查，而是在提醒权力拥有者，执法理由不能自动回答个人动机。",
+      "turn": "因此 → 温迪守住独立判断，查克却把行动时间与她的去向绑在一起。"
+    },
+    {
+      "id": "gomez-test",
+      "act": "return",
+      "lane": "capital",
+      "where": "餐厅 / 与 Raul Gomez 会面",
+      "title": "他念的是股票，投资人听见的是热爱。",
+      "image": "gomez",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Gomez 代表警察养老基金，要求阿克斯为收摊造成的资金安置负责。阿克斯提出别家基金，又立刻指出其风险。Gomez 用旧股票考问他；他准确复述交易记忆，对方说真正让自己投钱的不是知识量，而是谈论市场时发亮的样子。",
+      "analysis": "Gomez 没有以职位或感情命令他留下，而是让他亲自展现仍然存在的兴趣。那些反射般的风险判断，也使“给客户找个替代者”显得困难。这个人既照看公共养老钱，也需要一个永不松手的经理。投资人的信赖因此可能保护客户，也可能加深经理对工作身份的依赖。",
+      "turn": "因此 → 出海之前，阿克斯再次遇到无法轻易替代的职业满足。"
+    },
+    {
+      "id": "timing",
+      "act": "return",
+      "lane": "cross",
+      "where": "温迪去剧院 / 查克的电话",
+      "title": "她去追一个旧梦，他选择此刻逮捕。",
+      "image": "surveillance",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "与阿克斯谈过另一种人生后，温迪临时去看《On the Town》，想起自己早年的舞蹈梦想。查克打电话确认她不回办公室，随即把原本约一周后的 Bill 逮捕改为立即执行。此时取证已完成，报道的压力也已到来。",
+      "analysis": "温迪的短暂休息给出了一个与老板不同的答案：不必清空职业，也可以重新碰触旧梦。查克则把妻子不在场当成行动条件；他可能想减少现场伤害，却也在替她安排自己必须承担的角色。合法行动的依据与选择这一刻的私人因素，需要分开看，不能互相抵销。",
+      "turn": "因此 → 夫妻尚未谈妥的冲突，被一个已经执行的时间表取代。",
+      "detail": "配图为本集查克收到监视电话的办公室截图，代表他对行动时间的安排；不冒充剧院场景。"
+    },
+    {
+      "id": "market-turn",
+      "act": "return",
+      "lane": "capital",
+      "where": "码头 / Mundia-Tel 新闻 / 交易大厅",
+      "title": "清仓是策略，留下却仍是选择。",
+      "image": "market-news",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯站在新船前准备登艇，收到 Mundia-Tel 高层因做假账被起诉的消息。电信板块和市场随之下跌，他回到公司。Wags 明白退场传闻帮助他们避免同业争先卖出；阿克斯同时承认，自己确实差点登船不再回来。",
+      "analysis": "本集没有用揭底把所有情感删掉。清仓原因得到解释，真实退意也被当事人承认；两者可以共存。隐瞒理由让市场没有跟随，却同样让员工和家人承担了迷惘。最后使他回来的是对工作的热爱，而不是钱仍不够多，这让“美好生活”成为他必须自己回答的问题。",
+      "turn": "因此 → 他选择恢复交易，办公室重新成为生活中心。"
+    },
+    {
+      "id": "arrest",
+      "act": "return",
+      "lane": "cross",
+      "where": "Axe Capital 交易大厅",
+      "title": "他刚宣布回来，法律就进了门。",
+      "image": "raid",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯刚与 Wags 讨论市场调整后重新加仓，Bryan 和 FBI 进入大厅，要求员工离开电脑、配合搜查。阿克斯让 Wags 联系律师和劳拉；被捕的是 Bill。Bill 反复要求律师，没有在现场接受询问，本集在这次打断中结束。",
+      "analysis": "回归本来像一次经理洞察市场后的凯旋，搜查把这份自信突然改写。金融胜利不能清除另一条证据链，老板的热爱也不能保护所有下属免于承担后果。Bill 的沉默保留了下一步的不确定；此刻能够确认的是检方拿到了他，而不是已经拿到了阿克斯本人。",
+      "turn": "因此 → 资本战场上的避险，未能阻止法律战场形成新的压力。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "setup",
+      "number": "I",
+      "title": "收摊：自由先被说出口。",
+      "deck": "撤仓传到员工与客户那里，证据却从小额积分里浮现。",
+      "range": "01—03",
+      "summary": "阿克斯要求卖出并计划出海；检方找到 Bill 在艾奥瓦的酒店记录。"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "看不见：每个人都在猜他。",
+      "deck": "安全警告、合作人签字和妻子的到访，使知情与权力分布越来越不均。",
+      "range": "04—07",
+      "summary": "Clayton 的供述推进调查，报道和监视却把职业冲突带入婚姻。"
+    },
+    {
+      "id": "return",
+      "number": "III",
+      "title": "回归：两条时间表撞在一起。",
+      "deck": "一个重新选择市场，一个重新安排逮捕；温迪短暂去看自己的旧梦。",
+      "range": "08—11",
+      "summary": "Gomez 让阿克斯发现热爱尚在；Mundia-Tel 新闻揭开撤仓策略，Bill 随后被捕。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "联邦检察官",
+      "fact": "亲赴艾奥瓦取证；得知温迪到访阿克斯后要求监视更新，并在她不在办公室时推进逮捕。",
+      "analysis": "专业追查与私人焦虑共同影响行动时机；他仍拒绝主动回避。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人",
+      "fact": "隐瞒撤仓理由，筹划家庭航行；丑闻公布后回归，承认曾有真实退意。",
+      "analysis": "预见风险不等于知道怎样安放生活；他对工作的依恋比退场计划更强。"
+    },
+    "wendy": {
+      "role": "精神科医生 / 表现教练",
+      "fact": "安抚失去方向的员工，到访阿克斯要求其亲自解释，随后去看音乐剧。",
+      "analysis": "她帮助别人作决定，也为自己保留一点不服务任何人的时间。"
+    },
+    "wags": {
+      "role": "Axe Capital 首席运营官",
+      "fact": "执行逐步清仓，要求阿克斯面对大客户，并在结尾理解撤仓策略。",
+      "analysis": "最忠诚的执行者也需要信息；替老板扛住团队并不意味着能替他解释人生。"
+    },
+    "bryan": {
+      "role": "助理联邦检察官",
+      "fact": "追查酒店记录和研究员供述，多次提醒查克利益冲突，参与逮捕 Bill。",
+      "analysis": "他既希望案子推进，也试图维护其程序可信度；租房支线让他的职业牺牲有了尺度。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 / 餐厅经营者",
+      "fact": "对突然的家庭旅行提出自己的安排，接待温迪来访。",
+      "analysis": "她愿意试穿丈夫的新生活，却没有放弃自己的事业；他的选择影响的是共同生活。"
+    },
+    "clayton": {
+      "role": "Pepsum 农业研究人员",
+      "fact": "承认在医疗资助关系中交出试验结果，并签署供述。",
+      "analysis": "疾病和费用让帮助显得珍贵，也使他更容易相信对方给出的安全感。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 退出传闻",
+      "note": "老板停止买入，法律调查继续找证据。",
+      "edges": [
+        "调查仍在推进",
+        "职业交叉未解",
+        "试图理解退意"
+      ],
+      "details": {
+        "chuck": "仍亲自掌舵，把 Bill 看作通向阿克斯的入口。",
+        "axe": "对员工和家庭宣布转向，但不交代全部市场理由。",
+        "wendy": "先留出空间，提醒 Wags 让老板亲自面对客户。",
+        "wags": "必须执行命令，又无法回答交易员为什么停买。",
+        "bryan": "找到行程线索后，提出查克应回避。",
+        "lara": "愿意理解出海愿望，也要求自己的时间被纳入讨论。",
+        "clayton": "尚把 Bill 的帮助理解为一份友谊。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 取证与监视",
+      "note": "知情范围逐渐失衡，妻子的工作被官方监视覆盖。",
+      "edges": [
+        "跟踪 / 供述形成",
+        "妻子成为报告内容",
+        "专业到访 / 要求解释"
+      ],
+      "details": {
+        "chuck": "亲自取证并收到温迪的到访报告，私人焦虑更突出。",
+        "axe": "获知被跟踪，仍让最亲近的执行者猜测。",
+        "wendy": "到访不是传递检方信息，而是要求老板尊重员工。",
+        "wags": "公司躁动时依赖温迪，又安排团建拖住时间。",
+        "bryan": "见证合作人承担后果，再次追问利益冲突。",
+        "lara": "接待温迪，面对两种职业网络在家中交会。",
+        "clayton": "签字后才意识到合作不等于免受法律程序。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 本集结尾",
+      "note": "退场未成，逮捕已经发生。",
+      "edges": [
+        "下属被捕 / 对抗升级",
+        "逮捕时机由丈夫安排",
+        "选择回归 / 会谈仍独立"
+      ],
+      "details": {
+        "chuck": "确认温迪离开办公室后提前执行逮捕。",
+        "axe": "承认短暂想走，仍因热爱回归；随后面对搜查。",
+        "wendy": "在剧院追忆舞蹈梦想，尚未参与这次现场行动。",
+        "wags": "看懂电信撤仓策略，但凯旋被 FBI 打断。",
+        "bryan": "把证据链变成现场行动，目标是 Bill。",
+        "lara": "出海生活被回归打断，阿克斯要求有人给她打电话。",
+        "clayton": "供述成为行动基础；本集没有给出他的最终法律结果。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "evidence",
+      "title": "小额积分怎样抵达大额交易？",
+      "intro": "每一环都有本集明确的记录或供述。",
+      "nodes": [
+        {
+          "name": "酒店会员卡",
+          "role": "现金支付仍留下登记",
+          "portrait": null,
+          "scene": "rewards"
+        },
+        {
+          "name": "Bryan / 团队",
+          "role": "确认艾奥瓦行程",
+          "portrait": "bryan",
+          "scene": "rewards"
+        },
+        {
+          "name": "Clayton",
+          "role": "说明资助与信息交付",
+          "portrait": "clayton",
+          "scene": "farm"
+        },
+        {
+          "name": "Bill 的逮捕",
+          "role": "由供述支撑的行动",
+          "portrait": null,
+          "scene": "arrest"
+        }
+      ],
+      "result": "证据直接指向 Bill 的信息来源；本集尚未证明阿克斯作过何种指令。"
+    },
+    {
+      "id": "surveillance-flow",
+      "title": "一个职业会谈，怎样变成逮捕时间表？",
+      "intro": "这是剧中展示的消息路径，不是温迪向任何一方泄密。",
+      "nodes": [
+        {
+          "name": "温迪",
+          "role": "到阿克斯家会谈",
+          "portrait": "wendy",
+          "scene": "wendy-visit"
+        },
+        {
+          "name": "FBI → 查克",
+          "role": "报告她的到访",
+          "portrait": "chuck",
+          "scene": "wendy-visit"
+        },
+        {
+          "name": "查克的电话",
+          "role": "确认她在剧院",
+          "portrait": "chuck",
+          "scene": "timing"
+        },
+        {
+          "name": "行动团队",
+          "role": "提前执行逮捕",
+          "portrait": "bryan",
+          "scene": "arrest"
+        }
+      ],
+      "result": "查克试图避开妻子，却没有让她参与决定自身处境。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Make a decision.",
+      "zh": "作个决定。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "她没有替他选去留，而是要求主动承担选择。",
+      "image": "screening",
+      "analysis": "支持一个人的自由，可以同时要求他向受影响的人解释。"
+    },
+    {
+      "en": "It was real?",
+      "zh": "这是真的？",
+      "speaker": "Wags → 阿克斯",
+      "context": "理解电信策略后，Wags 意识到退休念头并非全是掩护。",
+      "image": "market-news",
+      "analysis": "问号保留两层真相：策略成立，不意味着那一瞬的退意虚假。"
+    },
+    {
+      "en": "Because I fucking love this place.",
+      "zh": "因为我太爱这里了。",
+      "speaker": "阿克斯 → Wags",
+      "context": "解释为什么没有登船离开。",
+      "image": "raid",
+      "analysis": "这是回归的情感理由；下一刻 FBI 入场，让他对公司的热爱面对现实代价。"
+    }
+  ],
+  "comparison": {
+    "title": "谁有权决定“停下来”？",
+    "deck": "把温迪要求阿克斯作决定，与查克替她选择逮捕时机放在一起。",
+    "left": {
+      "image": "screening",
+      "caption": "放映室会谈截图：温迪要求阿克斯亲自说明。",
+      "speaker": "温迪 → 阿克斯",
+      "title": "给选择，要求责任。",
+      "text": "她承认另一种人生可能存在，却提醒他不要只是滑向它。若决定离开，就亲自向员工说明。"
+    },
+    "right": {
+      "image": "surveillance",
+      "caption": "办公室截图：查克收到妻子到访的报告。",
+      "speaker": "查克 → 行动团队",
+      "title": "安排时间，避开解释。",
+      "text": "他确认妻子不回办公室后让逮捕提前；减少现场难堪的同时，也使她只能接受安排的后果。"
+    },
+    "rows": [
+      {
+        "label": "信息",
+        "left": "询问本人想要什么",
+        "right": "通过监视获得去向"
+      },
+      {
+        "label": "选择",
+        "left": "由当事人决定去留",
+        "right": "由丈夫决定执行时间"
+      },
+      {
+        "label": "责任",
+        "left": "要求向受影响的人交代",
+        "right": "家庭冲突留待行动后面对"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "“为你好”，仍需让对方有位置。",
+      "text": "两个人都希望减少混乱，却用不同方式处理另一人的主体性。专业关系里温迪给出选择，婚姻关系里查克先把事情办完。本集的张力来自这种具体的不对称。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "船名：美好生活",
+      "fact": "新游艇给本集命名，阿克斯几乎登船离开。",
+      "analysis": "财富可以买一条退路，却不能替人决定该在哪一种生活里留下。",
+      "steps": [
+        "准备离开",
+        "触到自由",
+        "选择回归"
+      ]
+    },
+    {
+      "title": "积分：舍不得的小收益",
+      "fact": "Bill 支付现金却保留酒店积分，行程因此被找到。",
+      "analysis": "避险纪律会在熟悉的小满足前出现缺口；人物习惯比抽象画像更可追踪。",
+      "steps": [
+        "掩藏花费",
+        "索取积分",
+        "留下记录"
+      ]
+    },
+    {
+      "title": "门：谁能进入哪一种空间",
+      "fact": "温迪进入放映室，监视进入家庭，FBI 最后进入交易大厅。",
+      "analysis": "不同角色不断越过空间边界，迫使人物解释自己在其中拥有何种权力。",
+      "steps": [
+        "私人会谈",
+        "官方监视",
+        "现场逮捕"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "raid",
+    "kicker": "THE RETURN",
+    "value": "IN",
+    "title": "他回到了热爱的地方。\n风险也跟着进门。",
+    "text": "撤仓使阿克斯躲过一次市场坠落，却无法让 指向 Bill 的证据链消失。真正结束“退场”的，不只是他的回归，还有检方进入公司后重新设定的局面。"
+  }
+}

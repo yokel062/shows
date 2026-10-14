@@ -1,0 +1,138 @@
+{
+  "season": 1,
+  "complete": true,
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Pilot",
+      "subtitle": "当正义与财富，开始争夺控制权。",
+      "intro": "一条交易线索与一栋海边豪宅，如何将试探推进成公开对抗。首集建立查克、阿克斯与温迪的权力关系。",
+      "hero": "s01e01/assets/faceoff-wide.jpg",
+      "alt": "阿克斯与查克在会议外的走廊相对而立，查克伸手指向阿克斯",
+      "imageSource": "https://www.edna.cz/miliardy/fotky/fotografie-z-prvni-epizody/",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 2,
+      "title": "Naming Rights",
+      "subtitle": "把名字刻在楼上，能买来归属吗？",
+      "intro": "豪宅头版引发撤资担忧，阿克斯用合规演习和命名权维护自己的位置。温迪看见被羞辱者的反击风险，查克则发现一个漂亮的大案正在把自己引向岔路。名字、归属与信任，在本集被分别标价。",
+      "hero": "s01e02/assets/hall-ending.png",
+      "alt": "阿克斯与劳拉仰头看着礼堂改名",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=8317",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 3,
+      "title": "YumTime",
+      "subtitle": "谁可以说不，谁必须先让步？",
+      "intro": "点心味道变了，阿克斯开始改写 YumTime 董事会。查克换回关键证人，温迪面对患者之间的报复计划，劳拉阻止一本书的危险章节。四条线共同检验一件事：当一个人掌握别人的退路，他会怎样使用它。",
+      "hero": "s01e03/assets/taste-wide.jpg",
+      "alt": "Ben Kim 与阿克斯在厨房并排品尝 YumTime 点心",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=8371",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 4,
+      "title": "Short Squeeze",
+      "subtitle": "他能买下旅程，能真正离开吗？",
+      "intro": "阿克斯飞往魁北克看 Metallica，空头持仓却被上涨股价与借券召回夹住。查克听见公司的内部结构，也发现父亲制造的危机。朋友、证人和婚姻相继显出边界：财富可以买时间，却不能让所有关系保持原样。",
+      "hero": "s01e04/assets/plane.jpg",
+      "alt": "阿克斯与老友走向私人飞机，跑道旁停着汽车",
+      "imageSource": "https://simkl.com/tv/551846/billions/season-1/episode-4/screencaps/",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 5,
+      "title": "The Good Life",
+      "subtitle": "可以停下来，为什么还要回去？",
+      "intro": "阿克斯清仓，准备带家人登上“美好生活”；公司失去方向，检方找到 Bill 的酒店积分记录。一个人的退出计划，让两套体系同时暴露了对他的依赖，也让查克更难维持公私边界。",
+      "hero": "s01e05/assets/boat.png",
+      "alt": "阿克斯戴墨镜坐在行驶的接驳艇上",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=8705",
+      "scenes": 11,
+      "quotes": 3
+    },
+    {
+      "episode": 6,
+      "title": "The Deal",
+      "subtitle": "多少钱，才算认输？",
+      "intro": "Bill 拒绝合作，客户与家庭开始付出代价。温迪在一场特殊的会谈里重申自己的位置，终于推动双方谈判；19 亿美元的支票摆到桌上，争夺定义胜负的冲动却再次压过了停战。",
+      "hero": "s01e06/assets/deal-room.jpg",
+      "alt": "阿克斯拿着支票，查克坐在谈判桌另一侧",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=9009",
+      "scenes": 11,
+      "quotes": 4
+    },
+    {
+      "episode": 7,
+      "title": "The Punch",
+      "subtitle": "一拳打出去，谁来定义它？",
+      "intro": "一拳让阿克斯同时成为被追究的人和员工眼里的英雄。完整视频能够补回事实，不能替代家庭教育；查克以公共使命说服 Bryan 留下，温迪则开始计算离开公司会失去什么，又可能获得什么。",
+      "hero": "s01e07/assets/pool.png",
+      "alt": "阿克斯在自家泳池里停下，面露疲惫",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=9223",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 8,
+      "title": "Boasts and Rails",
+      "subtitle": "一个秘密公开，另一个秘密藏得更深。",
+      "intro": "被删去的第十章公开了阿克斯的 9·11 交易，公司同时展开寻找告密者的审查。温迪拒绝替审查背书，Bryan 则越过自己的底线；一个人的声誉被真实旧事击穿，另一个人的职位被伪造材料夺走。",
+      "hero": "s01e08/assets/dimonda.png",
+      "alt": "阿克斯在室外面对记者 Dimonda",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=9776",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 9,
+      "title": "Where the F*ck Is Donnie?",
+      "subtitle": "找到证人，仍然抓不住局面。",
+      "intro": "9·11 获利报道引出抗议、撤资与家庭压力。唐尼突然失踪，让阿克斯和查克同时失去把握；温迪坚持保密，却从两个电话里的碎片发现丈夫的隐瞒。",
+      "hero": "s01e09/assets/protest.png",
+      "alt": "抗议者在 Axe Capital 门外举着标语",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=9904",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 10,
+      "title": "Quality of Life",
+      "subtitle": "谁有权决定，最后几个月的价值？",
+      "intro": "唐尼之死让案件转移，插叙揭出他为家人接受的四千万安排。假争执、法官告别会与葬礼相互穿插；末尾一个未被告诉患者的医疗选项，改变了我们对胜利的理解。",
+      "hero": "s01e10/assets/eulogy-wide.png",
+      "alt": "阿克斯站在追悼会人群中举杯",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=10292",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 11,
+      "title": "Magical Thinking",
+      "subtitle": "修好赚钱的能力，先拆开自己的面具。",
+      "intro": "Biolance 的失误迫使阿克斯向温迪求助。一场深夜会谈触及唐尼、照顾员工和自我形象；查克看见两人谈笑后，越过了婚姻与职业共有的保密边界。",
+      "hero": "s01e11/assets/balcony.jpg",
+      "alt": "温迪与阿克斯在公司楼上栏杆边看向下方",
+      "imageSource": "https://simkl.com/tv/551846/billions/season-1/episode-11/screencaps/",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 12,
+      "title": "The Conversation",
+      "subtitle": "两个人都失去了她，却仍坚持下一回合。",
+      "intro": "保密会谈的内容引出新案，阿克斯却误把温迪当成泄密者。她向丈夫要责任、向老板要离开的自由；一条假监听消息让公司成了废墟，两位对手在其中继续争论。",
+      "hero": "s01e12/assets/ruins.png",
+      "alt": "查克走进拆毁后的 Axe Capital 办公区域",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=10788",
+      "scenes": 12,
+      "quotes": 4
+    }
+  ]
+}
