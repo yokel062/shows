@@ -30,7 +30,7 @@
 
 **[作品目录](https://yokel062.github.io/shows/series/billions/)** · **[S01E01 · Pilot](https://yokel062.github.io/shows/series/billions/s01e01/)**
 
-包含十个剧情节点、十八张真实本集截图、六位人物的统一角色照与三阶段关系图、四张英文短台词卡，以及权力对照、细节呼应和观剧词典。场景解读默认展开，作品目录中的单集入口在新标签页打开。只梳理首集，剧情事实、制度背景和个人解读分开标注；所有文字与图像出处见篇末。
+按三幕梳理十二个剧情节点，配以十六张本集截图和首集宣传剧照；七位人物复用统一角色照，关系图可切换三个阶段。另有三条消息与试探路径、球场与工厂的画面对照，以及四张英文短台词卡。场景解读默认展开，作品目录中的单集入口在新标签页打开。只梳理首集，剧情事实、制度背景和个人解读分开标注；所有文字与图像出处见篇末。
 
 文字编辑源为 `series/billions/s01e01/content.json`，角色照登记在 `series/billions/shared/portraits.json`。修改后运行：
 
@@ -38,7 +38,7 @@
 python tools/build_billions.py
 ```
 
-生成单集和作品目录的静态 HTML，不需要线上构建。桌面交互共用 `series/billions/shared/episode.css` 与 `episode.js`。
+页面模板在 `series/billions/shared/episode.html`，生成单集和作品目录的静态 HTML，不需要线上构建。桌面交互共用 `series/billions/shared/episode.css` 与 `episode.js`。
 
 ## 目录约定
 

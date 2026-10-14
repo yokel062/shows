@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Render the Billions pilot from editorial data, without a browser build step."""
+"""Render the Billions pilot and catalogue from reviewed editorial sources."""
 import json
 from html import escape
 from pathlib import Path
+from string import Template
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOW = ROOT / 'series' / 'billions'
@@ -12,61 +13,91 @@ EPISODE = SHOW / 's01e01'
 def build():
     data = json.loads((EPISODE / 'content.json').read_text())
     portraits = json.loads((SHOW / 'shared' / 'portraits.json').read_text())['characters']
-    e = lambda value: escape(str(value), quote=True)
-    images = {item['file']: item for item in data['images']}
+    images = {Path(item['file']).stem: item for item in data['images']}
     sources = {item['id']: item for item in data['sources']}
-    assert len(data['scenes']) == 10 and len(data['quotes']) == 4
-    assert len({scene['id'] for scene in data['scenes']}) == len(data['scenes'])
-    assert sum(len(quote['en'].split()) for quote in data['quotes']) <= 25
+    e = lambda value: escape(str(value), quote=True)
+    assert data['version'] == 2 and len(data['scenes']) == 12
+    assert len({s['id'] for s in data['scenes']}) == len(data['scenes'])
+    assert len(data['quotes']) == 4 and sum(len(q['en'].split()) for q in data['quotes']) <= 25
+    assert all(len([s for s in data['scenes'] if s['act'] == a['id']]) == 4 for a in data['acts'])
     for item in data['images']:
         assert (EPISODE / item['file']).is_file()
         assert item['sourceUrl'].startswith('https://') and item['originalUrl'].startswith('https://')
-        assert item['kind'] == 'episode-still'
-    for key, p in portraits.items():
-        assert (SHOW / 'shared' / p['file']).is_file() and p['actor']
-        assert p['kind'] == 'character-still'
+        assert item['kind'] in ['episode-still', 'episode-production-still']
+        assert item['width'] > 0 and item['height'] > 0
+    for key, person in portraits.items():
+        assert (SHOW / 'shared' / person['file']).is_file()
+        assert person['actor'] and person['kind'] == 'character-still'
         assert key in data['characters']
-    def photo(name, extra='', lazy=True):
-        item = images['assets/' + name + '.jpg']
+        assert all(key in phase['details'] for phase in data['phases'])
+    for flow in data['flows']:
+        assert all(node['scene'] in {s['id'] for s in data['scenes']} for node in flow['nodes'])
+    used_images = set()
+    def pic(name):
+        used_images.add(name)
+        return images[name]
+    def image_tag(name, lazy=True):
+        item = pic(name)
         loading = ' loading="lazy"' if lazy else ''
-        return f'<figure {extra}><img src="{e(item["file"])}" alt="{e(item["alt"])}" width="720" height="404"{loading}><figcaption>{e(item["caption"])} · Showtime / SIMKL</figcaption></figure>'
+        return f'<img src="{e(item["file"])}" alt="{e(item["alt"])}" width="{item["width"]}" height="{item["height"]}"{loading}>'
+    def photo(name, label=None):
+        item = pic(name)
+        caption = label or item['caption']
+        return f'<figure>{image_tag(name)}<figcaption>{e(caption)}</figcaption></figure>'
     def avatar(key):
         p = portraits[key]
-        return f'<span class="portrait" style="--position:{e(p["position"])};--zoom:{p["zoom"]}"><img src="../shared/{e(p["file"])}" alt="{e(p["name"])}的剧中角色照" width="720" height="404" loading="lazy"></span>'
-    scenes = ''
-    for i, scene in enumerate(data['scenes'], 1):
-        assert scene['source'] in sources
-        secondary = ''.join(photo(scene[key], 'class="secondary"') for key in ['secondary', 'extra'] if scene.get(key))
-        lane = {'law':'查克线 / 公权力','capital':'阿克斯线 / 资本','wendy':'温迪线 / 专业与家庭','cross':'交锋与结尾'}[scene['lane']]
-        scenes += f'''<article class="scene" id="scene-{e(scene['id'])}" data-index="{i}" data-lane="{scene['lane']}"><div class="scene-visual">{photo(scene['image'])}{secondary}</div><div class="scene-copy"><div class="scene-number"><b>{i:02}</b><span>{lane}<br>{e(scene['where'])}</span></div><h3>{e(scene['title'])}</h3><span class="fact-label">发生了什么 · 剧情事实</span><p class="fact">{e(scene['fact'])}<a class="source-ref" href="#source-{e(scene['source'])}" aria-label="查看剧情依据">[来源]</a></p><details class="scene-analysis" open><summary>这一场为什么重要 · 个人解读</summary><p>{e(scene['analysis'])}</p></details><p class="scene-effect">{e(scene['effect'])} <small>· 因果归纳</small></p></div></article>'''
-    phase = data['phases'][0]
-    people = ''.join(f'<button class="person {key}" data-person="{key}" aria-pressed="{str(key == "wendy").lower()}" aria-label="查看{e(p["name"])}的关系">{avatar(key)}<strong>{e(p["name"])}</strong><small>{e(p["en"])}</small></button>' for key, p in portraits.items())
-    tabs = ''.join(f'<button data-phase="{p["id"]}" aria-pressed="{str(i == 0).lower()}">{e(p["name"])}</button>' for i, p in enumerate(data['phases']))
-    coords = [(390,93),(233,224),(530,224),(605,312),(108,310),(704,205)]
-    edges = ''.join(f'<text id="edge-{i}" x="{x}" y="{y}">{e(phase["edges"][i])}</text>' for i, (x,y) in enumerate(coords))
-    q = data['quotes'][0]
-    source_list = ''.join(f'<li id="source-{e(s["id"])}"><a href="{e(s["url"])}" target="_blank" rel="noopener">{e(s["title"])} ↗</a><span>{e(s["note"])}</span></li>' for s in data['sources'])
-    image_list = ''.join(f'<li>{e(item["file"])} · {e(item["caption"])} · <a href="{e(item["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{e(item["sourceUrl"])}" target="_blank" rel="noopener">源页</a></li>' for item in data['images'])
-    portrait_list = ''.join(f'<li>{e(p["name"])} · {e(p["actor"])} 饰 · 本集角色照 · <a href="{e(p["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{e(p["sourceUrl"])}" target="_blank" rel="noopener">源页</a></li>' for p in portraits.values())
-    payload = json.dumps(dict(data, portraits=portraits), ensure_ascii=False).replace('<', '\\u003c')
-    html = f'''<!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#111a20"><meta name="description" content="《亿万》第一季第一集 Pilot 图解：十个剧情节点、真实剧照、分阶段人物关系、短台词与权力主题解读。只剧透首集。"><title>亿万 S01E01 · Pilot — 剧中人</title><link rel="stylesheet" href="../shared/episode.css"><script defer src="../shared/episode.js"></script></head><body id="top">
-<header class="site-header"><a class="brand" href="../../../"><b>✦</b>剧中人</a><a class="crumb" href="../">BILLIONS / 第一季档案 ↗</a></header>
-<main><section class="hero"><div class="wrap hero-layout"><div class="hero-copy"><div class="eyebrow">THE POWER FILES / 权力的剧场</div><div class="hero-title">亿万<small>BILLIONS</small></div><h1>当正义与财富，<br>开始争夺<em>控制权。</em></h1><p>{e(data['subtitle'])}</p><div class="hero-meta"><span><strong>S01 / E01</strong>第一季 · 第一集</span><span><strong>Pilot</strong>2016.01.17 · 电视首播</span><span><strong>10 / 04</strong>剧情节点 / 台词卡</span></div></div><div class="hero-images"><figure><img src="assets/chuck-public.jpg" alt="本集记者会中的查克" width="720" height="404"><figcaption><small>PUBLIC POWER / 公权力</small><strong>CHUCK</strong></figcaption></figure><figure><img src="assets/faceoff.jpg" alt="本集走廊对峙中的阿克斯" width="720" height="404"><figcaption><small>PRIVATE CAPITAL / 资本</small><strong>AXE</strong></figcaption></figure></div></div></section><div class="hero-credit"><div class="wrap">封面为本集两个不同场景的并置，不是一张同框截图。剧集画面 · Showtime / SIMKL <a href="#source-images">↗</a></div></div>
-<nav class="reading-nav" aria-label="单集阅读导航"><div class="wrap nav-items"><span class="code">B / 001</span><a href="#story">01 剧情图解</a><a href="#relations">02 人物关系</a><a href="#power">03 权力对照</a><a href="#quotes">04 台词笔记</a><a href="#motifs">05 细节呼应</a><a href="#background">06 观剧词典</a><a href="#sources">资料来源</a></div><div class="reading-progress" id="reading-progress"></div></nav>
-<section class="intro wrap"><aside class="spoiler-box"><strong>剧透边界 / S01E01</strong>{e(data['spoiler'])}<p style="margin-top:14px;font-size:11px">涉及成人亲密关系与人物死亡，仅作文字分析。</p></aside><div><h2>谁能定义规则，谁又必须接受规则？</h2><p>{e(data['intro'])}</p><p style="margin-top:14px;font-size:11px">剧情概览：<a class="source-ref" href="#source-maze">[本集资料]</a> · 下文分别标注剧情事实、制度背景与个人解读。</p></div></section>
-<section id="story" class="section wrap"><div class="section-heading"><div><div class="eyebrow">01 / THE STORY</div><h2>从一条线索，到一场公开挑战。</h2><p>看见选择，也看见它把人物带到了哪里。</p></div><span class="section-count">10 SCENES</span></div><div class="story-controls" role="group" aria-label="剧情排列方式"><button data-order="screen" aria-pressed="true">本集推进</button><button data-order="threads" aria-pressed="false">按人物主线</button></div><p id="order-note" class="order-note" aria-live="polite">按本集推进顺序归纳；同一节点可合并相关片段，父子谈话等后续揭示会明确说明。</p><div id="timeline">{scenes}</div><div class="cause-strip"><strong>本集冲突链</strong><div><p>异常交易 → 谨慎试探 → 家庭边界 → 舆论施压 → 公开对峙 → 豪宅竞价</p><small>个人解读 · 概括的是冲突如何升级，结尾是否犯罪仍没有定论。</small></div></div></section>
-<section id="relations" class="section relations"><div class="wrap"><div class="section-heading"><div><div class="eyebrow">02 / THE PEOPLE</div><h2>两种权力，中间是一个有自己事业的人。</h2><p>先切换阶段，再点人物；线上的词语也会随局势改变。</p></div><span class="section-count">06 PEOPLE</span></div><div class="phase-tabs" role="group" aria-label="人物关系阶段">{tabs}</div><div class="relationship-layout"><div class="graph-panel"><div class="graph"><svg viewBox="0 0 780 510" aria-hidden="true"><path class="conflict" d="M205 123 L548 123"/><path class="family" d="M153 159 L338 269"/><path class="trust" d="M558 159 L410 268"/><path class="trust" d="M600 170 L600 378"/><path class="family" d="M135 170 L125 378"/><path class="trust" d="M640 155 L682 235"/>{edges}</svg>{people}</div><div class="graph-legend"><span>家庭关系</span><span>信任 / 合作</span><span>冲突 / 压力</span></div><p class="graph-note" id="graph-note" aria-live="polite">{e(phase['note'])}</p></div><aside id="person-detail" class="person-detail" aria-live="polite" aria-atomic="true"><div class="detail-heading">{avatar('wendy')}<div><h3>温迪</h3><small>Wendy Rhoades</small></div></div><p class="role">{e(data['characters']['wendy']['role'])}</p><p>{e(data['characters']['wendy']['fact'])}</p><p>{e(data['characters']['wendy']['analysis'])}</p><p class="phase-detail">{e(phase['details']['wendy'])}</p></aside></div><p class="support-note"><strong>外围人物速记</strong>　Bryan Connerty：查克团队的检察官，承担传话；Kate Sacker：团队成员；Spyros：SEC 来访者；Orrin Bach：阿克斯的律师；Dollar Bill：交易员；Wags：基金的重要管理者；Mike Dimonda：记者；Steven Birch：被转移注意力指向的另一位基金经理。</p><p class="portrait-note">人物关系为本集阅读模型，阶段说明含个人解读；头像统一取自本集，跨场景复用，不代表该阶段的准确镜头。演员与图像出处见篇末。</p></div></section>
-<section id="power" class="section wrap"><div class="section-heading"><div><div class="eyebrow">03 / A CLOSER LOOK</div><h2>他们守护的，都不只有原则。</h2><p>以下是对首集人物呈现的阅读，不替角色作法律判决。</p></div><span class="section-count">个人解读</span></div><div class="duel-grid"><article class="duel-card"><img src="assets/chuck-office.jpg" alt="本集办公室里的查克" width="720" height="404" loading="lazy"><div class="duel-body"><div class="eyebrow">CHUCK / 起诉的权力</div><h3>我要让你接受规则。</h3><p>查克对有钱人的通融说“不”，又必须考虑证据、胜率和声誉。他能把国家的力量带到案件里，也会被自己的事业目标限制。</p><dl><dt>资源</dt><dd>联邦执法与起诉权、团队、公共形象</dd><dt>软肋</dt><dd>完美纪录、家庭职业交叉、父亲的影响</dd><dt>首集选择</dt><dd>等待证据，同时利用对手的自尊寻找入口</dd></dl></div></article><article class="duel-card"><img src="assets/axe-office.jpg" alt="本集办公室里的阿克斯" width="720" height="404" loading="lazy"><div class="duel-body"><div class="eyebrow">AXE / 拒绝的资本</div><h3>我要决定自己的边界。</h3><p>阿克斯懂市场、懂人，也知道声誉的价值。财富使他能拒绝许多要求，但被外部权威挑衅时，拒绝本身会变成一种必须兑现的表演。</p><dl><dt>资源</dt><dd>资金、信息渠道、专业团队、善举积累的信任</dd><dt>软肋</dt><dd>好胜心、对失去控制的抗拒</dd><dt>首集选择</dt><dd>转移火力，最终以买房回应威胁</dd></dl></div></article></div><div class="big-insight"><div class="eyebrow">WENDY / 第三个坐标</div><h3>能看懂动机，不等于能够替别人作选择。</h3><p>温迪可以帮助交易员恢复行动力，也能识别阿克斯的购房冲动；她却无法保证他最后仍然听取建议。同样，她理解查克的职业，不会因此自动放弃自己的职业。本集最有意思的关系，不只是“谁站哪边”，还有“一个人如何保留自己的判断”。</p></div></section>
-<section id="quotes" class="section quote-section"><div class="wrap"><div class="section-heading"><div><div class="eyebrow">04 / BETWEEN THE LINES</div><h2>短句背后，是说话者的位置。</h2><p>原文、中文自译、场景与可能的潜台词。</p></div><span class="section-count">04 NOTES</span></div><div class="quote-layout"><div class="quote-visual"><img id="quote-image" src="assets/{q['image']}.jpg" alt="{e(images['assets/'+q['image']+'.jpg']['alt'])}" width="720" height="404" loading="lazy"><div id="quote-image-caption" class="quote-image-caption">{e(images['assets/'+q['image']+'.jpg']['caption'])} · Showtime / SIMKL</div></div><article class="quote-note"><div id="quote-note-body" aria-live="polite" aria-atomic="true"><div class="eyebrow">{e(q['speaker'])}</div><blockquote lang="en">{e(q['en'])}</blockquote><p class="translation">{e(q['zh'])}</p><p class="context">场景 / {e(q['context'])}</p><span class="analysis-label">潜台词 · 个人解读</span><p class="quote-analysis">{e(q['analysis'])}</p></div><div class="quote-controls"><button id="quote-prev" aria-label="上一张台词卡">←</button><span id="quote-count" aria-live="polite">01 / 04</span><button id="quote-next" aria-label="下一张台词卡">→</button></div></article></div><p class="quote-foot">四句英文共 23 个词，核对自本集对白转录；中文为本页自译。头像与场景图不代替对说话者的文字说明。<a href="#source-transcript">[转录来源]</a></p></div></section>
-<section id="motifs" class="section wrap"><div class="section-heading"><div><div class="eyebrow">05 / WHAT TO NOTICE</div><h2>回头再看，这三个细节会变重。</h2><p>只看首集内部的呼应，不拿后续剧情补答案。以下均为个人解读。</p></div></div><div class="motif-grid"><article class="motif"><b>01</b><h3>狗、领地和被限制的冲动。</h3><p>阿克斯把狗的行为解释成宣示领地；后面看到狗被绝育后的状态，他紧接着作出买房决定。剪接让“被驯服”的焦虑与公开反抗并置。它提示一种读法，而不是证明所有动机都来自这个瞬间。</p><div class="mini-flow">宣示领地 → 看见被限制 → 用购买回应</div></article><article class="motif"><b>02</b><h3>开场的弱势，结尾的另一种秩序。</h3><p>首尾私密场景与白天的检察官身份形成反差。结尾确认了温迪的身份，也让“谁掌握控制权”离开单一职位的尺度。同一个人，在工作、婚姻和亲密关系中可以接受不同角色。</p><div class="mini-flow">公权力的掌握者 ↔ 私密关系中的交付</div></article><article class="motif"><b>03</b><h3>两个父亲，教两种博弈。</h3><p>阿克斯看出儿子用短暂装傻赢下赌注；老查克则能把求情被拒转换成儿子的声誉资源。两段家庭对话都把生活变成了识人和判断局面的练习：权力的语言并不只留在办公室。</p><div class="mini-flow">家庭里的小较量 → 社会中的策略语言</div></article></div></section>
-<section id="background" class="section background"><div class="wrap"><div class="section-heading"><div><div class="eyebrow">06 / CONTEXT, NOT VERDICT</div><h2>四个词，帮你跟上这场对话。</h2><p>制度与金融背景 · 与剧情事实、个人解读分开阅读。</p></div></div><div class="glossary"><article class="term"><h3>U.S. Attorney / 联邦检察官</h3><p>查克的职务属于联邦体系。纽约南区联邦检察官办公室代表美国处理其职权范围内的民事、刑事诉讼；不宜把他理解为纽约市的普通地方检察官。</p><small><a href="#source-doj">依据：美国司法部 ↗</a></small></article><article class="term"><h3>Insider trading / 内幕交易</h3><p>非法内幕交易的分析涉及重大非公开信息及相应的信任义务等条件。赚得多、判断准，或认识公司里的人，本身都不能直接完成法律认定；本页没有替剧中交易作定罪结论。</p><small><a href="#source-sec">依据：SEC · 入门简化说明 ↗</a></small></article><article class="term"><h3>Long / Short · 做多与做空</h3><p>交易员讨论“做多”时通常期待价格上涨；“做空”通常先卖出借来的股票，期待日后以更低价格买回。本集的分歧是对公司未来和信息可靠性的分歧；做空本身不是内幕交易的同义词。</p><small><a href="#source-short">依据：Investor.gov ↗</a></small></article><article class="term"><h3>Hedge fund / 对冲基金</h3><p>对冲基金把投资者的资金汇集起来，由管理人按策略投资；可能使用多种交易方式。Axe Capital 是虚构基金，本集展示的文化和行为不代表整个行业，也不能由剧名推导出其每笔交易都在“对冲”。</p><small><a href="#source-fund">依据：Investor.gov ↗</a></small></article></div></div></section>
-<section class="closing"><div class="wrap"><div class="eyebrow">END OF PILOT / 本集到此为止</div><h2>房子有了主人。<br>冲突，也有了公开的形状。</h2><p>第一集没有审完一个案子，它搭起了一个局面：查克要找到出手的位置，阿克斯要守住选择的自由，温迪要保住自己的判断与事业。这些诉求从此很难彼此独立。</p><div class="end-questions"><span>声誉能保护一个人多久？</span><span>谁的自尊更容易被利用？</span><span>温迪能保留多大的独立空间？</span></div></div></section>
-<footer id="sources" class="sources wrap"><div class="eyebrow">READING NOTES / 资料与图像</div><h2>每一种判断，都留下来路。</h2><p>剧情文字由对白与分集资料交叉核对，图像逐张辨认；分析独立撰写。角色、基金与本集事件属于虚构剧情，不作为真实案件或人物传记。本页无后续剧透，但外部源页可能包含更多内容。译名：Chuck 查克、Axe 阿克斯、Wendy 温迪、Lara 劳拉；保留英文便于与不同字幕对照。</p><ol class="source-list">{source_list}</ol><details class="asset-sources"><summary>查看 18 张截图与 6 位角色照的逐项出处</summary><p>剧集画面版权属于 Showtime 及相关权利人。用于对应作品的阅读与评论，本仓库不授予图像再分发许可。所有图像均为真实剧集画面，无 AI 生成画面；封面使用并置，关系图复用角色照。截图源页已标注 S01E01，原图在此逐项保留。</p><ul>{image_list}</ul><p>关系图使用统一角色图库（shared/portraits.json），演员与角色对应参考 <a href="https://www.tvmaze.com/shows/3606/billions/cast" target="_blank" rel="noopener">TVmaze 演员表</a>；Hall 由 Terry Kinney 饰。</p><ul>{portrait_list}</ul></details><div class="footer-bottom"><a class="brand" href="../../../"><b>✦</b>剧中人</a><span>BILLIONS / S01E01 · 一集一份档案</span><a class="back-top" href="#top">回到开头 ↑</a></div></footer></main><script type="application/json" id="episode-data">{payload}</script></body></html>'''
-    (EPISODE / 'index.html').write_text(html + '\n')
-    catalogue = '''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#111a20"><meta name="description" content="《亿万》图文阅读档案，当前收录第一季第一集 Pilot。"><title>亿万 · 阅读档案 — 剧中人</title><link rel="stylesheet" href="shared/episode.css"></head><body><header class="site-header"><a class="brand" href="../../"><b>✦</b>剧中人</a><span class="crumb">BILLIONS / 阅读档案</span></header><main class="catalogue wrap"><div class="eyebrow">THE POWER FILES / 权力的剧场</div><h1>亿万 <span style="color:#aa8448;font:30px Georgia,serif">BILLIONS</span></h1><p>金钱、法律与亲密关系，如何彼此改写。当前收录：第一季第一集。</p><article class="catalogue-card"><a href="s01e01/" target="_blank" rel="noopener"><img src="s01e01/assets/charity.jpg" alt="第一集的阿克斯与劳拉在资助聚会上讲话" width="720" height="404"></a><div><div class="eyebrow">SEASON 01 / EPISODE 01</div><h2>Pilot · 首集<br>当正义与财富，开始争夺控制权。</h2><p>从一条异常交易线索，到一栋海边豪宅：十个剧情节点，六位人物的分阶段关系，四张台词卡，以及首集内部的细节呼应。</p><p>剧透范围：只到 S01E01 结尾。配图与导读默认完整展示。</p><a class="read-link" href="s01e01/" target="_blank" rel="noopener">打开首集图解 ↗</a></div></article><p style="font-size:11px;color:#778187;margin-top:20px">配图：Showtime 剧集 S01E01，经 SIMKL 截图集转载；详细出处见单集篇末。</p></main><footer class="sources wrap"><div class="footer-bottom"><a href="../../">← 全部作品</a><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
-    (SHOW / 'index.html').write_text(catalogue + '\n')
-    print(f'Rendered Billions S01E01: {len(data["scenes"])} scenes, {len(portraits)} portraits, {len(data["quotes"])} quotes')
+        return f'<span class="portrait" style="--position:{e(p["position"])};--zoom:{p["zoom"]};--origin:{e(p.get("origin", "50% 50%"))}"><img src="../shared/{e(p["file"])}" alt="{e(p["name"])}的剧中角色照" loading="lazy" width="160" height="160"></span>'
+    def person_detail(key):
+        p, c = portraits[key], data['characters'][key]
+        return f'<div class="detail-heading">{avatar(key)}<div><h3>{e(p["name"])}</h3><small>{e(p["en"])}</small></div></div><p class="detail-role">{e(c["role"])}</p><h4>本集行动 · 剧情事实</h4><p>{e(c["fact"])}</p><h4>人物阅读 · 个人解读</h4><p>{e(c["analysis"])}</p><div class="phase-detail"><strong>{e(data["phases"][0]["name"])}</strong><p>{e(data["phases"][0]["details"][key])}</p></div><div class="portrait-credit">{e(p["actor"])} 饰 · 统一剧中角色照</div>'
+    def flow_html(flow):
+        nodes = ''
+        for i, node in enumerate(flow['nodes'], 1):
+            portrait = avatar(node['portrait']) if node['portrait'] else f'<span class="flow-number">{i:02}</span>'
+            nodes += f'<a class="flow-node" href="#scene-{e(node["scene"])}">{portrait}<span><strong>{e(node["name"])}</strong><small>{e(node["role"])}</small></span></a>'
+        return f'<div class="flow-heading"><h3>{e(flow["title"])}</h3><p>{e(flow["intro"])}</p></div><div class="flow-nodes">{nodes}</div><p class="flow-result">{e(flow["result"])}</p>'
+    def quote_html(quote):
+        return f'<div class="speaker">{e(quote["speaker"])}</div><blockquote lang="en">{e(quote["en"])}</blockquote><p class="translation">{e(quote["zh"])}</p><h4>这句话发生在哪里</h4><p>{e(quote["context"])}</p><div class="quote-reading"><h4>潜台词 · 个人解读</h4><p>{e(quote["analysis"])}</p></div>'
+    acts = ''
+    for act in data['acts']:
+        cards = ''
+        for index, scene in enumerate(data['scenes'], 1):
+            if scene['act'] != act['id']:
+                continue
+            item = pic(scene['image'])
+            refs = ''.join(f'<a class="ref" href="#source-{e(key)}" aria-label="查看剧情依据">[{list(sources).index(key)+1}]</a>' for key in scene['sources'])
+            detail = f'<p class="scene-detail">{e(scene["detail"])}</p>' if scene.get('detail') else ''
+            cards += f'<article class="scene" id="scene-{e(scene["id"])}" data-index="{index}" data-lane="{e(scene["lane"])}"><div class="scene-top"><span class="scene-num">{index:02}</span><div class="scene-title"><small>{e(scene["where"])}</small><h4>{e(scene["title"])}</h4></div></div><figure class="scene-photo">{image_tag(scene["image"])}<button class="zoom-photo" data-image="{e(scene["image"])}" aria-label="查看第{index}个场景的完整图片">↗</button><figcaption class="caption">{e(item["caption"])}</figcaption></figure><p class="scene-fact"><span class="fact-tag">剧情事实</span>{e(scene["fact"])}{refs}</p><details class="scene-analysis" open><summary>这一场为什么重要 · 个人解读</summary><p>{e(scene["analysis"])}</p></details><p class="scene-turn">{e(scene["turn"])}</p>{detail}</article>'
+        evidence = ''
+        if act['id'] == 'pressure':
+            evidence = f'<aside class="evidence"><div class="evidence-images">{photo("axe-basketball", "现场说出的结论 · 本集篮球场截图")}{photo("warehouse", "结论背后的信息来源 · 本集工厂插叙截图")}</div><div class="evidence-copy"><div class="eyebrow">EVIDENCE PAIR / 并排再看</div><h3>赛场边只听见答案，<br>工厂里才看见它的来处。</h3><p>同一笔交易的两个画面，回答不同问题：意见为什么被接受？这份把握怎样获得？插叙让观众知道的，比交易现场正式说出的更多。<a href="#scene-certainty">回看节点 06 ↗</a></p></div></aside>'
+        acts += f'<section class="act" id="act-{act["id"]}"><div class="act-heading"><span class="roman">{act["number"]}</span><div><h3>{e(act["title"])}</h3><p>{e(act["deck"])}</p></div><span class="range">{act["range"]}</span></div><div class="scene-grid">{cards}</div><div class="act-summary"><strong>这一幕推进了什么</strong><p>{e(act["summary"])}</p></div>{evidence}</section>'
+    keys = ['chuck','axe','wendy']
+    cast_labels = {'chuck':'规则 / 起诉 / 不能输','axe':'信息 / 声誉 / 不愿屈服','wendy':'专业 / 婚姻 / 自己的事业'}
+    cast_strip = ''.join(f'<a class="cast-item" href="#relations">{avatar(key)}<div><small>{e(portraits[key]["en"])}</small><p><strong>{e(portraits[key]["name"])}</strong></p><p>{cast_labels[key]}</p></div></a>' for key in keys)
+    main_people = ''.join(f'<button class="person {key}" data-person="{key}" aria-pressed="{str(key == "wendy").lower()}" aria-label="查看{e(portraits[key]["name"])}的关系">{avatar(key)}<strong>{e(portraits[key]["name"])}</strong><small>{e(portraits[key]["en"])}</small></button>' for key in keys)
+    support_people = ''.join(f'<button class="support-person" data-person="{key}" aria-pressed="false" aria-label="查看{e(portraits[key]["name"])}的关系">{avatar(key)}<strong>{e(portraits[key]["name"])}</strong></button>' for key in ['senior','lara','bryan','hall'])
+    phase_tabs = ''.join(f'<button data-phase="{p["id"]}" aria-pressed="{str(i == 0).lower()}">{e(p["name"])}</button>' for i,p in enumerate(data['phases']))
+    values = dict(intro=e(data['intro']),opening_fact=e(data['openingFact']),opening_reading=e(data['openingReading']),acts=acts,cast_strip=cast_strip,main_people=main_people,support_people=support_people,phase_tabs=phase_tabs,graph_note=e(data['phases'][0]['note']),initial_person=person_detail('wendy'),initial_flow=flow_html(data['flows'][0]),initial_quote=quote_html(data['quotes'][0]),chuck_warning_photo=photo('chuck-bryan','查克与 Bryan 讨论时机 · 本集配图，不冒充警告原句的镜头'),wendy_warning_photo=photo('axe-office','与温迪谈话中的阿克斯 · 本集办公室截图'))
+    for i in range(3):
+        values[f'edge{i}'] = e(data['phases'][0]['edges'][i])
+    for prefix,name in [('hero',data['hero']),('quote',data['quotes'][0]['image']),('closing','closing-house')]:
+        item = pic(name)
+        for field in ['src','alt','width','height','caption']:
+            values[prefix+'_'+field] = e(item['file'] if field == 'src' else item[field])
+    for q in data['quotes']:
+        pic(q['image'])
+    rendered_images = [item for name,item in images.items() if name in used_images]
+    values['source_list'] = ''.join(f'<li id="source-{e(s["id"])}"><a href="{e(s["url"])}" target="_blank" rel="noopener">{e(s["title"])} ↗</a><span>{e(s["note"])}</span></li>' for s in data['sources'])
+    values['image_list'] = ''.join(f'<li>{e(item["caption"])} · <a href="{e(item["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{e(item["sourceUrl"])}" target="_blank" rel="noopener">源页</a></li>' for item in rendered_images)
+    values['portrait_list'] = ''.join(f'<li>{e(p["name"])} · {e(p["actor"])} 饰 · <a href="{e(p["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{e(p["sourceUrl"])}" target="_blank" rel="noopener">源页</a></li>' for p in portraits.values())
+    values['payload'] = json.dumps(dict(data,portraits=portraits),ensure_ascii=False).replace('<','\\u003c')
+    page = Template((SHOW / 'shared' / 'episode.html').read_text()).substitute(values)
+    (EPISODE / 'index.html').write_text(page)
+    hero = images[data['hero']]
+    catalogue = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#161c20"><meta name="description" content="《亿万》图文阅读档案，当前收录第一季第一集 Pilot。"><title>亿万 · 阅读档案 — 剧中人</title><link rel="stylesheet" href="shared/episode.css?v=2"></head><body><header class="masthead"><a class="brand" href="../../"><b>✦</b>剧中人</a><a class="episode-label" href="../../">全部作品 ↗</a></header><main class="catalogue wrap"><div class="eyebrow">THE POWER FILES / 权力的剧场</div><h1>BILLIONS <span>亿万</span></h1><p>用画面跟上选择，用关系理解动机。当前收录：第一季第一集。</p><article class="catalogue-card"><a href="s01e01/" target="_blank" rel="noopener"><img src="s01e01/{e(hero['file'])}" alt="{e(hero['alt'])}" width="{hero['width']}" height="{hero['height']}"></a><div class="catalogue-copy"><div class="eyebrow">SEASON 01 / EPISODE 01 · PILOT</div><h2>谁能决定，游戏的规则？</h2><p>从一条异常交易线索，到一栋海边豪宅。三幕、十二个节点，讲清查克的试探、阿克斯的反制，以及温迪坚持的职业边界。</p><p style="margin-top:14px">人物关系 · 消息流 · 场景对照 · 台词笔记<br>只剧透 S01E01 结尾；配图与解读默认完整展示。</p><a class="read-link" href="s01e01/" target="_blank" rel="noopener">打开首集图解 ↗</a></div></article><p class="catalogue-credit">封面：首集走廊交锋宣传剧照 · Showtime / Edna。详细来源见单集篇末。</p></main><footer class="sources wrap"><div class="footer-bottom"><a href="../../">← 全部作品</a><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
+    (SHOW / 'index.html').write_text(catalogue+'\n')
+    print(f'Rendered Billions v2: 3 acts, 12 scenes, {len(rendered_images)} editorial images, {len(portraits)} portraits')
 
 
 if __name__ == '__main__':

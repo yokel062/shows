@@ -27,22 +27,23 @@
       "en": "Wendy Rhoades",
       "actor": "Maggie Siff",
       "file": "portraits/wendy.jpg",
-      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
-      "originalUrl": "https://simkl.net/episodes/43/4351116d2f7ded02e_0.jpg",
+      "sourceUrl": "https://www.edna.cz/miliardy/fotky/fotografie-z-prvni-epizody/",
+      "originalUrl": "https://www.edna.cz/runtime/cache/images/full/series/billions/1019-a67bfdec1125c838540bf252a5d91969.jpg",
       "kind": "character-still",
-      "position": "35% 35%",
-      "zoom": 1.4
+      "position": "-34% 30%",
+      "zoom": 1.7,
+      "origin": "50% 0%"
     },
     "lara": {
       "name": "劳拉",
       "en": "Lara Axelrod",
       "actor": "Malin Åkerman",
       "file": "portraits/lara.jpg",
-      "sourceUrl": "https://simkl.com/tv/551846/billions/season-1/episode-1/screencaps/",
-      "originalUrl": "https://simkl.net/episodes/43/43511026d4721f743_0.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=7963",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/01/larathreat.png",
       "kind": "character-still",
-      "position": "100% 35%",
-      "zoom": 1.4
+      "position": "100% 30%",
+      "zoom": 1.2
     },
     "senior": {
       "name": "老查克",
@@ -65,6 +66,18 @@
       "kind": "character-still",
       "position": "72% 40%",
       "zoom": 1.45
+    },
+    "bryan": {
+      "name": "布莱恩",
+      "en": "Bryan Connerty",
+      "actor": "Toby Leonard Moore",
+      "file": "portraits/bryan.jpg",
+      "sourceUrl": "https://www.edna.cz/miliardy/fotky/fotografie-z-prvni-epizody/",
+      "originalUrl": "https://www.edna.cz/runtime/cache/images/full/series/billions/1017-996df959faefd72ec6c1a0ced1fa72a0.jpg",
+      "kind": "character-still",
+      "position": "54% 0%",
+      "zoom": 1.45,
+      "origin": "50% 0%"
     }
   }
 }
