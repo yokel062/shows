@@ -123,6 +123,20 @@
       "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-9/screencaps/",
       "caption": "HBO《兄弟连》S01E09 剧中画面／SIMKL。尼克森背对镜头站在德国军官家中；此图展示家宅环境，不是妻子的肖像。",
       "alt": "尼克森背对镜头站在德国军官家中，身旁是家具与画像"
+    },
+    {
+      "file": "assets/truck-conversation.jpg",
+      "url": "https://pics.livejournal.com/marymary/pic/0007z9fd",
+      "sourceUrl": "https://marymary.livejournal.com/18240.html",
+      "caption": "HBO《兄弟连》剧中画面。利布戈特与韦伯斯特在车上谈话 · 第 9 集画面",
+      "alt": "利布戈特、韦伯斯特和其他士兵并排坐在车辆上，手边放着步枪"
+    },
+    {
+      "file": "assets/liebgott-camp.jpg",
+      "url": "https://pics.livejournal.com/marymary/pic/0009bb7c",
+      "sourceUrl": "https://marymary.livejournal.com/18240.html",
+      "caption": "HBO《兄弟连》剧中画面。利布戈特在营地 · 本集人物配图，非宣布回营命令的准确镜头",
+      "alt": "利布戈特站在营地围栏前，神情紧绷，身后还有战友"
     }
   ],
   "scenes": [
@@ -156,8 +170,8 @@
       "fact": "佩康特对渴望战斗的新兵奥基夫发火。尼克森收到离婚来信；车上谈起战后的生活，韦伯斯特又向撤退的德军斥骂，质问为什么自己的生活会被战争打断。",
       "analysis": "同一句“战争快结束了”，在新兵耳中意味着错过经历，在老兵耳中意味着终于可能活着离开。愤怒的对象并不相同，底层却都是被夺走的生活。这里的闲谈为后面发现营地留下了理解的落差。",
       "source": "review",
-      "caption": "原创叙事示意，不是历史照片。",
-      "graphic": "想要经历战斗 ↔ 想要结束战斗 → 谁的生活被夺走？"
+      "caption": "利布戈特与韦伯斯特在车上谈话 · 第 9 集画面",
+      "image": "assets/truck-conversation.jpg"
     },
     {
       "id": "portrait",
@@ -200,8 +214,8 @@
       "fact": "士兵先送水、食物与毯子。医生肯特随后要求停止自由发放食物，并集中幸存者以监督治疗。温特斯让利布戈特解释暂时返回营地的命令，后者难以开口。",
       "analysis": "刚打开的营门又成为一道边界，难怪这个命令像背叛。剧中医生解释的是严重饥饿者的治疗风险，但幸存者接收到的首先是再次受限。善意需要专业判断，也需要承担解释、寻找更好安置的责任。",
       "source": "transcript",
-      "caption": "原创叙事示意，不是历史照片。",
-      "graphic": "打开营门 → 紧急援助 → 医生提出风险 → 监督治疗与重新安置"
+      "caption": "利布戈特在营地 · 本集人物配图，非宣布回营命令的准确镜头",
+      "image": "assets/liebgott-camp.jpg"
     },
     {
       "id": "witness",

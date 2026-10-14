@@ -98,6 +98,13 @@
       "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-7/screencaps/",
       "caption": "HBO《兄弟连》S01E07 剧中画面／SIMKL。温特斯观察福伊攻击；本集战斗中的营级观察视角。",
       "alt": "没有戴头盔的温特斯在雪林边注视前方"
+    },
+    {
+      "file": "assets/hoobler.jpg",
+      "url": "https://imgix.ranker.com/user_node_img/50145/1002896190/original/1002896190-photo-u-1198496538?auto=format&dpr=2&fit=crop&fm=pjpg&q=60&w=1000",
+      "sourceUrl": "https://www.ranker.com/list/heartwrenching-moments-band-of-brothers/thomas-west",
+      "caption": "HBO《兄弟连》剧中画面。霍布勒展示缴获的鲁格手枪 · 第 7 集画面",
+      "alt": "雪中的霍布勒戴着钢盔，手里拿着一支鲁格手枪"
     }
   ],
   "scenes": [
@@ -106,11 +113,11 @@
       "time": 1,
       "where": "林区推进／进攻福伊之前",
       "title": "战利品突然成为危险",
-      "graphic": "渴望鲁格手枪 → 取得战利品 → 意外走火 → 缺席的战友",
-      "caption": "原创因果示意；没有以其他集数画面代替霍布勒的事故。",
+      "caption": "霍布勒展示缴获的鲁格手枪 · 第 7 集画面",
       "fact": "霍布勒得到一直想要的鲁格手枪，随后因意外走火受伤并死亡。利普顿的旁白把这件突发事故，放进连队日益缩减的名单里。",
       "analysis": "这一段让死亡脱离了观众熟悉的战斗逻辑：没有壮烈冲锋，也没有可预测的对手。一个小小的私人愿望，转眼成了旁人必须收拾的遗物。它为全集建立的不只是危险感，还有失去控制的感觉。",
-      "source": "transcript"
+      "source": "transcript",
+      "image": "assets/hoobler.jpg"
     },
     {
       "id": "absent",

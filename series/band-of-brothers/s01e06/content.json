@@ -82,6 +82,20 @@
       "sourceUrl": "https://www.ranker.com/list/heartwrenching-moments-band-of-brothers/thomas-west",
       "caption": "HBO 第 6 集画面／Ranker；罗与勒梅尔坐在镇内积雪的建筑外交谈。来源文章把此图放在失去护士的条目中，本页按实际画面注明为两人交谈，不称其为废墟寻人的镜头。",
       "alt": "罗与戴蓝色头巾的勒梅尔坐在镇内建筑外，两人周围是积雪和破损家具。"
+    },
+    {
+      "file": "assets/julian-heffron.webp",
+      "url": "https://www.slashfilm.com/img/gallery/the-12-most-brutal-moments-in-band-of-brothers/julian-is-sniped-at-bastogne-1764877704.webp",
+      "sourceUrl": "https://www.slashfilm.com/1050630/the-most-brutal-moments-in-band-of-brothers/",
+      "caption": "HBO《兄弟连》剧中画面。朱利安与赫夫隆在雪林中交谈 · 本集人物配图，非伏击瞬间",
+      "alt": "朱利安戴着钢盔，面对左侧的赫夫隆交谈，身旁还有其他士兵"
+    },
+    {
+      "file": "assets/aid-station-ruins.jpg",
+      "url": "https://simkl.net/episodes/39/39425726409354821_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-6/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。罗来到燃烧的救护站废墟前 · 第 6 集后段画面",
+      "alt": "一名军医站在镇内燃烧的建筑与倒塌木架前"
     }
   ],
   "scenes": [
@@ -123,11 +137,11 @@
       "time": 4,
       "where": "森林 · 接敌巡逻",
       "title": "一个承诺，碰到无法跨越的火线",
-      "graphic": "承诺带回物品 → 巡逻遭伏击 → 被迫撤退",
-      "caption": "本集事件示意图；箭头表示剧情因果，不表示精确战术位置。",
+      "caption": "朱利安与赫夫隆在雪林中交谈 · 本集人物配图，非伏击瞬间",
       "fact": "巡逻遭到伏击，朱利安倒在敌方火力范围内。赫夫隆想把他带回来，尼克森命令撤退；后来，赫夫隆说自己答应过把朱利安的东西送给其母亲。",
       "analysis": "赫夫隆面对的是一个具体的人和一句具体的承诺；尼克森面对的是继续接近伤员会让更多人暴露的局面。这里没有足够信息让观众把决定简化成冷酷或正确。不可完成的救援，仍会在幸存者心里留下必须承担的重量。",
-      "source": "guide"
+      "source": "guide",
+      "image": "assets/julian-heffron.webp"
     },
     {
       "id": "comfort",
@@ -156,11 +170,11 @@
       "time": 7,
       "where": "圣诞前后 · 森林与镇内",
       "title": "庆祝坚守的消息，和停不下来的伤亡",
-      "graphic": "圣诞消息 / 拒绝投降 ↔ 炮击 / 救护仍在继续",
-      "caption": "并置关系示意；没有把不同场景压缩成同一分钟。",
+      "caption": "罗来到燃烧的救护站废墟前 · 第 6 集后段画面",
       "fact": "辛克传达麦考利夫拒绝投降的圣诞消息。威尔士随后受伤，疲惫的罗继续救护；他再进镇时，收治处已遭轰炸，他在废墟中找到勒梅尔的蓝色头巾。",
       "analysis": "集体叙事能够说“我们挡住了进攻”，个人却还在经历一位朋友的消失。两种尺度在圣诞节相遇，使胜利的意义变得沉重。废墟与头巾传达了剧中失去的事实；此处不把两人私下相处或道具细节当成逐项历史证据。",
-      "source": "transcript"
+      "source": "transcript",
+      "image": "assets/aid-station-ruins.jpg"
     },
     {
       "id": "babe",

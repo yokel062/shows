@@ -82,6 +82,34 @@
       "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=34024",
       "caption": "HBO 第 2 集画面，经专题转载：温特斯在夜间来到士兵休息的卡车旁。",
       "alt": "夜色里温特斯戴着钢盔与士兵说话，右手向侧面抬起"
+    },
+    {
+      "file": "assets/airborne.jpg",
+      "url": "https://simkl.net/episodes/39/3942896f4fd4ed892_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-2/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。运输机舱内的空降行动 · 第 2 集开场画面",
+      "alt": "舱门透入亮光，装备齐全的伞兵在运输机内准备空降"
+    },
+    {
+      "file": "assets/hall-winters.jpg",
+      "url": "https://simkl.net/episodes/39/3942924c1583c2611_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-2/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。霍尔与温特斯交谈 · 本集白天会合画面，非夜间初遇镜头",
+      "alt": "戴着网罩钢盔的霍尔面对右侧未戴头盔的温特斯交谈"
+    },
+    {
+      "file": "assets/night-orders.jpg",
+      "url": "https://simkl.net/episodes/39/3942908d86f23e05e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-2/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。夜间队伍中的交谈 · 本集相关配图，非开火瞬间",
+      "alt": "夜间林中两名美军士兵交谈，一人抬手面对同伴"
+    },
+    {
+      "file": "assets/prisoners.jpg",
+      "url": "https://imgix.ranker.com/user_node_img/50116/1002314889/original/1002314889-photo-u1?auto=format&dpr=2&fit=crop&fm=pjpg&q=60&w=650",
+      "sourceUrl": "https://www.ranker.com/list/band-of-brothers-show-vs-book/gordon-cameron",
+      "caption": "HBO《兄弟连》S01E02 剧中画面。德军俘虏与美军士兵交谈，手中有香烟；非枪击画面。",
+      "alt": "树林中，两名美军士兵面对身穿德军制服的俘虏，俘虏手里拿着香烟"
     }
   ],
   "scenes": [
@@ -90,44 +118,44 @@
       "time": 1,
       "where": "诺曼底上空 · 凌晨",
       "title": "绿灯亮了，计划却已经散开",
-      "graphic": "训练程序 → 炮火与偏航 → 分散着陆",
-      "caption": "原创剧情流程示意；不对应准确航线或实际空降位置。",
+      "caption": "运输机舱内的空降行动 · 第 2 集开场画面",
       "fact": "飞机遭到防空火力袭击，空降发生在混乱中。温特斯落地后发现装着主要装备的腿袋已经丢失，熟悉的队形也不复存在；E 连大量人员未能按计划集中。",
       "analysis": "开场把上一集整齐的训练画面拆成一个个孤立的人。准备并不能让战争按预案发生，却能让人仍然完成挂钩、检查、跳出舱门这些动作。训练的意义此刻藏在动作里，几乎没有时间供人宣告勇敢。",
-      "source": "guide"
+      "source": "guide",
+      "image": "assets/airborne.jpg"
     },
     {
       "id": "hall",
       "time": 2,
       "where": "诺曼底田野 · 夜间",
       "title": "先找到一个能与你行动的人",
-      "graphic": "霍尔的焦虑 → 确认身份 → 寻找地标",
-      "caption": "原创剧情示意；本页没有把白天战斗画面冒充这场夜间相遇。",
+      "caption": "霍尔与温特斯交谈 · 本集白天会合画面，非夜间初遇镜头",
       "fact": "温特斯与 A 连无线电兵霍尔相遇，纠正口令后带他前进。霍尔担心丢失电台会被追责，温特斯让他先关注眼前任务；随后汇合利普顿等人，借地图与地标确定方向。",
       "analysis": "他没有要求霍尔立刻变得无所畏惧，而是给出能够完成的小任务。帮助寻找地标，让霍尔从等待训斥的人变成提供信息的人。这种照顾同时具有战术价值：稳定一个人，也就多出一个可以协作的伙伴。",
-      "source": "leadership"
+      "source": "leadership",
+      "image": "assets/hall-winters.jpg"
     },
     {
       "id": "guarnere",
       "time": 3,
       "where": "乡间道路 · 黎明前",
       "title": "同一支枪，可以听命令，也可以发泄悲痛",
-      "graphic": "共同伏击 → 瓜奈尔抢先开火 → 温特斯重申命令",
-      "caption": "原创关系示意；个人悲痛解释冲动，并不自动证明行为合理。",
+      "caption": "夜间队伍中的交谈 · 本集相关配图，非开火瞬间",
       "fact": "队伍遇到德军，瓜奈尔未等命令就开火，温特斯随后责令他服从。瓜奈尔仍对温特斯抱有偏见；他在出发前得知兄长阵亡，这份悲痛继续影响着他的情绪。",
       "analysis": "瓜奈尔想尽快杀伤敌人，温特斯要让所有人一起行动。这里的冲突把私人伤痛放进公共责任之中：一个人认为已经够安全的开火时机，可能让整支小队暴露。克制也因此成为一种能够保护战友的能力。",
-      "source": "leadership"
+      "source": "leadership",
+      "image": "assets/night-orders.jpg"
     },
     {
       "id": "prisoners",
       "time": 4,
       "where": "美军集合地附近 · 清晨",
       "title": "敌军制服之下，竟然是熟悉的家乡",
-      "graphic": "俄勒冈同乡 → 战俘告别 → 画外枪声",
-      "caption": "叙事顺序示意；枪声构成暗示，页面不将其作为历史罪行已获证实的结论。",
+      "caption": "德军俘虏与美军士兵交谈，手中拿着香烟 · 第 2 集配图，非枪击画面",
       "fact": "马拉其与一名来自俄勒冈的德军战俘聊起共同的生活背景。离开后，他看见斯皮尔斯走向俘虏，又听到枪声；镜头转向他的反应，没有展示完整事件经过。",
       "analysis": "熟悉的地名短暂地把敌人变回普通人，随后的声音又打断了这个联系。观众和马拉其都只能拼接不完整信息。这段不安应被保留下来：作品的暗示、角色的判断与经过核证的历史，是三种不同的东西。",
-      "source": "history"
+      "source": "history",
+      "image": "assets/prisoners.jpg"
     },
     {
       "id": "orders",

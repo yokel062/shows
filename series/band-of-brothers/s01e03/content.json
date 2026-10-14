@@ -82,6 +82,13 @@
       "sourceUrl": "https://www.cinemablend.com/television/band-of-brothers-best-miniseries-ever-why-wont-hbo-fix-one-glaring-mistake",
       "caption": "HBO 布莱斯人物画面 · 来源 CinemaBlend 第 3 集专题；仅作本集人物配图，不指认某句台词镜头。",
       "alt": "戴网罩头盔的布莱斯站在野外，神色紧绷"
+    },
+    {
+      "file": "assets/laundry.webp",
+      "url": "https://www.slashfilm.com/img/gallery/the-10-best-moments-in-band-of-brothers/malarkey-picks-up-laundry-1669050730.webp",
+      "sourceUrl": "https://www.slashfilm.com/1112113/the-best-moments-in-band-of-brothers/",
+      "caption": "HBO《兄弟连》剧中画面。马拉基在洗衣处听到其他人的名字 · 第 3 集画面",
+      "alt": "马拉基站在洗衣处，身后的架子上摆着杯子与器皿"
     }
   ],
   "scenes": [
@@ -167,11 +174,11 @@
       "time": 8,
       "where": "英国 · 休整之后再次准备离开",
       "title": "洗好的衣服，等不到它们的主人",
-      "graphic": "衣物 → 姓名 → 缺席",
-      "caption": "原创剧情示意：洗衣店的点名让战场损失进入日常生活。",
+      "caption": "马拉基在洗衣处听到其他人的名字 · 第 3 集画面",
       "fact": "E 连返回英国，休整后再收到出发命令。马拉基取洗好的衣服时，店主请他顺带领取其他人的衣物；她念到许多无法来取的人，最后包括布莱斯。",
       "analysis": "战场上的损失往往以枪声和伤口呈现，结尾却换成衣物与账单。店主不知道名字背后的遭遇，马拉基也很难逐一解释。洗衣还在等待，连队已经改变；布莱斯此时的缺席不能被直接解释为死亡。",
-      "source": "transcript"
+      "source": "transcript",
+      "image": "assets/laundry.webp"
     }
   ],
   "characters": [

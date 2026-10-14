@@ -116,6 +116,13 @@
       "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/episode-4/screencaps/",
       "caption": "HBO 第 4 集真实截图，经 SIMKL 收录：兰德尔曼归队，在车辆旁重新面对战友。",
       "alt": "归队后的兰德尔曼坐在军车旁，抬头向战友微笑"
+    },
+    {
+      "file": "assets/civilian.jpg",
+      "url": "https://simkl.net/episodes/39/3942716e6d84386ee_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-4/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。荷兰街头，一名女子遭到公开剃发 · 第 4 集画面",
+      "alt": "人群中一名穿白色上衣的女子哭泣，旁边有人抓住她的头发"
     }
   ],
   "scenes": [
@@ -157,10 +164,11 @@
       "time": 4,
       "where": "埃因霍温 · 庆祝与清算并置",
       "title": "同一座城市，还有另一种解放体验",
-      "graphic": "欢迎 → 清算 → 不安",
       "fact": "士兵看到当地女性因被指与德国人有关系而被公开剃发羞辱。街头的庆祝中，夹杂着对占领时期合作行为的报复。",
       "analysis": "这一幕让“解放”从一个统一的好消息，变成具体的人在冲突中经历的过程。旁观士兵不自动掌握所有背景，观众也不应把人群的愤怒当作可靠审判；兴奋的街景因此多了一层难以消化的现实。",
-      "source": "guide"
+      "source": "guide",
+      "image": "assets/civilian.jpg",
+      "caption": "荷兰街头，一名女子遭到公开剃发 · 第 4 集画面"
     },
     {
       "id": "nuenen",

@@ -131,6 +131,13 @@
       "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-10/screencaps/",
       "caption": "HBO 本集截图 / SIMKL：受降段落中索贝尔经过温特斯；此帧未定格敬礼动作。",
       "alt": "受降现场，索贝尔从温特斯身边经过，远处列队的是德军士兵"
+    },
+    {
+      "file": "assets/speirs-night.jpg",
+      "url": "https://simkl.net/episodes/39/39421461da540f2bf_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/3744/band-of-brothers/season-1/episode-10/screencaps/",
+      "caption": "HBO《兄弟连》剧中画面。斯皮尔斯在夜间奔走 · 本集相关配图，非枪击发生镜头",
+      "alt": "夜间的车辆旁，斯皮尔斯面对前景中的另一人站立"
     }
   ],
   "scenes": [
@@ -183,11 +190,11 @@
       "time": 4,
       "where": "奥地利 · 道路与检查站",
       "title": "敌人投降了，风险没有跟着消失",
-      "graphic": "停战与等待 → 武器、酒精、空闲并存 → 事故与冲动 → 救治、约束、问责",
-      "caption": "原创因果示意；没有使用事故或中枪现场配图。",
+      "caption": "斯皮尔斯在夜间奔走 · 本集相关配图，非枪击发生镜头",
       "fact": "Shifty 在返乡途中遭遇车祸并受伤，Janovec 死于道路事故。Grant 被醉酒美军士兵枪击后，Speirs 带他寻找医生，并把被抓到的枪手交给宪兵。",
       "analysis": "这几次伤亡让胜利的喜悦带上刺痛：他们挺过最危险的战场，却不能保证挺过等待。Speirs 的价值在此从冲锋变成救人和控制报复。德军医生参与救治，也使救助关系暂时穿过了敌我身份的边界。",
-      "source": "review"
+      "source": "review",
+      "image": "assets/speirs-night.jpg"
     },
     {
       "id": "new-duty",
