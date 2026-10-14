@@ -18,6 +18,7 @@
 - 《兄弟连》第 2—10 集的编辑源为各目录的 `content.json`；修改后运行 `python tools/build_episodes.py --complete` 生成静态 HTML 与整季目录数据。共享组件在 `series/band-of-brothers/shared/`。
 - 第 1 集保留原独立页面；更改共享视觉时不要覆盖它的原内容。
 - 场景的“这一场为什么重要 · 个人解读”默认展开。人物关系图使用 `shared/portraits.json` 注册的统一剧中角色照，同一人跨集复用，新增人物时补齐演员和图像出处。
+- 整季目录默认显示全部集数的配图与导读，不按观看进度隐藏；单集入口在新标签页打开。
 
 ## Git 与发布
 

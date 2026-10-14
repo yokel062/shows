@@ -13,15 +13,9 @@ const records = [
   {"episode": 10, "title": "Points", "headline": "战争结束了，他们怎样回到生活里。", "hero": "s01e10/assets/baseball.jpg", "alt": "第十集画面：阿尔卑斯山脚下，E 连士兵在草地上打棒球，一人在垒边滑垒"},
   /* EPISODE_RECORDS_END */
 ];
-const select = document.querySelector('#watch-progress');
-let progress = 1;
-try { const stored = Number(localStorage.getItem('band-of-brothers-progress')); if(stored>=1 && stored<=10) progress=stored; } catch {}
-select.value = String(progress);
 function renderCatalogue(){
   document.querySelector('#season-grid').innerHTML = records.map(record => {
-    const visible = record.episode <= progress;
-    return `<a class="episode-card ${visible?'':'locked'}" href="s01e${String(record.episode).padStart(2,'0')}/"><div class="episode-cover">${visible?`<img src="${escapeHTML(record.hero)}" alt="${escapeHTML(record.alt)}" loading="lazy">`:`<span class="number">${String(record.episode).padStart(2,'0')}</span>`}<span class="cover-label">S01 · E${String(record.episode).padStart(2,'0')}</span></div><div class="episode-card-info"><div class="eyebrow">包含截至第 ${record.episode} 集的剧情</div><h3>${escapeHTML(record.title)}</h3><p>${visible?escapeHTML(record.headline):'配图与导读已收起，避免提前揭示后续情节。'}</p><span class="card-open">打开第 ${record.episode} 集图解 →</span></div></a>`;
+    return `<a class="episode-card" href="s01e${String(record.episode).padStart(2,'0')}/" target="_blank" rel="noopener"><div class="episode-cover"><img src="${escapeHTML(record.hero)}" alt="${escapeHTML(record.alt)}" loading="lazy"><span class="cover-label">S01 · E${String(record.episode).padStart(2,'0')}</span></div><div class="episode-card-info"><div class="eyebrow">包含截至第 ${record.episode} 集的剧情</div><h3>${escapeHTML(record.title)}</h3><p>${escapeHTML(record.headline)}</p><span class="card-open">打开第 ${record.episode} 集图解 ↗</span></div></a>`;
   }).join('');
 }
-select.addEventListener('change',()=>{progress=Number(select.value);try{localStorage.setItem('band-of-brothers-progress',String(progress));}catch{}renderCatalogue();});
 renderCatalogue();
