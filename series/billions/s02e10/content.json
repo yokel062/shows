@@ -1,0 +1,669 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 10,
+  "title": "With or Without You",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E10 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e10",
+      "note": "核对播出对话与揭示顺序；非官方转录，短台词中文为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun · 第二季第10集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "note": "交叉核对情节与本集 Showtime 截图；作者推测不作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E10 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-10/screencaps/",
+      "note": "仅用于本集图像归属，不引用自动生成回顾。"
+    },
+    {
+      "id": "ginge",
+      "title": "Ginges Be Cray · S2E10 回顾",
+      "url": "https://gingesbecray.com/billions-s2e10-with-or-without-you-recap/",
+      "note": "交叉核对两次审查、电脑交付及结尾留言删除；作者对婚姻与后续计划的推测不视为事实。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/empty-bed.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot62.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "阿克斯醒来发现身边已无人",
+      "caption": "本集截图：生日翌日，劳拉和孩子已经离开。",
+      "kind": "episode-still",
+      "width": 2260,
+      "height": 1088
+    },
+    {
+      "file": "assets/pursuit.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot75.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "阿克斯坐在车内打电话",
+      "caption": "本集截图：他用两人早年的相恋与巴黎记忆，试图说服劳拉回复。",
+      "kind": "episode-still",
+      "width": 2360,
+      "height": 1302
+    },
+    {
+      "file": "assets/lara.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot82.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "劳拉在城市公寓面对温迪",
+      "caption": "本集截图：劳拉试图出钱让温迪离开，随后听她谈宽恕。",
+      "kind": "episode-still",
+      "width": 2376,
+      "height": 1213
+    },
+    {
+      "file": "assets/minchak.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot36.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "戴眼镜的 明查克 对查克进行候选人审查",
+      "caption": "本集截图：Mary-Louise Parker 饰的 George 明查克 在审查会谈中。",
+      "kind": "episode-still",
+      "width": 1602,
+      "height": 812
+    },
+    {
+      "file": "assets/chuck-vet.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot13.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "查克在父亲家接受审查",
+      "caption": "本集截图：查克要向 明查克 交代私人经历和潜在政治风险。",
+      "kind": "episode-still",
+      "width": 1608,
+      "height": 816
+    },
+    {
+      "file": "assets/taylor-home.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot73.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "泰勒站在待租公寓露台上",
+      "caption": "本集截图：泰勒与 马菲 看每月二万六千美元的公寓；用于初次检方接触节点时为同集人物情境图。",
+      "kind": "episode-still",
+      "width": 2338,
+      "height": 1210
+    },
+    {
+      "file": "assets/taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot81.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "泰勒在宽敞明亮的公寓露台交谈",
+      "caption": "本集截图：看房中的泰勒；用于研究升职节点时是同集生活选择的情境图，非在报告上签字的画面。",
+      "kind": "episode-still",
+      "width": 2380,
+      "height": 1352
+    },
+    {
+      "file": "assets/bryan.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot84.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "布莱恩在办公室面前摆着饼干",
+      "caption": "本集截图：布莱恩以拿铁与饼干迎接主动到来的泰勒。",
+      "kind": "episode-still",
+      "width": 2596,
+      "height": 1352
+    },
+    {
+      "file": "assets/dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot99.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "温迪和查克在餐馆举杯",
+      "caption": "本集截图：两人跳过婚姻咨询，在旧日主厨的新餐馆用餐。",
+      "kind": "episode-still",
+      "width": 2434,
+      "height": 1396
+    },
+    {
+      "file": "assets/boyd.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot90.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "阿克斯在 博伊德 工作场所与他交谈",
+      "caption": "本集截图：前景背对镜头的是 博伊德，正面是阿克斯；两人谈 Ice Juice。",
+      "kind": "episode-still",
+      "width": 2308,
+      "height": 1342
+    },
+    {
+      "file": "assets/delete.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep10shot104.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18721",
+      "alt": "阿克斯手里拿着劳拉的手机，屏幕显示语音列表",
+      "caption": "本集截图：劳拉上楼后，阿克斯删除自己留下的语音。",
+      "kind": "episode-still",
+      "width": 2518,
+      "height": 1316
+    }
+  ],
+  "scenes": [
+    {
+      "id": "gone",
+      "act": "act1",
+      "lane": "cross",
+      "where": "阿克斯家 → 车内",
+      "title": "找不到家人，先找一个能责问的人",
+      "image": "empty-bed",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉带孩子离开，只留下一张指责撒谎的纸条。阿克斯让 霍尔 寻人，又把温迪带到车里追问原话。监控显示妻子拿走四万美元现金，但车辆定位早已按他的要求关闭，手机与信用卡也没有留下新的可用动向。",
+      "analysis": "这次他面对的是无法用下单或指令解决的失联。阿克斯首先质问温迪，试图把自己撒谎的后果移到说出真话的人身上；而他声称婚姻里只有过这一次谎言，是人物为自己辩护的说法。寻人的技术受限后，他必须接触一个更难接受的事实：妻子可以暂时不回答他。",
+      "turn": "因此 → 阿克斯开始用一条接一条留言填满无法获得回应的时间。"
+    },
+    {
+      "id": "vetting",
+      "act": "act1",
+      "lane": "law",
+      "where": "老查克家 · 私下审查",
+      "title": "竞选要卖出的形象，不能仍叫“过程”",
+      "image": "minchak",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "明查克 逐项询问查克的财务、性行为与雇佣记录，再追问婚姻分居能否在宣布参选前解决。她不接受“正在咨询”只是一个过程，强调必须知道竞选要呈现怎样的家庭状态，也提醒他以后还会查收据、浏览记录和旧识。",
+      "analysis": "查克平时掌握提问权，如今自己的生活成了别人的调查对象。明查克 提供的不是道德宽恕，而是提前掌握风险并选择公开时机的能力。她把婚姻压成明确状态，显示政治形象需要的清楚和两个人实际修复关系所需的时间，可能从根本上不同。",
+      "turn": "因此 → 他想继续保留的模糊空间，成为审查者要求进一步进入的地方。"
+    },
+    {
+      "id": "first-approach",
+      "act": "act1",
+      "lane": "law",
+      "where": "咖啡店 · 上班途中",
+      "title": "熟悉一个人的习惯，还不等于拥有影响力",
+      "image": "taylor-home",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "布莱恩准确点出泰勒的咖啡、全名和到岗时间，尝试以能避免麻烦为由建立关系。泰勒指出这种接触像威胁，不接受立即坐下聊公司。布莱恩后来向查克报告，认为泰勒过去的政治参与和捐款可能保留了合作的机会。",
+      "analysis": "检方依据背景把泰勒想象成可以被道德感说动的内部人，接触方式却先展示了跟踪与信息优势。泰勒没有在这里证明公司清白，只是不接受对方替自己定义处境。布莱恩把礼貌收下名片理解成希望，也暴露了调查者容易将愿望读成进展。",
+      "turn": "因此 → 泰勒拿到名片，保留是否见面、为了什么见面的决定权。"
+    },
+    {
+      "id": "messages",
+      "act": "act1",
+      "lane": "capital",
+      "where": "亲属家、酒馆与办公室",
+      "title": "一句“给她空间”，他始终听不进去",
+      "image": "pursuit",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯到劳拉兄长家追问，又循消息去旧日酒馆；得到的都是让她自己决定何时联系的要求。留言从自我辩护转为指责，再改用相恋和巴黎的回忆。温迪在办公室听他谈妻子的善意，说眼下只能等。她离开后，他又在给劳拉的留言里提出可以让温迪离开。",
+      "analysis": "回忆真诚与控制冲动并不互相排斥。他确实记得劳拉怎样照顾失去丈夫的朋友，却仍试图用一个交换条件消除等待。此时温迪成了可被“擦掉”的工作关系，正好说明他尚未承认妻子面对的不是一个名字，而是丈夫是否尊重她知道真相和暂时离开的权利。",
+      "turn": "因此 → 等待没有让他冷静，反而推动他不断提高能够交换或威胁的筹码。"
+    },
+    {
+      "id": "hidden-record",
+      "act": "act2",
+      "lane": "law",
+      "where": "再次会见 明查克",
+      "title": "先改写受害者身份，再交出真正的隐患",
+      "image": "chuck-vet",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克最初把寄宿学校霸凌讲成自己参与，明查克 却识破他才是受害者。他承认两年后用球棒打碎带头者下颌，她说可以包装成反霸凌立场。查克随后交出从施虐师处被偷走的电脑，称这是自己最大的潜在弱点，请她检查。",
+      "analysis": "他并非直接从沉默走到坦白，而是先把被伤害说成掌握暴力，再试探对方是否会因此否定自己。明查克 能重写报复的公共含义，使他更愿意交付秘密。但把风险交给政治管理者，既减轻孤独，也把个人自由置入新的依赖；“可信任”仍不能变成百分之百保证。",
+      "turn": "因此 → 参选支持的价格变得具体：有人得以接近他最不愿公开的生活。"
+    },
+    {
+      "id": "justification",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Axe Capital · Klaxon 研究",
+      "title": "不是没找到答案，而是没懂老板要什么",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "班·金 和 马菲 认为 Klaxon 数字不支持做空，泰勒指出老板需要的是事后能够出示的研究依据。泰勒从汽车融资、逾期贷款与租赁中提出看空理由，同时明说可能还有其他因素。阿克斯让全部分析师改向泰勒汇报。",
+      "analysis": "泰勒看穿了任务的真实方向：先有交易愿望，再找能够独立成立的说明。研究本身有经济逻辑，却并不因此说明消息来源合规。泰勒要求面对把名字签上去的责任，也指出公司扩张后老板不再了解每个员工；分析能力在此同时成了组织判断与风险承担的能力。",
+      "turn": "因此 → 晋升邀约已经出现，泰勒暂未签出报告，还要判断自己面临什么风险。"
+    },
+    {
+      "id": "forgive",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "城市公寓 · 温迪拜访劳拉",
+      "title": "她可以买离开，却买不到解决婚姻的方式",
+      "image": "lara",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪没有受阿克斯委托，主动来见劳拉。劳拉质问她为何总在中间，提出最高两千万美元让她消失；温迪拒绝，说工作仍有意义。她告诉劳拉，今天第一次看见阿克斯真正害怕，但不能保证走过危机会更好，只劝能原谅就原谅。",
+      "analysis": "温迪没有把自己扮成能修好所有人的专家，也没有接受被买走就能恢复婚姻的前提。她仍介入了别人最敏感的关系，这种帮助天然带着边界问题。最诚实的一点，是拒绝保证苦难必然有回报；劳拉得到的只是一个选择的可能，最后决定仍属于她自己。",
+      "turn": "因此 → 劳拉听见丈夫的恐惧，却没有在这场谈话里承诺恢复原样。"
+    },
+    {
+      "id": "no-leverage",
+      "act": "act2",
+      "lane": "law",
+      "where": "联邦检察官办公室 · 泰勒主动赴约",
+      "title": "来见检方，也可以是为了决定继续留在公司",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒带着未签的报告去见布莱恩，听他以善良和公平为由请求合作。泰勒反问对方到底要谈什么，并判断拿铁与饼干背后没有能够迫使自己配合的证据。泰勒明确结束会面，没有提供公司的违法线索。",
+      "analysis": "观众容易把主动到场理解成良心转向，本集却让泰勒先检查检方掌握了多少。这个判断与稍早追问签名责任相连，泰勒衡量的是自己面对的压力，而非替公司的全部行为作出结论。布莱恩缺少的是能改变对方利害衡量的具体材料，而不是再多一些关于好人的描述。",
+      "turn": "因此 → 泰勒拒绝被争取，后来接受研究主管的位置与额外奖金。"
+    },
+    {
+      "id": "revenge-tip",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Bruno 披萨店 → 博伊德 工作场所",
+      "title": "买不到陪伴，就重新去找共同的敌人",
+      "image": "boyd",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bruno 只肯按生意伙伴的关系送披萨，不肯陪阿克斯聊天。阿克斯随后留下要操控妻子的威胁，又去见正在外出工作服刑的 博伊德。对方告知老查克重仓将上市的 Ice Juice，建议报复；阿克斯表示可先获配，再寻找做空机会。",
+      "analysis": "Bruno 的拒绝把交易与情分分得很清楚，博伊德 则提供另一种连接：共同憎恨罗兹家。阿克斯获得一条可行动的消息，暂时离开了只能等待的婚姻困境。眼前的消息让共同敌意有了一个具体出口；公司将会怎样受到攻击，博伊德 为什么此刻提供机会，都还留着空白。",
+      "turn": "因此 → Ice Juice 成为阿克斯新关注的目标，具体攻击尚未在本集展开。"
+    },
+    {
+      "id": "promotion",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Axe Capital → 租房决定",
+      "title": "职业判断，有一张立即兑现的价码",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "在泰勒拒绝向检方提供材料后，阿克斯让 瓦格斯 立即发放五十万美元额外奖金，说明年终奖金另算，并落实研究主管晋升。这是一笔立刻兑现的额外收入，也把此前看房时谈到的新生活从年末想象带到了眼前。",
+      "analysis": "奖金是劳动与能力的认可，也会改变以后离开的成本。从看房到获得奖金，一次看懂任务、评估外部压力并继续执行的选择，接上了一套可见的生活回报。金钱不需要消除所有保留，就足以让留在公司更有吸引力。",
+      "turn": "因此 → 泰勒在职位、收入和生活方式上进一步进入公司的核心。"
+    },
+    {
+      "id": "dinner",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "婚姻咨询门外 → 餐馆",
+      "title": "她终于说出，自己也享受过伤害",
+      "image": "dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪下午曾向查克说自己孤独，晚上两人决定跳过咨询，一起去旧日主厨的新餐馆。查克坦白参选进展，温迪则不提姓名地承认，自己说出一个秘密去刺痛另一名女性，短暂痛快后感到羞愧。丈夫没有要求她必须永远高于普通人。",
+      "analysis": "这顿饭之所以接近修复，并非他们把所有问题一次讲完，而是有人交出不光彩的感受，另一个人没有立即拿来攻击。查克动用办公室资源寻找主厨仍有权力边界，但餐桌上的回应允许温迪暂时不是治疗别人、负责正确的人。她之后发出回家邀请，选择重新建立两人的私人语言。",
+      "turn": "因此 → 查克得到回家的邀请；温迪主动恢复亲密，而非被一个交换条件买回。"
+    },
+    {
+      "id": "two-returns",
+      "act": "act3",
+      "lane": "cross",
+      "where": "两户人家 · 深夜",
+      "title": "一个家迎来坦白，一个家开始删记录",
+      "image": "delete",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉带孩子回来，仍以冷淡回应丈夫的浪漫说法；上楼后，阿克斯拿起她的手机删掉自己整日留下的语音。泰勒也决定租下公寓。另一边，温迪邀查克回家恢复亲密；霍尔 仍在外观察。共同的归来画面没有显示两段婚姻已经彻底解决问题。",
+      "analysis": "阿克斯删除的是自己失控的声音，却不能把促成失控的关系模式一并删除。劳拉是否听过这些留言，本集没有给出可确认答案。温迪主动要求查克回家，则让欲望与许可重新一致。剪辑让两种团聚互相照见：同处一屋与重新愿意接近，并不是可以互换的结果。",
+      "turn": "因此 → 人回到了家，信任是否回来，仍须由此后的行为回答。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "没有人愿意被操控",
+      "deck": "失联的人、被审查的人、被争取的人。",
+      "range": "01—04",
+      "summary": "阿克斯在寻找与留言中失控，查克接受形象审查，泰勒不肯照检方预设的方式入座。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "每一次签名都有条件",
+      "deck": "秘密交给谁，报告交给谁，宽恕由谁决定。",
+      "range": "05—08",
+      "summary": "明查克 接住查克的隐患，阿克斯奖励泰勒看穿任务，温迪把婚姻的决定权交回劳拉。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "回家不只一种含义",
+      "deck": "报复、晋升与亲密，各自接上新的依赖。",
+      "range": "09—12",
+      "summary": "Ice Juice 进入阿克斯视线，泰勒兑现晋升，两户人家在同一夜团聚，却留下不同的诚实程度。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "检察官 / 接受参选审查的人",
+      "fact": "交出潜在弱点，在晚餐中向温迪说明政治进展。",
+      "analysis": "更愿意承认秘密，也仍把私人风险交给权力网络管理。"
+    },
+    "axe": {
+      "role": "老板 / 等待妻子回家的人",
+      "fact": "追找家人、留下威胁，最后删除自己的语音。",
+      "analysis": "害怕被离开是真实的，试图控制对方也是真实的。"
+    },
+    "wendy": {
+      "role": "治疗者 / 两段婚姻之间的人",
+      "fact": "拜访劳拉并承认自己曾有意用秘密伤人。",
+      "analysis": "允许自己不完美，才重新取得向丈夫靠近的空间。"
+    },
+    "lara": {
+      "role": "离开家庭住所的妻子",
+      "fact": "要求空间，拒不回电，最后带孩子回来。",
+      "analysis": "回来没有等于接受谎言，更没有撤销对边界的要求。"
+    },
+    "taylor": {
+      "role": "新任研究主管",
+      "fact": "找到 Klaxon 公开做空理由，拒绝布莱恩，获得晋升与奖金。",
+      "analysis": "分析才能同时帮助公司决策、应对质疑，也让自己承担名字写上报告的风险。"
+    },
+    "bryan": {
+      "role": "试图争取内线的检察官",
+      "fact": "两次接触泰勒，没有取得合作或具体违法材料。",
+      "analysis": "将政治背景当作道德入口，低估了对方对筹码的判断。"
+    },
+    "minchak": {
+      "role": "弗利安排的候选人审查专家",
+      "fact": "识破霸凌叙述，接收并检查查克的潜在隐患。",
+      "analysis": "她承诺管理曝光后果，不负责判断一个人应否被原谅。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 必须回应谁",
+      "note": "失去掌控的人，都试图先确定对方会怎么做。",
+      "edges": [
+        "调查另找内线",
+        "分居仍在咨询",
+        "车内质问与迁怒"
+      ],
+      "details": {
+        "chuck": "接受 明查克 的逐项审查。",
+        "axe": "发现妻儿离开并追问温迪。",
+        "wendy": "被带进车，重申自己说出的事实。",
+        "lara": "留下纸条，暂时不接电话。",
+        "taylor": "拒绝立刻与布莱恩谈公司。",
+        "bryan": "展示跟踪所得，尝试建立接触。",
+        "minchak": "要求查克说明婚姻与其他风险。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 说出与签下",
+      "note": "坦白需要承担后果，帮助也必须承认边界。",
+      "edges": [
+        "未获泰勒合作",
+        "下午说出孤独",
+        "会谈后又被当筹码"
+      ],
+      "details": {
+        "chuck": "承认霸凌受害与报复，交出电脑。",
+        "axe": "承认害怕，却还想用温迪离开作交换。",
+        "wendy": "见到劳拉，不承诺危机必然有好结局。",
+        "lara": "提出出钱让温迪走，未获接受。",
+        "taylor": "看穿研究用途，检查检方是否掌握证据。",
+        "bryan": "以好人与公平劝说，仍缺具体筹码。",
+        "minchak": "提出包装往事并处理潜在泄露。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 同屋与亲近",
+      "note": "家庭成员归来，修复程度仍然不同。",
+      "edges": [
+        "Ice Juice入视野",
+        "邀他回家重建亲密",
+        "帮过他却仍被监视"
+      ],
+      "details": {
+        "chuck": "在餐桌听温迪承认不光彩的感受，回家。",
+        "axe": "接受报复线索，删去愤怒留言。",
+        "wendy": "承认伤人后愧疚，主动邀请丈夫回来。",
+        "lara": "带孩子回家，态度仍冷。",
+        "taylor": "获得研究主管与五十万美元额外奖金。",
+        "bryan": "没从泰勒处获得内线证词。",
+        "minchak": "掌握查克最敏感的参选隐患。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "short-report",
+      "title": "老板的需要，怎样进入一份研究？",
+      "intro": "对公开基本面的分析，不会自动覆盖交易决策的全部来源。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "要求支持 Klaxon 做空",
+          "portrait": "axe",
+          "scene": "justification"
+        },
+        {
+          "name": "Ben / 马菲",
+          "role": "只看见不支持做空的数字",
+          "portrait": null,
+          "scene": "justification"
+        },
+        {
+          "name": "泰勒",
+          "role": "识别事后说明需求",
+          "portrait": "taylor",
+          "scene": "justification"
+        },
+        {
+          "name": "阿克斯",
+          "role": "授予研究主管并另发奖金",
+          "portrait": "axe",
+          "scene": "promotion"
+        }
+      ],
+      "result": "有经济逻辑的论证与真实决策的全部原因，可能不是同一件事。"
+    },
+    {
+      "id": "open-record",
+      "title": "政治安全需要怎样的坦白？",
+      "intro": "这条路处理的是可能被对手利用的信息。",
+      "nodes": [
+        {
+          "name": "明查克",
+          "role": "要求超越表面答案",
+          "portrait": "minchak",
+          "scene": "vetting"
+        },
+        {
+          "name": "查克",
+          "role": "先改写霸凌中的位置",
+          "portrait": "chuck",
+          "scene": "hidden-record"
+        },
+        {
+          "name": "明查克",
+          "role": "识破并提出公开包装",
+          "portrait": "minchak",
+          "scene": "hidden-record"
+        },
+        {
+          "name": "查克",
+          "role": "把电脑隐患交给她",
+          "portrait": "chuck",
+          "scene": "hidden-record"
+        }
+      ],
+      "result": "得到保护的同时，他允许政治管理者进入更私密的生活。"
+    },
+    {
+      "id": "return-path",
+      "title": "回家邀请与回来要求，有何不同？",
+      "intro": "两条婚姻线在片尾并排，但决定的主体没有相同。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "用怀念与威胁要求回复",
+          "portrait": "axe",
+          "scene": "messages"
+        },
+        {
+          "name": "劳拉",
+          "role": "自己决定带孩子回来",
+          "portrait": "lara",
+          "scene": "two-returns"
+        },
+        {
+          "name": "温迪",
+          "role": "承认羞愧并得到倾听",
+          "portrait": "wendy",
+          "scene": "dinner"
+        },
+        {
+          "name": "温迪 / 查克",
+          "role": "主动邀请与接受回家",
+          "portrait": "wendy",
+          "scene": "two-returns"
+        }
+      ],
+      "result": "这是并行对照，不表示两户之间存在一条消息传递；一边删痕迹，一边恢复共同许可。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "You were Santiago, not Dawson.",
+      "zh": "你是圣地亚哥，不是道森。",
+      "speaker": "明查克 → 查克",
+      "context": "再次审查时借《好人寥寥》识破他才是受害者；配图为本集同处审查会谈中的 明查克。",
+      "image": "minchak",
+      "analysis": "把受害说成加害，是他不愿承认脆弱的方式。"
+    },
+    {
+      "en": "You have no leverage.",
+      "zh": "你没有筹码。",
+      "speaker": "泰勒 → 布莱恩",
+      "context": "检方办公室会面，图为听泰勒说话的布莱恩。",
+      "image": "bryan",
+      "analysis": "泰勒拒绝的是没有证据支撑的道德劝说，不能因此证明公司一切清白。"
+    },
+    {
+      "en": "Forgive. If you can.",
+      "zh": "原谅吧，如果你能。",
+      "speaker": "温迪 → 劳拉",
+      "context": "公寓谈话末尾，配图为听劝的劳拉。",
+      "image": "lara",
+      "analysis": "后半句保留选择权，承认治疗者也不能替当事人保证婚姻的结局。"
+    }
+  ],
+  "chineseTitle": "同一个家，两种归来",
+  "subtitle": "第二季第十集 · 消息可以删除，伤害不能",
+  "hero": "empty-bed",
+  "heroTitle": "失去控制时\n他把爱说成了威胁",
+  "heroDeck": "劳拉带着孩子离开，阿克斯一整天对着语音信箱说话。\n另一边，查克开始交出秘密，也终于等来一句“回家”。",
+  "openingTitle": "一个人回来，是否意味着关系修好了？",
+  "openingFact": "生日翌日，阿克斯醒来发现妻儿离开，留下“你骗了我”的纸条；查克接受参选审查，必须面对不愿说出口的经历。泰勒则同时面对检方接触和公司交来的做空报告。",
+  "openingReading": "本集不断区分诚实与控制：承认脆弱，可能让人靠近；把别人重新带回身边，并不能自动弥补此前的伤害。",
+  "stamp": {
+    "value": "↩",
+    "label": "RETURN / ERASE",
+    "note": "两次回家，一次交出秘密，一次删除自己的话。"
+  },
+  "storyTitle": "一天之内，谁愿意把什么交出来",
+  "storyDeck": "从空床、审查与研究报告，走到晚餐和手机里的留言。",
+  "intro": "标题来自一首关于依存的歌，剧情却不把依存写成天然的亲密。阿克斯向不接电话的妻子不断更换语气，查克在审查者面前反复改写自己的位置；温迪则承认，自己也曾享受伤害别人的那一秒。泰勒的职业晋升为这场关于选择的故事加上另一种价格。",
+  "spoiler": "剧透范围：第二季第1—10集及必要的第一季背景。Ice Juice 只写到 博伊德 提供持股消息和阿克斯表达攻击意愿；不提前使用后续倒叙解释。",
+  "catalogueIntro": "劳拉留下纸条，带着孩子离开；阿克斯在寻找、怀念和威胁之间失去平衡。查克接受 明查克 的深度审查，泰勒补写 Klaxon 做空理由。两次回家在同一夜发生，关系却没有得到同一种修复。",
+  "comparison": {
+    "title": "两种处理秘密的动作",
+    "deck": "查克交出一台电脑，阿克斯删掉一串留言。两个人都在怕失去，却选择了不同的可见度。",
+    "left": {
+      "image": "chuck-vet",
+      "caption": "查克向 明查克 交代经历与隐患的本集会谈。",
+      "speaker": "查克 / 明查克",
+      "title": "让一个人知道",
+      "text": "他放下部分控制，换取在曝光前管理风险的帮助。"
+    },
+    "right": {
+      "image": "delete",
+      "caption": "阿克斯在妻子回家后删除自己留下的语音。",
+      "speaker": "阿克斯 / 劳拉",
+      "title": "让一些话消失",
+      "text": "他没有当面解释威胁，而是先处理能够被听见的记录。"
+    },
+    "rows": [
+      {
+        "label": "害怕什么",
+        "left": "隐私遭公开、竞选失控",
+        "right": "被抛下、失去家庭控制感"
+      },
+      {
+        "label": "实际动作",
+        "left": "交付信息与处理权限",
+        "right": "删除自己失控的表达"
+      },
+      {
+        "label": "尚未解决",
+        "left": "保护仍伴随对权力网络的依赖",
+        "right": "言语背后的支配模式仍在"
+      }
+    ],
+    "insight": {
+      "kicker": "个人解读",
+      "title": "记录消失，不等于理解发生",
+      "text": "这不是一边绝对诚实、一边只会撒谎的道德排列。查克也在寻找包装，阿克斯也曾真心怀念；差异是眼前这一次，他们愿意让谁知道什么，并为此承担多少不确定。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "语音信箱",
+      "fact": "阿克斯从恳求、怀念一路说到威胁，结尾删掉整串留言。",
+      "analysis": "没有回应的电话让独白失去修正。他越想恢复连接，越暴露希望对方服从的冲动。",
+      "steps": [
+        "请回复",
+        "改写离开理由",
+        "删掉失控声音"
+      ]
+    },
+    {
+      "title": "名字与签名",
+      "fact": "布莱恩知道泰勒的全名和咖啡；泰勒则关心谁在做空报告上签名。",
+      "analysis": "被辨认与被说服是两回事。泰勒从检方和老板处都要求看清具体责任，而非接受他人替自己安排的位置。",
+      "steps": [
+        "被掌握的习惯",
+        "待落下的签名",
+        "主动衡量风险"
+      ]
+    },
+    {
+      "title": "一次不由付费裁判主持的晚餐",
+      "fact": "查克与温迪跳过咨询，找到旧日主厨，在餐桌上说出羞愧和政治打算。",
+      "analysis": "场所唤回共同经历，但真正产生亲近的是允许对方说出不完美。回到熟悉的地方只是开门，倾听才让人留下。",
+      "steps": [
+        "共同记忆",
+        "容许羞愧",
+        "主动邀回家"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "delete",
+    "kicker": "TWO RETURNS",
+    "value": "↩ / ×",
+    "title": "人已经回来\n话却被他删掉了",
+    "text": "劳拉把孩子带回家，并不意味着那些谎言和威胁已经得到解释。阿克斯先删除了自己说过的话。隔着同一首歌，温迪与查克则主动走向彼此；这一夜的相似画面，容纳着不同的关系事实。"
+  }
+}

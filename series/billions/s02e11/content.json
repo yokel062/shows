@@ -1,0 +1,706 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 11,
+  "title": "Golden Frog Time",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E11 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e11",
+      "note": "核对播出对话与揭示顺序；非官方转录，短台词中文为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun · 第二季第11集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=19179",
+      "note": "交叉核对情节与本集 Showtime 截图；作者推测不作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E11 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "note": "仅用于本集图像归属，不引用自动生成回顾。"
+    },
+    {
+      "id": "ginge",
+      "title": "Ginges Be Cray · S2E11 回顾",
+      "url": "https://gingesbecray.com/billions-s2e11-golden-frog-time-recap/",
+      "note": "交叉核对多重时间卡与投放路径；人物年龄、细菌性质仍以对白核对，不沿用作者误述。"
+    },
+    {
+      "id": "review",
+      "title": "SpoilerTV · Golden Frog Time Review",
+      "url": "https://www.spoilertv.com/2017/05/billions-golden-frog-time-review.html",
+      "note": "交叉核对三条人物线与末尾揭示；评论判断作为解读而非事实。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/attack.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep11shot77.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19179",
+      "alt": "阿克斯听 瓦格斯 汇报 Ice Juice 的基本面和持股人",
+      "caption": "本集截图：一周前，公司找不到自然的做空理由，阿克斯仍要求寻找攻击路径。",
+      "kind": "episode-still",
+      "width": 2342,
+      "height": 1290
+    },
+    {
+      "file": "assets/morning.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep11shot76.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19179",
+      "alt": "查克与温迪在卧室相拥",
+      "caption": "本集截图：上市日早晨，查克透露自己也投了 Ice Juice。",
+      "kind": "episode-still",
+      "width": 2340,
+      "height": 1272
+    },
+    {
+      "file": "assets/warning.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep11shot91.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19179",
+      "alt": "温迪到查克办公室警告他",
+      "caption": "本集截图：温迪得知公司做空 Ice Juice，赶来劝丈夫退出。",
+      "kind": "episode-still",
+      "width": 2516,
+      "height": 1432
+    },
+    {
+      "file": "assets/bryan-night.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559488215729b47b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "布莱恩在泰勒公寓外面对泰勒谈良心与职业选择",
+      "caption": "本集截图：当天夜里，深色头发、穿西装的布莱恩再次劝泰勒；前景是泰勒。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/laugh.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep11shot107.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19179",
+      "alt": "查克在卧室里闭眼大笑",
+      "caption": "本集截图：最终倒叙结束后，查克的呼吸声被明确揭为笑声。",
+      "kind": "episode-still",
+      "width": 2554,
+      "height": 1376
+    },
+    {
+      "file": "assets/reviews.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559420ca1fc6a996_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "泰勒拿着分析师评估表与阿克斯讨论",
+      "caption": "本集截图：泰勒准备按排名裁人，阿克斯要求再做面对面的判断。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/affirmation.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559442415f86fdae_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "泰勒向温迪寻求关于裁员的帮助",
+      "caption": "本集截图：泰勒在会谈中承认自己在寻找肯定。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/rising.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559440a8ee8ba6f0_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "老查克与艾拉守在电脑前看股价",
+      "caption": "本集截图：股票冲高时两人庆祝；老查克随后要求加倍买入。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/drink.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/55594541f80d02d86_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "斯莱顿 在店里喝下 Ice Juice",
+      "caption": "本集截图：被债务关系招募的 斯莱顿 喝下事先掺入细菌的饮料。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/rudy.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559466e5b6f8a4d3_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "泰勒听戴眼镜的 Peter 解释自己的工作经历",
+      "caption": "本集截图：最后一个面谈者 Peter 被同事叫作 Rudy，向泰勒争取留下。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/report.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/55594747b9ed7dce1_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "马菲把当日交易报告交给阿克斯，瓦格斯在旁",
+      "caption": "本集截图：阿克斯从签字报告发现温迪也参加了做空。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/cash.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559480ca664daf5d_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "“美元”比尔 在停车处面对泰勒递现金",
+      "caption": "本集截图：Bill 为 Klaxon 研究向泰勒私下致谢，提出二十五万美元现金。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/loss.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5559482c20e1dd62c_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "老查克与艾拉在家中面对查克",
+      "caption": "本集截图：父亲说明加码之后，查克整个信托都遭损失。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/boyd.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/55595028f7bdd19d4_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-11/screencaps/",
+      "alt": "查克在工作场所对 博伊德 提出条件",
+      "caption": "本集截图：片尾倒叙揭示查克曾以提前结束服刑限制换取 博伊德 向阿克斯传话。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    }
+  ],
+  "scenes": [
+    {
+      "id": "find-an-attack",
+      "act": "act1",
+      "lane": "capital",
+      "where": "两周前的酒馆 → 一周前的公司",
+      "title": "没有空头理由，就寻找能伤到谁的路径",
+      "image": "attack",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "酒馆债务人 斯莱顿 被殴打后承诺做任何事还钱。画面转至一周前：瓦格斯 说 Ice Juice 基本面获市场认同，找不到自然的做空理由；泰勒查到老查克现金紧张却能投资。阿克斯由艾拉和老查克的关联，想到一箭伤及两个人。",
+      "analysis": "这些早期倒叙先交出可用的人和攻击欲望，却没有交出另一个阵营全部在做什么。阿克斯要的不是发现市场误价，而是让自己憎恨的人遭到损失。泰勒提供的财务分析只说明资金来源值得追问，不能直接证明儿子的信托已参与；阿克斯此时还没有查明具体出资人。",
+      "turn": "因此 → 阿克斯开始准备人为打击，而不是等待公司自行出现经营问题。"
+    },
+    {
+      "id": "ipo-eve",
+      "act": "act1",
+      "lane": "cross",
+      "where": "上市前夜 → 上市日清晨",
+      "title": "纸上财富，还没有成为可以拿走的钱",
+      "image": "morning",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "上市前夕，艾拉按十八美元发行价畅想自己将值一亿二千五百万美元，并准备卖掉律师事务所的份额。查克提醒锁定期未过不宜庆祝。次晨，他对温迪透露自己也投了钱，以一种近乎命定的口吻表达信心，却尚未说明背后的全部安排。",
+      "analysis": "艾拉的兴奋来自终于换一种人生，父亲看到的是成功押注，查克则把妻子纳入一个有限的信息圈。观众此时无法确认他的信心究竟建立在哪里。这里的数字是按股价估算的持股价值，远非已经兑现的收益；他们庆祝的仍是当前市价里的可能，能否真正拿走这些钱取决于后面的限制和行情。",
+      "turn": "因此 → 温迪知道丈夫有仓位，稍后听见公司做空时便会面对直接的利益冲突。"
+    },
+    {
+      "id": "rank-people",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital · 主管评估",
+      "title": "一张排名表，不足以决定人的下一年",
+      "image": "reviews",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒按多个指标排名，准备去掉表现最差的一成。阿克斯与 瓦格斯 要求逐个面谈，看看谁可能超出已有数据、谁已经过了最好的一年。面谈中有人解释报复性投资，有人依靠父亲教的姿态；泰勒必须从数字走向判断人的可能。",
+      "analysis": "老板的要求确有管理上的道理，却被两人的“见血”玩笑包围：开除人既是经营工作，也被当成取得威信的仪式。泰勒擅长把标准说清，却还没有足够经验判断解释和借口的差别。面对面不是取消效率，而是让一份简洁的排名重新遇见它排除了的时间与处境。",
+      "turn": "因此 → 泰勒不能只让表格负责，必须亲自选择并承担解雇某个人的后果。"
+    },
+    {
+      "id": "research-and-memory",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "检方看报告 → 温迪办公室",
+      "title": "签名留下责任，记忆让决定变重",
+      "image": "affirmation",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "检方发现阿克斯做空 Klaxon 有研究依据，报告由泰勒签名；这既不能自动证明清白，也使布莱恩更加关注泰勒。公司里，泰勒向温迪询问如何裁员，承认七年级时父亲被航空航天公司解雇，家庭受创，而公司后来继续繁荣。",
+      "analysis": "温迪没有提供可以不伤人的技巧，而是说继续留用不合适的人也未必善良，并提醒这次行动会改变泰勒。父亲经历使抽象裁员有了私人重量，仍不足以替眼前员工作出答案。签名与辞退在同一日出现，让泰勒面对一种新责任：不能永远把选择归因于模型或老板。",
+      "turn": "因此 → 泰勒开始寻找能够自己认可的标准，而不只是最容易证明的排名。"
+    },
+    {
+      "id": "press-the-edge",
+      "act": "act2",
+      "lane": "cross",
+      "where": "上市交易时段 · 三处屏幕",
+      "title": "上涨越快，他们越愿意押上更多",
+      "image": "rising",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Ice Juice 开盘走高，查克为盯盘专门装上软件；老查克与艾拉不断庆祝，父亲又要求以市价加倍仓位。阿克斯看到小型零售券商的大额买单，认为很可能来自个人资金，等待的攻击时刻因此逐渐接近。",
+      "analysis": "屏幕把不同目标暂时压成同一个数字：有人看见解放，有人看见敌人的暴露。父亲加码不是按儿子原先许可的“小部分”停留，而是在上涨中继续扩大风险。阿克斯对买方身份的判断仍是推断；查克盯盘时的神情同样保留了空白，他尚未向观众说明这份关注的全部缘由。",
+      "turn": "因此 → 买盘与信心共同放大，阿克斯决定启动已经准备的动作。"
+    },
+    {
+      "id": "golden-frog",
+      "act": "act2",
+      "lane": "capital",
+      "where": "交易日信号 → 六夜至当天的倒叙",
+      "title": "不是发现污染，是把污染做出来",
+      "image": "drink",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯下令后，倒叙展示霍尔准备细菌、联系仓库人员并安排投放；他还通过酒馆债务、维克托 控制的家政工和 马戈利斯 招募服用者。医生只保证健康者不会有永久伤害。原定替 马戈利斯 喝的人退缩，他本人最终出现在就诊现场。",
+      "analysis": "“金蛙”是穿透对手的比喻，实际操纵借助细菌，而非字面上的箭毒蛙毒液。准备者用微量与短期不适压低心理负担，却没有因此得到受害者自由同意，也不能保证每个人健康。借人情和债务分散行动，看似让路径更远，也把不可控的人留在每个环节。",
+      "turn": "因此 → 表演出的患病与人为留下的污染，开始被媒体当成产品自身的问题报道。",
+      "detail": "时间卡依次回到六夜前、四夜前、三夜前、两天前、一天前和当天早些时候；这些准备是在信号之后才向观众展开。"
+    },
+    {
+      "id": "wendy-short",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "交易大厅 → 查克办公室 → 给马菲的电话",
+      "title": "警告没有被接受，她也走到交易另一边",
+      "image": "warning",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪从交易员的赌局得知公司大额做空 Ice Juice，赶去警告查克。他不愿被看成无力保护自己，明确拒绝卖出。温迪离开后致电马菲，要求尽可能参与做空。此时她知道公司方向与丈夫仓位，尚未获知细菌投放的细节。",
+      "analysis": "她先违背公司约定给丈夫传递风险，遭拒后又把自己的资金放到相反方向。动机中既可能有自我保护，也夹着被轻视后的反应；本集没有把它解释为知晓全部犯罪计划。重要的是，她不再只是两方之间的解释者，而成为会留下个人交易记录、拥有自己收益与责任的人。",
+      "turn": "因此 → 温迪的空头仓位后来获利，也进入阿克斯需要签字的交易报告。"
+    },
+    {
+      "id": "collapse-and-rudy",
+      "act": "act2",
+      "lane": "cross",
+      "where": "媒体编辑部、停牌消息与面谈室",
+      "title": "一家公司在坠落，一个人争取留下",
+      "image": "rudy",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "患病报道、仓库细菌与医生对工艺的批评迅速汇聚，交易暂停，艾拉告诉查克自己的高管股票受限无法卖出。另一边，最后面谈的 Peter 解释为何被叫作 Rudy：他把进入公司当作全部理想，也承认至今没有得到想象中的指导。",
+      "analysis": "媒体获得的是被组织过的现实材料，市场并不需要等待全部真相才反应。和这种集体判断并排的，是泰勒对一个人的第二次判断：Rudy 的数据最差，却能说明自己愿意如何工作。两条线都在问信息是否完整，只是市场奔向不可逆的集体结果，主管仍有机会停下来听完。",
+      "turn": "因此 → 股价继续走低，泰勒则决定让 Rudy 留下，而非照最低排名裁掉他。"
+    },
+    {
+      "id": "profit-and-cash",
+      "act": "act3",
+      "lane": "capital",
+      "where": "收盘 → 主管谈话 → 停车处",
+      "title": "胜利写在报表上，谢意装在现金里",
+      "image": "report",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Ice Juice 收盘三点八九美元，阿克斯准备庆祝，却从报告发现温迪也做空，责备马菲未先报告。泰勒说明裁掉的是 Pununzio，留下 Rudy；稍后 “美元”比尔 私下递来二十五万美元现金，称这是对 Klaxon 研究的感谢，并说以后还会更多。",
+      "analysis": "老板把交易控制权看得极重，即使温迪赚了钱，也不能绕过他的知情权。泰勒则第一次作出超越排名的裁员判断，随即又遇见不走薪酬账本的私人奖赏。现金可以被当成友好，却也把能力、共同收益与未来期待连起来；无需先给法律定性，就能看见关系正在变得更难切割。",
+      "turn": "因此 → 公司把成功算成收益，个人却多了新的秘密、责任与相互期待。"
+    },
+    {
+      "id": "whole-trust",
+      "act": "act3",
+      "lane": "law",
+      "where": "罗兹家 · 父亲与艾拉",
+      "title": "同意了一部分，失去的却是整个信托",
+      "image": "loss",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克回家与父亲、艾拉面对损失，承认自己授权动用信托。艾拉问是否是最初八百万美元的股权投入，父亲才说明曾继续加码，整个信托已经没了。纸上财富消失之外，查克和子女原本的家庭保障也成为此次损失的一部分。",
+      "analysis": "在这一刻，艾拉才知道朋友也承担了真正的本金风险。父亲把扩大下注说成利用优势，暴露了此前“小部分许可”与最后实际敞口之间的差距。观众很容易把查克的反应读成完全意外；本集暂时容许这种理解，但损失本身无需任何表演才能成立，它对身边人的伤害已经可见。",
+      "turn": "因此 → 家庭与友谊都承受后果，查克稍后独处时的呼吸声把悬念继续留下。"
+    },
+    {
+      "id": "what-we-call-it",
+      "act": "act3",
+      "lane": "cross",
+      "where": "泰勒家外 → 阿克斯家 → 查克卧室",
+      "title": "先给胜利命名的人，还未看见全部代价",
+      "image": "bryan-night",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "布莱恩在泰勒公寓外劝其看清灵魂如何被逐渐交换，泰勒则坚持工作提供行动、目的与挑战。阿克斯和劳拉尝试重新开始，他以击败罗兹一家解释当天的好心情，亲密中劳拉却哭泣。查克独自坐在床边，呼吸急促，含义尚待最后镜头说明。",
+      "analysis": "泰勒拒绝检方替自己命名职业意义，劳拉却无法靠一场庆功把情感修复到位。言辞与身体在这组尾声里保持距离：一个人说自己知道在做什么，另一个人说想重新开始，画面却保留犹豫和痛苦。连查克看似崩溃的声音，也提醒观众不要过早用熟悉的表情完成解释。",
+      "turn": "因此 → 故事尚未结束，最后的回看将改变谁以为自己赢了这一问题。"
+    },
+    {
+      "id": "the-other-plan",
+      "act": "act3",
+      "lane": "law",
+      "where": "片尾倒叙：博伊德 工作处、戴克任命与监视",
+      "title": "直到此刻，才看见另一场预先布置",
+      "image": "boyd",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "结尾回到更早时刻：查克以结束 博伊德 服刑限制为交换，让他将父亲投 Ice Juice 的实话传给阿克斯；又促成戴克成为东区代理联邦检察官，建议跟踪阿克斯接触的人。监视镜头重放关键准备，博伊德 等待攻击时也与查克联络；回到现在，查克终于笑出声。",
+      "analysis": "揭示没有把查克变成无所不知的人：他预判对手出于恶意会冒险，并安排独立辖区记录关联动作，而非凭空知道每个具体环节。自己的损失成了引诱阿克斯行动的真实代价，也把未被完整告知的父亲与朋友置于其中。笑声证明他认为值得，不能替别人回答这个价格是否可以接受。",
+      "turn": "因此 → 一场财务上的惨败，同时成为对阿克斯调查取得进展的路径；逮捕尚未在本集发生。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "先看见他们想赢什么",
+      "deck": "未来市值、攻击路线和第一次裁员。",
+      "range": "01—04",
+      "summary": "开场倒叙交出攻击欲望，上市日展开个人信心；泰勒被迫把模型转成人的决定。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "把上涨和患病连接起来",
+      "deck": "一次信号，一组迟到的准备画面。",
+      "range": "05—08",
+      "summary": "加码买入与人为污染汇合，温迪成为交易参与者，市场在不完整信息中迅速下坠。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "收盘不是揭晓",
+      "deck": "先分配收益与损失，再回看谁安排了起点。",
+      "range": "09—12",
+      "summary": "胜利和伤害进入现金、信托与婚姻；片尾倒叙才交代查克如何把对手的恶意接入调查。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "持仓者 / 南区联邦检察官",
+      "fact": "损失信托；片尾才揭示他安排 博伊德 传话与戴克调查。",
+      "analysis": "他愿意付出真代价，却没有让所有承受者获得同等知情与决定权。"
+    },
+    "axe": {
+      "role": "做空者 / 人为污染的发令者",
+      "fact": "组织污染与患病报道，收盘后相信自己击败罗兹家。",
+      "analysis": "为了伤敌人，主动把经营分析变成制造现实的权力。"
+    },
+    "wendy": {
+      "role": "教练 / 新增的空头参与者",
+      "fact": "辅导泰勒裁员，警告丈夫失败后加入做空。",
+      "analysis": "帮助别人选择的职业，不能免除她自己选择所留下的责任。"
+    },
+    "taylor": {
+      "role": "研究主管 / 第一次裁员的人",
+      "fact": "保留 Rudy、辞退 Pununzio，并收到 Bill 的现金。",
+      "analysis": "判断逐渐离开纯数据，进入个人承诺、收益与关系的世界。"
+    },
+    "senior": {
+      "role": "加码的投资者 / 信托管理人",
+      "fact": "将原先部分授权扩大为整个信托的风险。",
+      "analysis": "相信压上优势，却把家人的保障变成继续下注的资金。"
+    },
+    "ira": {
+      "role": "Ice Juice 大股东 / 创业期待者",
+      "fact": "想退出律师事务所，受限股票使他无法及时避开崩盘。",
+      "analysis": "财务打击之外，失去的还有把整个人生重新安排的希望。"
+    },
+    "dake": {
+      "role": "新任东区代理联邦检察官",
+      "fact": "片尾揭示获任命，并部署对阿克斯关联行动的监视。",
+      "analysis": "他获得独立调查资源；本集尚未展示最终起诉或审判结果。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 观众先知的局部",
+      "note": "人物与读者拿到的信息并不对称。",
+      "edges": [
+        "共同盯上同一股票",
+        "透露持仓仍有限",
+        "返岗边界仍在"
+      ],
+      "details": {
+        "chuck": "表示支持投资并向温迪透露持仓。",
+        "axe": "找不到基本面理由仍要求攻击。",
+        "wendy": "知道丈夫买入，但不知全部背景。",
+        "taylor": "提供父亲财务分析并准备人员评估。",
+        "senior": "在上市前庆祝未来价值。",
+        "ira": "准备出售律师事务所份额。",
+        "dake": "尚未在本集当前叙事中公开进入调查。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 攻击正式发动",
+      "note": "买盘继续，破坏也转为行动，温迪得知的只是其中一角。",
+      "edges": [
+        "造损与加仓相撞",
+        "警告遭拒转做空",
+        "不知她也参与"
+      ],
+      "details": {
+        "chuck": "拒绝退出仓位，仍不交代全部安排。",
+        "axe": "下令后由倒叙揭示细菌准备与招募。",
+        "wendy": "从员工闲聊得知做空，向丈夫示警。",
+        "taylor": "面谈 Rudy，面对是否机械裁员的选择。",
+        "senior": "继续加倍买入，实际敞口扩大。",
+        "ira": "受限持股无法在危机中自由出售。",
+        "dake": "调查角色仍待片尾倒叙揭示。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 结尾重新分配知情",
+      "note": "损失真实，另一种收益也终于可见。",
+      "edges": [
+        "监视路径对上破坏",
+        "她做空而他仍不知",
+        "发现交易需再确认"
+      ],
+      "details": {
+        "chuck": "笑声与倒叙揭示出更早安排。",
+        "axe": "知道温迪赚钱，尚不知对手全部布置。",
+        "wendy": "获利并留下独立交易记录。",
+        "taylor": "接受 Bill 现金，拒绝布莱恩的灵魂叙事。",
+        "senior": "承认整个信托已损失。",
+        "ira": "知道朋友也失去本金，承受创业破裂。",
+        "dake": "代理职位与监视部署一同向观众揭明。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "manufactured-news",
+      "title": "污染怎样变成市场消息？",
+      "intro": "下列动作在本集由多次倒叙逐步交出。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "批准攻击与发动时间",
+          "portrait": "axe",
+          "scene": "golden-frog"
+        },
+        {
+          "name": "霍尔及关联人",
+          "role": "准备细菌并招募参与者",
+          "portrait": null,
+          "scene": "golden-frog"
+        },
+        {
+          "name": "患病者 / 仓库",
+          "role": "制造可被拍摄核实的异常",
+          "portrait": null,
+          "scene": "golden-frog"
+        },
+        {
+          "name": "媒体与市场",
+          "role": "传播风险，股价急跌",
+          "portrait": null,
+          "scene": "collapse-and-rudy"
+        }
+      ],
+      "result": "新闻并非全无现实材料；破坏者先制造了材料出现的条件。"
+    },
+    {
+      "id": "her-trade",
+      "title": "一次警告怎样变成自己的头寸？",
+      "intro": "温迪的交易由她发起，不是阿克斯授权或查克指使。",
+      "nodes": [
+        {
+          "name": "员工赌局",
+          "role": "泄露公司做空标的",
+          "portrait": null,
+          "scene": "wendy-short"
+        },
+        {
+          "name": "温迪",
+          "role": "向丈夫发出警告",
+          "portrait": "wendy",
+          "scene": "wendy-short"
+        },
+        {
+          "name": "查克",
+          "role": "拒绝退出也拒绝解释",
+          "portrait": "chuck",
+          "scene": "wendy-short"
+        },
+        {
+          "name": "温迪 → 马菲",
+          "role": "申请参与做空",
+          "portrait": "wendy",
+          "scene": "wendy-short"
+        }
+      ],
+      "result": "阿克斯直到看报告才知道；查克本集没有获知她的空头收益。"
+    },
+    {
+      "id": "late-reveal",
+      "title": "片尾才出现的另一条链",
+      "intro": "最后一次倒叙，才把此前互不相连的会面接成一条路。",
+      "nodes": [
+        {
+          "name": "查克",
+          "role": "以 博伊德 的自由安排传话",
+          "portrait": "chuck",
+          "scene": "the-other-plan"
+        },
+        {
+          "name": "博伊德",
+          "role": "向阿克斯提供真实持股消息",
+          "portrait": null,
+          "scene": "the-other-plan"
+        },
+        {
+          "name": "戴克",
+          "role": "获东区职位并组织监视",
+          "portrait": "dake",
+          "scene": "the-other-plan"
+        },
+        {
+          "name": "关联行动",
+          "role": "被连续观察与记录",
+          "portrait": null,
+          "scene": "the-other-plan"
+        }
+      ],
+      "result": "引诱依赖对手会主动越线的预判；本集结束时调查取得进展，尚非有罪判决。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I'm looking for affirmation.",
+      "zh": "我是在寻找肯定。",
+      "speaker": "泰勒 → 温迪",
+      "context": "裁员会谈中承认问题与父亲失业经历有关；图为同场泰勒。",
+      "image": "affirmation",
+      "analysis": "提出一个操作问题，也可能是在问自己能否接受成为作出伤害决定的人。"
+    },
+    {
+      "en": "Get out of the stock, Chuck.",
+      "zh": "退出这只股票，查克。",
+      "speaker": "温迪 → 查克",
+      "context": "得知公司做空后劝丈夫卖出；图为办公室中发出警告的温迪。",
+      "image": "warning",
+      "analysis": "她知道一部分危险，却不知道他正在承担哪一种代价。"
+    },
+    {
+      "en": "Everyone in our line needs cash squirreled away.",
+      "zh": "干我们这一行，都得藏点现金。",
+      "speaker": "“美元”比尔 → 泰勒",
+      "context": "停车处私下致谢，图为与泰勒说话的 Bill。",
+      "image": "cash",
+      "analysis": "把未记入薪酬的私人现金说成职业常识，也是在邀请新人接受一套共同的生存规则。"
+    }
+  ],
+  "chineseTitle": "一场亏损，两个胜利者",
+  "subtitle": "第二季第十一集 · 直到最后，才知道谁在设局",
+  "hero": "laugh",
+  "heroTitle": "钱是真的损失\n笑声也是真的",
+  "heroDeck": "上市、人为污染、做空与裁员，在同一天交错。\n等到最后一次倒叙，观众才看见谁先摆下了棋盘。",
+  "openingTitle": "愿意损失自己的东西，就足以证明赢得正当吗？",
+  "openingFact": "开场先回到两周前的债务催收、一周前的攻击谋划，再进入 Ice Juice 上市前夕。阿克斯不相信一家基本面不错的公司就无法被摧毁，查克则让朋友和父亲看到自己的支持。",
+  "openingReading": "本集的信息顺序就是悬念：先让观众看见阿克斯怎样赢，再让另一项早已进行的安排改变胜负的含义。损失和伤害并未因揭示而变假。",
+  "stamp": {
+    "value": "ICEJ",
+    "label": "18 → 3.89",
+    "note": "发行价与收盘价之间，是被人为改写的一天。"
+  },
+  "storyTitle": "把当天走完，再看回来路",
+  "storyDeck": "前两幕保留观众当时所知，最后一个节点再展开查克的倒叙。",
+  "intro": "股价不断上涨，每个人都在等待一个决定：阿克斯何时发出信号，泰勒该开除谁，温迪应否把自己知道的事告诉丈夫。故事没有把所有秘密同时交给观众；正是这种延迟，让一张交易报告、一袋现金和一阵近乎哭泣的笑声改变了前面的场面。",
+  "spoiler": "剧透范围：第二季第1—11集及必要第一季背景，包括本集结尾倒叙。节点按播出揭示顺序展开；不使用第12集或第三季证据补足本集未知。",
+  "catalogueIntro": "Ice Juice 上市一路冲高，阿克斯等待攻击信号，泰勒面对第一次裁员。温迪在警告丈夫失败后也加入做空。当股价与信托一同坠落，结尾的倒叙才把 博伊德 的传话和戴克的新职放回更早的安排。",
+  "comparison": {
+    "title": "同一次下跌，被说成两种胜利",
+    "deck": "财务结果没有歧义，完整的行动结构却直到片尾才向观众打开。",
+    "left": {
+      "image": "report",
+      "caption": "收盘后，阿克斯审阅交易报告。",
+      "speaker": "阿克斯",
+      "title": "让对手的钱消失",
+      "text": "他制造经营灾难，看到敌方持股与流动性受损，相信攻击已经完成。"
+    },
+    "right": {
+      "image": "laugh",
+      "caption": "最后倒叙结束，查克独处的笑声被揭明。",
+      "speaker": "查克",
+      "title": "让对手主动留下路径",
+      "text": "他承受资金损失，借传话和调查部署，等待阿克斯以冒险行为暴露自己。"
+    },
+    "rows": [
+      {
+        "label": "实际付出",
+        "left": "组织细菌投放和受控患病",
+        "right": "自己的信托与身边人的财富"
+      },
+      {
+        "label": "认为得到什么",
+        "left": "做空收益与报复快感",
+        "right": "对关联行为的连续调查记录"
+      },
+      {
+        "label": "无法代别人同意",
+        "left": "招募者受债务与身份威胁",
+        "right": "父亲、朋友不知完整布局"
+      }
+    ],
+    "insight": {
+      "kicker": "个人解读",
+      "title": "肯赔自己的钱，不等于只花了自己的代价",
+      "text": "反转改变了观众所知，真实伤害仍留在每个人身上。两人的胜利都需要别人的身体、职业或信任；差别值得讨论，代价也必须逐个留下。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "一条价格曲线",
+      "fact": "发行价十八美元，股价一度逼近三十，最终收在三点八九。",
+      "analysis": "行情把想象中的财富突然放大，再让人以更大的敞口迎接冲击。账面价值、可卖股票与兑现收益始终不是同一个数字。",
+      "steps": [
+        "按市价想象人生",
+        "继续加码",
+        "受限股票与损失"
+      ]
+    },
+    {
+      "title": "签名与纸袋",
+      "fact": "Klaxon 报告有泰勒签名，私下感谢则以二十五万美元现金出现。",
+      "analysis": "一份记录使责任能够追溯，一袋现金试图让感谢越过正式账本；同一种才干因此被两种制度同时吸收。",
+      "steps": [
+        "公开论证",
+        "私人回报",
+        "下一次期待"
+      ]
+    },
+    {
+      "title": "把人读成模型以外的存在",
+      "fact": "泰勒没有裁掉排名最低的 Rudy，反而辞退 Pununzio。",
+      "analysis": "理解一个人能够更公平，也可以更有效地组织服从。第一次裁员的难题，不会因为做出了有人情味的选择就永远解决。",
+      "steps": [
+        "排名",
+        "面谈与记忆",
+        "亲自承担决定"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "laugh",
+    "kicker": "THE LAST REVEAL",
+    "value": "WIN?",
+    "title": "笑声解释了布局\n没有解释所有代价",
+    "text": "查克没有因为信托亏空而彻底崩溃。他预先安排的传话、职位与监视，终于和阿克斯的破坏相接。观众此刻知道了为什么笑；艾拉失去的人生计划、父亲和家人的损失，仍不只是这阵笑声的注脚。"
+  }
+}

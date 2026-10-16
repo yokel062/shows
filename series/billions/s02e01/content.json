@@ -1,0 +1,665 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 1,
+  "title": "Risk Management",
+  "chineseTitle": "重开的大门，收紧的关系",
+  "subtitle": "一百二十七项诉讼与无法重新买回的信任",
+  "hero": "gates",
+  "heroTitle": "办公室重开\n信任仍在门外",
+  "heroDeck": "阿克斯把公司改成堡垒，\n查克发现自己成了调查对象。\n温迪试着保住自己的位置。",
+  "openingTitle": "控制更多入口，\n能让人重新感到安全吗？",
+  "openingFact": "第一季交锋后三周，Axe Capital 重新开门；温迪已离职，并与查克轮流住回家中照顾孩子。戴克奉职业责任办公室之命进驻南区，调查查克此前突然终止的阿克斯贿赂案。",
+  "openingReading": "两名主角都想把不确定性压回可控制的范围。一个检查每次进出和谈话，一个向下属展示新的处事方式；真正决定风险的，却仍是那些已经受伤的关系。",
+  "stamp": {
+    "value": "127",
+    "label": "CLAIMS AGAINST ONE MAN",
+    "note": "当诉状聚在一起，追诉者也会成为被追问的人。"
+  },
+  "storyTitle": "门禁可以重装\n关系不能按原样恢复",
+  "storyDeck": "从开工演讲到夜间赛马场，十二个节点看清防守怎样转为进攻。",
+  "intro": "本集先展示阿克斯与巴赫在赛马场的夜谈，再以“三天前”回到公司重开。以下按主要事件推进：新的门禁、离职后的演讲、进驻检方的调查员，以及一笔忽然改变含义的奖金。",
+  "catalogueIntro": "公司重新开门，阿克斯用更严的规则面对失控感；查克则成为职业责任调查的对象。温迪拒绝被重新占有，泰勒用不同方法解决交易难题；五百万美元与一百二十七项诉讼把风险推向检方。",
+  "spoiler": "剧透范围：第一季必要背景及第二季第1集，止于本集结尾。事实与个人解读分栏；英文短台词中文均为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E01 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e01",
+      "note": "核对顺序、人物与短台词；非官方转录，中文台词为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第二季第 1 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "note": "交叉核对剧情与剧照语境；作者推测及后续预测不作为事实。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · 2.01 人物与信任关系回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17133",
+      "note": "交叉核对两段演讲、关系边界与诉讼安排；不采用其对举报者的确定归因。"
+    },
+    {
+      "id": "gifs",
+      "title": "Ginges Be Cray · Risk Management 回顾与本集动图",
+      "url": "https://gingesbecray.com/billions-s2e1-risk-management-recap/",
+      "note": "核对画面与演讲场景；所用动图首帧按原始像素保存为PNG。人物评论与预测不作为事实。"
+    },
+    {
+      "id": "trading",
+      "title": "Fan Fun · 本集交易环节解读",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17144",
+      "note": "辅助核对泰勒提出的40美元看跌、45美元看涨组合；一千万美元为马菲在对白中的估算，不作为已实现利润。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/gates.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot5.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "员工从上方可见的闸机重新进入公司",
+      "caption": "本集截图：停工三周后，员工按新规进入重开的 Axe Capital。",
+      "kind": "episode-still",
+      "width": 2726,
+      "height": 1434
+    },
+    {
+      "file": "assets/dake.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/01/trailer33.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "戴克戴眼镜在办公室询问",
+      "caption": "本集截图：职业责任办公室调查员戴克审查检方行为。",
+      "kind": "episode-still",
+      "width": 1572,
+      "height": 786
+    },
+    {
+      "file": "assets/lecture.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/12/prescription.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "温迪举起药瓶向交易员演讲",
+      "caption": "本集截图：温迪用药瓶说明，害怕被看见需要帮助会妨碍求助。",
+      "kind": "episode-still",
+      "width": 1670,
+      "height": 728
+    },
+    {
+      "file": "assets/council.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/11/billionss2-11.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "阿克斯站在家中监控屏幕前",
+      "caption": "本集截图：阿克斯在家召集顾问，要求向查克反击。",
+      "kind": "episode-still",
+      "width": 1586,
+      "height": 768
+    },
+    {
+      "file": "assets/chess.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot11.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "查克与公园棋手对弈的俯拍",
+      "caption": "本集回忆画面：查克在告别宴上讲述自己如何处理棋手作弊。",
+      "kind": "episode-still",
+      "width": 2668,
+      "height": 1500
+    },
+    {
+      "file": "assets/bryan.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot14.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "布莱恩坐在戴克办公室受询",
+      "caption": "本集截图：布莱恩解释上一季与阿克斯私下见面的经过。",
+      "kind": "episode-still",
+      "width": 2580,
+      "height": 1422
+    },
+    {
+      "file": "assets/consultation.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot17.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "阿克斯坐在温迪新诊室里",
+      "caption": "本集截图：阿克斯用假名预约，要求温迪回到公司。",
+      "kind": "episode-still",
+      "width": 2614,
+      "height": 1502
+    },
+    {
+      "file": "assets/taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot35.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "泰勒与马菲讨论出售持仓",
+      "caption": "本集截图：泰勒向马菲提出用期权保护出售价格。",
+      "kind": "episode-still",
+      "width": 1610,
+      "height": 840
+    },
+    {
+      "file": "assets/payment.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot37.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "查克面对戴克关于奖金的质询",
+      "caption": "本集截图：戴克提出温迪收取五百万美元与撤案同日的疑点。",
+      "kind": "episode-still",
+      "width": 2696,
+      "height": 1486
+    },
+    {
+      "file": "assets/home.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot22.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "温迪在家中回应查克的质问",
+      "caption": "本集截图：交接照顾孩子时，奖金问题引发新的争吵。",
+      "kind": "episode-still",
+      "width": 1422,
+      "height": 1362
+    },
+    {
+      "file": "assets/racetrack.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep1shot25.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17034",
+      "alt": "阿克斯在夜间赛马场向巴赫说明方案",
+      "caption": "本集截图：夜间赛马场，阿克斯把单独起诉改成聚合多项诉求。",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1196
+    },
+    {
+      "file": "assets/speech.png",
+      "originalUrl": "https://gingesbecray.com/wp-content/uploads/2017/02/13_43.gif",
+      "sourceUrl": "https://gingesbecray.com/billions-s2e1-risk-management-recap/",
+      "alt": "阿克斯在暗下来的会议室向员工讲话",
+      "caption": "本集开工演讲截图：取原站 GIF 第0帧，保留458×258原像素，未裁切或重建。",
+      "kind": "episode-still",
+      "width": 458,
+      "height": 258
+    }
+  ],
+  "scenes": [
+    {
+      "id": "reopen",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital · 大门与大厅",
+      "title": "能回到工位，不等于回到从前",
+      "image": "gates",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "停工三周后，员工终于回到被拆修的公司。对外解释是消防设备故障，私下仍有人怀疑老板失控。阿克斯等瓦格斯到场才开门，重新进出的员工要佩戴磁性身份手环，除手机外的电子设备受到限制。",
+      "analysis": "重开的大厅恢复了日常秩序，也让所有人先体验一次由老板决定何时进入的等待。严格门禁能减少信息外流，却不能回答同事对停工原因的怀疑。所谓恢复工作，从一开始就包含新的服从方式，安全感与监督被装进了同一道闸机。",
+      "turn": "因此 → 员工被重新组织起来，阿克斯准备说明这次重开要改变什么。"
+    },
+    {
+      "id": "investigator",
+      "act": "act1",
+      "lane": "law",
+      "where": "纽约南区联邦检察官办公室",
+      "title": "查克的办公室里，来了调查查克的人",
+      "image": "dake",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "戴克不预先预约便到场，说明自己来自职业责任办公室，要调查查克近期行为。查克带他到已经准备好的房间，显露自己收到过风声；戴克随即要求补查税表，并强调有没有配合都要查明真实情况。",
+      "analysis": "查克先用准备妥当的办公室表示自己并不被动，戴克则拒绝让这种熟练接待变成控制会面的优势。双方争夺的首先是调查节奏：谁知道得更多，谁能定义问题。查克一贯向别人提出的说明义务，如今开始落到自己和自己的团队身上。",
+      "turn": "因此 → 已经终止的贿赂调查重新成为检方必须解释的决定。"
+    },
+    {
+      "id": "two-speeches",
+      "act": "act1",
+      "lane": "cross",
+      "where": "克拉科 Capital / Axe Capital · 演讲",
+      "title": "一边允许承认需要，一边宣布不能信任",
+      "image": "lecture",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "温迪受邀向 克拉科 的交易员演讲，回应性骚扰式挑衅后，用药瓶说明人们害怕承认需要帮助。镜头交错到阿克斯的开工讲话：他以陨石和行业灭绝警告众人，并要求员工以后与自己的谈话均有幕僚长 斯蒂芙 在场。",
+      "analysis": "两段演讲都从人的脆弱出发，给出的工作环境却不同。温迪指出不敢求助会放大失败，阿克斯把曾经的信任描述成险些毁掉公司的弱点。第三人在场有合规作用，也暴露老板已无法安心独处于旧关系中，重建公司因此带着防御性的孤立。",
+      "turn": "因此 → 温迪的专业价值被再次看见，阿克斯则以制度代替部分私人信任。"
+    },
+    {
+      "id": "krakow-test",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "克拉科 Capital · 演讲之后",
+      "title": "付了演讲费，也买不到客户秘密",
+      "image": "lecture",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "克拉科 给温迪的演讲报酬是七万五千美元，接着追问阿克斯怎样作决策。温迪明确拒绝泄露，并说不存在能买下背叛的价码。对方改称这是信任测试，正式邀请她全职加入；她回应自己已有诊所，仍在保留选择。",
+      "analysis": "这次拒绝并不意味着她准备回到旧老板身边。她保护客户秘密，同时保护自己选择雇主的权利。克拉科 把被拒绝解释成测试通过，试图让每种回答都证明自己掌控局面；温迪用尚未决定的状态退出这种安排，没有接受别人替她写好的归属。",
+      "turn": "因此 → 离职后的温迪保留职业边界，也暂时不把自由换成另一份全职关系。"
+    },
+    {
+      "id": "war-council",
+      "act": "act2",
+      "lane": "capital",
+      "where": "阿克斯家 · 监控室",
+      "title": "安全的条件，被他说成对方必须消失",
+      "image": "council",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "霍尔 告知华盛顿正在调查查克，阿克斯要求团队趁机彻底打倒对手，并催巴赫立即起诉。顾问提醒单独诉讼会把旧事再次带进新闻，也可能妨碍挽回温迪；霍尔 还报告她与丈夫分居，并曾到访 克拉科 公司。",
+      "analysis": "一屋监控画面并未让主人安定下来，因为他把安全与查克离开职位绑定。顾问讨论风险、停战与公关，阿克斯听到的却是敌人仍有下一次机会。霍尔 对温迪行踪的掌握，也让“想请她回来”带有控制意味：他仍在搜集一位已离职者的生活信息。",
+      "turn": "因此 → 直接起诉还缺少能降低反噬的办法，挽回温迪的行动先被推进。"
+    },
+    {
+      "id": "farewell",
+      "act": "act2",
+      "lane": "law",
+      "where": "同僚告别宴 / 查克讲述的公园棋局",
+      "title": "公开说配合，职位仍握在他手上",
+      "image": "chess",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "刑事部门主管离职，布莱恩、凯特与朗尼都注意到空缺。查克讲述自己没有报复作弊棋手，而是要求对方善待下一位孩子，并承认坐在旁边观察。随后他叫众人如实配合戴克；三名下属听出了职位任命与自身选择的联系。",
+      "analysis": "查克用一个克制报复的故事展示新的领导姿态，但故事的结尾仍是持续监视对方。公开的合作要求与未填的职位同时存在，使下属很难把诚实回答和职业前景完全分开。他没有直接命令任何人撒谎，依然能够让权力影响人怎样理解自己的选择。",
+      "turn": "因此 → 戴克面对的不只是个人证词，还有由晋升预期维系的办公室关系。"
+    },
+    {
+      "id": "bryan-interview",
+      "act": "act2",
+      "lane": "law",
+      "where": "戴克临时办公室",
+      "title": "拒绝工作邀约，也得解释会面经过",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "戴克问布莱恩如何评价查克，得到谨慎而有限的回答，便转向他与阿克斯在披萨店的私下会面。布莱恩说自己拒绝了工作邀约并上报经过；戴克强调报告到次日下午才提交，追问延迟是否为了筛掉不想留下的内容。",
+      "analysis": "调查不再沿查克一条直线推进，而是把下属自己的选择也变成压力点。布莱恩可以证明提交过报告，却不能仅凭报告消除外界对时间差的疑问。戴克以没有第三人在场为由扩大不确定性，让本来准备评价上司的人先担心自己的行为将如何被解释。",
+      "turn": "因此 → 布莱恩保持防备，戴克继续寻找能打破办公室一致说法的入口。"
+    },
+    {
+      "id": "not-yours",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "温迪的新诊室",
+      "title": "她不再是任何人的既有资产",
+      "image": "consultation",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯用假名预约来到温迪诊室，承认自己需要她帮助处理公司转折与顾问分歧。她相信他能自行综合信息，却坚持不会在旁观看。听见他把自己称作最重要的所属资源，她立即打断，要求他尊重不回公司的决定。",
+      "analysis": "温迪没有否认二人合作时思路流动的默契，也没有为了证明独立而贬低他的能力。她把能力评价与工作归属分开，拒绝让长期亲密成为默认的使用权。阿克斯道歉、示弱和嫉妒竞争者轮番出现，仍不能替代她主动同意重新建立合作。",
+      "turn": "因此 → 阿克斯带着拒绝离开，必须在没有温迪参与的情况下决定反击方案。"
+    },
+    {
+      "id": "collar",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Axe Capital · 马菲工位",
+      "title": "避免被迫抛售，比喊生存更具体",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "马菲要以四十美元卖出五百万股成交清淡的钢铁股，打算让五家不知彼此存在的经纪商各卖一百万股。实习生泰勒提出买入四十美元看跌、卖出四十五美元看涨，保护下限并抵销期权成本。马菲估算可省一千万美元，急于挽留。",
+      "analysis": "老板关于灭绝的演讲让马菲只想赶快完成卖单，泰勒则改变问题的结构：先保护可接受价格，再争取等待的时间。这份价值来自减少执行压力与交易摩擦，而不是凭空制造一千万利润。马菲惯用的金钱、派对和讨好也难以说服泰勒留下，招揽需要另一种理解。",
+      "turn": "因此 → 公司出现一种不靠威慑来管理风险的能力，泰勒的去留仍未确定。"
+    },
+    {
+      "id": "bonus",
+      "act": "act3",
+      "lane": "cross",
+      "where": "南区办公室 → Rhoades 家",
+      "title": "五百万不是新钱，却成了新的问题",
+      "image": "payment",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "戴克指出温迪收到阿克斯五百万美元的账户有查克签字权，入账正逢贿赂调查终止。他承认未必是贿赂，却认为外观高度可疑。查克回家质问温迪为何没提奖金，担忧职位和自由；她承认没想到这种观感，仍坚持自己的分居边界。",
+      "analysis": "观众知道奖金来自上一季的冲突结尾，戴克手中的记录却能排列出另一种叙事。时间重合需要解释，不等于已证明交换。查克把钱说成靠近就会中毒，温迪则认为自己终于脱离两名男人的牵引；一笔款项让职业审查和家庭沟通失败同时浮现。",
+      "turn": "因此 → 原有调查有了可向上报告的具体疑点，夫妻并未因此恢复共同应对。"
+    },
+    {
+      "id": "aggregate",
+      "act": "act3",
+      "lane": "capital",
+      "where": "夜间赛马场 · 回到开场",
+      "title": "让一项反击，拥有一百多个入口",
+      "image": "racetrack",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "夜谈回到开场位置。阿克斯讲自己少年时观察大户下注，先读赔率再看赛况；烧烤聚会上听到的警察人数优势故事也给他启发。他承认单独起诉风险过大，改提买下有真实申诉理由者的诉求并聚合起来。巴赫看出舆论将转向查克。",
+      "analysis": "这是一次改变力量配置的选择，而非简单增加声量。阿克斯不再要求律师拿一个人的怨恨硬碰整个政府机构，而是让查克必须面对许多不同当事人的指控。故事是否正当仍需逐案判断，但传播中心已经可以移动：公众追问的对象将不再只有基金老板。",
+      "turn": "因此 → 巴赫接受聚合诉讼方案，阿克斯要求当晚启动。"
+    },
+    {
+      "id": "served",
+      "act": "act3",
+      "lane": "law",
+      "where": "街边 → DeGiulio 办公室 → 戴克拦住布莱恩",
+      "title": "追诉者收到诉状，指认停在回答之前",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克被送达一百二十七项诉讼，其中包括阿克斯的宪法权利受侵害主张；他判断对方资助了全部案件。司法部长随后召他赴华盛顿，查克担心会被解职。结尾戴克告诉布莱恩，举报电话当夜出自 Yonkers，并据此指认是他拨打。",
+      "analysis": "本集把三种不同确定程度并置：诉状确已送达，解职只是查克对约见的预判，举报人的身份则是戴克当面作出的结论。布莱恩没有在结尾承认。保持这些差别，才能看见压力怎样先于证明产生作用：职位可能失去、同僚可能背叛，就足以改变人的下一步。",
+      "turn": "因此 → 查克被迫应付外部诉讼与内部调查，布莱恩面对一个尚未作答的指认。",
+      "detail": "配图是稍早布莱恩接受戴克询问的本集画面，用作人物情境配图；不是结尾室外拦谈的精确帧。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "重新开门，重新设限",
+      "deck": "新规则与新调查同时抵达。",
+      "range": "01—04",
+      "summary": "公司重开、戴克进驻，交错的演讲显示两种面对脆弱的方法；温迪拒绝出售客户秘密。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "谁还能要求别人相信",
+      "deck": "战争动员、晋升暗示与离职边界。",
+      "range": "05—08",
+      "summary": "阿克斯急于反击，查克向下属展示克制；戴克扩大询问，温迪坚持不回公司。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "把风险改写成别人的负担",
+      "deck": "交易获得保护，奖金成为疑点，诉讼汇成压力。",
+      "range": "09—12",
+      "summary": "泰勒改变卖股办法，查克遭遇五百万美元问题；赛马场谈出的方案变成一百二十七项诉讼。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官 / 被调查者",
+      "fact": "应付戴克审查，向下属谈克制，最后收到诉状与华盛顿召见。",
+      "analysis": "擅长安排别人怎样理解局面，如今发现自己的时间线也能被别人重新排列。"
+    },
+    "axe": {
+      "role": "基金创办人",
+      "fact": "重开公司并收紧谈话规则；挽留温迪失败后推动聚合诉讼。",
+      "analysis": "将安全寄托于查克离职，却开始学会改变反击结构以减少自身暴露。"
+    },
+    "wendy": {
+      "role": "独立执业的表现教练 / 精神科医生",
+      "fact": "拒绝泄露阿克斯秘密，也拒绝回公司；与查克争论奖金及分居界限。",
+      "analysis": "专业忠诚并不等于工作归属，自主生活也仍受旧关系留下的记录影响。"
+    },
+    "dake": {
+      "role": "司法部职业责任办公室调查员",
+      "fact": "询问布莱恩，查到五百万入账，并在结尾指认举报者。",
+      "analysis": "利用时间差与记录之间的可疑联系施压，但其部分推断尚未获得确认。"
+    },
+    "bryan": {
+      "role": "查克的助理检察官",
+      "fact": "谨慎回答戴克问题，说明已拒绝阿克斯邀约，听到举报指认。",
+      "analysis": "对上司的不满与自身职业风险纠缠，结尾保留了他的回答。"
+    },
+    "taylor": {
+      "role": "Axe Capital 实习生",
+      "fact": "向马菲提出期权领式组合，改善五百万股卖单的执行处境。",
+      "analysis": "把生存焦虑转成可以计算的保护；常规招揽手段难以换来承诺。"
+    },
+    "bach": {
+      "role": "阿克斯的律师",
+      "fact": "警告单独诉讼的公关反噬，后接受聚合真实申诉的方案。",
+      "analysis": "没有简单否决报复欲，而是要求一种能让当事人减少自身风险的执行形式。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 旧关系失去默认信任",
+      "note": "三人各自建立新的工作与生活入口。",
+      "edges": [
+        "查克转为受查",
+        "分居轮流育儿",
+        "离职后守住秘密"
+      ],
+      "details": {
+        "chuck": "以准备好的办公室迎接戴克。",
+        "axe": "让员工按更严规则进入。",
+        "wendy": "演讲后拒绝出售客户信息。",
+        "dake": "把税表加入调查范围。",
+        "bryan": "仍留在南区，与同僚观察空缺。",
+        "taylor": "仍是实习生，尚未承诺留下。",
+        "bach": "被要求拟定反击。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 请求也会带来压力",
+      "note": "对方是否同意，成为权力实际边界。",
+      "edges": [
+        "准备诉讼反击",
+        "分居边界仍在",
+        "挽留遭明确拒绝"
+      ],
+      "details": {
+        "chuck": "把诚实配合与自己的领导延续放在同一席话里。",
+        "axe": "承认需要温迪，却仍不自觉使用占有语言。",
+        "wendy": "肯定阿克斯能力，同时坚持不回公司。",
+        "dake": "让布莱恩解释私会和上报时间。",
+        "bryan": "回答受到个人风险与上司关系双重限制。",
+        "taylor": "提出改善卖股结构的办法。",
+        "bach": "提醒诉讼会使旧事重回新闻。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 记录和数量改变力量",
+      "note": "一笔旧奖金与一百二十七项新诉讼同时施压。",
+      "edges": [
+        "聚合诉状抵达",
+        "奖金使矛盾加深",
+        "秘密仍保密，归属仍拒绝"
+      ],
+      "details": {
+        "chuck": "担心解职，尚未获知华盛顿会面结果。",
+        "axe": "要求当夜执行聚合诉讼。",
+        "wendy": "承认未想到奖金观感，仍保持分居界限。",
+        "dake": "指认布莱恩为举报人，未获当场承认。",
+        "bryan": "面对来自Yonkers定位的指控。",
+        "taylor": "被马菲认定为重要人才，去留未定。",
+        "bach": "把数量优势转成可操作的法律压力。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "claims",
+      "title": "一个人的反击，怎样变成一百二十七项诉状？",
+      "intro": "阿克斯先想直接起诉，再改变谁承担公开注意力的结构。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "要求让查克离职",
+          "portrait": "axe",
+          "scene": "war-council"
+        },
+        {
+          "name": "巴赫",
+          "role": "指出单独起诉会反噬",
+          "portrait": "bach",
+          "scene": "war-council"
+        },
+        {
+          "name": "聚合诉求",
+          "role": "收集有真实理由的不满者",
+          "portrait": null,
+          "scene": "aggregate"
+        },
+        {
+          "name": "查克",
+          "role": "收到127项诉讼",
+          "portrait": "chuck",
+          "scene": "served"
+        }
+      ],
+      "result": "单独的争斗被改造成许多当事人同时追问；具体主张成立与否尚待处理。"
+    },
+    {
+      "id": "payment-record",
+      "title": "奖金怎样从职业收入变成调查疑点？",
+      "intro": "关键不只是金额，而是同一天的入账与撤案被放进同一张时间表。",
+      "nodes": [
+        {
+          "name": "旧奖金",
+          "role": "温迪收到五百万美元",
+          "portrait": null,
+          "scene": "bonus"
+        },
+        {
+          "name": "戴克",
+          "role": "查税表及账户签字权",
+          "portrait": "dake",
+          "scene": "bonus"
+        },
+        {
+          "name": "查克与温迪",
+          "role": "争论告知义务及风险",
+          "portrait": "wendy",
+          "scene": "bonus"
+        },
+        {
+          "name": "华盛顿召见",
+          "role": "司法部长要求查克到场",
+          "portrait": null,
+          "scene": "served"
+        }
+      ],
+      "result": "本集出现了足以升级调查的外观疑点，没有证明奖金交换撤案或已经决定解职。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Trust almost killed Axe Capital.",
+      "zh": "信任差点毁了Axe Capital。",
+      "speaker": "阿克斯 → 员工",
+      "context": "重新开工演讲，随即宣布所有谈话必须有幕僚长在场。",
+      "image": "speech",
+      "analysis": "他把一次受伤推广成组织规则，合规保护与不信任一同增长。"
+    },
+    {
+      "en": "I'm not your anything.",
+      "zh": "我不是属于你的任何东西。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "新诊室里，她打断阿克斯把自己说成被竞争者挖走的资源。",
+      "image": "consultation",
+      "analysis": "她拒绝的是默认占有权，仍可保留对他能力与秘密的尊重。"
+    },
+    {
+      "en": "The numbers told the story.",
+      "zh": "数字已经把故事说出来了。",
+      "speaker": "阿克斯 → 巴赫",
+      "context": "夜间赛马场，他回忆少年时观察大额下注和赔率。",
+      "image": "racetrack",
+      "analysis": "数字既是识别信息的入口，也成为把私人反击放大为群体诉讼的思路。"
+    }
+  ],
+  "comparison": {
+    "title": "同一场危机，两种风险管理",
+    "deck": "一边用更紧的组织控制求生，一边改变交易结构争取时间。",
+    "left": {
+      "image": "speech",
+      "caption": "阿克斯向员工讲行业灭绝与信任风险。",
+      "speaker": "阿克斯",
+      "title": "先收紧人与人的通道",
+      "text": "所有谈话都要第三人在场；老板减少暴露，也让日常交流失去原先的自在。"
+    },
+    "right": {
+      "image": "taylor",
+      "caption": "泰勒与马菲讨论五百万股卖单。",
+      "speaker": "泰勒",
+      "title": "先保护价格，再决定何时卖",
+      "text": "以看跌保护和卖出看涨抵销成本，缓解必须立即压价抛售的处境。"
+    },
+    "rows": [
+      {
+        "label": "感知的风险",
+        "left": "信息流动与再次背叛",
+        "right": "流动性不足与执行价格"
+      },
+      {
+        "label": "改变什么",
+        "left": "限制谁能在什么条件下讲话",
+        "right": "调整收益结构并争取时间"
+      },
+      {
+        "label": "留下的代价",
+        "left": "同事间信任与灵活性受挤压",
+        "right": "以放弃部分上涨空间换取下限保护"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "减少风险，不总意味着抓得更紧",
+      "text": "本集没有把严密防守等同于稳定。门禁和见证人解决一种暴露，泰勒的组合解决另一种压力；温迪则提醒观众，有些风险只能通过尊重另一个人说不来管理。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "灯光由谁打开",
+      "fact": "阿克斯等瓦格斯到场才放员工进门，又承认赛马场夜间训练是自己特意安排。",
+      "analysis": "恢复工作与回望少年都由他控制场景。越努力证明还能决定周围人何时出现，越显出他对失去掌控的敏感。",
+      "steps": [
+        "等待开门",
+        "安排夜跑",
+        "争回主动"
+      ]
+    },
+    {
+      "title": "棋局中的克制",
+      "fact": "查克说自己放过作弊棋手，但留在附近观察；下属听完也仍需考虑晋升。",
+      "analysis": "他对新方法的解释保留了监督与奖惩。克制可能是真实尝试，也可能同时成为让别人自愿配合的方式。",
+      "steps": [
+        "发现作弊",
+        "避免报复",
+        "继续监督"
+      ]
+    },
+    {
+      "title": "五百万的两种排列",
+      "fact": "奖金发生在第一季结尾，戴克把入账日与查克撤案日并列，查克此前并未获温迪告知。",
+      "analysis": "同一记录可以有不同的因果解释。调查需要核实交换关系，观众也需要抵抗仅凭时间重合就认定贿赂的冲动。",
+      "steps": [
+        "款项入账",
+        "日期重合",
+        "需要解释"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "payment",
+    "kicker": "WHO IS BEING WATCHED",
+    "value": "127",
+    "title": "他习惯提出问题\n现在轮到他作答",
+    "text": "一百二十七项诉讼已经送达，华盛顿的会面还未发生。戴克最后把举报人的问题推给布莱恩，镜头停在回答之前。配图取自此前奖金质询：查克的位置已经从询问者转成需要说明的人。"
+  },
+  "evidence": {
+    "afterAct": "act3",
+    "leftImage": "payment",
+    "leftCaption": "戴克在办公室指出奖金入账与撤案同日。",
+    "rightImage": "home",
+    "rightCaption": "温迪在家中面对查克对奖金的质问。",
+    "kicker": "THE SAME PAYMENT",
+    "title": "同一笔钱，触发两种告知要求",
+    "text": "戴克要求解释记录之间是否存在交换，查克要求妻子解释为什么自己此前不知道。前者尚待证据，后者暴露沟通的断裂；法律疑点和关系伤口相互加重，却不能被合并为同一项已证实结论。",
+    "scene": "bonus"
+  }
+}

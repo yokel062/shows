@@ -10,7 +10,7 @@ from string import Template
 ROOT = Path(__file__).resolve().parents[1]
 SHOW = ROOT / 'series' / 'billions'
 TITLES = ['Pilot', 'Naming Rights', 'YumTime', 'Short Squeeze', 'The Good Life', 'The Deal', 'The Punch', 'Boasts and Rails', 'Where the F*ck Is Donnie?', 'Quality of Life', 'Magical Thinking', 'The Conversation']
-SEASON_TITLES = {1: TITLES, 3: ['Tie Goes to the Runner', 'The Wrong Maria Gonzalez', 'A Generation Too Late', 'Hell of a Ride', 'Flaw in the Death Star', 'The Third Ortolan', 'Not You, Mr. Dake', 'All the Wilburys', 'Icebreaker', 'Redemption', 'Kompenso', 'Elmsley Count']}
+SEASON_TITLES = {1: TITLES, 2: ['Risk Management', 'Dead Cat Bounce', 'Optimal Play', 'The Oath', 'Currency', 'Indian Four', 'Victory Lap', 'The Kingmaker', 'Sic Transit Imperium', 'With or Without You', 'Golden Frog Time', 'Ball in Hand'], 3: ['Tie Goes to the Runner', 'The Wrong Maria Gonzalez', 'A Generation Too Late', 'Hell of a Ride', 'Flaw in the Death Star', 'The Third Ortolan', 'Not You, Mr. Dake', 'All the Wilburys', 'Icebreaker', 'Redemption', 'Kompenso', 'Elmsley Count']}
 
 BACKGROUND = [
     dict(id='doj', title='美国司法部 · SDNY 办公室介绍', url='https://www.justice.gov/usao-sdny/about', note='机构背景：联邦检察官办公室的职权。'),
@@ -112,7 +112,7 @@ def validate(data, directory, registry):
 def navigation(number, season=1):
     titles = SEASON_TITLES[season]
     catalogue_href = f'../season-{season}/'
-    label = '第三季目录' if season == 3 else '第一季目录'
+    label = season_label(season) + '目录'
     left = f'<a href="../s{season:02}e{number-1:02}/">← 上一集 · {esc(titles[number-2])}</a>' if number > 1 else f'<a href="{catalogue_href}">← {label}</a>'
     right = f'<a href="../s{season:02}e{number+1:02}/">下一集 · {esc(titles[number])} →</a>' if number < 12 else f'<a href="{catalogue_href}">回到{label} →</a>'
     return f'<nav class="season-navigation wrap" aria-label="前后集导航">{left}<a href="{catalogue_href}">十二集目录</a>{right}</nav>'
@@ -205,7 +205,7 @@ def render_episode(data, directory, registry):
     values['image_list'] = ''.join(f'<li>{esc(item["caption"])} · <a href="{esc(item["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{esc(item["sourceUrl"])}" target="_blank" rel="noopener">源页</a></li>' for name,item in images.items() if name in used)
     values['portrait_list'] = ''.join(f'<li>{esc(p["name"])} · {esc(p["actor"])} 饰 · <a href="{esc(p["originalUrl"])}" target="_blank" rel="noopener">原图</a> / <a href="{esc(p["sourceUrl"])}" target="_blank" rel="noopener">源页</a>{(" · " + esc(p["note"])) if p.get("note") else ""}</li>' for p in portraits.values())
     values['payload'] = json.dumps(dict(data,portraits=portraits,sources=sources),ensure_ascii=False).replace('<','\\u003c')
-    template = 'season-three-episode.html' if season == 3 else 'season-episode.html'
+    template = {1: 'season-episode.html', 2: 'season-two-episode.html', 3: 'season-three-episode.html'}[season]
     page = Template((SHOW / 'shared' / template).read_text()).substitute(values)
     page = page.replace('<div class="support-people"',f'<div class="support-people" style="--support-count:{len(support)}"')
     (directory / 'index.html').write_text(page)
@@ -213,7 +213,7 @@ def render_episode(data, directory, registry):
 
 
 def season_label(season):
-    return {1: '第一季', 3: '第三季'}[season]
+    return {1: '第一季', 2: '第二季', 3: '第三季'}[season]
 
 
 def catalogue(entries, season=1):
@@ -233,9 +233,11 @@ def catalogue(entries, season=1):
     status = '完整十二集' if complete else f'已完成 {len(records)} 集'
     first = records[0]
     first_image = next(item for item in entries[0]['images'] if Path(item['file']).stem == entries[0]['hero'])
-    deck = '一场调查，逐渐越过职业与婚姻的边界。' if season == 1 else '当立场开始移动，才能、忠诚与交易也被重新估价。'
+    deck = {1: '一场调查，逐渐越过职业与婚姻的边界。', 2: '职位、信任与家庭，成为每次较量重新定价的筹码。', 3: '当立场开始移动，才能、忠诚与交易也被重新估价。'}[season]
     scope = (f'各篇包括前季必要背景与截至 S{season:02} 对应集的剧情。' if season > 1 else '各篇仅包括截至第一季对应集的剧情。') + '不使用后集解释当前行动。'
-    page = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#161c20"><meta name="description" content="《亿万》{label}十二集图文阅读档案：剧情推进、真实剧照、人物关系、消息路径与台词深读。"><title>亿万 · {label}十二集图解 — 剧中人</title><link rel="stylesheet" href="../shared/episode.css?v=season1"><link rel="stylesheet" href="../shared/season.css?v=season1"><link rel="stylesheet" href="../shared/season-three.css?v=20261016"></head><body><header class="masthead"><a class="brand" href="../../../"><b>✦</b>剧中人 <small>STORY FIELDNOTES</small></a><a class="episode-label" href="../">亿万 · 全部已收录季度 ↗</a></header><main><section class="season-hero"><img src="../{esc(first['hero'])}" alt="{esc(first['alt'])}" width="{first_image['width']}" height="{first_image['height']}"><div class="season-hero-scrim"></div><div class="wrap"><div class="eyebrow">SEASON {season:02} / {status}</div><h1>BILLIONS<span>亿万 · {label}</span></h1><p>{deck}<br>十二集，追踪每一次选择怎样改变下一步。</p><div class="season-stat"><span><strong>{len(records):02}</strong>单集档案</span><span><strong>{sum(r['scenes'] for r in records)}</strong>剧情节点</span><span><strong>{sum(r['quotes'] for r in records)}</strong>台词笔记</span></div></div></section><section class="wrap season-opening"><nav class="season-switch" aria-label="季度选择"><a href="../">作品总目录</a><a href="../season-1/" {'aria-current="page"' if season==1 else ''}>第一季</a><a href="../season-3/" {'aria-current="page"' if season==3 else ''}>第三季</a></nav><h2>沿着十二集，读懂这场较量。</h2><p>三幕剧情、真实配图、分阶段人物关系、消息与选择路径、对照深读和台词卡。场景解读默认展开；单集在新标签页打开。</p><p class="season-scope">{scope}目录完整展示各集配图与导读，导读也涉及对应剧情。请按已观看的集数选择。</p><nav class="season-jump" aria-label="集数导航">{''.join(f'<a href="#episode-{r["episode"]:02}">{r["episode"]:02}</a>' for r in records)}</nav></section><section class="wrap season-grid" aria-label="{label}单集目录">{cards}</section></main><footer class="sources wrap"><p>剧情事实、制度背景与个人解读分别标注。剧集画面归原权利人；文字、台词和逐张图像出处详见各篇末尾。</p><div class="footer-bottom"><a href="../">← 亿万作品目录</a><span>BILLIONS / SEASON {season:02}</span><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
+    available = [n for n in SEASON_TITLES if n == season or (SHOW / f'season-{n}/season.json').is_file()]
+    switch_links = ''.join(f'<a href="../season-{n}/" ' + ('aria-current="page"' if n == season else '') + f'>{season_label(n)}</a>' for n in available)
+    page = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#161c20"><meta name="description" content="《亿万》{label}十二集图文阅读档案：剧情推进、真实剧照、人物关系、消息路径与台词深读。"><title>亿万 · {label}十二集图解 — 剧中人</title><link rel="stylesheet" href="../shared/episode.css?v=season1"><link rel="stylesheet" href="../shared/season.css?v=season1"><link rel="stylesheet" href="../shared/season-three.css?v=20261016"></head><body><header class="masthead"><a class="brand" href="../../../"><b>✦</b>剧中人 <small>STORY FIELDNOTES</small></a><a class="episode-label" href="../">亿万 · 全部已收录季度 ↗</a></header><main><section class="season-hero"><img src="../{esc(first['hero'])}" alt="{esc(first['alt'])}" width="{first_image['width']}" height="{first_image['height']}"><div class="season-hero-scrim"></div><div class="wrap"><div class="eyebrow">SEASON {season:02} / {status}</div><h1>BILLIONS<span>亿万 · {label}</span></h1><p>{deck}<br>十二集，追踪每一次选择怎样改变下一步。</p><div class="season-stat"><span><strong>{len(records):02}</strong>单集档案</span><span><strong>{sum(r['scenes'] for r in records)}</strong>剧情节点</span><span><strong>{sum(r['quotes'] for r in records)}</strong>台词笔记</span></div></div></section><section class="wrap season-opening"><nav class="season-switch" aria-label="季度选择"><a href="../">作品总目录</a>{switch_links}</nav><h2>沿着十二集，读懂这场较量。</h2><p>三幕剧情、真实配图、分阶段人物关系、消息与选择路径、对照深读和台词卡。场景解读默认展开；单集在新标签页打开。</p><p class="season-scope">{scope}目录完整展示各集配图与导读，导读也涉及对应剧情。请按已观看的集数选择。</p><nav class="season-jump" aria-label="集数导航">{''.join(f'<a href="#episode-{r["episode"]:02}">{r["episode"]:02}</a>' for r in records)}</nav></section><section class="wrap season-grid" aria-label="{label}单集目录">{cards}</section></main><footer class="sources wrap"><p>剧情事实、制度背景与个人解读分别标注。剧集画面归原权利人；文字、台词和逐张图像出处详见各篇末尾。</p><div class="footer-bottom"><a href="../">← 亿万作品目录</a><span>BILLIONS / SEASON {season:02}</span><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
     metadata = dict(season=season, complete=complete, episodes=records)
     (directory / 'index.html').write_text(page + '\n')
     (directory / 'season.json').write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + '\n')
@@ -257,10 +259,10 @@ def show_index():
         number = data['season']
         first = data['episodes'][0]
         label = season_label(number)
-        deck = '一条交易线索，将法律、资本与婚姻拉到同一条战线。' if number == 1 else '法律的较量还在继续，公司的领导、信任与独立也开始被重新定义。'
+        deck = {1: '一条交易线索，将法律、资本与婚姻拉到同一条战线。', 2: '从保住位置，到重写局面。追踪交易、调查与家庭如何彼此牵动。', 3: '法律的较量还在继续，公司的领导、信任与独立也开始被重新定义。'}[number]
         cards += f'<article class="season-card"><a class="season-card-image" href="season-{number}/"><img src="{esc(first["hero"])}" alt="{esc(first["alt"])}" width="1200" height="675"><span>S{number:02}</span></a><div class="season-card-copy"><div class="eyebrow">SEASON {number:02}</div><h2>{label} · 十二集档案</h2><p>{deck}</p><div class="season-card-meta"><span>{len(data["episodes"])} 集</span><span>{sum(e["scenes"] for e in data["episodes"])} 个剧情节点</span></div><a class="read-link" href="season-{number}/">打开{label}完整目录 →</a></div></article>'
     count = sum(len(s['episodes']) for s in seasons)
-    page = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#161c20"><title>亿万 · 剧集图文档案 — 剧中人</title><link rel="stylesheet" href="shared/episode.css?v=season1"><link rel="stylesheet" href="shared/season.css?v=season1"><link rel="stylesheet" href="shared/season-three.css?v=20261016"></head><body><header class="masthead"><a class="brand" href="../../"><b>✦</b>剧中人 <small>STORY FIELDNOTES</small></a><a class="episode-label" href="../../">全部作品 ↗</a></header><main class="show-hub wrap"><div class="eyebrow">BILLIONS / STORY FIELDNOTES</div><h1>亿万<span>每一次选择，都在改变关系。</span></h1><p>按季度选择图文档案。现收录 {len(seasons)} 季、{count} 集；各季目录完整展示全部配图与导读，每篇剧透限定到该集。</p><section class="season-grid" aria-label="已收录季度">{cards}</section></main><footer class="sources wrap"><p>单集包含三幕剧情、人物关系、消息路径、对照深读和台词笔记。剧情事实与个人解读分别标注，图像出处见各篇末尾。</p><div class="footer-bottom"><a href="../../">← 全部作品</a><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
+    page = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#161c20"><title>亿万 · 剧集图文档案 — 剧中人</title><link rel="stylesheet" href="shared/episode.css?v=season1"><link rel="stylesheet" href="shared/season.css?v=season1"><link rel="stylesheet" href="shared/season-three.css?v=20261016"></head><body><header class="masthead"><a class="brand" href="../../"><b>✦</b>剧中人 <small>STORY FIELDNOTES</small></a><a class="episode-label" href="../../">全部作品 ↗</a></header><main class="show-hub wrap"><div class="eyebrow">BILLIONS / STORY FIELDNOTES</div><h1>亿万<span>每一次选择，都在改变关系。</span></h1><p>按季度选择图文档案。现收录 {len(seasons)} 季、{count} 集；各季目录完整展示全部配图与导读，每篇剧透限定到该集。</p><section class="season-grid" style="grid-template-columns:repeat({len(seasons)},minmax(0,1fr))" aria-label="已收录季度">{cards}</section></main><footer class="sources wrap"><p>单集包含三幕剧情、人物关系、消息路径、对照深读和台词笔记。剧情事实与个人解读分别标注，图像出处见各篇末尾。</p><div class="footer-bottom"><a href="../../">← 全部作品</a><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a></div></footer></body></html>'''
     (SHOW / 'index.html').write_text(page + '\n')
 
 
@@ -292,8 +294,12 @@ def main():
         entries.append(data)
     if entries:
         catalogue(entries, args.season)
-    if args.season != 1 and not (SHOW / 'season-1/season.json').is_file():
-        catalogue([load_data(n, 1) for n in range(1, 13)], 1)
+    for other in SEASON_TITLES:
+        if other != args.season and (SHOW / f'season-{other}/season.json').is_file():
+            other_entries = [load_data(n, other) for n in range(1, 13)
+                             if (SHOW / f's{other:02}e{n:02}' / 'content.json').is_file()]
+            if other_entries:
+                catalogue(other_entries, other)
     show_index()
 
 

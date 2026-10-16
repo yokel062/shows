@@ -1,0 +1,723 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 4,
+  "title": "The Oath",
+  "chineseTitle": "誓言的价格，受压的形状",
+  "subtitle": "一场假退让、一次职业选择，与无法用照片换来的接纳",
+  "hero": "deposition",
+  "heroTitle": "每个人都说自己准备好了\n压力才让答案成形",
+  "heroDeck": "阿克斯想用誓言改变公众印象，\n查克让退让看起来足够真实。\n温迪重新选择要怎样帮助人。",
+  "openingTitle": "承诺能够被记录，\n怎样知道它承受得住什么？",
+  "openingFact": "阿克斯进入NFL竞购最后阶段，仍急于推进针对查克的诉讼。查克需要博伊德案继续取得进展，内部合作人却报告操作已停。温迪则受雇判断一位候选人能否驾驶价值十二亿美元的飞船前往火星。",
+  "openingReading": "照片、口头保证与专业评估都试着预先回答未来会怎样。本集不断把这些说法放进压力里：捐赠是否出于承诺，平静是否经得住失败，律师的提醒在愤怒时还有没有分量。",
+  "stamp": {
+    "value": "OATH",
+    "label": "WORDS UNDER PRESSURE",
+    "note": "说出口的誓言，与愿意承担的后果，不一定同时抵达。"
+  },
+  "storyTitle": "把人放进压力里\n承诺才开始显出形状",
+  "storyDeck": "十二个节点连接火星候选人评估、博伊德案、球队竞购与正式取证。",
+  "intro": "几条线都围绕“已经准备好”展开。阿克斯相信自己能在证词中保持控制，博伊德相信查克接受了收场交易，温迪先遇到一位言谈无懈可击的任务候选人。接下来发生的事，逐一检验这些外观。",
+  "catalogueIntro": "阿克斯借慈善誓言争取NFL接纳，查克借表面让步恢复博伊德案的取证机会。温迪评估火星候选人，也重新理解自己的工作；瓦格斯的求助与两名主角的正式取证，将“准备好了”推到真实压力之下。",
+  "spoiler": "剧透范围：第一季必要背景及第二季第1—4集，止于本集结尾。事实与个人解读分栏；英文短台词中文均为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E04 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e04",
+      "note": "核对顺序、人物与短台词；非官方转录，中文台词为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第二季第 4 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "note": "交叉核对剧情与剧照语境；作者推测及后续预测不作为事实。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · 2.04 人物与承诺回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17651",
+      "note": "交叉核对取证、慈善与温迪的职业选择；不采用对未来情节的预测。所用GIF首帧保留原像素。"
+    },
+    {
+      "id": "recap2",
+      "title": "Ginges Be Cray · The Oath 逐场回顾",
+      "url": "https://gingesbecray.com/billions-s2e4-the-oath-recap/",
+      "note": "辅助核对各线先后；戴克的举报人指认、恢复竞标报告与正式取证材料分别处理。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E04 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "note": "核对机库、录像、俱乐部、高尔夫、Sandicot及求助场景；不采用自动生成的剧情总结。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/farpoint.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot45.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "温迪与克雷格·海德克在航天设施中行走",
+      "caption": "本集截图：温迪受雇评估火星任务候选人，项目希望她确认能否承受极端压力。",
+      "kind": "episode-still",
+      "width": 1554,
+      "height": 768
+    },
+    {
+      "file": "assets/cuban.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot49.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "阿克斯与马克·库班在餐桌两边交谈",
+      "caption": "本集宣传剧照：库班以自己争购球队的经历提醒阿克斯，法律清白与圈层接纳并不相同。",
+      "kind": "episode-production-still",
+      "width": 864,
+      "height": 576
+    },
+    {
+      "file": "assets/rehearsal.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot10.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "阿克斯在巴赫面前练习应对询问",
+      "caption": "本集截图：模拟取证一触及警察与丹泽格问题，他便险些作出不能兑现的否认。",
+      "kind": "episode-still",
+      "width": 1030,
+      "height": 858
+    },
+    {
+      "file": "assets/bensinger.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot47.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "阿克斯与本辛格在热狗店相对而坐",
+      "caption": "本集宣传剧照：本辛格向阿克斯谈Giving Oath，把捐赠视作摆脱无止境积累的方法。",
+      "kind": "episode-production-still",
+      "width": 1420,
+      "height": 1044
+    },
+    {
+      "file": "assets/warrant-team.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot14.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "布莱恩与凯特在办公室内并肩站立",
+      "caption": "本集截图：布莱恩与凯特的办案镜头，为查克要求申请搜查令的节点配图。",
+      "kind": "episode-still",
+      "width": 1580,
+      "height": 866
+    },
+    {
+      "file": "assets/deposition.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep4shot21.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17522",
+      "alt": "阿克斯穿Megadeth上衣坐在取证桌前",
+      "caption": "本集截图：正式口头取证时，阿克斯以轻蔑姿态面对对方，律师仍在试图控制风险。",
+      "kind": "episode-still",
+      "width": 1560,
+      "height": 872
+    },
+    {
+      "file": "assets/dry-faucet.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/542187439debaa7f5_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "查克听取麦金农无法取得新材料的报告",
+      "caption": "本集截图：麦金农表示公开调查后，国债竞标操作停止，查克要求他继续留在原位。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/elena.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/54219087c1c2aaaca_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "埃莱娜在航天设施中与温迪交谈",
+      "caption": "本集截图：埃莱娜谈到合作伙伴与避免被关系牵绊的选择。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/recording.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421910feace60617_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "电脑播放戴克在室外指认布莱恩的录像",
+      "caption": "本集截图：查克观看父亲送来的监控资料；画面记录的是戴克的指认，仍没有布莱恩承认。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/boyd-deal.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421918386639ed1e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "博伊德在文学俱乐部与查克谈条件",
+      "caption": "本集截图：博伊德愿意交出合规部门已标记的中层人员，以换取调查结束。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/career-choice.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/542193621c4b61d9d_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "温迪向海德克解释自己想做的工作",
+      "caption": "本集截图：温迪交付对候选人的否定意见，也拒绝继续只做筛选者。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/sandicot.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421942d94c61312e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "阿克斯听马可提出桑迪科特投资",
+      "caption": "本集截图：赌场计划让阿克斯重新注意到一项濒临违约地区的债务投资。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/wags.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421948fd7ecc5d31_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "瓦格斯面容疲惫地面对阿克斯",
+      "caption": "本集截图：瓦格斯无法坐下，说明自己醒来后才发现不记得如何纹上的刺青。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/appointment.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421952229cf5452e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "温迪在新诊室门口看着来求助的瓦格斯",
+      "caption": "本集截图：同场温迪的反应，她愿意帮忙，但要求瓦格斯打电话正式预约。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/bryan-choice.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5421954cb4c667f58_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-4/screencaps/",
+      "alt": "布莱恩面对戴克重新表明立场",
+      "caption": "本集截图：布莱恩要求戴克用证据证明指控，并拒绝以抛弃查克换职业保全。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 402
+    },
+    {
+      "file": "assets/oath-call.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/imageedit_74_5767508707.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17651",
+      "alt": "阿克斯在取证休息时接本辛格电话",
+      "caption": "本集截图：本辛格指责阿克斯利用慈善照片并告知NFL拒绝；原GIF第0帧，保留350×197原像素。",
+      "kind": "episode-still",
+      "width": 350,
+      "height": 197
+    },
+    {
+      "file": "assets/messy-work.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/imageedit_39_5657991219.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17651",
+      "alt": "温迪与海德克在机库办公室相对而坐",
+      "caption": "本集截图：温迪解释自己更想参与人的改变；原GIF第0帧，保留658×370原像素。",
+      "kind": "episode-still",
+      "width": 658,
+      "height": 370
+    }
+  ],
+  "scenes": [
+    {
+      "id": "space-screening",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "Farpoint · 飞船与机库",
+      "title": "他想要一个心理上不会出错的人",
+      "image": "farpoint",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "科技企业家克雷格·海德克请温迪评估火星任务候选人埃莱娜，强调这是价值十二亿美元的飞船，也关乎自己的事业遗产。他希望确认对方在心理上足够可靠。温迪选择边参观边交谈，先从握手、准时和语言习惯了解这位没有既往诊疗关系的人。",
+      "analysis": "委托方要的是可以放心交出钥匙的结论，温迪却必须通过具体接触判断人。将一个人说成心理上万无一失，隐含着把风险预先消除的期待；本集随后会问，表现得从容是否已经足够，还是必须看见遭遇失败时如何继续，才能判断这种从容依靠什么。",
+      "turn": "因此 → 候选人的能力之外，面对挫折与关系的方式成为评估重点。"
+    },
+    {
+      "id": "change-image",
+      "act": "act1",
+      "lane": "capital",
+      "where": "餐厅 · 与马克·库班午餐",
+      "title": "打赢官司，也未必能让圈层欢迎他",
+      "image": "cuban",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "马克·库班告诉阿克斯，自己曾花多年与证监会交锋并洗清名声，却仍没买到想要的球队。联盟担心出身相近的阿克斯高调、破坏礼仪。他建议放下对检察官的攻击，证明进入新阶段；阿克斯不肯停战，转而主动约Giving Oath发起人本辛格见面。",
+      "analysis": "阿克斯想消除对方说不的理由，库班提醒的却是一套不由他独自定义的接纳标准。公众声誉并非可以通过一份胜诉判决立即清零。他接受改变形象的任务，却保留制造冲突的核心行为，于是慈善成为一条试图绕开根本改变的捷径。",
+      "turn": "因此 → 他同时推动慈善曝光与民事取证，希望在联盟决定前改变外观。"
+    },
+    {
+      "id": "faucet-off",
+      "act": "act1",
+      "lane": "law",
+      "where": "南区办公室 · 麦金农报告",
+      "title": "调查公开得太早，行动先停了",
+      "image": "dry-faucet",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "麦金农报告国债竞标操作在调查新闻出现后停止，自己既无法取到新材料，又必须瞒着妻子继续忍受婚姻背叛。布莱恩质问他，查克则肯定他仍留在原位，要求再坚持；同时华盛顿明确警告，若无进展，查克暂保的职位仍会失去。",
+      "analysis": "上一集为查克争取时间的公开性，如今妨碍了他在时间里取得证据。麦金农承受的是每天回家还要隐藏知情的压力，不只是案件进度表上的一次停滞。查克用赞许让他继续留住入口，也开始寻找让目标重新放松的办法，办案与鼓励都服务于下一轮部署。",
+      "turn": "因此 → 检方需要改变博伊德对危险的感知，不能只等他无缘无故重新冒险。"
+    },
+    {
+      "id": "practice-break",
+      "act": "act1",
+      "lane": "capital",
+      "where": "阿克斯办公室 · 巴赫模拟取证",
+      "title": "律师先让他练习怎样停下来",
+      "image": "rehearsal",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克请求驳回诉讼未获准，巴赫仍建议延期取证，提醒这类询问难以预测。阿克斯坚持立即进行，好用检察官越界的记录帮助竞购。模拟问题触及丹泽格与警察，他险些直接否认曾经的介入，随即意识到风险；巴赫要求失去冷静时先休息，别送出伪证问题。",
+      "analysis": "他把取证当成向外展示对手不当行为的工具，律师却知道每一句回答也会留下自己的风险。差别不在能否说出漂亮话，而在面对自己不愿承认的部分时能否暂停。一次预演已显示阿克斯会被触动，本集结尾将继续检验他是否愿意接受这种脆弱。",
+      "turn": "因此 → 正式见面前已有明确的停顿办法，是否使用仍取决于当事人的选择。"
+    },
+    {
+      "id": "giving-headlines",
+      "act": "act2",
+      "lane": "capital",
+      "where": "热狗店 → 公开慈善照片",
+      "title": "捐赠发生在以后，照片立刻能够使用",
+      "image": "bensinger",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "本辛格向阿克斯解释，无止境积累会掏空自己，捐出财富反而让人重新控制生活。阿克斯会面后让公开照片和加入Giving Oath的消息传播，再请斯蒂芙代拟捐赠宣言。瓦格斯看出公开形象能帮助球队竞购；阿克斯此时重视的是立即到来的标题效用。",
+      "analysis": "本辛格把誓言视作一项会改变未来生活的决定，阿克斯先把它作为别人判断自己的信号。两种动机可以在同一张照片中暂时相容，直到信号的接收者追问是否真的愿意履行。钱尚未捐出，信用却已先被用于竞购，公开形象与私人意愿之间的差距开始累积。",
+      "turn": "因此 → 慈善曝光一度改善竞购形势，也把阿克斯置于本辛格对承诺真实性的审视下。"
+    },
+    {
+      "id": "first-wave",
+      "act": "act2",
+      "lane": "law",
+      "where": "南区办公室 → 搜查Spartan-Ives",
+      "title": "用曾经嫌太小的案由，打开第二轮行动",
+      "image": "warrant-team",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "布莱恩查巴拿马文件没找到博伊德的资金，却发现凯特父亲的离岸账户；凯特说她知情，转移本身合法，但仍为父亲的言行差距失望。查克另要求按“报价填塞”线索申请并执行Spartan-Ives搜查令，把此前嫌难向陪审团解释的方向称作第一波进攻。",
+      "analysis": "查克不再要求第一步就完成最终起诉，而要让搜查改变双方接下来谈判的位置。对凯特父亲的发现则提醒检方，可疑外观不等于犯罪本身；职业与家庭的失望有另一套衡量。两条线都涉及钱，却需要不同的证明与回应，不能把不舒服直接升级成违法。",
+      "turn": "因此 → 搜查制造压力，查克准备让随后出现的退让更容易被博伊德相信。",
+      "detail": "配图为本集布莱恩与凯特的办案镜头，呈现执行这项指令的团队，不是搜查人员进入银行的精确帧。"
+    },
+    {
+      "id": "wilco-and-loss",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "Farpoint · 埃莱娜继续接受评估",
+      "title": "她想去远方，也一直避开牵绊",
+      "image": "elena",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "埃莱娜说自己不被家庭与亲密关系牵住，希望离开地球开辟新的生活。谈到Wilco成员之间的音乐默契与后来的分离，温迪追问她是否寻找过真正的伙伴。埃莱娜承认，自己担心关系变复杂后无法继续追求最热爱的事，因此选择不让关系发展到那一步。",
+      "analysis": "温迪没有把单身本身当成问题，关注的是面对不顺利时惯于离开的方式。关于伙伴的讨论也触到她自己的工作与婚姻处境，但本集没有让她把某段音乐关系直接对应到某一名男人。评估者正在听候选人的回答，同时也发现自己想怎样与人的复杂性相处。",
+      "turn": "因此 → 温迪重新衡量候选人的抗压经历，也开始明确自己不满足于只做筛选。"
+    },
+    {
+      "id": "false-peace",
+      "act": "act2",
+      "lane": "law",
+      "where": "监控录像 → 文学俱乐部 → 高尔夫球场",
+      "title": "让他相信可以收场，才看得见恢复的动作",
+      "image": "boyd-deal",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克看见父亲送来的戴克指认布莱恩的录像，暂不摊牌，转请布莱恩约博伊德会面。他示弱请求内部自查，接受对方提出交出中层人员的安排。查克又向父亲表示已经尽力、不再追博伊德；老查克随后以自己的信用向博伊德确认调查会结束。",
+      "analysis": "索取帮助使博伊德觉得自己重新拥有权力，而一场有中层人员承担代价的收场也符合他的需要。父亲只听到儿子的退让说法，便成为另一条可信保证；查克没有向他交代第二波行动。录像记录的是戴克指认而非布莱恩认罪，查克保留观察同僚的空间，与对博伊德的示弱同时进行。",
+      "turn": "因此 → 博伊德相信危险已过；稍后麦金农来电报告竞标操作恢复，检方重新获得观察入口。"
+    },
+    {
+      "id": "work-not-sort",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "Farpoint · 温迪向海德克交付意见",
+      "title": "她交出结论，也拒绝继续只交结论",
+      "image": "career-choice",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "温迪认为埃莱娜适合研究，却尚不适合任务：缺少真实逆境经验，风险在于遇到意外可能无法承受。她建议先拒绝并观察对方是否持续回来接受测试。交付这份判断后，她拒绝继续任筛选者，表示自己更喜欢参与人的改变，而非只把人分进不同类别。",
+      "analysis": "关于任务适配的结论是温迪的专业意见，剧中没有实际失事来验证。她对工作的选择则是清楚的行动：愿意承受关系中的混乱，帮助人改变，而不是保持安全距离替机构盖章。这没有自动把她送回旧公司，却解释了为什么接下来的真实求助仍会对她有吸引力。",
+      "turn": "因此 → 温迪保留独立选择，不承诺继续为Farpoint评估下一位候选人。"
+    },
+    {
+      "id": "sandicot-entry",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Axe Capital · 布鲁诺引荐的会面",
+      "title": "一个人情带进门，赌场才让交易留下",
+      "image": "sandicot",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "布鲁诺带侄子马可来向阿克斯介绍桑迪科特地区的困境债务与重建机会。阿克斯指出该地濒临违约，常规地产叙事不足以吸引自己；马可提到预期赌场计划才改变会面。阿克斯交泰勒核实与奥尔巴尼之间的牌照关系，不愿凭猜测投入资金。",
+      "analysis": "人情能使提案得到一次倾听，不能替代可计算的收益。赌场设想改变了债务与城市重建的想象空间，最关键的审批信息却还没有确认。阿克斯把这种可能同时有利于自己与当地的投入说成更能认同的给予，和先为形象筹划慈善的做法形成鲜明对应。",
+      "turn": "因此 → 团队开始核实博彩牌照渠道；本集没有展示牌照获批或债务投资已经完成。"
+    },
+    {
+      "id": "choose-reliance",
+      "act": "act3",
+      "lane": "cross",
+      "where": "Axe Capital → 温迪诊室 / 河边会面",
+      "title": "求助需要预约，留下需要自己选择",
+      "image": "wags",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "瓦格斯醒来才发现刺青，不记得如何发生，阿克斯把他送去温迪处。他承认真的需要帮助，她答应按正式预约接待。稍后布莱恩在戴克面前要求用证据证明指控，拒绝以抛弃查克换安全；此前麦金农报告操作恢复，也让他重新认可上司的方法。",
+      "analysis": "两名下属都在寻找可以依靠的关系，所作承诺却不同。瓦格斯终于不只把失控包装成笑话，温迪愿意帮但不恢复随叫随到。布莱恩以要求证明维护自己的选择，也把查克的办案能力作为留下的理由。恢复信心与事实证明仍不是同一回事，旧指认没有因此获得或失去证实。",
+      "turn": "因此 → 温迪的旧专业联系以新边界延续，布莱恩重新公开选择查克一边。"
+    },
+    {
+      "id": "deposition-and-oath",
+      "act": "act3",
+      "lane": "cross",
+      "where": "Axe Capital · 口头取证与休息电话",
+      "title": "被羞辱以后，他更不愿听律师的话",
+      "image": "deposition",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "艾拉询问损害时，阿克斯不肯公开账本，被逼回答是否在主张精神或情绪损害而要求暂停。休息中本辛格斥责他利用慈善，并告知NFL拒绝竞购，称他不是被接纳的贵族。阿克斯回到桌前，把失去球队归因查克，拒绝巴赫再休息的建议，坚持继续记录。",
+      "analysis": "开场预演教他在受触动时停下，他确实一度暂停，却因随后的羞辱更急于证明自己没有受伤。失去球队成为他新提出的金钱损害主张，不等于法律上已经成立的因果或赔偿。律师的谨慎与老板的自我判断在最后分开；誓言没有换来接纳，愤怒却重新获得进攻目标。",
+      "turn": "因此 → 本集止于取证继续，NFL机会已被拒绝，诉讼中这项新主张尚未获裁定。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "谁说自己已经准备好",
+      "deck": "飞船、球队、证据与模拟询问。",
+      "range": "01—04",
+      "summary": "温迪开始评估，阿克斯寻找接纳，查克发现案源断流；律师先让当事人练习停顿。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "看上去足够可信",
+      "deck": "慈善照片、搜查令与一场表面和解。",
+      "range": "05—08",
+      "summary": "公开承诺被用于竞购，查克以第一波压力安排第二波退让；温迪从从容外表中追问挫折经验。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "压力真的来了",
+      "deck": "职业边界、未核实的交易与最后一次拒绝暂停。",
+      "range": "09—12",
+      "summary": "温迪选择参与改变，桑迪科特进入核查，旧团队关系重新表态；取证休息带来NFL拒绝，阿克斯坚持继续。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "需要继续证明办案进展的联邦检察官",
+      "fact": "先搜查后示弱，以父亲转述的信用让博伊德放松，最后到场参加民事取证。",
+      "analysis": "懂得把别人的自保心理编入路径，也保留了自己对下属与父亲的真实判断。"
+    },
+    "axe": {
+      "role": "诉讼原告 / NFL竞购者",
+      "fact": "借慈善会面改善形象，推进取证，收到联盟拒绝后将球队损失归因于查克。",
+      "analysis": "想让外界相信自己已进入新阶段，却仍把拒绝转成更强的对抗冲动。"
+    },
+    "wendy": {
+      "role": "独立医生 / Farpoint评估顾问",
+      "fact": "否定埃莱娜当前适配性，拒绝持续只做筛选，要求求助的瓦格斯正式预约。",
+      "analysis": "重新确认愿参与人的复杂改变，同时维护不被旧组织随时调用的边界。"
+    },
+    "bryan": {
+      "role": "博伊德案检察官",
+      "fact": "担心案源中断，执行查克部署，听到操作恢复后重新表态支持上司。",
+      "analysis": "能力带来信心，却未直接消除他与戴克、查克之间尚未查清的信任问题。"
+    },
+    "wags": {
+      "role": "Axe Capital运营主管",
+      "fact": "长期失控并出现记忆空白，最终承认真需要温迪帮助。",
+      "analysis": "第一次把求助放在逞强之前，仍必须接受专业支持有时间与程序边界。"
+    },
+    "elena": {
+      "role": "Farpoint火星任务候选人",
+      "fact": "说明自己的能力与远行愿望，也承认避开复杂关系以免妨碍热爱。",
+      "analysis": "从容有真实基础，温迪担心的却是尚未经历的失败压力；本集没有验证这一预测。"
+    },
+    "bensinger": {
+      "role": "Giving Oath发起人",
+      "fact": "向阿克斯解释捐赠的意义，后识破照片利用并亲自告知NFL拒绝。",
+      "analysis": "拒绝让自己的信用只充当另一个人的声誉装置，誓言在他这里需要实际承担。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 每个人都在争取信任",
+      "note": "安全、适配与声誉仍是待检验的说法。",
+      "edges": [
+        "诉讼取证即将重逢",
+        "分居状态延续",
+        "各自寻找新工作方向"
+      ],
+      "details": {
+        "chuck": "既要保职，也要让案源继续。",
+        "axe": "把诉讼和竞购时间绑在一起。",
+        "wendy": "从建立关系开始评估候选人。",
+        "bryan": "担心线索断流后自己押错案件。",
+        "wags": "失控迹象已被身边人注意。",
+        "elena": "表现清晰、自信而缺少牵绊。",
+        "bensinger": "愿谈真实的捐赠承诺。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 保证开始发挥作用",
+      "note": "照片与退让先改变别人对风险的感觉。",
+      "edges": [
+        "用外观争夺主动",
+        "婚姻仍是彼此痛处",
+        "旧团队需求逐渐显露"
+      ],
+      "details": {
+        "chuck": "用搜查和示弱让博伊德相信可以收场。",
+        "axe": "把慈善宣言交人拟写，争取联盟好感。",
+        "wendy": "听见候选人对关系破裂的回避。",
+        "bryan": "在未被告知录像的情况下继续执行安排。",
+        "wags": "把慈善宣传看成竞购工具。",
+        "elena": "承认怕关系变复杂后无法继续前进。",
+        "bensinger": "自己的誓言被提前当作公开背书。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 真实压力检验承诺",
+      "note": "专业支持、职业忠诚与律师建议各有边界。",
+      "edges": [
+        "同室取证继续对抗",
+        "分居成为攻击话题",
+        "转介求助仍须预约"
+      ],
+      "details": {
+        "chuck": "得到恢复操作的报告，仍需继续取得证据。",
+        "axe": "失去球队，拒绝律师要求再暂停。",
+        "wendy": "愿帮助人改变，也不再随叫随到。",
+        "bryan": "当面要求戴克证明指控，选择继续留下。",
+        "wags": "答应像成年人一样预约。",
+        "elena": "被温迪建议先接受挫折测试，未见后续结果。",
+        "bensinger": "拒绝被利用，并告知联盟决定。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "restore-risk",
+      "title": "怎样让已经停止的操作重新出现？",
+      "intro": "查克先改变目标对危险的判断，麦金农随后才有机会继续观察。",
+      "nodes": [
+        {
+          "name": "公开调查",
+          "role": "竞标操作停止",
+          "portrait": null,
+          "scene": "faucet-off"
+        },
+        {
+          "name": "搜查与示弱",
+          "role": "先加压再提出收场",
+          "portrait": "chuck",
+          "scene": "first-wave"
+        },
+        {
+          "name": "父亲信用保证",
+          "role": "博伊德相信已经脱险",
+          "portrait": null,
+          "scene": "false-peace"
+        },
+        {
+          "name": "麦金农报告",
+          "role": "操作恢复，继续观察",
+          "portrait": null,
+          "scene": "false-peace"
+        }
+      ],
+      "result": "本集明确的是麦金农来电称操作恢复；仍需让后续证据承担金融犯罪指控。"
+    },
+    {
+      "id": "oath-to-bid",
+      "title": "一次慈善承诺，为什么没能换来球队？",
+      "intro": "阿克斯试图先使用誓言的公开信用，再处理履行安排。",
+      "nodes": [
+        {
+          "name": "库班提醒",
+          "role": "需要改变接纳印象",
+          "portrait": null,
+          "scene": "change-image"
+        },
+        {
+          "name": "本辛格会面",
+          "role": "讨论给予与控制自己",
+          "portrait": "bensinger",
+          "scene": "giving-headlines"
+        },
+        {
+          "name": "公开照片和宣言",
+          "role": "服务于眼前竞购",
+          "portrait": "axe",
+          "scene": "giving-headlines"
+        },
+        {
+          "name": "休息时来电",
+          "role": "被斥利用，联盟拒绝",
+          "portrait": null,
+          "scene": "deposition-and-oath"
+        }
+      ],
+      "result": "捐赠与声誉不能只靠传播等同；本集没有显示慈善资产已经完成交割。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I like getting messy.",
+      "zh": "我喜欢进入那些复杂混乱之中。",
+      "speaker": "温迪 → 海德克",
+      "context": "交付评估后，她解释自己为什么不想继续只做筛选。",
+      "image": "messy-work",
+      "analysis": "她要参与关系中的改变，接受过程的不整齐，也保留决定为谁工作、何时工作的权利。"
+    },
+    {
+      "en": "I need help.",
+      "zh": "我需要帮助。",
+      "speaker": "瓦格斯 → 温迪",
+      "context": "他来到新诊室承认真实求助；配图为同场温迪在门口的反应。",
+      "image": "appointment",
+      "analysis": "直说需要让逞强暂时停下，但专业支持并不等于立刻插队或随叫随到。"
+    },
+    {
+      "en": "You're not royalty.",
+      "zh": "你不是贵族。",
+      "speaker": "本辛格 → 阿克斯（电话）",
+      "context": "取证休息时，他告知NFL拒绝，并把球队所有权比作美国的授爵。配图为同场接听电话的阿克斯。",
+      "image": "oath-call",
+      "analysis": "最高报价不能单独决定谁被承认为自己人，这正击中阿克斯试图用钱排除的拒绝。"
+    },
+    {
+      "en": "I keep my own counsel.",
+      "zh": "我自己拿主意。",
+      "speaker": "阿克斯 → 巴赫",
+      "context": "收到拒绝后返回取证桌，律师建议休息，他坚持继续。",
+      "image": "deposition",
+      "analysis": "原本能限制风险的专业关系，被当事人的愤怒重新推开。"
+    }
+  ],
+  "comparison": {
+    "title": "从容，是经历过压力还是避开过压力？",
+    "deck": "一场心理评估与一次口头取证，都不能只看准备时的姿态。",
+    "left": {
+      "image": "elena",
+      "caption": "埃莱娜谈到自己避开复杂关系的原因。",
+      "speaker": "温迪评估埃莱娜",
+      "title": "有能力，还需要看怎样面对不顺利",
+      "text": "候选人表达完整、目标清晰；温迪仍判断缺少逆境经验，建议以实际挫折继续测试。"
+    },
+    "right": {
+      "image": "rehearsal",
+      "caption": "巴赫预演询问，阿克斯险些直接否认敏感事实。",
+      "speaker": "巴赫提醒阿克斯",
+      "title": "有把握，还需要知道什么时候停",
+      "text": "律师不要求他变得无所畏惧，而是准备受触动时的暂停办法；结尾他却拒绝再用。"
+    },
+    "rows": [
+      {
+        "label": "最初外观",
+        "left": "能力突出、从容、目标坚定",
+        "right": "坚信没人能让自己失去控制"
+      },
+      {
+        "label": "需要观察",
+        "left": "真实失败之后是否仍能继续",
+        "right": "敏感问题触到自尊时是否听从建议"
+      },
+      {
+        "label": "本集边界",
+        "left": "评估意见尚未由未来任务验证",
+        "right": "已暂停一次，受辱后又坚持继续"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "承认会受影响，才可能安排怎样继续",
+      "text": "温迪的筛选是否准确，留待故事之外的未来；巴赫的提醒已经在眼前提供行动办法。两条线共同提出的问题不是谁能保证永远不崩溃，而是谁愿意承认压力会改变自己，并为那个时刻准备可用的支持。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "第一波与第二波",
+      "fact": "查克重启此前嫌太小的搜查方向，再向博伊德请求一场体面收场；麦金农随后报告竞标恢复。",
+      "analysis": "第一步的作用不是马上取胜，而是使接下来的让步更可信。对手感到重新有选择时，警觉才下降；这种布局并不替代最终证据。",
+      "steps": [
+        "先施加压力",
+        "再接受收场",
+        "等待行为恢复"
+      ]
+    },
+    {
+      "title": "两位父亲的信用",
+      "fact": "凯特说父亲离岸避税合法，仍因其自称从不回避而失望；老查克则用自己信任的儿子说法替调查结束作保证。",
+      "analysis": "家庭信任不只是一种安慰，也会改变外人愿意相信什么。查克劝凯特保护父女关系，同时在自己的行动中保留了对父亲的信息差。",
+      "steps": [
+        "发现言行落差",
+        "保留部分信息",
+        "亲情成为保证"
+      ]
+    },
+    {
+      "title": "劳拉说自己是生意人",
+      "fact": "劳拉拒绝丈夫替她打电话劝退对手，转找旧街区熟人安排一名女子；对手随后因涉组织卖淫上新闻，她只向丈夫重申自己会做生意。",
+      "analysis": "镜头把私下安排与新闻相连；警方通报的是指控，影片没有展示对手此前怎样经营这类活动。劳拉争取独立处理竞争，也把伤害竞争者当成可以接受的成果，阿克斯的赞许延续了夫妻共同的控制逻辑。",
+      "steps": [
+        "拒绝代为处理",
+        "动用旧关系",
+        "新闻带来结果"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "act3",
+    "leftImage": "recording",
+    "leftCaption": "查克看到戴克指认布莱恩的录像，暂不向下属摊牌。",
+    "rightImage": "bryan-choice",
+    "rightCaption": "稍后布莱恩面对戴克，要求其证明指控并表明继续支持查克。",
+    "kicker": "WHAT THE OTHER PERSON KNOWS",
+    "title": "他重新表态，却不知道上司已经看过什么",
+    "text": "同一关系中的两个人掌握不同信息。布莱恩的当面选择是真实发生的行为，查克看过的录像也是真实存在的记录；记录里仍只有戴克指认。两者都影响信任，尚不能被拼成举报过程已经查清的结论。",
+    "scene": "choose-reliance"
+  },
+  "closing": {
+    "image": "deposition",
+    "kicker": "BACK ON THE RECORD",
+    "value": "CONTINUE",
+    "title": "誓言没有换来接纳\n他选择继续记录",
+    "text": "巴赫提醒他听律师，阿克斯答自己拿主意。本集结束在继续取证的要求上：球队竞购已被拒绝，损害归因尚未被裁定，慈善誓言的信用却已用掉。准备好的答案之外，真正留下来的是人在受压时作出的选择。"
+  }
+}

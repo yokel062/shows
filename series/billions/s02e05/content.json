@@ -1,0 +1,707 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 5,
+  "title": "Currency",
+  "chineseTitle": "连胜的货币",
+  "subtitle": "奈拉交易、国债录音与一次被拒绝的辞职，汇入同一个电视演播室。",
+  "hero": "studio",
+  "heroTitle": "每一种信任\n都有兑现的时刻",
+  "heroDeck": "三天，抹掉一个亏损季度。\n一次访谈，把朋友留在镜头前。",
+  "openingTitle": "如果不能承认会输，谁来承担代价？",
+  "openingFact": "瓦格斯清醒地重回办公室，阿克斯却不让他先开口。叙事退回四十八小时前：手机供应链出问题，基金季度回报降到负 2.3%，只剩三天翻身。",
+  "openingReading": "阿克斯把连胜视为公司真正的货币。为了守住它，他需要同行相信自己的决心、开发商透露地点，以及一个即将被捕的人继续替市场发声。",
+  "stamp": {
+    "value": "−2.3%",
+    "label": "THREE DAYS LEFT",
+    "note": "这是危机起点的季度回报，不是本集结算收益。"
+  },
+  "storyTitle": "把时间变成筹码",
+  "storyDeck": "奈拉交易、国债录音与一次被拒绝的辞职，汇入同一个电视演播室。",
+  "intro": "本集先给出瓦格斯归来的结果，再回看阿克斯如何度过四十八小时。公司、婚姻与调查都围绕信任运转：有人试着承认失败，有人必须使所有人相信自己永远有答案。",
+  "catalogueIntro": "阿克斯要在三天内挽回负收益，奈拉交易迫使他联合旧敌；查克耐心等待一段国债操纵录音。瓦格斯与温迪的会谈，则提出另一种可能：承认人的有限，是否真的会失去价值？",
+  "spoiler": "只剧透 S02E05《Currency》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S02E05 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e05",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 5 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S02E05 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun with Damian Lewis · Currency 对照评论",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17841",
+      "note": "已阅读第二篇评论，辅助核对“货币”、婚姻与瓦格斯线；人物动机仍以播出对白和动作作区分。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "不能跌破的数字",
+      "deck": "回溯四十八小时，找出谁愿意相信谁。",
+      "range": "01—04",
+      "summary": "亏损让阿克斯寻找能立刻发动的交易；查克发现，逼合作证人更快行动未必更有效。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "每一份保证都另有条件",
+      "deck": "结盟、报复与秘密地点，让信息本身产生价格。",
+      "range": "05—08",
+      "summary": "奈拉联盟遭背叛，赌场消息换来台面之外的利益；检方终于录到博伊德对操纵国债拍卖的承认。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "把人留在需要的位置",
+      "deck": "从瓦格斯的回归，走到博伊德的离场。",
+      "range": "09—12",
+      "summary": "温迪帮助瓦格斯看见转变的可能，阿克斯却把他重新留住；同样需要博伊德时，阿克斯选择延迟告知危险。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "three-days",
+      "act": "act1",
+      "lane": "capital",
+      "where": "办公室 → 四十八小时前",
+      "title": "连胜被当成唯一不能贬值的资产",
+      "image": "floor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "瓦格斯归来想谈大事，阿克斯先讲自己如何苦撑；画面随即退回四十八小时前。桑索米克屏幕故障拖累四十万部手机交付，基金季度回报降到负 2.3%。阿克斯拒绝粉饰持仓，也拒绝斯蒂芙提出的接受亏损，命令团队在三天内找到翻盘办法。",
+      "analysis": "他愤怒的对象不只是亏损金额，还有“永远知道答案”的形象可能破裂。斯蒂芙相信承认有限能够建立信任，阿克斯却认为连胜一断，公司全部信用都会受损。开场让瓦格斯先沉默，随后才解释这场危机，也把谁有资格占用时间变成了权力的一部分。",
+      "turn": "因此 → 寻找短期交易的任务压过了其他人承认疲惫与失败的空间。"
+    },
+    {
+      "id": "marriage-suit",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "夫妻治疗室",
+      "title": "一套西装背后的不安全感",
+      "image": "therapy",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪在夫妻治疗中抱怨查克连朋友聚餐都穿正式西装，觉得他时时强调联邦检察官身份。查克承认自己担心旁人不理解她为何选择自己，想用衣着补足落差。温迪说此前并不知道他这样想；这次会谈呈现脆弱，却没有宣布婚姻已经修复。",
+      "analysis": "查克给出的解释把争执从地位炫耀转向个人自卑，但它仍是他对自己行为的陈述，不能替所有过往控制欲开脱。稍后他向孩子承担分居责任，没有让孩子把错归给母亲，这个可见行动为治疗室里的坦白增加了一点分量；改变仍须在日常关系中兑现。",
+      "turn": "因此 → 夫妻第一次听见一层新的解释，彼此的隔阂却仍需要具体行动化解。"
+    },
+    {
+      "id": "naira-research",
+      "act": "act1",
+      "lane": "capital",
+      "where": "家中露台 → 银行圈",
+      "title": "研究正确，还需要足够多的钱",
+      "image": "lobster",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "黛布转述马菲藏着的线索，阿克斯因此约见货币交易员埃弗里特。埃弗里特称尼日利亚央行行长透露将贬值奈拉，大规模做空可以提前触发。博伊德不愿让银行卷入对一国政府的攻击，却愿牵线其他富有的基金经理，为这笔跨机构交易寻找资金。",
+      "analysis": "埃弗里特把官方意向、产业判断和交易者施压连成一个方案；央行行长的话仍来自他的口述，正式政策尚未发布。博伊德的拒绝也划出机构边界：银行需要维护主权客户关系，私人资本却能承担另一类声誉风险。线索能否兑现，取决于谁肯共同下注。",
+      "turn": "因此 → 阿克斯必须让旧敌相信共同赚钱比报复自己更划算。"
+    },
+    {
+      "id": "time-trap",
+      "act": "act1",
+      "lane": "law",
+      "where": "检察官办公室",
+      "title": "查克让证人自己想要回来",
+      "image": "chuck-desk",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "麦金农第一次戴监听器接近阿伦特，笨拙谈起操纵国债后惊慌退出，把设备还给检方。查克没有追出去，告诉布莱恩让这件事继续折磨他。麦金农随后主动通知将与博伊德夫妇聚餐，检方才协调联邦调查局布置监听；查克先前说的狩猎陷阱原来是时间。",
+      "analysis": "这里的耐心不是放弃取证，而是利用合作证人既害怕又不甘心的处境。查克不需要替麦金农制造每一个动作，只需留下一个能重返调查的入口。他对凯特的狩猎故事解释了方法，也提醒我们：证人的“主动”仍发生在法律压力与私人怨恨共同构成的环境里。",
+      "turn": "因此 → 勉强的一次套话，转成证人主动提供的私人饭局机会。"
+    },
+    {
+      "id": "five-billion",
+      "act": "act2",
+      "lane": "capital",
+      "where": "小餐馆",
+      "title": "五十亿美元，是门槛而非利润",
+      "image": "diner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "博伊德促成克拉科、马尔弗恩和伯奇赴约。阿克斯解释，要迫使奈拉贬值必须形成五十亿美元的做空规模：自己出二十亿，其余三人各十亿。同行点破他急于挽救季度业绩；他索性承认需要他们，要求他们在报复旧敌与自身利益之间选择。",
+      "analysis": "餐馆让不同身份的人短暂坐在同一张桌边，却没有抹平旧账。阿克斯能提供研究和执行，同行能提供发动压力所需的资本；所以这不是单方面赏赐赚钱机会。他承认自己的需要，是策略上有限的让步：只要共同利益足够强，彼此厌恶仍可能支撑一次合作。",
+      "turn": "因此 → 联盟达成初步承诺，但资金计划依赖每个人确实按同一方向交易。"
+    },
+    {
+      "id": "birch-reversal",
+      "act": "act2",
+      "lane": "capital",
+      "where": "公司 · 连续电话与会面",
+      "title": "过去的替罪羊，把交易方向反过来",
+      "image": "phone",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "银行获悉做空计划，尼日利亚准备加息防守。伯奇亲口告诉阿克斯，自己因旧案报复而反向押注，并把消息透出去。阿克斯已接下伯奇原定份额，又向想退出的两人提出包下其仓位；两人被他的决心说服留下。埃弗里特建议再找有公信力的人公开预测贬值。",
+      "analysis": "报复不是阿克斯凭空猜测，伯奇在电话中明确承认了反向交易与泄密。阿克斯对另两人的报价仍是愿意接盘的承诺；他们最终留下，五十亿美元并未全部转到他一人肩上。联盟暂时稳住之后，他还需要外界跟进；“独立判断”的权威外观，将由有利益联系的博伊德来提供。",
+      "turn": "因此 → 阿克斯把市场说服的最后一环，押在博伊德的电视发言上。"
+    },
+    {
+      "id": "casino-price",
+      "act": "act2",
+      "lane": "capital",
+      "where": "公司 → Momofuku Ko",
+      "title": "赌场地点，要用台面外的利益交换",
+      "image": "thayer",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒判断，没有赌场，桑迪科特的城市改造既不够快也不够大，市政债就不值得买。阿克斯约见赌场开发商塞耶，送出一辆自己竞拍得来的汽车，并答应让对方获得债券交易百分之五、无风险且不记账的利益。塞耶称官方决定尚待委员会公布，但已得到肯定信号；阿克斯随即下令推进。",
+      "analysis": "泰勒给出的是清晰条件，阿克斯随后购买的是满足条件的信息。塞耶把未公布的意向说得很确定，阿克斯又将这种确定性传给团队；承诺每传一层，政治程序中的剩余风险就更不显眼。这里尚无赌场正式获批的画面或文件，确定的是阿克斯选择按这份保证投入。",
+      "turn": "因此 → 一项仍待公布的决定，被阿克斯转成了公司可以执行的指令。"
+    },
+    {
+      "id": "dinner-wire",
+      "act": "act2",
+      "lane": "law",
+      "where": "Ai Fiori · 私人晚餐",
+      "title": "差点失控的饭局，留下了录音",
+      "image": "wire",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "麦金农在晚餐中喝酒、嫉妒博伊德与妻子调情，监听团队担心暴露，查克仍决定继续。两位妻子因泼洒的酒离席后，麦金农追问阿伦特操纵国债的风险。博伊德说是自己命他重组团队，并谈到十年期拍卖十五个基点及之后的二十六周国库券；检方确认录到了所需内容。",
+      "analysis": "证据来自被监听者自己的具体指令，而非把饭桌上的傲慢当作犯罪证明。查克冒着证人失控的风险等待私人谈话窗口，恰好与阿克斯需要博伊德继续发声的时钟并行。另一边戴克正在向奥勒德汇报对朗尼的突破方向，但本集没有因此直接给出查克被定罪的结论。",
+      "turn": "因此 → 国债调查获得指向博伊德本人的话语证据，抓捕进入可推进的阶段。"
+    },
+    {
+      "id": "wags-pivot",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "办公室 · 嵌入瓦格斯的回忆",
+      "title": "温迪让他重新站起，阿克斯拒绝让他离开",
+      "image": "wags-return",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "叙事回到开场。瓦格斯向阿克斯回述温迪如何到酒店找到他，再在公园追问失序的起点：导师患病与斯蒂芙的到来，使他害怕自己失去用途。温迪劝他转变；瓦格斯因而打算辞职。阿克斯却说已解雇斯蒂芙，公司仍需要他，拒绝这次辞呈。",
+      "analysis": "温迪的工作目标是让瓦格斯不再把自我价值完全系在旧角色上；阿克斯需要的则是熟悉的忠诚伙伴。他对瓦格斯说“我是一台机器”，与斯蒂芙此前允许他做一个会输的人正面相撞。瓦格斯被需要的感觉得到修复，是否真正完成他想要的转变，本集没有替他作答。",
+      "turn": "因此 → 阿克斯把瓦格斯留住，也选择了自己更熟悉的管理方式。"
+    },
+    {
+      "id": "lara-validation",
+      "act": "act3",
+      "lane": "cross",
+      "where": "夫妻卧室 · 回看白天的银行会面",
+      "title": "她要外部认可，他只给了内部判分",
+      "image": "lara-bed",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "夜里劳拉责怪阿克斯安排的银行会面浪费时间：对方把机会说成给博伊德和丈夫的面子，让她觉得仍只被当作妻子。白天银行家实际曾表示可以安排见投资者，并未明确拒绝。阿克斯则说她的输液服务缺乏独有技术与清晰市场，没有准备好融资；争执没有得到解决。",
+      "analysis": "劳拉要验证的是自己能否独立创造价值，阿克斯回答的却是一个由他判定的商业准备度。这些财务判断可能有道理，但不能替代她对会面被私人关系定义的不满。与夫妻治疗相照，这场对话缺少停下来承认对方感受的一步；提供机会并不自动等于给予尊重。",
+      "turn": "因此 → 夫妻对同一次“帮忙”的理解分开，阿克斯的胜负逻辑进入家庭。"
+    },
+    {
+      "id": "boyd-on-air",
+      "act": "act3",
+      "lane": "capital",
+      "where": "电视台 · 上镜前后",
+      "title": "他知道朋友会被捕，却先让访谈播完",
+      "image": "boyd-studio",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "博伊德准备上电视预测奈拉贬值。上镜前，巴赫通知阿克斯，法官已签博伊德的逮捕令，联邦调查局即将到场。阿克斯没有立刻告诉朋友，让他完成公开表态，随后才告知危险，并承认自己需要这番话来保住季度表现。市场开始朝做空方期待的方向变化。",
+      "analysis": "这段场景必须保留知情先后：阿克斯在访谈前已知危险，博伊德在发言后才知道。这让之前互相帮忙的人情变成了被单方面动用的信用。行情变化支持交易策略开始奏效，但画面没有提供最终季度净收益或已实现利润，不能把市场反应写成一份完成的业绩结算。",
+      "turn": "因此 → 博伊德的公开信誉兑现为市场影响力，他本人却失去了及时准备的机会。"
+    },
+    {
+      "id": "boyd-arrest",
+      "act": "act3",
+      "lane": "cross",
+      "where": "电视台 · 演播室外",
+      "title": "同一扇门前，两个人各自完成一步",
+      "image": "studio",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "博伊德得知阿克斯的选择后，要求律师尽快通知家人，免得他们先从新闻看到。查克亲自到电视台，与联邦调查局完成抓捕，在演播室外碰上阿克斯。两人以预兆互相试探后分开；查克最后独自吃三明治。博伊德被捕是调查进展，并不等于已经接受审判并定罪。",
+      "analysis": "阿克斯得到了自己需要的发言，查克得到了自己等待的目标；两种耐心在博伊德离场时汇合。两人的胜利都依赖第三个人站在正确位置，但只有阿克斯刻意扣住了对朋友至关重要的消息。结尾让对手彼此看见成果，也让这一轮成功保留了明显的人际代价。",
+      "turn": "因此 → 交易与调查暂时各有进展，朋友之间的互惠却被重新计价。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "联邦检察官",
+      "fact": "等待麦金农重返监听，靠饭局录音推动博伊德被捕；在治疗与孩子面前承认自己的不安和过错。",
+      "analysis": "他懂得把时间变成取证工具；家庭里承认不完美的动作，则与阿克斯拒绝亏损形成另一条对照。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人",
+      "fact": "在负 2.3% 的季度压力下组织奈拉做空联盟，推进桑迪科特债券，并让博伊德在不知逮捕令的情况下完成访谈。",
+      "analysis": "他把连胜当成信用基础，因此不断借用别人愿意相信他的部分；成功与损耗在同一天发生。"
+    },
+    "wendy": {
+      "role": "绩效心理顾问 / 查克分居中的妻子",
+      "fact": "与查克参与夫妻治疗；通过瓦格斯回述呈现她对其失序的干预，帮助他寻找转变方向。",
+      "analysis": "她的作用不在替公司制造新交易，而在区分一个人的价值与其暂时承担的角色；她仍未回到公司工作。"
+    },
+    "wags": {
+      "role": "阿克斯的经营伙伴",
+      "fact": "带着辞职打算回到办公室，回述温迪帮助自己理解导师患病和被取代恐惧的过程，最后被阿克斯留住。",
+      "analysis": "重新被需要缓解了危机；这种安定是否也是重新依附旧角色，值得保留为解读而非诊断。"
+    },
+    "boyd": {
+      "role": "Spartan-Ives 银行负责人",
+      "fact": "替阿克斯牵线同行并安排劳拉会面，上电视预测奈拉贬值；国债监听则把检方带到他本人面前。",
+      "analysis": "他为别人提供人脉与权威，却没得到朋友及时告知危险的回报；本集落点是被捕，非定罪。"
+    },
+    "lara": {
+      "role": "输液服务创业者 / 阿克斯的妻子",
+      "fact": "希望外部融资验证自己的公司，因银行会面的丈夫关系标签感到受轻视，与阿克斯争执。",
+      "analysis": "她寻求独立评价；阿克斯用商业条件回应，双方谈论的认可并不完全是同一件事。"
+    },
+    "everett": {
+      "role": "货币交易员",
+      "fact": "经马菲的线索来到阿克斯家，提供奈拉研究并加入公司；联盟泄密后建议寻找公开预测贬值的权威人物。",
+      "analysis": "他的方案需要资金、时机与市场叙事共同成立，经济研究正确并不意味着交易会自动获利。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 需要别人的答案",
+      "note": "亏损和关系裂缝使三位核心人物采用不同的求助方式。",
+      "edges": [
+        "博伊德案继续取证",
+        "治疗中承认不安",
+        "离开公司 / 影响仍在"
+      ],
+      "details": {
+        "chuck": "让麦金农暂退，等待他愿意重返监听。",
+        "axe": "拒绝接受亏损，转向埃弗里特的货币方案。",
+        "wendy": "听到查克对婚姻的不安全感。",
+        "wags": "开场归来，辞职意图暂未说出口。",
+        "boyd": "不直接投资，愿为阿克斯介绍其他资本。",
+        "lara": "要求真实融资，希望获得外部认可。",
+        "everett": "带来必须联合多家资金的奈拉研究。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 保证开始流通",
+      "note": "结盟、传话与监听分别把个人信誉转为可操作的资源。",
+      "edges": [
+        "录音逼近博伊德",
+        "坦白尚待日常兑现",
+        "通过瓦格斯形成间接联系"
+      ],
+      "details": {
+        "chuck": "顶住证人失控风险，让监听继续。",
+        "axe": "承接伯奇份额并稳住其余盟友，购买赌场地点消息。",
+        "wendy": "在瓦格斯回述的会谈里帮助他看见被取代恐惧。",
+        "wags": "理解失序起点，准备从旧角色转身。",
+        "boyd": "在私宴承认指令，仍不知道录音已进入检方。",
+        "lara": "银行会面被人情关系定义，独立验证的期待落空。",
+        "everett": "承认局势已变，提出借用权威发言吸引市场跟进。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 信用兑现之后",
+      "note": "两位对手都拿到进展，付出代价的人留在镜头里。",
+      "edges": [
+        "演播室外正面相逢",
+        "分居继续 / 承认自身过错",
+        "她帮人转变 / 他把人留住"
+      ],
+      "details": {
+        "chuck": "亲赴电视台抓捕博伊德，但未在本集完成定罪。",
+        "axe": "先让博伊德发言后告知逮捕令，拒绝瓦格斯辞职。",
+        "wendy": "专业干预经瓦格斯转述得到确认，尚未回公司。",
+        "wags": "得知斯蒂芙已被解雇，接受重新留下的位置。",
+        "boyd": "看清朋友扣住消息，要求先通知家人后面对抓捕。",
+        "lara": "与丈夫对融资准备度的争执未解决。",
+        "everett": "公开预测进入交易链，最终季度利润未被本集结算。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "naira-chain",
+      "title": "奈拉做空，怎样从研究走到公开话语？",
+      "intro": "这条链分别记录研究、资金承诺与市场叙事，不把任何一步写成必然收益。",
+      "nodes": [
+        {
+          "name": "埃弗里特",
+          "role": "提供研究与政策口述",
+          "portrait": "everett",
+          "scene": "naira-research"
+        },
+        {
+          "name": "博伊德 → 同行",
+          "role": "介绍能投入私人资本的人",
+          "portrait": "boyd",
+          "scene": "five-billion"
+        },
+        {
+          "name": "阿克斯",
+          "role": "稳住盟友并安排权威发声",
+          "portrait": "axe",
+          "scene": "birch-reversal"
+        },
+        {
+          "name": "博伊德上电视",
+          "role": "公开预测贬值",
+          "portrait": "boyd",
+          "scene": "boyd-on-air"
+        }
+      ],
+      "result": "公开发言为交易增加市场压力；它既非独立无利益的意见，也不等于本集已给出最终回报。"
+    },
+    {
+      "id": "wire-chain",
+      "title": "查克怎样等到博伊德亲口说出指令？",
+      "intro": "证人先退出再主动回来，取证窗口才真正打开。",
+      "nodes": [
+        {
+          "name": "麦金农",
+          "role": "第一次套话失败并归还设备",
+          "portrait": null,
+          "scene": "time-trap"
+        },
+        {
+          "name": "查克",
+          "role": "不追逼，等待重新联系",
+          "portrait": "chuck",
+          "scene": "time-trap"
+        },
+        {
+          "name": "私人晚餐",
+          "role": "录下博伊德对操纵的说明",
+          "portrait": "boyd",
+          "scene": "dinner-wire"
+        },
+        {
+          "name": "查克 / FBI",
+          "role": "凭调查进展实施抓捕",
+          "portrait": "chuck",
+          "scene": "boyd-arrest"
+        }
+      ],
+      "result": "录音推动调查，逮捕令随后签发。巴赫在博伊德上镜前已经通知阿克斯；演播室外的相逢，是两条提前运行的时间线终于交汇。"
+    },
+    {
+      "id": "usefulness",
+      "title": "“需要你”究竟让一个人自由，还是留下？",
+      "intro": "温迪的会谈由瓦格斯回述，叙事中的回忆已经明确标出。",
+      "nodes": [
+        {
+          "name": "瓦格斯",
+          "role": "把导师衰退投射到自身用途",
+          "portrait": "wags",
+          "scene": "wags-pivot"
+        },
+        {
+          "name": "温迪",
+          "role": "鼓励转变并重新理解价值",
+          "portrait": "wendy",
+          "scene": "wags-pivot"
+        },
+        {
+          "name": "瓦格斯",
+          "role": "带着辞职意图回到公司",
+          "portrait": "wags",
+          "scene": "wags-pivot"
+        },
+        {
+          "name": "阿克斯",
+          "role": "以公司需要他拒绝辞呈",
+          "portrait": "axe",
+          "scene": "wags-pivot"
+        }
+      ],
+      "result": "他得到了明确的认可；这份认可同时把他重新放回老板熟悉的位置。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Trust can be built on fallibility.",
+      "zh": "信任也可以建立在会犯错之上。",
+      "speaker": "斯蒂芙",
+      "context": "团队讨论亏损，斯蒂芙主张接受人的有限。",
+      "image": "steph",
+      "analysis": "这不是一份收益策略，而是与阿克斯的信用观竞争的另一种管理原则。"
+    },
+    {
+      "en": "The trap was time.",
+      "zh": "陷阱就是时间。",
+      "speaker": "查克",
+      "context": "麦金农重新联系后，查克点破自己先前的狩猎故事。",
+      "image": "chuck-desk",
+      "analysis": "他没有制造证人的全部欲望，而是等待恐惧与怨恨把证人带回来。"
+    },
+    {
+      "en": "it is time to pivot.",
+      "zh": "是时候转变方向了。",
+      "speaker": "温迪",
+      "context": "瓦格斯回述公园会谈：仍然活着，就仍能改变。",
+      "image": "wendy-park",
+      "analysis": "同一个转向词，在这里改变的是人如何理解自己，并非资产交易方向。"
+    },
+    {
+      "en": "I am a machine.",
+      "zh": "我是一台机器。",
+      "speaker": "阿克斯",
+      "context": "留住瓦格斯时，阿克斯反驳斯蒂芙之前对他的劝告。",
+      "image": "wags-return",
+      "analysis": "这份自我定义解释了他为何很难接受亏损，也解释了他为何要把熟悉的伙伴留在身边。"
+    }
+  ],
+  "comparison": {
+    "title": "承认不完美，会让谁失去权威？",
+    "deck": "治疗室与办公室都出现了脆弱；接受它的人和拒绝它的人，走向不同的关系动作。",
+    "left": {
+      "image": "therapy",
+      "caption": "本集夫妻治疗截图；查克解释正式衣着背后的不安全感。",
+      "speaker": "查克 → 温迪",
+      "title": "我担心别人不知道你为何选择我。",
+      "text": "他把原先显得自负的行为说成自卑的保护。此后向孩子承担分居责任，为这番话提供了一个可以观察的行动，但婚姻仍未修复。"
+    },
+    "right": {
+      "image": "wags-return",
+      "caption": "本集办公室截图；阿克斯拒绝瓦格斯辞职。",
+      "speaker": "阿克斯 → 瓦格斯",
+      "title": "我不会像人一样接受一个坏季度。",
+      "text": "斯蒂芙允许失败，他却将自己定义成机器，解雇她并留住熟悉的伙伴。承认需要瓦格斯，并没有使他同时接受自己的有限。"
+    },
+    "rows": [
+      {
+        "label": "害怕失去什么",
+        "left": "在伴侣与旁人眼里的价值",
+        "right": "公司始终知道答案的信誉"
+      },
+      {
+        "label": "说出的答案",
+        "left": "暴露一层不安全感",
+        "right": "拒绝承认会输的人性"
+      },
+      {
+        "label": "实际后续动作",
+        "left": "在孩子面前承担错误",
+        "right": "辞退斯蒂芙，拒收辞呈"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "脆弱能否被听见，决定了信任如何继续。",
+      "text": "本集没有把坦白等同于改过，也没有把交易成功等同于关系健康。温迪可以帮助别人重新解释自我，但最后是否给这种变化留下位置，仍取决于各段关系中的人如何回应。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "时间",
+      "fact": "季度只剩三天；查克却以等待换来重新开启的监听机会。",
+      "analysis": "同一种资源，一边被压缩成必须立刻翻盘的压力，另一边被当作让证人主动回来的工具。",
+      "steps": [
+        "三天翻盘",
+        "等证人回来",
+        "访谈前后"
+      ]
+    },
+    {
+      "title": "有用途的人",
+      "fact": "瓦格斯怕被斯蒂芙取代；博伊德的权威则在被捕前仍能为交易提供作用。",
+      "analysis": "瓦格斯因为被需要而留下，博伊德因为仍有用而被延迟告知；需要一个人与尊重一个人的选择，并不天然相同。",
+      "steps": [
+        "被取代的恐惧",
+        "重新被需要",
+        "最后一次发声"
+      ]
+    },
+    {
+      "title": "把保证变成指令",
+      "fact": "埃弗里特转述央行行长意向，塞耶转述委员会肯定信号，阿克斯将后者转成买债决定。",
+      "analysis": "信息在传递中越来越肯定；本集要求区分人物确信、正式公布与实际成交，不能用同一个“已确定”概括。",
+      "steps": [
+        "口头消息",
+        "私人保证",
+        "下令执行"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "studio",
+    "kicker": "CREDIT COMES DUE",
+    "value": "TIME",
+    "title": "一个人赢得了时间。\n另一个人失去了准备。",
+    "text": "查克等到了博伊德的录音，阿克斯等到了博伊德的访谈。前者把调查推进到抓捕，后者把朋友的信用留到对自己最有利的一刻。演播室外的相逢，是两种策略的交点；季度最终收益与案件判决，都还没有在本集落定。"
+  },
+  "images": [
+    {
+      "file": "assets/floor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot23.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "阿克斯在交易区向团队要求短期翻盘方案",
+      "caption": "本集交易区截图：斯蒂芙与交易团队听阿克斯谈季度危机；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1562,
+      "height": 870
+    },
+    {
+      "file": "assets/therapy.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot19.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "温迪与查克坐在治疗室沙发两端",
+      "caption": "本集夫妻治疗截图：西装争执转为对关系不安全感的坦白；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1350,
+      "height": 830
+    },
+    {
+      "file": "assets/lobster.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot14.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "阿克斯在露台与埃弗里特共进龙虾午餐",
+      "caption": "本集午餐截图：埃弗里特向阿克斯说明奈拉交易；取宽景保留私人招待环境；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1600,
+      "height": 808
+    },
+    {
+      "file": "assets/chuck-desk.webp",
+      "originalUrl": "https://simkl.in/episodes/54/54415904aaccdb403_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "alt": "查克在办公室与麦金农谈话",
+      "caption": "本集办公室截图：麦金农将监听行动交还检方；同时作查克等待策略的场景代表图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 335
+    },
+    {
+      "file": "assets/diner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot17.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "克拉科与其他受邀者走进餐馆",
+      "caption": "本集餐馆截图：同业基金经理应博伊德介绍前来与阿克斯谈奈拉合作；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1602,
+      "height": 802
+    },
+    {
+      "file": "assets/phone.webp",
+      "originalUrl": "https://simkl.in/episodes/54/5441662be5f187151_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "alt": "阿克斯在公司接听电话",
+      "caption": "本集公司电话截图；用作奈拉联盟遭泄密后的连续通话与应对场景图；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 335
+    },
+    {
+      "file": "assets/thayer.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot41.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "阿克斯在餐厅与塞耶谈话",
+      "caption": "本集 Momofuku Ko 餐桌截图：赌场地点与债券利益交换；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 725,
+      "height": 569
+    },
+    {
+      "file": "assets/wire.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot88.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "查克与布莱恩在房间监听饭局",
+      "caption": "本集监听截图：检方听取麦金农与博伊德的晚餐谈话；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2160,
+      "height": 1346
+    },
+    {
+      "file": "assets/wags-return.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot80.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "瓦格斯在办公室面对阿克斯",
+      "caption": "本集办公室截图：瓦格斯归来与辞职谈话所在场景；开场与后段回环；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2606,
+      "height": 1562
+    },
+    {
+      "file": "assets/lara-bed.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot9.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "劳拉在卧室与丈夫争论",
+      "caption": "本集卧室截图：劳拉谈银行会面带来的受轻视感；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1510,
+      "height": 858
+    },
+    {
+      "file": "assets/boyd-studio.webp",
+      "originalUrl": "https://simkl.in/episodes/58/5824786f8822b068e_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "alt": "阿克斯在电视台与博伊德面对面交谈",
+      "caption": "本集电视台截图：博伊德完成公开发言后，阿克斯告知逮捕危险；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/studio.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep5shot3.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17721",
+      "alt": "阿克斯与查克在电视台演播室外相对",
+      "caption": "本集结尾电视台截图：博伊德被捕，查克与阿克斯碰面；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1570,
+      "height": 792
+    },
+    {
+      "file": "assets/steph.webp",
+      "originalUrl": "https://simkl.in/episodes/54/5441582290d28dbbf_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "alt": "斯蒂芙穿白色无袖上衣面对阿克斯",
+      "caption": "本集办公室截图：斯蒂芙提出接受亏损与有限的人性；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 335
+    },
+    {
+      "file": "assets/wendy-park.webp",
+      "originalUrl": "https://simkl.in/episodes/58/5824772612027cbdd_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-5/",
+      "alt": "温迪在公园与瓦格斯会谈",
+      "caption": "本集瓦格斯回述中的公园会谈截图；不是温迪回到公司；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 9,
+  "title": "Sic Transit Imperium",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E09 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e09",
+      "note": "核对播出对话与揭示顺序；非官方转录，短台词中文为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun · 第二季第9集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "note": "交叉核对情节与本集 Showtime 截图；作者推测不作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E09 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-9/screencaps/",
+      "note": "仅用于本集图像归属，不引用自动生成回顾。"
+    },
+    {
+      "id": "observer",
+      "title": "Observer · 2×09 Coin of the Realm",
+      "url": "https://observer.com/2017/04/billions-recap-season-2-episode-9-sic-transit-imperium/",
+      "note": "交叉核对生日、Sandicot 与婚姻线；对查克目的的猜测保持为解读。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/bunker.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot14.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "阿克斯在生日早晨听 瓦格斯 介绍礼物",
+      "caption": "本集截图：瓦格斯 以 VR 展示末日地堡；画面为听介绍的阿克斯。",
+      "kind": "episode-still",
+      "width": 1596,
+      "height": 808
+    },
+    {
+      "file": "assets/klaxon.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot42.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "阿克斯在棒球练习场听交易提案",
+      "caption": "本集截图：“美元”比尔 把 Klaxon 线索当作生日礼物送来。",
+      "kind": "episode-still",
+      "width": 2126,
+      "height": 1116
+    },
+    {
+      "file": "assets/board.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot40.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "查克与调查团队围绕 桑迪科特 白板讨论",
+      "caption": "本集截图：桑迪科特 调查团队；用于 斯蒂芙 证词节点时是同集调查情境图，并非询问现场。",
+      "kind": "episode-still",
+      "width": 2118,
+      "height": 1212
+    },
+    {
+      "file": "assets/town.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot8.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "查克在 桑迪科特 向居民发言，布莱恩站在后方",
+      "caption": "本集截图：查克公开回应紧缩政策造成的伤害。",
+      "kind": "episode-still",
+      "width": 1588,
+      "height": 816
+    },
+    {
+      "file": "assets/site.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot54.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "查克与 Thayer 在赌场施工地交谈",
+      "caption": "本集截图：施工现场的 Thayer 不接受查克提出的合作条件。",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 976
+    },
+    {
+      "file": "assets/foley.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot61.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "弗利面对查克谈 桑迪科特",
+      "caption": "本集截图：弗利让查克推演追查 桑迪科特 的政治后果。",
+      "kind": "episode-still",
+      "width": 2312,
+      "height": 1238
+    },
+    {
+      "file": "assets/ira.jpg",
+      "originalUrl": "https://simkl.net/episodes/55/5518722812f2b0a69_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-9/screencaps/",
+      "alt": "查克站在办公室中，面对来访的艾拉讨论融资",
+      "caption": "本集截图：左侧查克、右侧艾拉；艾拉提出 Ice Juice 控股与上市机会，请朋友帮助向父亲引荐资金。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/wendy.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot51.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "温迪与查克谈返岗后的困惑",
+      "caption": "本集截图：温迪承认回到公司后的感受与外界想象不同。",
+      "kind": "episode-still",
+      "width": 2280,
+      "height": 1264
+    },
+    {
+      "file": "assets/taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot59.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "阿克斯与泰勒在室外谈聚会与人生",
+      "caption": "本集截图：两人从是否赴生日会谈到私人飞机和各自的来路。",
+      "kind": "episode-still",
+      "width": 1874,
+      "height": 1094
+    },
+    {
+      "file": "assets/victor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot6.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "阿克斯在私人保龄球会所面对 维克托",
+      "caption": "本集截图：阿克斯听完条件后，同意 维克托 筹办自己的公司。",
+      "kind": "episode-still",
+      "width": 1590,
+      "height": 812
+    },
+    {
+      "file": "assets/trust.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot63.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "老查克在书房说明投资所需的资金",
+      "caption": "本集截图：父亲向儿子提出动用盲目信托。",
+      "kind": "episode-still",
+      "width": 2226,
+      "height": 1192
+    },
+    {
+      "file": "assets/party.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot66.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "温迪在宴会上向劳拉说明不再为阿克斯会谈的由来",
+      "caption": "本集截图：温迪说出由自己提出的返岗条件，拆穿阿克斯此前的说法。",
+      "kind": "episode-still",
+      "width": 2372,
+      "height": 1312
+    },
+    {
+      "file": "assets/raceway.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/04/ep9shot69.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=18562",
+      "alt": "阿克斯与劳拉坐在赛马场看台",
+      "caption": "本集截图：生日宴仍在继续，阿克斯已带劳拉去了 Yonkers Raceway。",
+      "kind": "episode-still",
+      "width": 2344,
+      "height": 1216
+    }
+  ],
+  "scenes": [
+    {
+      "id": "bunker",
+      "act": "act1",
+      "lane": "capital",
+      "where": "阿克斯家 · 生日布置中",
+      "title": "买下末日之后的位置",
+      "image": "bunker",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "瓦格斯 用 VR 向阿克斯展示豪华末日地堡，赠予代表预留席位的硬币，并说自己已付三十六万美元订金。阿克斯问他是否也订了位置；瓦格斯 宁愿留在外面。生日首先出现的礼物，是一张关于未来安全的想象。",
+      "analysis": "这里出售的并非已经到来的灾难，而是有钱人仍能挑选结局的信心。瓦格斯 愿意替老板准备退路，却把自己排除在重建人类的蓝图之外。玩笑里有自我否定，也有两人的关系习惯：他把照料给了对方，把混乱留给自己。硬币因而从开场就不只是奢侈品。",
+      "turn": "因此 → 安全被做成一份礼物，但阿克斯尚未决定是否接受这种生活。"
+    },
+    {
+      "id": "klaxon",
+      "act": "act1",
+      "lane": "capital",
+      "where": "棒球练习场",
+      "title": "确定能赚，不等于值得冒险",
+      "image": "klaxon",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "“美元”比尔 提出做空比利时车企 Klaxon：他掌握召回与掩盖问题的材料，但时间未定。阿克斯追问风险，没有像过去那样立刻出手；瓦格斯 认为一亿美元收益不值得给政府机会。Bill 反过来质问老板是否已被查克吓住。",
+      "analysis": "Bill 把克制理解成失去本色，阿克斯却说位置不同，自己必须更冷静地考虑后果。两人的分歧并不是谁更懂赚钱，而是谁要为全局负责。插叙里的车祸、碎纸和线索传递让观众知道这笔消息并不普通，这笔线索带来的收益和后果仍未兑现。",
+      "turn": "因此 → 他暂不批准，把线索是否可靠与自己是否敢做分成两个问题。"
+    },
+    {
+      "id": "sandicot",
+      "act": "act1",
+      "lane": "law",
+      "where": "桑迪科特 市政厅 → 弗利安排的会面",
+      "title": "公众需要正义，盟友需要候选人",
+      "image": "town",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "团队认为债券与紧缩本身合法，调查重点应是阿克斯取得赌场信息的方式。查克到 桑迪科特 向受损居民承诺追查，刻意不接受记者采访。随后弗利安排他见候选人审查专家 George 明查克，提醒他新的关注也意味着新的审视。",
+      "analysis": "公开替居民说话可以履行检察职责，也能积累参选资本；本集把这两种收益放在同一场行动里。弗利并没有直接阻止他的出场，反而认可其手法，再把个人秘密审查接上。查克得到的支持从来附带条件，他的形象正在成为盟友共同管理的资产。",
+      "turn": "因此 → 查克看似扩大了政治空间，实际也进入更严密的相互约束。"
+    },
+    {
+      "id": "steph",
+      "act": "act1",
+      "lane": "law",
+      "where": "检方 · Kate 询问 斯蒂芙 Reed",
+      "title": "身边的见证人，并没有完整的罪证",
+      "image": "board",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "持传票到场的 斯蒂芙 说自己曾是阿克斯防止越线的见证人，也认为被解雇意味着他不再需要阻碍。她提到 Bill 曾说出线人 维克托 的名字，并建议检方关注泰勒。她关于之后违法的推断，并不等同于亲眼见过具体交易。",
+      "analysis": "贴近老板的人确实能交出名字和组织位置，却未必知道关键动作。Kate 的收获是一条继续调查的路径，而非能够直接完成指控的证词。斯蒂芙 对解雇原因的理解也夹着被排除后的愤怒；把证言的范围写清，才能看见检方为何仍得回到文件、资产和其他证人。",
+      "turn": "因此 → 检方转向具体联系人与泰勒，而不是把离职员工的判断当作定案。"
+    },
+    {
+      "id": "ira-ask",
+      "act": "act2",
+      "lane": "law",
+      "where": "查克办公室",
+      "title": "朋友所求，是一次真正离开旧生活的机会",
+      "image": "ira",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "艾拉拥有 Ice Juice 的部分权益，创办人想退出，他希望借钱取得控制权并推动上市。知道查克资金在信托里，艾拉请他向父亲引荐。查克起初担心职业伦理与私人关系，不愿让一通电话变成自己对投资的背书，答应考虑。",
+      "analysis": "艾拉把机会说成终于离开律师事务所的跳板，也把查克此前承诺的补偿变成具体请求。友谊因而不再只是情感修复，还进入融资与信用的交换。查克的犹豫让帮助朋友不再只是还一笔情感上的欠账，也意味着让父亲的资金和自己的信用进入同一项风险。",
+      "turn": "因此 → 投资机会进入查克的私人生活，是否动用父亲的关系仍待决定。"
+    },
+    {
+      "id": "wendy-doubt",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "罗兹家 → 电话与公司",
+      "title": "她回来了，却还没找到留下的理由",
+      "image": "wendy",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯让 Deb 借职业困惑试探温迪，温迪识破；她后来对丈夫承认返岗并不顺利，自己感到被操纵，也可能操纵了别人。劳拉坚持邀请她赴宴，查克虽因她拒绝而暗自高兴，最终仍鼓励她亲自去判断。",
+      "analysis": "温迪平常指导别人全心投入再作判断，如今却难以替自己使用同样的方法。查克把占有欲说出来，再允许她去试一试，是少有的没有立即索取回报的支持。她随后到办公室制止阿克斯继续派人试探，并询问生日邀请，让工作边界与个人情分同时被看见。",
+      "turn": "因此 → 温迪决定赴宴，但出席没有取消她提出的不再单独会谈的条件。"
+    },
+    {
+      "id": "thayer",
+      "act": "act2",
+      "lane": "law",
+      "where": "Kingsford · 赌场工地",
+      "title": "嫌疑人不怕交易，因为已经有保护伞",
+      "image": "site",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Kate 查到阿克斯把一辆 Dodge 转给赌场开发商 Thayer。查克到工地，以过往可疑交易和 桑迪科特 信息来源施压，提出合作身份。Thayer 不肯交换，说自己已经有保护伞，甚至让查克有胆量就正式起诉他。",
+      "analysis": "汽车转让和高价租约给查克提供了追问理由，却仍不能代替对贿赂链条的证明。Thayer 的镇定迫使他重新判断，阻力不只来自阿克斯的钱。查克原以为自己手握豁免的价值，眼前的人却已从别处获得更大的保障，检察权因此遇到政治网络的边界。",
+      "turn": "因此 → 查克意识到必须向弗利追问，这条调查究竟碰到了谁。"
+    },
+    {
+      "id": "one-life",
+      "act": "act2",
+      "lane": "capital",
+      "where": "公司外 · 阿克斯打板球",
+      "title": "把私人飞机说成一次人生许可",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒不愿错过姐姐的婚礼排练晚宴，也担心私人飞机的碳足迹。阿克斯建议购买抵消与捐款，并让 Deb 安排飞机。他讲起自己从赛马场读赔率到交易所读行情的经历，劝泰勒承认已经进入的新生活，不必只选其中一部分。",
+      "analysis": "这场谈话给了泰勒被理解的感受，同时也在教新人接受富人的解决方式：冲突可以花钱缓和，机会则应尽量都要。阿克斯把过去讲成直觉获胜的故事，对自己的生日抉择同样有效。观众稍后看见泰勒登机被拍照，提醒个人选择也能变成调查者的观察材料。",
+      "turn": "因此 → 泰勒使用私人飞机兼顾两处行程，阿克斯进一步靠近“都要”的人生答案。"
+    },
+    {
+      "id": "circle",
+      "act": "act3",
+      "lane": "law",
+      "where": "查克质问弗利 → 检方办公室",
+      "title": "圈走到尽头，是自己的人",
+      "image": "foley",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "弗利没有直接下令停案，而是让查克推演：Thayer 出事，赌场和就业会消失，父亲参与转移项目的事也会曝光。查克承认 桑迪科特 的伤害同样连着自己一方。回到办公室，他明确告诉布莱恩停止追查，理由就是政治。",
+      "analysis": "这不是线索忽然失效，而是查克认为继续追查的代价会落到自己的联盟。弗利用“由你决定”保留自由的外表，让受益者自行说出撤退。本集最刺耳的不是保护伞这个秘密，而是查克已向镇民许诺之后，仍能够在没有向他们解释的情况下收回行动。",
+      "turn": "因此 → 桑迪科特 调查被查克主动停下，对阿克斯的追逐转向别处。"
+    },
+    {
+      "id": "victor",
+      "act": "act3",
+      "lane": "capital",
+      "where": "私人保龄球会所",
+      "title": "重启合作，要先接受自己误伤过人",
+      "image": "victor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "霍尔 查出 Klaxon 线索来自 维克托，并提醒风险仍在有人开口。Bill 劝阿克斯当面看一看。维克托 承认想回来，但要自己的卫星公司，以内部材料换取支持。阿克斯承认解雇误伤了他，听完条件后让他开始找办公场所。",
+      "analysis": "霍尔 所说的“干净”只指他对痕迹回溯的判断，不能消除材料本身的性质。真正促成转变的是阿克斯愿意重新相信自己的识人能力，并以利益关系处理旧怨。Bill 讲的亡命徒不受规则保护，最终成了老板重新接近风险的许可，而不是风险已经不存在的证明。",
+      "turn": "因此 → 阿克斯从暂拒 Klaxon，转为支持 维克托 重新设立业务并接受合作。"
+    },
+    {
+      "id": "trust",
+      "act": "act3",
+      "lane": "law",
+      "where": "查克读证词 → 父亲书房",
+      "title": "一本失去的书，接上一笔进入的资金",
+      "image": "trust",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "得知阿克斯买断自己喜爱的 Churchill 版本，查克愤怒后将 Ice Juice 资料送给父亲。老查克认为投资值得做，但现金被房地产占用，提出从儿子的信托取钱，并保证悄悄进行。查克明知这涉及公开承诺，仍同意动用一部分。",
+      "analysis": "场面的力量来自话语和动作之间的差距：查克问为何自己会知道信托操作，父亲却把告知说成负责，再用隐蔽消解后果。儿子最后接受的不是普通朋友建议，而是让职业承诺为家庭投资让路。镜头把愤怒和决策相接；具体终局意图尚未在本集完整揭示。",
+      "turn": "因此 → 艾拉的融资获得罗兹家支持，查克亲自认可了一项需要隐藏的安排。"
+    },
+    {
+      "id": "birthday-exit",
+      "act": "act3",
+      "lane": "cross",
+      "where": "生日宴 → Yonkers Raceway",
+      "title": "他离开仪式，她听见了谎言",
+      "image": "party",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "赴宴的温迪说明，不再单独接待阿克斯是她返岗时提出的条件；劳拉这才知道丈夫把决定说成了自己所作。阿克斯带劳拉离开，回到赛马场。瓦格斯 留在宴会上讲友情，收到老板退回的地堡硬币，劳拉则沉默坐在丈夫身旁。",
+      "analysis": "对阿克斯而言，离开生日宴像是摆脱声誉管理，重新找到真实欲望；但他没有发现劳拉已经从另一句话里失去安全感。瓦格斯 的真诚恰好在他缺席时说出。这个结尾用三种不同距离拆开了“大家都在庆祝我”：有人没有被听见，有人被欺骗，有人决定不再接受保护。",
+      "turn": "因此 → 他拒绝末日退路，却没有意识到身边的关系已发生变化。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "礼物与公开立场",
+      "deck": "有的风险可以避开，有的承诺必须被看见。",
+      "range": "01—04",
+      "summary": "生日礼物引出阿克斯对安全与赚钱的犹豫；检方取得了注意力和名字，还没有取得全部证据。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "边界都要亲自问",
+      "deck": "求资、赴宴、豁免和私人飞机，各有条件。",
+      "range": "05—08",
+      "summary": "亲近的人索取帮助，也提出边界。能否说不，取决于对方究竟需要谁的许可。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "走出去的人，留下什么",
+      "deck": "有人停案，有人重新入局，有人离开宴会。",
+      "range": "09—12",
+      "summary": "查克保护了政治联盟，阿克斯选择重新冒险；资金与友情的代价进入最亲近的关系。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官 / 潜在州长候选人",
+      "fact": "停止 桑迪科特 调查，并认可父亲动用部分信托投资 Ice Juice。",
+      "analysis": "他能坦白说出政治动机，却仍将公开职责和私人承诺留在不同房间。"
+    },
+    "axe": {
+      "role": "Axe Capital 创办人",
+      "fact": "重新与 维克托 合作，缺席自己的宴会并退回地堡硬币。",
+      "analysis": "自认为找回自由，却没有听见朋友的告白，也没看见妻子的失望。"
+    },
+    "wendy": {
+      "role": "返岗后的绩效教练",
+      "fact": "识破 Deb 试探，赴宴时向劳拉说明真正的返岗条件。",
+      "analysis": "边界保护她的工作方式，也意外揭开另一个人婚姻里的谎言。"
+    },
+    "lara": {
+      "role": "阿克斯的妻子 / 宴会主人",
+      "fact": "坚持举办生日会，因温迪的解释发现丈夫对自己撒谎。",
+      "analysis": "她还陪他离开，却已不再共享他的兴奋。"
+    },
+    "wags": {
+      "role": "首席运营官 / 老友",
+      "fact": "送出地堡席位，在老板缺席时完成真诚的祝酒词。",
+      "analysis": "他以为金钱可以表达保护，真正想送出的其实是相互接纳。"
+    },
+    "senior": {
+      "role": "查克父亲 / 信托管理人",
+      "fact": "希望投资 Ice Juice，提议从儿子的信托筹钱。",
+      "analysis": "把保密当作解决公开承诺的办法，让儿子亲自接受例外。"
+    },
+    "foley": {
+      "role": "政治赞助者",
+      "fact": "安排 明查克 审查，并让查克看见追案对共同利益的伤害。",
+      "analysis": "他的权力体现在不必下命令，也能让候选人自行退让。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 安全与攻势",
+      "note": "开场的礼物与调查都像是可控的安排。",
+      "edges": [
+        "追查 桑迪科特",
+        "尚能谈工作困惑",
+        "隔着返岗边界"
+      ],
+      "details": {
+        "chuck": "要从赌场信息来源突破。",
+        "axe": "面对地堡礼物与 Klaxon 提案。",
+        "wendy": "维持不再单独为老板会谈的条件。",
+        "lara": "筹备庆祝丈夫的仪式。",
+        "wags": "花钱替老板预留退路。",
+        "senior": "尚未与儿子敲定本集信托安排。",
+        "foley": "认可公开露面并安排候选人审查。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 保护各有条件",
+      "note": "个人邀请与政治保护都要求对方改变选择。",
+      "edges": [
+        "工地碰到保护伞",
+        "支持她亲自判断",
+        "制止试探仍赴宴"
+      ],
+      "details": {
+        "chuck": "在 Thayer 的镇定中察觉盟友庇护。",
+        "axe": "询查 维克托 风险，鼓励泰勒接受新生活。",
+        "wendy": "说出返岗并不顺利，决定去生日会。",
+        "lara": "亲自打电话让温迪参加。",
+        "wags": "以风险过大劝老板拒绝汽车交易。",
+        "senior": "与艾拉讨论机会，现金却受房地产限制。",
+        "foley": "让查克推演继续调查的连锁后果。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 退路与裂缝",
+      "note": "停止一条追案路，不等于放弃敌意。",
+      "edges": [
+        "另找突破口",
+        "信托决定未共同谈",
+        "真边界拆穿谎言"
+      ],
+      "details": {
+        "chuck": "承认政治停案，同意父亲动用信托。",
+        "axe": "接纳 维克托，带妻子离开宴会。",
+        "wendy": "说明返岗条件，无意揭开夫妻谎言。",
+        "lara": "发现丈夫把温迪的决定说成自己的。",
+        "wags": "在老板缺席时祝酒，收到退回的硬币。",
+        "senior": "得到儿子对隐蔽投资的许可。",
+        "foley": "保住赌场利益与政治联盟。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "circle-path",
+      "title": "追案为何走回自己？",
+      "intro": "有线索不意味着有意愿承担线索继续延伸的后果。",
+      "nodes": [
+        {
+          "name": "Kate / 检方",
+          "role": "查到汽车转让",
+          "portrait": null,
+          "scene": "thayer"
+        },
+        {
+          "name": "Thayer",
+          "role": "拒绝合作，宣称有伞",
+          "portrait": null,
+          "scene": "thayer"
+        },
+        {
+          "name": "弗利",
+          "role": "指出父亲与联盟的牵连",
+          "portrait": "foley",
+          "scene": "circle"
+        },
+        {
+          "name": "查克",
+          "role": "以政治理由停止追查",
+          "portrait": "chuck",
+          "scene": "circle"
+        }
+      ],
+      "result": "保护圈没有推翻证据，它改变了检察官愿意追问到哪里。"
+    },
+    {
+      "id": "trust-path",
+      "title": "朋友的请求怎样进入信托？",
+      "intro": "本集可确认的是融资路径和查克的同意，尚非后续结果。",
+      "nodes": [
+        {
+          "name": "艾拉",
+          "role": "请求父亲帮助融资",
+          "portrait": null,
+          "scene": "ira-ask"
+        },
+        {
+          "name": "查克",
+          "role": "转交 Ice Juice 资料",
+          "portrait": "chuck",
+          "scene": "trust"
+        },
+        {
+          "name": "老查克",
+          "role": "提出隐蔽动用信托",
+          "portrait": "senior",
+          "scene": "trust"
+        },
+        {
+          "name": "查克",
+          "role": "同意使用一部分资金",
+          "portrait": "chuck",
+          "scene": "trust"
+        }
+      ],
+      "result": "一项需要公开守约的人，亲自允许了只有保密才能维持外观的例外。"
+    },
+    {
+      "id": "boundary-path",
+      "title": "一句条件，如何拆掉另一种说法？",
+      "intro": "同一边界被阿克斯和温迪讲成不同的决定主体。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "此前自称由自己拒绝会谈",
+          "portrait": "axe",
+          "scene": "birthday-exit"
+        },
+        {
+          "name": "劳拉",
+          "role": "据此理解丈夫的选择",
+          "portrait": "lara",
+          "scene": "birthday-exit"
+        },
+        {
+          "name": "温迪",
+          "role": "说出由自己设定条件",
+          "portrait": "wendy",
+          "scene": "birthday-exit"
+        },
+        {
+          "name": "劳拉",
+          "role": "得知丈夫并未诚实交代",
+          "portrait": "lara",
+          "scene": "birthday-exit"
+        }
+      ],
+      "result": "宴会没有出现公开争吵；看台上的沉默已经表达信任距离。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Sandicot is a circle.",
+      "zh": "桑迪科特 是个圈。",
+      "speaker": "弗利 → 查克",
+      "context": "弗利在同场谈话中，让查克推演调查最后会牵连谁。",
+      "image": "foley",
+      "analysis": "这条“圈”不是司法上的无路可走，而是政治上的不愿再走。"
+    },
+    {
+      "en": "Start looking for office space.",
+      "zh": "开始找办公场所吧。",
+      "speaker": "阿克斯 → 维克托",
+      "context": "会所谈完条件后，他批准对方筹办公司；图为同场阿克斯。",
+      "image": "victor",
+      "analysis": "他用一个经营动作替代情感和解，也正式恢复了利益合作。"
+    },
+    {
+      "en": "I couldn't keep seeing him.",
+      "zh": "我不能继续单独接待他。",
+      "speaker": "温迪 → 劳拉",
+      "context": "生日宴上说明返岗条件，配图为说话的温迪。",
+      "image": "party",
+      "analysis": "决定的内容没有变，决定是谁作出的，却足以改变劳拉对丈夫的理解。"
+    }
+  ],
+  "chineseTitle": "生日这天，谁愿意留在帝国里",
+  "subtitle": "第二季第九集 · 帝国会过去，边界还在眼前",
+  "hero": "raceway",
+  "heroTitle": "他找回了自己\n却没看见身边的人",
+  "heroDeck": "一枚末日地堡的通行硬币，一场没有主角的生日宴。\n查克放下 桑迪科特，阿克斯重新接受风险。",
+  "openingTitle": "摆脱约束，是自由，还是把代价交给别人？",
+  "openingFact": "生日到来，瓦格斯 送阿克斯一处末日地堡的席位，“美元”比尔 则送来一笔可能违规的汽车交易。查克带队追查 桑迪科特，政治盟友却不愿让他继续。",
+  "openingReading": "两人都把这一刻看成重新掌握方向的机会。区别在于，他们取得行动空间的方式，都会让身边的人承担并未共同决定的风险。",
+  "stamp": {
+    "value": "COIN",
+    "label": "SIC TRANSIT IMPERIUM",
+    "note": "地堡席位能买到；谁愿意与你待在一起，不能。"
+  },
+  "storyTitle": "一场生日，三种退出",
+  "storyDeck": "从拒绝交易、停下调查，到离开自己的庆祝现场。",
+  "intro": "本集把阿克斯的生日写成一次价值盘点：保全名声、预留退路、忠于旧日的自己，究竟哪一种值得留下？查克也必须盘点，只是他的账本里同时有司法职责、州长前途和父亲的利益。温迪与劳拉则让“谁决定边界”成为更贴身的问题。",
+  "spoiler": "剧透范围：第二季第1—9集及必要的第一季背景。只写本集已呈现的 Ice Juice 求资与信托决定，不用后续揭示解释查克的计划。",
+  "catalogueIntro": "生日礼物让阿克斯在安全与冒险之间重作选择；桑迪科特 调查却让查克撞上政治盟友的保护圈。温迪赴宴意外拆穿一个婚姻谎言，而一笔 Ice Juice 投资开始进入罗兹家的信托。",
+  "comparison": {
+    "title": "两种拒绝，都有人替他收尾",
+    "deck": "同一集里，查克停止一条调查，阿克斯退回一份礼物。自由并非没有承受者。",
+    "left": {
+      "image": "foley",
+      "caption": "查克与弗利谈继续追案的政治后果。",
+      "speaker": "查克 / 弗利",
+      "title": "不再往下查",
+      "text": "他知道路径会通向父亲和盟友，决定换一个追逐阿克斯的入口。"
+    },
+    "right": {
+      "image": "raceway",
+      "caption": "阿克斯带劳拉离开生日宴，回到赛马场。",
+      "speaker": "阿克斯 / 劳拉",
+      "title": "不再替形象活",
+      "text": "他拒绝地堡与仪式，把回到来处理解成重新拥有自己。"
+    },
+    "rows": [
+      {
+        "label": "看见的限制",
+        "left": "调查会伤及共同政治利益",
+        "right": "安全与声誉管理令人失去本色"
+      },
+      {
+        "label": "选择的出口",
+        "left": "让团队停止 桑迪科特 路线",
+        "right": "重新接近风险并离开宴会"
+      },
+      {
+        "label": "未被共同决定的代价",
+        "left": "镇民的公开期待落空",
+        "right": "朋友没被听见，妻子失去信任"
+      }
+    ],
+    "insight": {
+      "kicker": "个人解读",
+      "title": "自由的账单，会送到谁手上？",
+      "text": "两人都没有真正退出竞争，只是重选规则与场地。本集让别人的处境留在画面里，从而使自我解放不再自动等于值得赞美。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "地堡硬币",
+      "fact": "硬币代表已经付订金的席位，结尾由阿克斯退给 瓦格斯。",
+      "analysis": "能够拒绝退路本身也是特权；归还礼物还拒绝了朋友表达保护的方式。",
+      "steps": [
+        "预留安全",
+        "讨论谁能进入",
+        "退回席位"
+      ]
+    },
+    {
+      "title": "名字写进未来",
+      "fact": "Sean Ayles 建议设立永久基金会，阿克斯聘请他管理，却不接受取消奢华生日会的建议。",
+      "analysis": "他愿意购买文化信誉，却不愿让声誉管理决定所有生活；挑选建议也暴露了所谓独立仍有自利的界线。",
+      "steps": [
+        "谈永久遗产",
+        "购买管理与信誉",
+        "拒绝全面服从"
+      ]
+    },
+    {
+      "title": "来到现场的人",
+      "fact": "泰勒兼顾家人婚礼和生日会；瓦格斯 向缺席的老板祝酒；劳拉随丈夫离开却沉默。",
+      "analysis": "身体到场不保证情感一致，缺席也不只是日程选择。生日把每个人对归属的理解放到了同一张桌边。",
+      "steps": [
+        "谁必须来",
+        "谁先离开",
+        "谁被留下"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "raceway",
+    "kicker": "YONKERS RACEWAY",
+    "value": "ONE LIFE",
+    "title": "他以为两个人\n一起回到了从前",
+    "text": "阿克斯终于离开那些替自己管理名声的人，坐回熟悉的赛马场。劳拉就在身旁，却刚刚知道丈夫对自己说了谎。同一张长椅容纳了相反的内心位置，这就是本集没有喊出来的结尾。"
+  }
+}

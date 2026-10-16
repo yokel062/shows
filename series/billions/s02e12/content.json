@@ -1,0 +1,708 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 12,
+  "title": "Ball in Hand",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E12 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e12",
+      "note": "核对播出对话与揭示顺序；非官方转录，短台词中文为本页自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun · 第二季第12集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "note": "交叉核对情节与本集 Showtime 截图；作者推测不作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E12 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-12/screencaps/",
+      "note": "仅用于本集图像归属，不引用自动生成回顾。"
+    },
+    {
+      "id": "ginge",
+      "title": "Ginges Be Cray · S2E12 回顾",
+      "url": "https://gingesbecray.com/billions-s2e12-ball-in-hand-recap/",
+      "note": "交叉核对诱饵车辆、职权交换和季终蒙太奇；对人物感情及未来案件的推测不作事实。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/pool.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot70.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "阿克斯在儿时常去的台球馆与巴赫交谈",
+      "caption": "本集截图：他以自由球比喻自己留给对手的优势，并交出护照。",
+      "kind": "episode-still",
+      "width": 2456,
+      "height": 1354
+    },
+    {
+      "file": "assets/boyd-warning.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot51.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "阿克斯在门口面对提前获释的 博伊德",
+      "caption": "本集截图：博伊德 告知今天将发生逮捕，阿克斯随即与劳拉商量。",
+      "kind": "episode-still",
+      "width": 2634,
+      "height": 1478
+    },
+    {
+      "file": "assets/church.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot54.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "戴克在教堂中面对查克",
+      "caption": "本集截图：东区代理检察官起初拒绝查克插手及隐藏家庭投资的要求。",
+      "kind": "episode-still",
+      "width": 2612,
+      "height": 1448
+    },
+    {
+      "file": "assets/family.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot80.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "老查克在家中听儿子说明布局",
+      "caption": "本集截图：父亲与艾拉得知自己被置入诱饵安排；不是后来签署声明的瞬间。",
+      "kind": "episode-still",
+      "width": 2538,
+      "height": 1396
+    },
+    {
+      "file": "assets/wendy-wags.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot60.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "温迪在办公室听 瓦格斯 求助",
+      "caption": "本集截图：她答应在今天协助应对危机，保留长期去留。",
+      "kind": "episode-still",
+      "width": 2536,
+      "height": 1328
+    },
+    {
+      "file": "assets/harbor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot65.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "泰勒在码头向阿克斯说明流动性模型",
+      "caption": "本集截图：泰勒推演六组交易篮子，并说明为何自己需要接手投资。",
+      "kind": "episode-still",
+      "width": 2540,
+      "height": 1406
+    },
+    {
+      "file": "assets/sons.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot84.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "阿克斯蹲下向两个儿子说明即将被捕",
+      "caption": "本集截图：他修正“政府都是骗子”的说法，承认自己确实做错了事。",
+      "kind": "episode-still",
+      "width": 2470,
+      "height": 1344
+    },
+    {
+      "file": "assets/dake-deal.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot85.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "戴克到查克办公室重新寻求帮助",
+      "caption": "本集截图：追捕受挫后，戴克接受隐去投资人与安排人事的条件。",
+      "kind": "episode-still",
+      "width": 2598,
+      "height": 1414
+    },
+    {
+      "file": "assets/memorial.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot1-1.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "阿克斯与温迪在九一一纪念池边交谈",
+      "caption": "本集截图：阿克斯明确道歉，温迪答应帮助他重新找回方向。",
+      "kind": "episode-still",
+      "width": 1572,
+      "height": 814
+    },
+    {
+      "file": "assets/custody.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/05/ep12shot98.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=19090",
+      "alt": "阿克斯进入拘留空间，查克在后方",
+      "caption": "本集截图：被捕之后，两人继续面对面对抗。",
+      "kind": "episode-still",
+      "width": 2504,
+      "height": 1392
+    },
+    {
+      "file": "assets/burn.jpg",
+      "originalUrl": "https://simkl.net/episodes/56/5676816bdda2738ad_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-12/screencaps/",
+      "alt": "瓦格斯提着箱子走过阿克斯，泰勒从交易大厅走来",
+      "caption": "本集同场截图：瓦格斯 与阿克斯在公司应对逮捕，泰勒带来专业支持；不是实际焚烧文件的画面。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/father-son.jpg",
+      "originalUrl": "https://simkl.net/episodes/56/56768623f4809d210_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-12/screencaps/",
+      "alt": "查克面对书房中的父亲，父亲的白发背影在前景",
+      "caption": "本集截图：父亲交回声明并交出照片的谈话；正面为查克的反应，前景为父亲。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/raids.jpg",
+      "originalUrl": "https://simkl.net/episodes/56/5676872e4953418fd_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-12/screencaps/",
+      "alt": "FBI 人员进入公司办公区搜索",
+      "caption": "本集截图：车辆诱饵奏效后，搜索范围扩大到办公室等多处。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/chuck-custody.jpg",
+      "originalUrl": "https://simkl.net/episodes/56/5676894fb14f2388b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-12/screencaps/",
+      "alt": "查克在拘留空间面对阿克斯",
+      "caption": "本集截图：查克面对对手谈及自己付出的资金与关系代价。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    }
+  ],
+  "scenes": [
+    {
+      "id": "warning",
+      "act": "act1",
+      "lane": "capital",
+      "where": "清晨 · 阿克斯家",
+      "title": "先来敲门的，是已经自由的旧盟友",
+      "image": "boyd-warning",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "提前获释的 博伊德 告诉阿克斯，他今天将被捕，故意以归还人情的姿态告别。劳拉说明自己和孩子不会跟他逃跑；阿克斯坚持留下战斗。霍尔的电话已停用，巴赫据此判断危机真实，阿克斯开始移动并商量自首条件。",
+      "analysis": "消息首先以私人羞辱而非正式通知抵达，让阿克斯无法决定见谁、说到哪里。劳拉没有替他定义是否逃跑，却明确划出了自己的行动边界。霍尔的消失又拿走惯用的信息通道；老板必须在尚不完整的情报里作决定，而不是等每一项危险都被解释清楚。",
+      "turn": "因此 → 他不等在桌前被抓，而是争取时间处理公司与家庭。"
+    },
+    {
+      "id": "first-price",
+      "act": "act1",
+      "lane": "law",
+      "where": "教堂 → 电话与明查克质问",
+      "title": "得到职位的人，先拒绝替恩人服务",
+      "image": "church",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "戴克说自己能用东区资源起诉阿克斯，不再需要查克。查克要求不要追到父亲的投资，戴克拒绝。明查克随后因外部泄漏前来质问，担心未被告知的布局破坏弗利支持。查克声称正争取保证，也准备让父亲独自承担信托操作责任。",
+      "analysis": "戴克把职位与私人回报拆开，至少在这次会面里不接受任命之恩自动转成服从。明查克则从另一个方向压缩查克：一个需要政治保护的人不能擅自冒险。查克的胜利因此尚未稳固，他已经损失资金，还得解决自己的行动会留下怎样的公开身份。",
+      "turn": "因此 → 追捕仍归戴克掌握，查克开始同时争取案件与家族的保护条件。",
+      "detail": "当天电话里，查克单方面宣布不再进行婚姻咨询，表示会回家等待温迪；这也是他试图重新设定关系的方式。"
+    },
+    {
+      "id": "continuity",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital · 文件与投资准备",
+      "title": "材料可以烧掉，公司却需要有人接手",
+      "image": "burn",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯命令处理需要烧毁的物件，瓦格斯 继续安排纸质文件、硬盘与等离子焰炬。两人讨论逮捕后撤资风险，瓦格斯 建议任命投资主管；阿克斯仍抗拒交权，先让泰勒回答市场问题并建立紧急变现模型，测试能否保护剩下的业务。",
+      "analysis": "毁掉记录和保护投资在这里被放进同一套危机处理，目的却不同：前者减少可追溯材料，后者应付客户资金撤出。阿克斯最难接受的是，保住名字命名的公司，可能要求自己不再作每一个决定。让泰勒解题，是他把心理抗拒暂时转换成专业评估的方式。",
+      "turn": "因此 → 公司开始准备他缺席时的行动，最终授权却还没有完全交出。"
+    },
+    {
+      "id": "bait-confession",
+      "act": "act1",
+      "lane": "law",
+      "where": "罗兹家 · 父亲与艾拉",
+      "title": "他替所有人决定了值得付出的东西",
+      "image": "family",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克向父亲和艾拉说明，人确实患病，却是人为破坏而非果汁本身的问题。艾拉意识到公司和人生被当诱饵，愤怒于自己曾道歉。查克提出日后民事索赔的可能，要求两人保护他的身份，并递出声明，让父亲声称擅自动用信托、儿子毫不知情。",
+      "analysis": "这一纸说法和观众见过的授权相矛盾，父亲要承担的不只是损失，还有替儿子遮蔽责任。查克用将来当州长的共同利益劝人理性，艾拉却指出他发动攻击时也没有如此理性。对朋友而言，真正的背叛是一次只由对方决定、却要自己先支付多年的“值得”。",
+      "turn": "因此 → 查克争取到了进一步自保的路径，却失去要求朋友立刻理解自己的基础。"
+    },
+    {
+      "id": "help-and-interest",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "温迪办公室与巴赫办公室",
+      "title": "帮助可以给今天，责任必须认清属于谁",
+      "image": "wendy-wags",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "瓦格斯 向温迪透露逮捕将至，承认自己心慌并需要领导支持；温迪解释恐慌不等于不能应对，只答应今天在场。劳拉则向巴赫询问财产与离婚选择，律师因代理丈夫而拒绝替她作冲突咨询，建议另找律师，并说明资产可能先被冻结。",
+      "analysis": "两场求助都在寻找危机中的安全边界。温迪给出可兑现的当下，不用永久留下安抚 瓦格斯；巴赫没有把熟人身份当作可以同时替夫妻双方决策的理由。劳拉随后把业务资金交给亲属、换用电话，是实际的自保行动，而婚姻是否终结仍没有在这里被宣布。",
+      "turn": "因此 → 温迪进入公司应急协作，劳拉也开始为自己与孩子另作安排。"
+    },
+    {
+      "id": "harbor-plan",
+      "act": "act2",
+      "lane": "capital",
+      "where": "巴赫与戴克会面 → 码头",
+      "title": "法律拒绝让步，投资必须另有出口",
+      "image": "harbor",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "巴赫试图重启此前的豁免方案并商定低调自首，戴克全部拒绝；阿克斯隔着电话回应对方不妨试着找到自己。码头上，泰勒提出由六家经纪商执行六组各十亿美元的交易篮子，估计火售或折损百分之五，并主动说明被捕后应由自己任投资主管。",
+      "analysis": "模型没有承诺无损，而是在仓位会被市场围攻之前争取速度。泰勒解释老板必须集中精力应对案件，公司才有长期未来，因而把权力交接从能力高低改写成注意力分配。阿克斯仍不愿立刻承认一定需要接班人，却允许泰勒先把程序准备好，等待最终信号。",
+      "turn": "因此 → 公司的技术准备接近完成，阿克斯还须作出个人意义上的放手。"
+    },
+    {
+      "id": "ball-in-hand",
+      "act": "act2",
+      "lane": "capital",
+      "where": "台球馆 → 公司高层会面",
+      "title": "交出一本护照，也要交出一个位置",
+      "image": "pool",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯在儿时常去的球馆向巴赫交出护照，便于争取保释，并说台球规则改变让对手能自由摆放母球。律师告诉他如何对孩子解释，提醒孩子认得真正的父亲。公司里，泰勒与 瓦格斯 准备接手，温迪认可泰勒的能力，却未保证自己会长期留下。",
+      "analysis": "他把处境说成规则给了敌人优势，仍习惯从比赛理解失败；护照却是一个具体选择，表明自己准备留下应诉。温迪对泰勒的肯定也保留独立性：相信公司能更好，不等于亲自承诺永远守着它。谁能留、谁能走，逐渐从老板意愿变成每个人自己的判断。",
+      "turn": "因此 → 他开始准备被捕后的生活，也准备把公司交到能够继续行动的人手里。"
+    },
+    {
+      "id": "two-fathers",
+      "act": "act2",
+      "lane": "cross",
+      "where": "老查克书房 → 阿克斯与孩子见面",
+      "title": "一位父亲签下谎言，一位父亲修正谎言",
+      "image": "sons",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "父亲送回已签且未改的声明，指责查克把自己的付出视作理所当然，宣布不再来往，又交出温迪与另一名男子出酒店的监视照。阿克斯面对儿子，最初照 瓦格斯 建议说政府都是骗子，随即收回，承认自己不完美，也确实做了错事。",
+      "analysis": "父亲仍给予查克所需保护，却拒绝把这叫作双方毫无问题的亲情；监视照又以伤害回应伤害。阿克斯则在孩子面前第一次允许父亲不等于英雄，留给他们日后判断的权利。两场谈话都没有消除责任，但谁能够定义现实、谁必须替谁承担解释，出现了不同选择。",
+      "turn": "因此 → 查克得到文件却失去父亲的亲近，阿克斯无法保证胜诉，却向孩子交出较诚实的自己。"
+    },
+    {
+      "id": "decoys",
+      "act": "act3",
+      "lane": "capital",
+      "where": "被监听的电话 → 家中与公司搜查",
+      "title": "他没有出现，所有痕迹却都像要回家",
+      "image": "raids",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯用亲属电话告诉劳拉即将回家，监听方循消息截车，却发现驾驶者是班·金。家中和公司等处搜索也未找到人；此前交给陌生人的信用卡不断在各处出现。劳拉本来仍等着丈夫，最后只能向孩子说明他不会来。",
+      "analysis": "诱饵把执法的优势转成协调负担：每一项看似可靠的踪迹都需要人手回应。阿克斯争取到的是一天里的时间，并不是逮捕令消失。对劳拉而言，这也不只是机智的逃避战术；丈夫又一次让她根据并未兑现的话安排孩子，家庭代价仍跟着专业上的成功一起出现。",
+      "turn": "因此 → 戴克的第一场行动陷入难堪，他必须回头向原本拒绝的查克求助。"
+    },
+    {
+      "id": "new-price",
+      "act": "act3",
+      "lane": "law",
+      "where": "查克办公室 → 纪念池附近",
+      "title": "早上的价格，到了收盘前已经不够",
+      "image": "dake-deal",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "戴克同意不让查克父亲的投资被追出，查克追加要求：参与一项人事决定，并获得之后的充分信息。交换达成，他让对方定位的不是劳拉而是温迪手机。到纪念池附近，查克告诉布莱恩将到东区主导起诉，Kate 则获邀出任南区刑事部门负责人。",
+      "analysis": "查克把对妻子与对手联系的理解变成行动优势，重新拿回案件入口。照片与这项选择相邻，让报复的可能进入阅读，却并未证明它是唯一动机。布莱恩得到一直追的案子，同时也被放进老板与另一辖区交换的位置；东区负责起诉，并不等于南区原班人马整体接管。",
+      "turn": "因此 → 案件落入戴克的辖区，却将由查克信任的检察官主导具体起诉。"
+    },
+    {
+      "id": "memorial-arrest",
+      "act": "act3",
+      "lane": "cross",
+      "where": "九一一纪念池 → 公司交易大厅",
+      "title": "被抓之前，他先说出不附条件的道歉",
+      "image": "memorial",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯向温迪为迫使她离开、让她回来及劳拉出走时的迁怒明确道歉，请她帮助找回方向。温迪答应并拥抱他，戴克随后带人逮捕。消息传回，瓦格斯 让泰勒启动方案；泰勒确认已经受任投资主管，安排联系投资者，承诺翌日返还资本。",
+      "analysis": "这次道歉不再先问对方能否配合自己度过危机，承认的是一连串自己造成的伤害。温迪给予回应，不代表她因此知道或赞同所有交易行为。与此同时，公司不再等待老板手把手指挥：泰勒的授权与实际执行在逮捕当日相接，阿克斯失去自由与业务继续运转成为同一刻。",
+      "turn": "因此 → 他被带走，公司按预案启动；翌日返款是此刻给投资者的承诺，尚未显示完成。"
+    },
+    {
+      "id": "worth-it",
+      "act": "act3",
+      "lane": "cross",
+      "where": "拘留空间 → 季终夜景",
+      "title": "赢的人说值得，被抓的人说还没结束",
+      "image": "chuck-custody",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "拘留室里，阿克斯指责查克花掉约两千七百万美元并伤及父亲与朋友；查克承认代价，说值得。阿克斯誓言找出他留下的线头，查克仍回应同一句。尾声里公司继续工作，阿克斯获释走出；温迪与查克牵手回家，父亲独自坐着。",
+      "analysis": "“抓住”和“诱捕”在对话里被双方争夺法律含义，但这场口舌并没有作出司法裁决。查克把代价结算成自己愿意，阿克斯把未来押在某个尚未说破的弱点；两人仍试图垄断结局的定义。夜景留下的关系比分输赢更具体：有人重新同路，有人独处，公司则已经开始学习没有老板在场。",
+      "turn": "因此 → 逮捕与保释都已发生，案件和两人的对抗仍未结束。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "胜利先来索取保护",
+      "deck": "预警、拒绝、清理和面对朋友。",
+      "range": "01—04",
+      "summary": "抓捕将至，查克还没取得自己想要的隐蔽，阿克斯则发现保住公司意味着需要交出决定权。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "谁能够替谁作决定",
+      "deck": "当天的支持、专业的忠诚与两位父亲的说法。",
+      "range": "05—08",
+      "summary": "温迪与巴赫各自确认帮助的边界；泰勒提出接班，父亲的声明与孩子面前的坦白呈现相反的责任安排。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "优势换了位置",
+      "deck": "诱饵让追捕绕路，交换让查克重回中心。",
+      "range": "09—12",
+      "summary": "戴克接受条件，布莱恩取得起诉任务；纪念池边的和解遭逮捕打断，拘留室里的胜负又重新开始计算。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官 / 案件布置者",
+      "fact": "争取隐藏投资关联，促成布莱恩到东区主导起诉。",
+      "analysis": "抓住对手仍不够，他还要管理胜利对家族、政治与婚姻的后果。"
+    },
+    "axe": {
+      "role": "被捕的创办人 / 父亲",
+      "fact": "授权泰勒，向孩子承认过错，向温迪明确道歉。",
+      "analysis": "失去自由让控制与责任暂时分开；他能放手业务，却仍不放弃报复。"
+    },
+    "wendy": {
+      "role": "绩效教练 / 独立作出回应的人",
+      "fact": "协助 瓦格斯、认可泰勒，并在纪念池边接受道歉。",
+      "analysis": "帮助当下不等于永久归属，也没有替别人取消行为后果。"
+    },
+    "taylor": {
+      "role": "新任首席投资官",
+      "fact": "设计紧急变现模型，被捕后启动并安排联系投资者。",
+      "analysis": "把专业能力转成领导责任，同时让老板得以集中处理案件。"
+    },
+    "senior": {
+      "role": "父亲 / 签署声明的人",
+      "fact": "签下与已知授权相矛盾的文件，随后宣布断绝来往。",
+      "analysis": "他继续保护儿子，却以照片和离开让这份保护留下痛感。"
+    },
+    "dake": {
+      "role": "东区代理联邦检察官",
+      "fact": "起初拒绝查克，追捕受挫后接受交换，完成逮捕。",
+      "analysis": "独立性的宣言遇到实际执行能力，职权不得不重新与关系谈判。"
+    },
+    "bryan": {
+      "role": "转赴东区主导起诉的检察官",
+      "fact": "开始被蒙在鼓里，最后得到继续办理阿克斯案的安排。",
+      "analysis": "职业机会来自查克的交换，他获得主导权，也进入新的合作结构。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 看似各掌一局",
+      "note": "东区掌握逮捕，南区谋求保护，被调查者先获预警。",
+      "edges": [
+        "预警后的追捕",
+        "宣布停止咨询",
+        "尚不知道逮捕"
+      ],
+      "details": {
+        "chuck": "要求戴克不追出家族投资。",
+        "axe": "知道被捕将至，准备移动与自首条件。",
+        "wendy": "听丈夫说当天一切会清楚。",
+        "taylor": "接到紧急组合模型任务。",
+        "senior": "即将听儿子说明布局及索取声明。",
+        "dake": "拒绝查克参与，计划独立执行。",
+        "bryan": "不知道东区抓捕安排。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 关系开始拆账",
+      "note": "能给多少帮助，是否必须继续留下，都变成明确问题。",
+      "edges": [
+        "双方分别准备",
+        "收到照片再作选择",
+        "帮他应急未定去留"
+      ],
+      "details": {
+        "chuck": "说服父亲承担公开责任，得到声明。",
+        "axe": "听泰勒说明接管必要性，准备交出护照。",
+        "wendy": "支撑 瓦格斯 领导，也把长期去留保留给自己。",
+        "taylor": "提出分篮子方案并愿意任投资主管。",
+        "senior": "签字却声明不再维持往来。",
+        "dake": "拒绝自首谈判，随后被诱饵牵走。",
+        "bryan": "从巴赫来电得知自己仍缺关键信息。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 自由与位置重新分配",
+      "note": "逮捕完成，业务与案件都换了执行者。",
+      "edges": [
+        "拘留室继续对抗",
+        "牵手回家",
+        "道歉获回应后被捕"
+      ],
+      "details": {
+        "chuck": "取得家族信息承诺和人事安排。",
+        "axe": "被捕后获释，誓言寻找查克的弱点。",
+        "wendy": "在纪念池回应阿克斯，最终与丈夫回家。",
+        "taylor": "以 CIO 身份执行并联系投资者。",
+        "senior": "独处，父子关系仍破裂。",
+        "dake": "完成逮捕，接受布莱恩主导具体起诉。",
+        "bryan": "离开抓捕现场避免成为证人，转赴东区。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "case-control",
+      "title": "东区的案子，怎样进入南区的人？",
+      "intro": "这里区分辖区负责人与具体主导起诉的检察官。",
+      "nodes": [
+        {
+          "name": "戴克",
+          "role": "以东区资源独立行动",
+          "portrait": "dake",
+          "scene": "first-price"
+        },
+        {
+          "name": "诱饵与搜查",
+          "role": "第一轮行动未找到人",
+          "portrait": null,
+          "scene": "decoys"
+        },
+        {
+          "name": "查克",
+          "role": "交换家族信息与人事影响",
+          "portrait": "chuck",
+          "scene": "new-price"
+        },
+        {
+          "name": "布莱恩",
+          "role": "转赴东区主导阿克斯案",
+          "portrait": "bryan",
+          "scene": "new-price"
+        }
+      ],
+      "result": "戴克没有被撤职，布莱恩也没有在本集成为联邦检察长；改变的是具体案件的主导安排。"
+    },
+    {
+      "id": "succession",
+      "title": "创办人缺席时，谁能让公司继续？",
+      "intro": "模型、授权、执行和返款承诺是不同步骤。",
+      "nodes": [
+        {
+          "name": "瓦格斯",
+          "role": "提出需要接任投资主管",
+          "portrait": null,
+          "scene": "continuity"
+        },
+        {
+          "name": "泰勒",
+          "role": "设计分组变现方案",
+          "portrait": "taylor",
+          "scene": "harbor-plan"
+        },
+        {
+          "name": "阿克斯",
+          "role": "最终任命并允许启动",
+          "portrait": "axe",
+          "scene": "memorial-arrest"
+        },
+        {
+          "name": "泰勒 / 团队",
+          "role": "执行并向客户承诺返款",
+          "portrait": "taylor",
+          "scene": "memorial-arrest"
+        }
+      ],
+      "result": "预计百分之五折损是方案推演；次日资本返还也是当晚承诺，均非已披露的最终结算。"
+    },
+    {
+      "id": "phone-path",
+      "title": "最后一条位置线索指向谁？",
+      "intro": "查克利用对两人联系的了解，提供新的定位方向。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "留下回家的可监听消息",
+          "portrait": "axe",
+          "scene": "decoys"
+        },
+        {
+          "name": "戴克",
+          "role": "寻人受挫，回头求助",
+          "portrait": "dake",
+          "scene": "new-price"
+        },
+        {
+          "name": "查克",
+          "role": "建议定位温迪电话",
+          "portrait": "chuck",
+          "scene": "new-price"
+        },
+        {
+          "name": "纪念池会面",
+          "role": "东区到场实施逮捕",
+          "portrait": null,
+          "scene": "memorial-arrest"
+        }
+      ],
+      "result": "温迪并未在本集被显示为向查克报信或主动参与设伏。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Today.",
+      "zh": "今天。",
+      "speaker": "温迪 → 瓦格斯",
+      "context": "他问她是否会一直在，她只承诺当下；配图为说出此词的温迪。",
+      "image": "wendy-wags",
+      "analysis": "能够兑现的短承诺，比危机中许下永久留下更尊重双方的选择。"
+    },
+    {
+      "en": "I'll do it.",
+      "zh": "我会接下来。",
+      "speaker": "泰勒 → 阿克斯",
+      "context": "码头上，泰勒说明被捕后应由自己任 CIO，并明确愿意承担。",
+      "image": "harbor",
+      "analysis": "接班在此是让老板专心应诉的责任分工，也是真正的权力变化。"
+    },
+    {
+      "en": "I did do something wrong.",
+      "zh": "我确实做了错事。",
+      "speaker": "阿克斯 → 儿子们",
+      "context": "他收回“政府都是骗子”的说法，配图为同场父子对话。",
+      "image": "sons",
+      "analysis": "他没有要求孩子先判自己无辜，留出了长大后反复认识父亲的权利。"
+    },
+    {
+      "en": "Worth it!",
+      "zh": "值得！",
+      "speaker": "查克 → 阿克斯",
+      "context": "拘留室里，面对本金与关系损失的指责，图为查克。",
+      "image": "chuck-custody",
+      "analysis": "一个人能够同意自己付钱，仍无法因此替朋友与父亲同意全部伤害。"
+    }
+  ],
+  "chineseTitle": "拿到自由球之后",
+  "subtitle": "第二季终集 · 抓到一个人，还要保住多少关系",
+  "hero": "memorial",
+  "heroTitle": "他终于被捕\n胜利却不能就此结算",
+  "heroDeck": "戴克想独立完成逮捕，查克要掌握案子的入口。\n阿克斯把投资交给泰勒，也终于向孩子承认自己犯了错。",
+  "openingTitle": "当胜负已经分明，谁还拥有选择位置的权利？",
+  "openingFact": "博伊德 提前到访，告诉阿克斯他今天将被逮捕。东区代理联邦检察官戴克起初拒绝让查克插手，也拒绝替他掩去家族投资；阿克斯则在流动中为公司、家人和自己准备应对。",
+  "openingReading": "台球中的自由球意味着对手可以重新选择击球位置。本集把这个优势拆开给不同人：控制逮捕、控制材料、控制公司，甚至控制关于父亲的解释，都在一次次交换中移动。",
+  "stamp": {
+    "value": "CUE",
+    "label": "BALL IN HAND",
+    "note": "拿到优势之后，下一杆仍要自己决定。"
+  },
+  "storyTitle": "一场逮捕之前，还有十二次选择",
+  "storyDeck": "从门口的预警，到纪念池边的会面，再到拘留室里重新开始的对抗。",
+  "intro": "季终的悬念不只是阿克斯能否被抓到，而是他被抓到时，这些人的关系会变成什么。查克索取家族免责与案件人事权，父亲索取一次被承认的付出；阿克斯试着交出控制权，温迪则把当下的帮助和永久留下分开。每个决定都让下一步成为可能，也留下新的欠账。",
+  "spoiler": "剧透范围：第二季全十二集与必要第一季背景。停在本季终场，不用第三季的调查结果和人物选择解释此刻。",
+  "catalogueIntro": "被捕预警让阿克斯在清理材料、安排公司和向孩子坦白之间奔走。戴克拒绝查克的条件，却在追捕受挫后重新求助。纪念池边，温迪接住阿克斯的道歉；拘留室里，两名对手各自计算这场胜利的价格。",
+  "comparison": {
+    "title": "两位父亲，怎样把错误交给下一代",
+    "deck": "查克需要一份否认知情的声明，阿克斯需要向孩子解释为何被捕。",
+    "left": {
+      "image": "father-son",
+      "caption": "父亲交回声明与照片的谈话，画面正面为查克。",
+      "speaker": "老查克 / 查克",
+      "title": "用保护覆盖事实",
+      "text": "父亲说自己独自行动、儿子毫不知情，与观众见过的许可并不相符。"
+    },
+    "right": {
+      "image": "sons",
+      "caption": "阿克斯当面对儿子承认自己并非总是正确。",
+      "speaker": "阿克斯 / 两个儿子",
+      "title": "让孩子看见不完美",
+      "text": "他不再把亲情建立在必须相信父亲永远正确的条件上。"
+    },
+    "rows": [
+      {
+        "label": "保护的对象",
+        "left": "儿子的政治前途与公开身份",
+        "right": "孩子认识真实父亲的机会"
+      },
+      {
+        "label": "说法的方向",
+        "left": "收紧责任，替儿子挡住牵连",
+        "right": "承认责任，放下完美形象"
+      },
+      {
+        "label": "关系的代价",
+        "left": "签字之后宣布不再往来",
+        "right": "不能承诺胜利，仍承诺继续做父亲"
+      }
+    ],
+    "insight": {
+      "kicker": "个人解读",
+      "title": "保护一个人，是否必须替他改写事实？",
+      "text": "两场谈话不能抹平两位父亲各自的过错，却让责任的方向变得可见。一份文件让事实退到关系后面，另一场坦白允许关系在事实面前继续存在。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "自由球",
+      "fact": "阿克斯在台球馆谈规则改变，让对手取得任意摆放母球的机会。",
+      "analysis": "这是他对失去优势的解释，也照见本集每次交换：戴克、查克和泰勒都在重新决定自己能站的位置。",
+      "steps": [
+        "犯规留下优势",
+        "位置重新分配",
+        "下一杆仍要选择"
+      ]
+    },
+    {
+      "title": "护照、电话与照片",
+      "fact": "阿克斯交出护照，电话被用来布置追踪；父亲的监视照让查克知道妻子的另一段私生活。",
+      "analysis": "可携带的物件同时管理自由、位置和秘密。拿到它的人因此拥有更多行动空间，图片里的人却未必拥有同等解释权。",
+      "steps": [
+        "交付身份",
+        "追踪位置",
+        "占有秘密"
+      ]
+    },
+    {
+      "title": "同样回家，不同同路",
+      "fact": "劳拉等不到约好的拥抱；片尾阿克斯独自获释，温迪与查克牵手入屋。",
+      "analysis": "这组画面不作婚姻终局宣判，只让当晚谁愿意与谁站在一起显形。胜利的热闹与关系的安静，最后留在不同门口。",
+      "steps": [
+        "承诺会来",
+        "独自离开拘留",
+        "牵手进门"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "custody",
+    "kicker": "SEASON TWO ENDS",
+    "value": "WORTH IT?",
+    "title": "代价由他说值得\n后果仍由所有人承担",
+    "text": "阿克斯被捕，也已经获释；泰勒接手投资，布莱恩将到东区主导起诉，Kate 得到新的职位。查克把父亲和朋友的损失纳入自己的胜利，阿克斯则誓言寻找那根线头。季终完成了一次逮捕，没有替任何人结清关系。"
+  }
+}

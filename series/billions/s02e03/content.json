@@ -1,0 +1,692 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 3,
+  "title": "Optimal Play",
+  "chineseTitle": "赢下牌局，看清代价",
+  "subtitle": "善意的保护、仇恨的动力，与买断回头路的人",
+  "hero": "final-table",
+  "heroTitle": "最好的打法\n不一定是同一种胜利",
+  "heroDeck": "一手弱牌识破了诈唬，\n一份保护承诺换来秘密录像。\n牌局结束，人仍留在彼此的控制里。",
+  "openingTitle": "如果能够赢，\n你愿意让什么成为筹码？",
+  "openingFact": "阿克斯考虑竞购NFL球队，又想在慈善扑克赛击败克拉科；温迪将作为后者的独立教练到场。查克虽然暂保职位，针对博伊德的调查却缺少实质案源，只找到一名曾在机上听见交易消息的空乘。",
+  "openingReading": "本集让牌桌、婚姻与刑事调查共享一种诱惑：找到别人的弱点，就把它变成自己的资源。真正的区别在于，胜利之后是否仍能承认另一个人有不被使用的生活。",
+  "stamp": {
+    "value": "10 HIGH",
+    "label": "READ THE BLUFF",
+    "note": "10、9底牌不是强牌，准确读懂一次诈唬才改变了结局。"
+  },
+  "storyTitle": "他们怎样赢\n又把谁留在身后",
+  "storyDeck": "十二个节点穿过牌桌、私人飞机、诊室和书店，观察胜负以外的选择。",
+  "intro": "阿克斯承认克拉科牌技更强，于是寻找另一位代表公司的人；查克知道零散线索不足，却让检察权先制造一个愿意合作的人。与此同时，夫妻治疗讨论的承诺，比任何公开获胜都更难给出。",
+  "catalogueIntro": "阿克斯把泰勒推上慈善牌桌，温迪则为克拉科提供辅导。检方利用空乘对刑责的恐惧寻找博伊德弱点，查克卖书接受分居现实；10、9底牌赢得的比赛，最终映出老板不能放下的人与私人旧怨。",
+  "spoiler": "剧透范围：第一季必要背景及第二季第1—3集，止于本集结尾。事实与个人解读分栏；英文短台词中文均为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E03 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e03",
+      "note": "核对顺序、人物与短台词；非官方转录，中文台词为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第二季第 3 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "note": "交叉核对剧情与剧照语境；作者推测及后续预测不作为事实。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · 2.03 人物与竞争回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17471",
+      "note": "核对温迪独立工作、泰勒的价值冲突及收藏书结尾；关于角色内心的评论只供对照。"
+    },
+    {
+      "id": "recap2",
+      "title": "Ginges Be Cray · Optimal Play 逐场回顾",
+      "url": "https://gingesbecray.com/billions-s2e3-optimal-play-recap/",
+      "note": "交叉核对空乘、牌局与检方案源；牌型细节以播出对白和实际画面为准。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S02E03 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-2/episode-3/screencaps/",
+      "note": "核对本集诊室、餐厅、询问室、机舱与McKinnon画面；不采用其自动回顾。"
+    },
+    {
+      "id": "poker",
+      "title": "PokerStars Learn · Optimal Play 决胜牌逐张分析",
+      "url": "https://www.pokerstars.uk/poker/learn/news/5-card-fiction-evoking-stu-ungar-with-a-10-high-call-on-billions/",
+      "note": "扑克平台对本集牌面的专门分析：泰勒底牌10、9，公共牌已有一对3；“十高跟注”不能理解成整手五张牌没有对子。仅用于核对本场规则与胜负，不把现实历史牌局当作剧中事实。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/stadium.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2016/12/trailer24.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "阿克斯与史蒂夫·蒂施俯瞰橄榄球场",
+      "caption": "本集截图：阿克斯讨论竞购另一支NFL球队，蒂施明确自己所属的巨人队并不出售。",
+      "kind": "episode-still",
+      "width": 1600,
+      "height": 788
+    },
+    {
+      "file": "assets/bookshop.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot36.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "查克带着文件走出Chartwell书店",
+      "caption": "本集截图：查克为独立租房出售珍藏，书店原话仍允许他日后按成本买回。",
+      "kind": "episode-still",
+      "width": 1602,
+      "height": 792
+    },
+    {
+      "file": "assets/taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot72.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "泰勒在公司解释自己不愿重返牌桌",
+      "caption": "本集截图：泰勒先拒绝参赛，不希望重新进入让自己不适的竞争。",
+      "kind": "episode-still",
+      "width": 1602,
+      "height": 812
+    },
+    {
+      "file": "assets/cannon-fodder.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot55.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "劳拉在家追问丈夫帮助博伊德的理由",
+      "caption": "本集截图：劳拉逐层追问，阿克斯最终把博伊德描述成探路的士兵。",
+      "kind": "episode-still",
+      "width": 1596,
+      "height": 808
+    },
+    {
+      "file": "assets/phone.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot8.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "阿克斯夜间用手机联系泰勒",
+      "caption": "本集截图：收到温迪将辅导克拉科的邮件后，阿克斯要求泰勒把参赛算进工作时间。",
+      "kind": "episode-still",
+      "width": 1604,
+      "height": 802
+    },
+    {
+      "file": "assets/coach-taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot81.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "阿克斯在决赛前向泰勒讲话",
+      "caption": "本集截图：阿克斯试图把受排斥的痛苦转成获胜动力，泰勒拒绝依靠仇恨。",
+      "kind": "episode-still",
+      "width": 2350,
+      "height": 1462
+    },
+    {
+      "file": "assets/final-table.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot42.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "决赛桌被围观人群包围",
+      "caption": "本集截图：泰勒与克拉科成为最后两名选手，众人的目光让私人赌约进一步放大。",
+      "kind": "episode-still",
+      "width": 1594,
+      "height": 812
+    },
+    {
+      "file": "assets/cup-return.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/ep3shot1.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "阿克斯在办公室听泰勒指出他的私人动机",
+      "caption": "本集截图：赛后泰勒退回奖杯，并指出老板一直在看温迪。",
+      "kind": "episode-still",
+      "width": 1586,
+      "height": 806
+    },
+    {
+      "file": "assets/buy-books.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/billionss2-2.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17350",
+      "alt": "阿克斯表示自己有钱买下所有珍藏",
+      "caption": "本集截图：NFL传回不欢迎竞购的意见后，阿克斯要求加价，并继续买断查克可能购回的书。",
+      "kind": "episode-still",
+      "width": 1554,
+      "height": 794
+    },
+    {
+      "file": "assets/therapy.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5402108dd5460d27d_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-3/screencaps/",
+      "alt": "查克与温迪在婚姻治疗师面前讨论孩子的要求",
+      "caption": "本集截图：查克解释自己不能向孩子保证复合，却可以保证父母始终爱他们。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/informant.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5402134e541a28d16_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-3/screencaps/",
+      "alt": "查克与布莱恩观察接受询问的空乘",
+      "caption": "本集截图：二人透过玻璃观看米凯拉的询问，随后由布莱恩接替凯特扮演保护者。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/michaela.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/540220009152ec92e_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-3/screencaps/",
+      "alt": "米凯拉在机舱内，博伊德与同行者在后方",
+      "caption": "本集截图：米凯拉回到检方说明机上所见；此图为片中回放的机舱画面，未呈现私密行为。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/mckinnon.jpg",
+      "originalUrl": "https://simkl.net/episodes/54/5402206854fe6e59b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-2/episode-3/screencaps/",
+      "alt": "Tom 麦金农在南区会议室听完检方说明",
+      "caption": "本集截图：检方利用婚外情影像刺激麦金农，他随后承诺提供国债竞标方面的信息。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/loss.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/imageedit_30_9063212789.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17471",
+      "alt": "阿克斯失利后起身离开牌桌，温迪在后方",
+      "caption": "本集截图：阿克斯输掉与克拉科的直接较量，随后改押公司最终名次；取原GIF第0帧，保留原像素。",
+      "kind": "episode-still",
+      "width": 557,
+      "height": 309
+    }
+  ],
+  "scenes": [
+    {
+      "id": "nfl-entry",
+      "act": "act1",
+      "lane": "capital",
+      "where": "橄榄球场 · 史蒂夫·蒂施会面",
+      "title": "钱让他站到场边，还没让他得到座位",
+      "image": "stadium",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯与巨人队老板史蒂夫·蒂施讨论一支即将出售的NFL球队，回忆自己小时候只能在小电视上看球。蒂施愿意支持，但提醒联盟审查并不只看账户余额。阿克斯已经开始想象自己将坐在哪个位置，对方则明确巨人队本身不出售。",
+      "analysis": "他要的超出投资组合里的另一项资产，而是从被邀请看球的人变成能拥有球队的人。蒂施的提醒提前标出本集另一道门槛：有钱竞价，不等于已被既有圈层接纳。阿克斯熟悉用结果衡量能力，却将面对一种无法只由报价决定的资格判断。",
+      "turn": "因此 → 竞购向前推进，接受程度与声誉问题仍未解决。"
+    },
+    {
+      "id": "vows-and-rent",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "婚姻治疗师诊室",
+      "title": "不作无法兑现的承诺，也要接受新的现实",
+      "image": "therapy",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克向治疗师复述孩子要求父母永不离开、重新团聚的誓言。他只保证始终爱孩子，不保证一定复合，温迪认可他是好父亲。谈到住处时，她希望他另租公寓；查克承认签租约会让分居更像长期事实，最后表示可以出售一些东西筹钱。",
+      "analysis": "这一刻的亲密来自承认对方仍有值得尊重之处，没有靠让孩子替自己施压求复合。温迪随后提出的住房边界又使查克受伤，两种感受能够并存。接受租约意味着接受对方尚未决定回来，眼前的财务安排因此也成了他必须面对的一种情感现实。",
+      "turn": "因此 → 查克开始为独立住处筹措资金，夫妻仍未承诺结束分居。"
+    },
+    {
+      "id": "help-and-scout",
+      "act": "act1",
+      "lane": "cross",
+      "where": "3 Guys餐厅 → 阿克斯与霍尔通话",
+      "title": "他帮朋友，也想知道朋友怎样被击倒",
+      "image": "cannon-fodder",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "博伊德抱怨查克虽未起诉或传票取证，公开调查已让银行业务受阻。阿克斯承诺介绍帮助，并催霍尔继续寻找查克的可利用弱点。稍后劳拉问他为何如此投入，他承认博伊德的胜败都能提供情报：对方像被派到前线探路的士兵。",
+      "analysis": "帮助可以真实存在，也可以同时服务于帮助者的自保。劳拉逐层追问，使阿克斯不必再只用友情解释资源投入。博伊德若失败，阿克斯仍能研究检方手法；这份计算把另一个人的危机变成试验，而“只有家人例外”的说法又划出了极窄的关怀边界。",
+      "turn": "因此 → 博伊德被带向霍尔的帮助，阿克斯仍把摧毁查克当作安全条件。",
+      "detail": "本节点以餐厅会面为起点，并交代当晚在家被劳拉追问后才向观众说出的理由；不是博伊德在餐厅已经知晓这份计算。"
+    },
+    {
+      "id": "manufactured-danger",
+      "act": "act1",
+      "lane": "law",
+      "where": "南区办公室 · 米凯拉询问",
+      "title": "他们知道刑责难立，仍先让她害怕",
+      "image": "informant",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "凯特找到空乘米凯拉，曾用十一万七千美元积蓄买股、获利两万四千。查克与布莱恩已认为该情形缺少他们所需的犯罪要件，仍安排凯特强调内幕交易刑责。布莱恩随后接替询问，以理解和保护换取合作，让她带录音设备回博伊德私人飞机。",
+      "analysis": "保护者的可信度建立在前一个人刚刚制造的恐惧上。两名检察官之间并非真正意见相反，而是查克安排的角色分工；米凯拉却以为自己需要拯救。让她协助查证可能获得真实线索，并不能倒过来证明最初的威胁诚实，个人好感也被混进了权力不对等的请求。",
+      "turn": "因此 → 检方获得飞机内部的观察者，但这份合作从一开始就带着信息差。"
+    },
+    {
+      "id": "compelled-to-play",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Axe Capital → 阿克斯家 → 视频通话",
+      "title": "拒绝过的比赛，被算进168小时",
+      "image": "phone",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯先以泰勒替换“美元”比尔的牌赛席位，得知泰勒曾在线上多桌同时玩牌。泰勒说竞争让自己不适，拒绝重返牌桌。克拉科则以展示独立身份说服温迪任教练；阿克斯在家收到她的邮件后，要求泰勒参赛，并把它算进此前约定的一周168小时。",
+      "analysis": "年薪协议原本承认泰勒的观察优势，如今被用来覆盖对一项私人胜负的明确拒绝。温迪去对手一边工作引发的情绪，转化为下属需要完成的任务。阿克斯能读出泰勒旧日牌技，却还没有充分接受对方有不同于自己的人生目标与情绪承受方式。",
+      "turn": "因此 → 泰勒被推向牌桌，也被要求接受新教练Gus对竞争心态的干预。"
+    },
+    {
+      "id": "sell-books",
+      "act": "act2",
+      "lane": "law",
+      "where": "Chartwell书店",
+      "title": "先卖掉能够买回的东西",
+      "image": "bookshop",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克把自己多年收集、由丘吉尔签赠蒙哥马利的《第二次世界大战》珍藏卖给熟识书商，解释自己不得不筹钱。他重读长期在开庭前默念的文字。书商表示若藏书尚未售出，他可以回来按持有成本购回；观众还能看到有人关注这笔交易。",
+      "analysis": "出售带来现金，也让查克把某种关于自己永不屈服的形象暂时交出去。书商留下的回购可能，使这是一次带退路的割舍，而非永远否定过去。另一个观察者的存在提醒观众，前一场关于监控和弱点的谈话并未停止，珍贵之物一旦离手也可能进入别人的计划。",
+      "turn": "因此 → 查克为租房腾出资金，珍藏的去向尚未由他掌握。"
+    },
+    {
+      "id": "lose-and-raise",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Alpha Cup慈善扑克赛",
+      "title": "自己输掉之后，把别人留下来继续押",
+      "image": "loss",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "温迪作为克拉科教练到场，面对阿克斯与劳拉的讥讽仍说明自己独立工作。阿克斯先提出五十万美元私人赌约，随后在对局中输给克拉科。他没有停止，改与对方加倍下注，比哪家公司选手能坚持更久；替Axe Capital留下的人是泰勒。",
+      "analysis": "承认牌技不如对手，本可帮助他选择适度投入；此刻却只成了安排另一个人出手的理由。慈善筹款、公司荣誉与私人输赢彼此重叠，让实际代表公司坐着的泰勒承受超出牌面本身的期待。温迪在场，又让阿克斯更难把失利当成单纯的比赛结果。",
+      "turn": "因此 → 赌约转移到泰勒身上，双方最终在决赛桌相遇。"
+    },
+    {
+      "id": "ten-high",
+      "act": "act2",
+      "lane": "capital",
+      "where": "决赛桌与场边",
+      "title": "读懂诈唬，也要读懂自己为何站在这里",
+      "image": "final-table",
+      "sources": [
+        "transcript",
+        "recap",
+        "poker"
+      ],
+      "fact": "决赛前阿克斯鼓励泰勒把被排斥的痛苦转成仇恨，泰勒不愿如此。克拉科用百万美元赌约施压，并以贬损称呼扰乱对手；温迪指出他的愤怒使自己变得易读，也承认自己来此有干扰阿克斯的私心。泰勒最终识破诈唬，以10、9底牌跟注获胜。",
+      "analysis": "泰勒证明不必接受老板全部价值观，仍可以准确判断对手。10、9底牌并未配成强牌；双方都用得上公牌的一对3，泰勒靠10作踢脚胜出，关键在读懂下注行为。温迪也看到自己宣称的独立工作带着报复愿望；她愿意承认，克拉科却把专业提醒视为冒犯，让愤怒继续暴露自己的打法。",
+      "turn": "因此 → Axe Capital赢得比赛与私人赌约，泰勒没有因此认可用羞辱来定义胜利。"
+    },
+    {
+      "id": "recording-and-cost",
+      "act": "act3",
+      "lane": "law",
+      "where": "南区办公室 · 米凯拉返回",
+      "title": "有用的录像留下，关系许诺没有留下",
+      "image": "michaela",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "米凯拉发现博伊德带上飞机的女子是固定收益主管汤姆·麦金农的妻子。录音不清，她自行拍下影像，检方确认可以利用，并表示她已脱离麻烦。布莱恩拒绝继续私人联系，以免案件受影响；米凯拉说自己已查到原交易并不违法，却仍为他完成任务。",
+      "analysis": "这份材料的效用与取得过程中的情感代价同时清楚。米凯拉不是没有判断力的被动工具，她核查、拍摄、补救了设备问题，却无法让对方兑现自己想象的关系。布莱恩回到职业界限时很谨慎，这份谨慎却发生在他先用保护姿态换到合作之后。",
+      "turn": "因此 → 检方没有直接拿到国债操纵证据，却找到能接近麦金农的新杠杆。"
+    },
+    {
+      "id": "give-back-cup",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Axe Capital · 赛后办公室",
+      "title": "奖杯可以放下，老板的牵挂却藏不住",
+      "image": "cup-return",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "同事为泰勒获胜欢呼后，泰勒把奖杯放回阿克斯桌上，指出他一直在看场边的温迪。泰勒先以为老板在查她是否传递牌讯，后来意识到这不只是打败克拉科，而是想让她看着对方失控。阿克斯说击垮对方才赢得了比赛，泰勒反问是否如此。",
+      "analysis": "奖杯归还并非否认自己的技艺，而是拒绝让公共荣誉替老板解释全部动机。阿克斯要求下属不要拥有妨碍胜利的牵挂，泰勒却看出他自己正受牵挂驱动。那句反问把必要手段重新放回选择之中：能获得结果，不证明每一种伤害都是获得结果所必需的。",
+      "turn": "因此 → 能力得到承认，价值观上的距离也被当面说出。"
+    },
+    {
+      "id": "mckinnon-turns",
+      "act": "act3",
+      "lane": "law",
+      "where": "南区会议室",
+      "title": "私人受辱，被转成正式合作的动力",
+      "image": "mckinnon",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克与布莱恩让麦金农观看妻子与博伊德的影像。麦金农愤怒并想报复婚姻背叛，查克把矛头引向博伊德，描述其行为是支配与羞辱，鼓动他用法律让对方失势。麦金农随后声称博伊德在操纵国债竞标，承诺尽力取得材料。",
+      "analysis": "检方从一段与金融犯罪无直接关系的私人影像，得到一位可能掌握业务内情的人。这是新的调查起点，而非操纵竞标已经被证明。查克不只是安慰受伤者，还主动扩张伤害的含义，使对方更愿意投入自己的目标；报复欲在这里被赋予正义形式。",
+      "turn": "因此 → 博伊德案获得内部合作人的明确指控与取证承诺，仍需要后续材料支持。"
+    },
+    {
+      "id": "close-exits",
+      "act": "act3",
+      "lane": "capital",
+      "where": "阿克斯办公室 · 本集结尾",
+      "title": "钱买不到接纳，就先买断别人的回头路",
+      "image": "buy-books",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "联盟经非正式渠道表示，希望阿克斯不要参与竞购，理由包括负面法律观感与九一一交易曝光。他决定在已经很高的报价上继续加价。随后助手送来查克卖出的签名珍藏，说明霍尔要求现金购买、不留买主记录；阿克斯要把书入库，并买尽各地仍出售的同类签名初版。",
+      "analysis": "球队入场受阻与藏书收购接在一起，显出金钱控制力的边界和转向。对联盟，他仍相信更高价格能改变意愿；对查克，他不需要自己阅读或展示珍藏，只要让原主人无法轻易买回。胜利后的老板没有停下，新的控制欲已经从牌桌延伸到别人的私人记忆。",
+      "turn": "因此 → 阿克斯扩大竞价，也把查克原本保留的回购可能主动封住。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "看见弱点",
+      "deck": "入场资格、家庭承诺与私人飞机的入口。",
+      "range": "01—04",
+      "summary": "阿克斯寻找NFL席位并帮助博伊德；查克接受分居现实，检方以空乘的恐惧建立合作。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "让别人替自己继续赢",
+      "deck": "168小时协议进入牌赛，私人赌约不断加码。",
+      "range": "05—08",
+      "summary": "泰勒被要求参赛，查克卖掉藏书；阿克斯直接失利后改押团队，泰勒以10、9底牌获胜。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "牌局之后还剩什么",
+      "deck": "录像、奖杯、证词与被买断的藏书。",
+      "range": "09—12",
+      "summary": "米凯拉失去私人期待，泰勒指出老板牵挂，检方争取内部合作；阿克斯结尾继续加价和控制。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官 / 分居父亲",
+      "fact": "接受独立租房现实，卖藏书筹钱，利用婚外情影像争取麦金农合作。",
+      "analysis": "对孩子承诺时知道克制，推进案件时却主动让别人的痛苦变成工具。"
+    },
+    "axe": {
+      "role": "基金创办人 / 牌赛参与者",
+      "fact": "助博伊德应对调查，要求泰勒参赛，结尾加价竞购球队并收走查克藏书。",
+      "analysis": "总能设计下一步，却很难承认不被接纳、被离开和自己仍有牵挂。"
+    },
+    "wendy": {
+      "role": "克拉科的独立表现教练",
+      "fact": "肯定查克的父亲角色，辅导克拉科，也承认来牌赛有干扰阿克斯的私心。",
+      "analysis": "独立身份需要行动检验；看清自己的报复成分，才不必把它隐藏在职业语言里。"
+    },
+    "taylor": {
+      "role": "公司新任分析者 / Alpha Cup代表",
+      "fact": "不愿参赛仍被要求上桌，以10、9底牌获胜，次日归还奖杯并质疑老板动机。",
+      "analysis": "愿意证明能力，仍拒绝把仇恨与羞辱视为一切成功的必要条件。"
+    },
+    "bryan": {
+      "role": "博伊德案的助理检察官",
+      "fact": "以保护者身份争取米凯拉，取得影像后拒绝继续私人联系。",
+      "analysis": "清楚案件风险，却已把个人亲近感放进了一场并不对等的协作。"
+    },
+    "krakow": {
+      "role": "对冲基金经理 / 决赛选手",
+      "fact": "聘温迪任教练，击败阿克斯后加倍赌约，最终诈唬被泰勒跟注识破。",
+      "analysis": "把专业提醒当成冒犯，让对弱者的轻蔑反过来暴露自己。"
+    },
+    "michaela": {
+      "role": "Spartan-Ives私人飞机空乘",
+      "fact": "被交易刑责威胁促成合作，自行拍摄影像，最后说明查过自己的交易不违法。",
+      "analysis": "有能力补救任务，也能看见被利用；合作成果与她希望得到的关系并不对等。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 每个人都想找到入口",
+      "note": "身份、职位与关系的限制尚未松动。",
+      "edges": [
+        "调查目标转向博伊德",
+        "承认彼此仍是好父母",
+        "独立工作触发嫉妒"
+      ],
+      "details": {
+        "chuck": "必须让公开调查获得实质案源。",
+        "axe": "在新圈层寻找球队席位。",
+        "wendy": "接受克拉科辅导邀约，维持独立表态。",
+        "taylor": "不想回到伤人的牌赛竞争。",
+        "bryan": "知道空乘交易难按设想追罪。",
+        "krakow": "用独立身份与丰厚报酬招揽温迪。",
+        "michaela": "担心积蓄交易会让自己入狱。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 保护与聘用变成筹码",
+      "note": "别人被要求承担自己的胜负。",
+      "edges": [
+        "博伊德被当作探路者",
+        "卖书接受分居成本",
+        "她站在对手一边"
+      ],
+      "details": {
+        "chuck": "批准利用空乘取得机上信息。",
+        "axe": "用整周时间协议要求泰勒参赛。",
+        "wendy": "在牌桌边提醒克拉科松开愤怒。",
+        "taylor": "拒绝依靠仇恨，仍识破诈唬获胜。",
+        "bryan": "以个人理解换来合作承诺。",
+        "krakow": "加码并试图用羞辱击溃泰勒。",
+        "michaela": "配戴设备返回飞机，主动补拍影像。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 赢了以后仍要回答",
+      "note": "结果不自动抹去取得结果的方法。",
+      "edges": [
+        "藏书被买断，私斗延续",
+        "尊重仍在，分居未结束",
+        "泰勒点明他的牵挂"
+      ],
+      "details": {
+        "chuck": "争取到麦金农声称掌握的国债线索。",
+        "axe": "拿到奖杯，却被指出真实私人动机。",
+        "wendy": "承认自己也想干扰阿克斯。",
+        "taylor": "退回奖杯，保留对老板手段的质疑。",
+        "bryan": "结束米凯拉任务，也拒绝继续私人来往。",
+        "krakow": "输掉决赛与加倍赌约。",
+        "michaela": "已核查交易，知道刑责威胁背后的信息差。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "plane-to-witness",
+      "title": "怎样从一个本不该害怕的人，找到新的内部证人？",
+      "intro": "刑责威胁先制造合作需要，材料再被用来争取另一名受伤者。",
+      "nodes": [
+        {
+          "name": "检方角色分工",
+          "role": "凯特施压，布莱恩提供保护",
+          "portrait": "bryan",
+          "scene": "manufactured-danger"
+        },
+        {
+          "name": "米凯拉",
+          "role": "录音失败后主动拍摄",
+          "portrait": "michaela",
+          "scene": "recording-and-cost"
+        },
+        {
+          "name": "麦金农",
+          "role": "看见妻子与博伊德影像",
+          "portrait": null,
+          "scene": "mckinnon-turns"
+        },
+        {
+          "name": "国债竞标线索",
+          "role": "他承诺取得更多材料",
+          "portrait": null,
+          "scene": "mckinnon-turns"
+        }
+      ],
+      "result": "合作链已经建立，影像证明的是私人行为；对金融犯罪的指控仍待验证。"
+    },
+    {
+      "id": "game-to-motive",
+      "title": "牌技怎样被装进老板的私人胜负？",
+      "intro": "从拒绝出赛，到被安排代表公司，再到赛后说出不同判断。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "用168小时协议要求参赛",
+          "portrait": "axe",
+          "scene": "compelled-to-play"
+        },
+        {
+          "name": "私人赌约",
+          "role": "自己落败后改押团队",
+          "portrait": null,
+          "scene": "lose-and-raise"
+        },
+        {
+          "name": "泰勒",
+          "role": "识破诈唬赢得比赛",
+          "portrait": "taylor",
+          "scene": "ten-high"
+        },
+        {
+          "name": "退回奖杯",
+          "role": "指出温迪才是私人焦点",
+          "portrait": "taylor",
+          "scene": "give-back-cup"
+        }
+      ],
+      "result": "技术上的最佳回应可以赢牌，仍不能决定赢牌应当服务谁的情绪。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "You give me your cooperation, I will give you my protection.",
+      "zh": "你给我合作，我给你保护。",
+      "speaker": "布莱恩 → 米凯拉",
+      "context": "他接替凯特的威胁式询问，以保护者姿态争取空乘。配图为同场检方在玻璃外观察。",
+      "image": "informant",
+      "analysis": "说话人知道对方未必需要这种保护；好意因此成为权力制造的需要。"
+    },
+    {
+      "en": "It's not a choice.",
+      "zh": "这不是可以选择的。",
+      "speaker": "阿克斯 → 泰勒",
+      "context": "决赛前，泰勒表示愿从竞争中学到不同结论，阿克斯否定了这种选择。",
+      "image": "coach-taylor",
+      "analysis": "老板从理解差异转向规定成功者只能怎样生活，招揽时的尊重受到检验。"
+    },
+    {
+      "en": "Was it?",
+      "zh": "真是这样吗？",
+      "speaker": "泰勒 → 阿克斯",
+      "context": "老板说只有击垮克拉科才能获胜，泰勒在退回奖杯后反问。",
+      "image": "cup-return",
+      "analysis": "获胜已发生，问题仍指向伤害是否必要；一句反问拒绝替全部手段背书。"
+    }
+  ],
+  "comparison": {
+    "title": "两种让别人愿意上场的方法",
+    "deck": "他们都找到了能力，也都让能力承担自己的私人需要。",
+    "left": {
+      "image": "taylor",
+      "caption": "泰勒先在公司明确表示不愿重返牌桌。",
+      "speaker": "阿克斯 → 泰勒",
+      "title": "把雇佣时间扩展成竞争义务",
+      "text": "知道对方擅长什么，又把“不想这样赢”解释成必须克服的障碍。"
+    },
+    "right": {
+      "image": "informant",
+      "caption": "检方安排空乘先受威胁，再得到保护承诺。",
+      "speaker": "检方 → 米凯拉",
+      "title": "先制造危险，再提供保护",
+      "text": "明知案子有要件问题，仍让信息较少的人以为合作是脱险的主要办法。"
+    },
+    "rows": [
+      {
+        "label": "对方真正的价值",
+        "left": "牌技、观察与不易被激怒",
+        "right": "机舱出入、观察与主动补救"
+      },
+      {
+        "label": "掌权者的需要",
+        "left": "击败克拉科并让温迪看见",
+        "right": "为已公开的博伊德调查取得突破"
+      },
+      {
+        "label": "结果后的回应",
+        "left": "退回奖杯并质疑必要性",
+        "right": "指出自己已经查过原交易不违法"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "被使用的人，也会反过来读懂使用者",
+      "text": "泰勒与米凯拉都完成了任务，也都看见对方没有公开的部分。他们的反应使结果无法保持纯粹的胜利叙事：能力仍属于自己，掌权者不能因为任务成功就垄断这件事应该怎样被理解。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "座位由谁分配",
+      "fact": "蒂施提醒NFL不只看钱；阿克斯则用出资者身份把“美元”比尔的牌位交给泰勒。",
+      "analysis": "面对联盟，他是等待被认可的人；回到公司，他立即成为能决定谁上场的人。两种座位分配的差异解释了控制欲为何向下游延伸。",
+      "steps": [
+        "申请入场",
+        "更换代表",
+        "强制参赛"
+      ]
+    },
+    {
+      "title": "没有载入家庭的承诺",
+      "fact": "查克向孩子保证爱与照顾，没有保证复合；温迪认可他是好父亲，仍要求独立住处。",
+      "analysis": "亲密并非把不确定性说成一定成功。承认不能保证的部分，反而使可以兑现的承诺更可信，也让相互尊重能与暂时分离并存。",
+      "steps": [
+        "孩子要誓言",
+        "只承诺能做到的",
+        "接受租约"
+      ]
+    },
+    {
+      "title": "书从意义变成筹码",
+      "fact": "查克卖出的丘吉尔签名书曾给他开庭勇气；阿克斯收来后要入库，并买尽其他可出售初版。",
+      "analysis": "同一件收藏在一边是可日后购回的记忆，在另一边是封住对手退路的资源。现金隐去买家，金钱却把私人记忆变成一种不公开的控制。",
+      "steps": [
+        "暂时出售",
+        "匿名收购",
+        "封住回购"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "act3",
+    "leftImage": "bookshop",
+    "leftCaption": "查克离开书店，原本还保留日后买回的可能。",
+    "rightImage": "buy-books",
+    "rightCaption": "阿克斯要求收书入库，并继续买尽同类签名初版。",
+    "kicker": "THE SAME BOOKS",
+    "title": "一个人卖的是过去，另一个人买的是控制",
+    "text": "书商提供的是一笔带回头路的交易，阿克斯要的却是让回头路越来越窄。收藏本身没有改变，买主的意图改变了它对查克的意义；本集结尾，查克仍不知道买主是谁。",
+    "scene": "close-exits"
+  },
+  "closing": {
+    "image": "buy-books",
+    "kicker": "AFTER THE WIN",
+    "value": "NO EXIT",
+    "title": "牌局散场\n控制仍在加码",
+    "text": "冠军归了公司，国债案有了新合作者。阿克斯却没有停在胜利里：球队不欢迎他，他提高报价；查克可能买回珍藏，他就要求继续买断。被拒绝之后，他仍试着让金钱替世界给出另一个回答。"
+  }
+}

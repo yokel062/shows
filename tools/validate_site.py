@@ -88,13 +88,14 @@ def main():
     for key in ['sink', 'sobel', 'winters', 'nixon']:
         assert '../shared/' + portraits[key]['file'] in pages[(first / 'index.html').resolve()].images
     billions = ROOT / 'series' / 'billions'
-    from build_billions import validate
+    from build_billions import SEASON_TITLES, validate
     billions_portraits = json.loads((billions / 'shared' / 'portraits.json').read_text())['characters']
     checked_seasons = []
-    for season_number in [1, 3]:
-        metadata = billions / ('season.json' if season_number == 1 else 'season-3/season.json')
+    for season_number in SEASON_TITLES:
+        metadata = billions / ('season.json' if season_number == 1 else f'season-{season_number}/season.json')
         if not metadata.is_file():
             assert season_number != 1
+            assert not any(billions.glob(f's{season_number:02}e??/content.json')), f'Billions season {season_number} has source files but no catalogue; run the season builder'
             continue
         season = json.loads(metadata.read_text())
         assert season['season'] == season_number and season['complete']

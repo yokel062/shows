@@ -1,0 +1,676 @@
+{
+  "version": 2,
+  "season": 2,
+  "episode": 2,
+  "title": "Dead Cat Bounce",
+  "chineseTitle": "逆转方向，买下一点时间",
+  "subtitle": "被看见的工厂、被看见的人，与不得不继续的调查",
+  "hero": "hire",
+  "heroTitle": "看见别人忽略的\n也看见自己困住的",
+  "heroDeck": "泰勒读出了卫星镜头外的空白，\n温迪让查克试着转向。\n反弹可以发生，危险尚未过去。",
+  "openingTitle": "当原来的办法失效，\n你还认得另一条路吗？",
+  "openingFact": "查克被127项诉讼与戴克调查夹住，距离华盛顿约见只剩三天。阿克斯则在金融峰会公开羞辱克拉科，随后发现公司里有一名能从对手说话方式中找出线索的实习生。",
+  "openingReading": "本集的重要能力是重新定义所见：活跃的工厂未必在生产，办公室里的局外人未必没有价值，政府的朋友也未必是应该回避的目标。改变角度能争取时间，但不会自动消除后果。",
+  "stamp": {
+    "value": "180°",
+    "label": "CHANGE THE POSITION",
+    "note": "转向不是再把同一套办法做得更用力。"
+  },
+  "storyTitle": "从读懂对手\n到改变自己的方向",
+  "storyDeck": "十二个节点连接研究、询问、招揽与一次公开施压。",
+  "intro": "阿克斯想让克拉科为挖角温迪付代价，查克想找到能救职位的大案。两种目标都需要别人提供信息；问题在于，信息被看懂以后，掌权者愿不愿意听见阻止自己继续冲动的声音。",
+  "catalogueIntro": "泰勒从对手发言与卫星图像找出做空线索，阿克斯开始承认这位局外人的价值。温迪接受奖金调查，也提醒查克改变方向；一场针对政府朋友的公开调查让解职暂缓，却把更大的责任带进办公室。",
+  "spoiler": "剧透范围：第一季必要背景及第二季第1—2集，止于本集结尾。事实与个人解读分栏；英文短台词中文均为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S02E02 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s02e02",
+      "note": "核对顺序、人物与短台词；非官方转录，中文台词为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第二季第 2 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "note": "交叉核对剧情与剧照语境；作者推测及后续预测不作为事实。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · 2.02 人物与选择回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=17318",
+      "note": "核对询问、招揽、温迪的180度练习及结尾求助；角色评论不当作动机定论。"
+    },
+    {
+      "id": "recap2",
+      "title": "Ginges Be Cray · Dead Cat Bounce 逐场回顾",
+      "url": "https://gingesbecray.com/billions-s2e2-dead-cat-bounce-recap/",
+      "note": "交叉核对案源、家庭与白宫压力线；人物译名和薪酬以转录为准。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/panel.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot2.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "阿克斯、博伊德与克拉科坐在同一场峰会",
+      "caption": "本集截图：博伊德主持峰会，阿克斯与克拉科当众互相攻击。",
+      "kind": "episode-still",
+      "width": 2698,
+      "height": 1490
+    },
+    {
+      "file": "assets/ira.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot14.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "艾拉带来的三明治放在查克桌上",
+      "caption": "本集截图：艾拉带着食物来讨论127项诉讼，老朋友先以日常熟悉感进入严肃问题。",
+      "kind": "episode-still",
+      "width": 972,
+      "height": 660
+    },
+    {
+      "file": "assets/first-meeting.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot4.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "泰勒和马菲站在阿克斯办公室",
+      "caption": "本集截图：泰勒自我介绍，并向阿克斯展示对克拉科公开发言的分析。",
+      "kind": "episode-still",
+      "width": 1558,
+      "height": 788
+    },
+    {
+      "file": "assets/wendy-interview.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot11.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "温迪在戴克对面接受询问",
+      "caption": "本集截图：温迪以职业保密原则拒绝交代客户会谈内容。",
+      "kind": "episode-still",
+      "width": 2596,
+      "height": 1492
+    },
+    {
+      "file": "assets/short.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot9.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "阿克斯在办公室布置对Anata-Tek的操作",
+      "caption": "本集截图：阿克斯把研究发现转为交易与公开发问。",
+      "kind": "episode-still",
+      "width": 2488,
+      "height": 1472
+    },
+    {
+      "file": "assets/immunity.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot15.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "阿克斯在会见戴克时神情严肃",
+      "caption": "本集截图：戴克来访，提出以奖金被指为贿赂的证词换取豁免。",
+      "kind": "episode-still",
+      "width": 2696,
+      "height": 1512
+    },
+    {
+      "file": "assets/warehouse.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot19.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "平板显示实地拍到的空仓库",
+      "caption": "本集截图：“美元”比尔报告仓库和卡车没有货物，补强此前的卫星图像判断。",
+      "kind": "episode-still",
+      "width": 2648,
+      "height": 1452
+    },
+    {
+      "file": "assets/hire.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot5.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "阿克斯与泰勒在暮色中谈工作约定",
+      "caption": "本集截图：阿克斯将泰勒的旁观位置说成观察优势，双方谈成逐周续约。",
+      "kind": "episode-still",
+      "width": 1504,
+      "height": 798
+    },
+    {
+      "file": "assets/ring.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot10.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "查克在办公室与父亲讨论婚姻",
+      "caption": "本集截图：父亲提出用昂贵戒指修补婚姻，查克拒绝动用盲目信托。",
+      "kind": "episode-still",
+      "width": 2610,
+      "height": 1498
+    },
+    {
+      "file": "assets/washington.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot22.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "查克在华盛顿直视对方",
+      "caption": "本集截图：查克面对司法部长；公开调查已使立即解职变得困难。",
+      "kind": "episode-still",
+      "width": 2568,
+      "height": 1470
+    },
+    {
+      "file": "assets/boyd.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/ep2shot23.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17228",
+      "alt": "阿克斯面对到访的博伊德",
+      "caption": "本集截图：结尾博伊德来向阿克斯寻求对付查克的方法。",
+      "kind": "episode-still",
+      "width": 2584,
+      "height": 1446
+    },
+    {
+      "file": "assets/therapy.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/02/imageedit_7_2550092648.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17318",
+      "alt": "温迪与查克并坐在婚姻治疗师诊室",
+      "caption": "本集截图：两人请治疗师暂时离开，讨论怎样回应调查；取原站GIF第0帧，保留原像素。",
+      "kind": "episode-still",
+      "width": 683,
+      "height": 383
+    },
+    {
+      "file": "assets/pivot.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2017/03/imageedit_58_3473370108.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=17318",
+      "alt": "温迪在家中向查克提出一百八十度转向",
+      "caption": "本集截图：温迪用改变交易方向的练习提醒查克；取原站GIF第0帧，保留原像素。",
+      "kind": "episode-still",
+      "width": 939,
+      "height": 531
+    }
+  ],
+  "scenes": [
+    {
+      "id": "panel-fight",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Spartan-Ives · 全球思想领袖峰会",
+      "title": "他们以为在争输赢，主持人已经得利",
+      "image": "panel",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "克拉科在峰会谈投资理念，阿克斯嘲讽他的知识出自别人代写，双方拿罚款与调查记录互攻。主持人博伊德表面劝架，事后却承认故意选择会擦出冲突的嘉宾：所有人都会谈论这场活动，也更想成为Spartan-Ives的客户。",
+      "analysis": "阿克斯为温迪被挖角发怒，也在公开较量中展示优越感；博伊德把两人的真实敌意当成会议产品。场上的获胜者未必就是生意上的获益者。阿克斯意识到自己再次扮演被红布引动的公牛，却仍带着证明对方不如自己的冲动回到公司。",
+      "turn": "因此 → 私人敌意变成新的交易目标，阿克斯要求寻找克拉科的弱处。"
+    },
+    {
+      "id": "find-case",
+      "act": "act1",
+      "lane": "law",
+      "where": "查克办公室 · 艾拉来访",
+      "title": "用一个不能轻易换人的案子，保住办案人",
+      "image": "ira",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "司法部没有替查克应付诉讼，老朋友艾拉接手法律帮助，提出办一桩能向政府显示忠诚的大案。查克随即给团队一天，要求寻找别人不敢碰的公司级犯罪，并暂时绕开Axe Capital；布莱恩怀疑这份不可能任务另有目的。",
+      "analysis": "艾拉谈的是职位生存，查克向下属使用的却是扩大正义使命的语言。两者可能指向真实案件，不能因此视作同一件事：查克需要的不只是值得起诉的行为，还要是由自己办理才对上级有特殊价值的目标。下属觉察到的正是这层没有公开说出的筛选条件。",
+      "turn": "因此 → 搜寻证据与竞争升迁交织，凯特、朗尼和布莱恩各自衡量是否投入。"
+    },
+    {
+      "id": "satellite",
+      "act": "act1",
+      "lane": "capital",
+      "where": "阿克斯办公室 · 泰勒首次正式汇报",
+      "title": "卡车很多，可能只是因为有人在看",
+      "image": "first-meeting",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒介绍自己的非二元称谓，随后说明从克拉科对中国语气的改变，追到卫星图像服务与珠三角工厂。工厂在卫星统计报道后突然出现繁忙车流，二人推断可能是在演生产给投资者看；阿克斯要求继续找它名义上供应的美国公司。",
+      "analysis": "图像没有自动给出真相，观察者必须问活动为什么偏偏在那个时间出现。泰勒把公开发言、供应商与报道日期连成可以检验的假设，阿克斯则把问题推进到更可操作的交易对象。马菲的抢答被打断，显示老板开始区分信息的转述者与真正提出判断的人。",
+      "turn": "因此 → 研究转向可穿戴设备公司Anata-Tek，假工厂假设还需要进一步验证。"
+    },
+    {
+      "id": "tell-truth",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "婚姻治疗师诊室",
+      "title": "这次他没有要求她替自己编故事",
+      "image": "therapy",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "老查克先向温迪施压，认为家族前途比暂时分居重要。夫妻随后在婚姻治疗开始前请治疗师离开，讨论她将接受的询问。温迪担心会谈笔记被串起后毁掉职业，查克明确要求如实回答、不为自己留下谎言，以免两人一起陷入拘押风险。",
+      "analysis": "他们仍对隐瞒和侵犯保密义务感到愤怒，却在这一刻承认家庭需要至少一人保持安全。查克没有要求妻子把婚姻忠诚换成虚假证词，这给了温迪一条可以独立行动的底线。它改善了眼前的协作条件，并不意味着分居原因或已经破损的信任就此消失。",
+      "turn": "因此 → 温迪进入询问时保留说实话的空间，同时坚持不公开客户的会谈内容。"
+    },
+    {
+      "id": "question-wendy",
+      "act": "act2",
+      "lane": "law",
+      "where": "戴克办公室",
+      "title": "保密不是否认，他继续从缝隙追问",
+      "image": "wendy-interview",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "戴克把奖金、分居与离职的日期并列，怀疑夫妻安排了有利外观。温迪说奖金是复杂会谈的报酬，以医生保密义务拒绝透露内容；问到查克是否真的回避阿克斯案，她说当时按丈夫所言相信，却无法确定自己从未听见他讨论该案。",
+      "analysis": "温迪没有用无所不知的姿态替丈夫担保，也没有为自保而交出客户。戴克试图把不能完全排除的事情推进成肯定结论，她的回答仍维持证据边界：不知道是否发生，不等于确认发生。询问于是转向更接近办案现场的布莱恩，压力不会随会面结束而停止。",
+      "turn": "因此 → 戴克继续追查回避真实性，也向阿克斯提供可能改变双方处境的交换。"
+    },
+    {
+      "id": "short-tweet",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Axe Capital · 交易与公开账号",
+      "title": "先做空，再公开问出供应商的问题",
+      "image": "short",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒指出Anata-Tek的明星可穿戴产品依赖那家可疑工厂提供芯片。阿克斯下令建立空头，并在完成下单后发推质疑供应商。股价盘后急跌、团队回补后，他又想等短暂反弹重新卖空，目标已经从十个百分点的下跌扩展到更猛烈的打击。",
+      "analysis": "公开提问传播的是实际研究疑点，但提问者已经持有能从下跌获利的仓位。阿克斯特意不隐去自己，是要让克拉科认出攻击来源。交易机会因此与羞辱对手绑定；初次成功会加强这种冲动，也增加他忽略反方向信息或被对手诱导的可能。",
+      "turn": "因此 → 进一步加码前，斯蒂芙要求检查私人敌意有没有取代必要的核实。"
+    },
+    {
+      "id": "offer-immunity",
+      "act": "act2",
+      "lane": "cross",
+      "where": "Axe Capital · 戴克来访",
+      "title": "只要把奖金说成贿赂，他就能拿到豁免",
+      "image": "immunity",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "戴克会见阿克斯和巴赫，提出司法部授权的豁免条件：阿克斯若作证五百万美元是给查克的贿赂，便可免于追诉。会后巴赫明确说自己知道它并非贿赂，但记录排列得上；接受能毁掉查克，也会让温迪遭到起诉。阿克斯没有当场定案。",
+      "analysis": "戴克把追求公正放在交换语言里，条件却可能奖励一个愿意改写款项含义的人。巴赫的说明让观众看到法律外观与已知经过的距离，而温迪的风险又切断“敌人倒下便全是胜利”的想象。直到本集结束，观众尚不能把阿克斯的犹豫写成已经拒绝或接受。",
+      "turn": "因此 → 击败查克与保护温迪发生直接冲突，豁免提议保持悬而未决。"
+    },
+    {
+      "id": "verify-first",
+      "act": "act2",
+      "lane": "capital",
+      "where": "阿克斯办公室 · 仓库调查回报",
+      "title": "能听见一个不合时宜的提醒，才算保留判断",
+      "image": "warehouse",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "斯蒂芙提醒克拉科可能预料到阿克斯的仇意，急于追击有落入陷阱的风险。瓦格斯先斥责她越界，阿克斯却认可问题，暂停下一步等待“美元”比尔。实地回报显示仓库与卡车均为空，假工厂判断获得补强，Anata-Tek最终跌去一半。",
+      "analysis": "这一暂停没有削弱老板的进攻能力，反而把最初的推断与可落地的观察接上。瓦格斯原以为职责是保护老板免受质疑，阿克斯此刻承认质疑也可能保护决策。卫星看见车在动，地面调查问车里有什么；两层证据相互校验，才让表演不再等于生产。",
+      "turn": "因此 → 做空获得本集明确结果，泰勒从隐身分析者变成阿克斯直接争取的人才。"
+    },
+    {
+      "id": "week-to-week",
+      "act": "act3",
+      "lane": "capital",
+      "where": "公司外 · 傍晚",
+      "title": "他给出的不只是钱，还有一种被看见",
+      "image": "hire",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯感谢泰勒找出问题，追问即将离职的人为何如此在意结果。泰勒说喜欢判断正确，也在测试阿克斯是否真有传闻中的能力。老板用旁观者的玻璃可以成为镜头来劝留；双方谈成一百万美元年薪按比例支付、逐周续约，并按每周168小时计算。",
+      "analysis": "泰勒没有被一次夸奖就纳入熟悉的组织承诺，而是为持续观察保留退出窗口。阿克斯认识到局外人的不适也带来认知距离，把差异解释成优势。这种理解是真实吸引力，同时要求整周时间投入；得到尊重与被全面使用的张力，在协议成立的一刻已经出现。",
+      "turn": "因此 → 泰勒留下继续尝试，阿克斯在公司内获得新的观察能力与直接对话者。"
+    },
+    {
+      "id": "one-eighty",
+      "act": "act3",
+      "lane": "cross",
+      "where": "查克办公室 → 家中",
+      "title": "讨好上级失败以后，她让他试着做反向选择",
+      "image": "pivot",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "朗尼把GoodStop克扣加班费的案源交给凯特，查克先经副部长推荐，因CEO资助攻击政府的政治行动委员会而期待获留任。老查克送来用信托买的戒指被儿子拒绝，华盛顿仍决定换人。温迪得知局面后，提出把失败思路转向一百八十度的练习。",
+      "analysis": "查克已经尝试提供上级喜欢的战利品，失败说明问题不在猎物不够好，而在上级不再需要这个猎手。温迪没有替他选一位敌人，只把注意力从原方向推开。拒绝父亲的戒指也说明他知道有些关系不能靠昂贵礼物修复，即使父亲仍把金钱当作通用答案。",
+      "turn": "因此 → 查克重新想起曾被自己否决的Spartan-Ives线索，并准备改变消息的公开方式。"
+    },
+    {
+      "id": "public-investigation",
+      "act": "act3",
+      "lane": "law",
+      "where": "电话与媒体 → 华盛顿司法部",
+      "title": "把对方的朋友变成不能偷偷保护的人",
+      "image": "washington",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克让斯派罗斯向记者表示证监会没有调查Spartan-Ives、但无法替南区作答，再以不确认的方式把政府支持与调查绑在一起。新闻扩散后，司法部长承认立即解职会像在保护朋友博伊德；她允许他办案，却警告聚光灯过去后仍可能将他撤换。",
+      "analysis": "查克没有靠证明自己无辜保住工作，而是提高此刻解职的政治成本。公开性成为保护，也把原先主要用于求生的目标变成必须兑现的重大调查。他得到的是时间而非免罪，更不是已经击败博伊德；司法部长仍保留以后处理他的权力与明确的不满。",
+      "turn": "因此 → 调查正式成为查克留任的理由，也要求他找出足以支持起诉的事实。"
+    },
+    {
+      "id": "boyd-asks",
+      "act": "act3",
+      "lane": "cross",
+      "where": "Axe Capital · 结尾来访",
+      "title": "曾经保持距离的人，如今需要他的办法",
+      "image": "boyd",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "博伊德得知查克将调查自己，来到阿克斯面前求取应对方法。阿克斯提醒对方，自己受查时他曾刻意疏远，随后问是否准备越过通常的道德界限。博伊德反问若从未做过这种事，又怎能爬到Spartan-Ives顶端；二人以握手结束会面。",
+      "analysis": "峰会主持人开场把阿克斯当成能吸引客户的斗牛，结尾却必须向这位声誉有污点的人求助。共同压力没有抹去旧怨，只改变了谁更需要谁。阿克斯给出的不是可公开传授的合规清单，而是意愿测试；握手确认靠近，具体会怎样应对仍留在本集边界之外。",
+      "turn": "因此 → 查克买到时间，阿克斯收获一个主动求援的金融权力中心。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "重新辨认看见的东西",
+      "deck": "公开争执、隐藏动机与卫星中的车流。",
+      "range": "01—04",
+      "summary": "阿克斯被卷入峰会表演，查克寻找救命大案；泰勒提出可检验的假设，夫妻约定不以谎言应付调查。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "一张图还不够",
+      "deck": "证据需要验证，询问也可能带着交换。",
+      "range": "05—08",
+      "summary": "温迪坚守保密，阿克斯做空并收到豁免提议；斯蒂芙叫停冲动，实地调查补强判断。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "改变方向，争取时间",
+      "deck": "逐周约定、公开调查与结尾求助。",
+      "range": "09—12",
+      "summary": "泰勒谈成保留退出空间的工作安排，查克借公开调查暂缓解职，博伊德转来寻找阿克斯。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "面临解职的南区联邦检察官",
+      "fact": "从寻找政府敌人转向公开调查政府朋友，暂时保住职位。",
+      "analysis": "把不能被秘密撤换的处境创造出来，也把自己绑定到必须办好的新案。"
+    },
+    "axe": {
+      "role": "基金创办人",
+      "fact": "利用泰勒研究打击克拉科，接受暂停核实，招揽泰勒并接待博伊德。",
+      "analysis": "能承认好判断，却仍把研究能力带进私人胜负与关系争夺。"
+    },
+    "wendy": {
+      "role": "独立表现教练 / 查克的分居妻子",
+      "fact": "拒绝披露诊疗内容，如实回答自身所知，随后提示查克180度转向。",
+      "analysis": "保密与不撒谎共同构成边界；专业能力仍能帮助丈夫，但未换来复合承诺。"
+    },
+    "dake": {
+      "role": "职业责任调查员",
+      "fact": "向温迪追问回避与奖金，再向阿克斯提出作证换豁免。",
+      "analysis": "将不同人的利益放在同一条压力链上，疑点与交换条件却仍不等于事实。"
+    },
+    "taylor": {
+      "role": "被正式招揽的实习分析者",
+      "fact": "从对手语气追到假工厂及Anata-Tek，谈成百万年薪按比例逐周支付。",
+      "analysis": "接受被看见的机会，也以短期续约保留观察组织和退出的余地。"
+    },
+    "kate": {
+      "role": "助理联邦检察官",
+      "fact": "先提出Spartan-Ives遭否决，再把朗尼提供的GoodStop案报给查克。",
+      "analysis": "在职业竞争中仍愿承担案源，意见的价值却由上级求生方向重新评估。"
+    },
+    "boyd": {
+      "role": "Spartan-Ives负责人",
+      "fact": "主持峰会并从争执获宣传，最后因被调查转向阿克斯求助。",
+      "analysis": "原本能够保持体面距离的位置，被突如其来的执法关注打破。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 仍想赢原来的比赛",
+      "note": "羞辱、求生和保密各自推进。",
+      "edges": [
+        "暂绕Axe求大案",
+        "约定如实回答",
+        "保护秘密但不回归"
+      ],
+      "details": {
+        "chuck": "想用上级喜欢的大案证明不可替代。",
+        "axe": "把克拉科当成需要还击的对手。",
+        "wendy": "不让夫妻危机变成虚假证词。",
+        "dake": "并列日期追查款项和回避。",
+        "taylor": "以可验证假设进入老板视线。",
+        "kate": "仍在寻找可以承担的案件。",
+        "boyd": "借嘉宾冲突为峰会增值。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 证据与交易条件",
+      "note": "奖金的解释被拿来争取证词。",
+      "edges": [
+        "豁免诱惑尚未决定",
+        "她不替丈夫担保未知",
+        "保护她与击败他冲突"
+      ],
+      "details": {
+        "chuck": "接受GoodStop方向，等待华盛顿回应。",
+        "axe": "暂停加码等地面核实，也衡量豁免条件。",
+        "wendy": "坚守客户保密，只说自己知道的事。",
+        "dake": "试图以阿克斯证词坐实贿赂。",
+        "taylor": "研究获得实地支持。",
+        "kate": "愿意向查克报送案源。",
+        "boyd": "尚不知道自己将成为留任手段。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 转向以后只买到时间",
+      "note": "工作协议与新调查都留下后续责任。",
+      "edges": [
+        "调查博伊德形成间接交锋",
+        "专业帮助恢复部分协作",
+        "仍未答复豁免提议"
+      ],
+      "details": {
+        "chuck": "公开调查使立即解职代价上升。",
+        "axe": "留住泰勒，接受博伊德靠近。",
+        "wendy": "提出转向练习，没有替丈夫选择具体目标。",
+        "dake": "奖金与回避调查未获结案。",
+        "taylor": "以逐周续约保留选择。",
+        "kate": "曾否决的Spartan-Ives建议成为新方向。",
+        "boyd": "向阿克斯寻求越界应对的经验。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "research-chain",
+      "title": "卫星看见车流，怎样变成可以执行的判断？",
+      "intro": "研究依次改变观察尺度，没有把最初图像直接当成最终证明。",
+      "nodes": [
+        {
+          "name": "泰勒",
+          "role": "比较公开发言与日期",
+          "portrait": "taylor",
+          "scene": "satellite"
+        },
+        {
+          "name": "供应链",
+          "role": "追到Anata-Tek芯片来源",
+          "portrait": null,
+          "scene": "short-tweet"
+        },
+        {
+          "name": "斯蒂芙",
+          "role": "要求暂停以防陷阱",
+          "portrait": null,
+          "scene": "verify-first"
+        },
+        {
+          "name": "实地调查",
+          "role": "空仓库与空卡车补强",
+          "portrait": null,
+          "scene": "verify-first"
+        }
+      ],
+      "result": "交易机会来自多种信息互相验证；股价跌半是本集结果，不代表研究最初就无须检验。"
+    },
+    {
+      "id": "stay-in-office",
+      "title": "怎样把“别解雇我”改写成“现在不能解雇我”？",
+      "intro": "讨好式路线失效后，查克把关注点转向解职本身的外观。",
+      "nodes": [
+        {
+          "name": "艾拉的建议",
+          "role": "提供政府想要的大案",
+          "portrait": null,
+          "scene": "find-case"
+        },
+        {
+          "name": "GoodStop未能救职",
+          "role": "新任也能接手此案",
+          "portrait": null,
+          "scene": "one-eighty"
+        },
+        {
+          "name": "温迪",
+          "role": "提示换相反方向",
+          "portrait": "wendy",
+          "scene": "one-eighty"
+        },
+        {
+          "name": "媒体公开博伊德调查",
+          "role": "立即解职像在护友",
+          "portrait": "chuck",
+          "scene": "public-investigation"
+        }
+      ],
+      "result": "他争取到的是办案时间；既有诉讼与职业责任调查没有因此被撤销。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I don't want you to lie for me.",
+      "zh": "我不希望你为我说谎。",
+      "speaker": "查克 → 温迪",
+      "context": "婚姻治疗师暂时离开诊室，夫妻讨论她将接受的询问。",
+      "image": "therapy",
+      "analysis": "这次协作先以不牺牲对方的真实回答为条件，信任才可能有一点重新生长的空间。"
+    },
+    {
+      "en": "I just like being right.",
+      "zh": "我就是喜欢判断正确。",
+      "speaker": "泰勒 → 阿克斯",
+      "context": "研究成功后，阿克斯追问泰勒为什么在意结果。配图为随后同一段暮色中的招揽谈话。",
+      "image": "hire",
+      "analysis": "金钱不是唯一动机；被有能力的人认出自己的判断，同样能够改变去留。"
+    },
+    {
+      "en": "All you've bought is time.",
+      "zh": "你买到的只有时间。",
+      "speaker": "司法部长 → 查克",
+      "context": "她说明暂不解职并不等于认可这场调查；配图是同场查克的反应。",
+      "image": "washington",
+      "analysis": "避过立即出局只是新的期限，不能替代证据、结果或责任。"
+    },
+    {
+      "en": "One-eighty, Chuck.",
+      "zh": "转一百八十度，查克。",
+      "speaker": "温迪 → 查克",
+      "context": "家中，她建议他用反向思考摆脱持续失败的选择。",
+      "image": "pivot",
+      "analysis": "她提供一种方法，让他自己承担该朝哪里转、怎样执行的决定。"
+    }
+  ],
+  "comparison": {
+    "title": "同一笔奖金，两种推进询问的方式",
+    "deck": "温迪被要求解释，阿克斯被邀请选择一种解释。",
+    "left": {
+      "image": "wendy-interview",
+      "caption": "温迪面对戴克，拒绝公开客户会谈。",
+      "speaker": "温迪",
+      "title": "以所知范围回答",
+      "text": "区分自己相信丈夫、真正亲耳听见，以及依法保密的内容，不为未知作肯定保证。"
+    },
+    "right": {
+      "image": "immunity",
+      "caption": "戴克向阿克斯提出作证换豁免。",
+      "speaker": "阿克斯 / 巴赫",
+      "title": "事实外观被写进交换条件",
+      "text": "律师知道奖金并非贿赂，仍必须向当事人说明：选择另一种说法能使查克与温迪受追诉。"
+    },
+    "rows": [
+      {
+        "label": "驱动力",
+        "left": "保护职业边界并避免谎言",
+        "right": "豁免自己、击败对手的诱惑"
+      },
+      {
+        "label": "记录的限度",
+        "left": "日期重合不能自动说明因果",
+        "right": "记录排列相符仍可能不是事情经过"
+      },
+      {
+        "label": "本集状态",
+        "left": "没有交出诊疗内容",
+        "right": "未显示答复豁免提议"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "越能改变人的处境，越需要区分解释与证明",
+      "text": "戴克的调查有真实疑点，手段却并非只在等待证据。把激励与证词绑定，会让“谁愿意怎么说”先于“究竟发生什么”产生力量。温迪坚持边界，也让这条交换链无法只按双方胜负来计算。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "被观看的工厂",
+      "fact": "车流在卫星统计报道之后增加，仓库与卡车内部却是空的。",
+      "analysis": "知道自己被看见的人会改变表象。观察不能只记录是否有动作，还需要追问动作是否仍指向原先假定的生产活动。",
+      "steps": [
+        "看见车流",
+        "注意日期",
+        "打开仓库"
+      ]
+    },
+    {
+      "title": "鱼缸还是镜头",
+      "fact": "泰勒说这里的空气令人不适，阿克斯把局外观察的位置说成一种透镜。",
+      "analysis": "这份理解让差异拥有职业价值，也可能成为招揽的语言。逐周续约让泰勒暂时接受机会，同时保留判断它是否值得继续的权利。",
+      "steps": [
+        "不适旁观",
+        "被认出价值",
+        "保留退出"
+      ]
+    },
+    {
+      "title": "被退回的戒指",
+      "fact": "老查克以儿子的信托资金买六位数戒指，查克拒绝收下，也拒绝动用任职期间不可支配的资产。",
+      "analysis": "父亲认为钱能替婚姻表达诚意，儿子知道这不是温迪要的答案。与同集“不必替我说谎”相比，昂贵物件无法取代具体尊重。",
+      "steps": [
+        "替他购买",
+        "想用钱修复",
+        "拒绝收下"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "act3",
+    "leftImage": "ring",
+    "leftCaption": "查克拒绝父亲用信托资金买来的戒指。",
+    "rightImage": "pivot",
+    "rightCaption": "温迪没有给出礼物，而是提出改变思考方向。",
+    "kicker": "WHAT HELPS",
+    "title": "别人能给的东西，不一定是此刻需要的",
+    "text": "父亲想用一件昂贵礼物把婚姻拉回原样，温迪则要求查克重新看自己的失败路径。两种帮助都来自亲近者，差别在于有没有把当事人当成仍能选择、也必须负责的人。",
+    "scene": "one-eighty"
+  },
+  "closing": {
+    "image": "boyd",
+    "kicker": "TIME IS NOT IMMUNITY",
+    "value": "180°",
+    "title": "方向变了\n责任仍在",
+    "text": "查克把对政府朋友的调查变成暂时留任的理由；博伊德因而走进阿克斯办公室。开场操纵两人争执的主持人，结尾也成为需要求助的人。这场反弹已经发生，接下来能否支撑调查仍未回答。"
+  }
+}
