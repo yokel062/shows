@@ -1,0 +1,683 @@
+{
+  "question": "父亲倒下了，|谁敢坐上他的位置？",
+  "deck": "病房之外，市场不会等到一家人整理好情绪。|接班第一次变成必须立刻作答的问题。",
+  "hero": "debt",
+  "heroKey": "病床属于父亲，决定权开始在走廊里流动。",
+  "openingTitle": "他们都说担心父亲。|也都在计算，谁有资格代替他。",
+  "storyTitle": "一个漫长的夜晚，|九次临时的决定。",
+  "catalogueSummary": "医院的等待室变成临时会议室。谁掌权、谁签字、谁能靠近病床，都被迫在父亲沉默时作出决定。",
+  "intro": "上一集，洛根还在拒绝交接；这一集，他已经无法亲口发号施令。肯德尔必须面对一个矛盾：推迟谈接班可能使公司失控，主动谈接班又像在等父亲死亡。兄妹、配偶与高管都想维护各自认定的正确秩序，而不完整的信息，让每一次照顾都可能被别人读成夺权。",
+  "prologue": {
+    "image": "arrival",
+    "title": "父亲的身体暂停了，公司没有暂停。",
+    "fact": "肯德尔赶到医院，与家属和高管会合。洛根接受治疗，病情与恢复前景仍不明朗。",
+    "analysis": "豪华病房能改变等候的条件，不能让他们立刻知道结果。公司对稳定公告的需求与家属对生死消息的需求同时发生，医院因此成了私人时间与市场时间相撞的地方。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "wait",
+      "number": "I",
+      "title": "等待诊断",
+      "subtitle": "先争取确定，再暴露分歧。",
+      "range": "01—03",
+      "summary": "他们还不知道父亲能否恢复，却已经知道公司需要一个可以对外确认的人。"
+    },
+    {
+      "id": "errands",
+      "number": "II",
+      "title": "命令在转手",
+      "subtitle": "小差事里藏着不同阵营。",
+      "range": "04—06",
+      "summary": "签字、取物与求婚，都在改变家人与外来者的关系；父亲的沉默没有终止权力。"
+    },
+    {
+      "id": "office",
+      "number": "III",
+      "title": "接住空位",
+      "subtitle": "职位有了名字，问题才露出重量。",
+      "range": "07—09",
+      "summary": "肯德尔得到临时职位，也接过自己此前并不知道的债务；父亲醒来，临时安排更没有变成永久认可。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "arrival",
+      "where": "医院 / 深夜抵达",
+      "title": "他先是儿子，随后被叫去当负责人。",
+      "image": "arrival",
+      "frame": 47,
+      "caption": "肯德尔抵达医院后的同场镜头。",
+      "fact": "肯德尔赶到医院，询问父亲状况。高管同时提出，公司必须尽快确认领导安排。",
+      "analysis": "悲伤与职业反应并非先后发生。肯德尔既害怕失去父亲，也知道自己可能是必须站出来的人。这让他的每句话都容易被怀疑：是在负责，还是在利用时机？首集的接班愿望，第一次遇到不能靠愿望解决的现场。",
+      "turn": "私人危机立刻牵动公司的公开秩序。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wait"
+    },
+    {
+      "id": "medicine",
+      "where": "病房外 / 医疗讨论",
+      "title": "财富能请来更多意见，不能保证同一个答案。",
+      "image": "medicine",
+      "frame": 142,
+      "caption": "家属与医务人员在医院通道中的画面。",
+      "fact": "家属讨论医生、治疗与转院可能。希芙希望继续寻找选择，玛西娅倾向维护现有照护安排。",
+      "analysis": "继续寻找办法是一种关心，减少折腾也可能是一种关心；两者不必先被判成恶意。但谁能定义最佳照顾，等于谁能接近病人、掌握消息。对医疗判断的争议，很快带上了长期家庭位置的差异。",
+      "turn": "照护决定同时成为接近父亲的权限问题。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wait"
+    },
+    {
+      "id": "options",
+      "where": "临时商议 / 原定预案",
+      "title": "纸上的接班计划，遇到生日当天的反悔。",
+      "image": "options",
+      "frame": 381,
+      "caption": "家属与高管在医院讨论领导安排。",
+      "fact": "原有预案涉及肯德尔担任代理 CEO、弗兰克继续任 COO，但洛根刚撤换弗兰克并否定肯德尔，兄妹对可用方案产生争执。",
+      "analysis": "规则并不是完全不存在，而是与父亲最近的口头决定互相冲突。人人都可以选出一段最有利的父亲意愿，证明自己的方案才算忠诚。当个人意志长期高于制度，个人一旦失语，组织便很难得到唯一答案。",
+      "turn": "同一位父亲，留下互相抵触的授权。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wait"
+    },
+    {
+      "id": "papers",
+      "where": "洛根住处 / 格雷格跑腿",
+      "title": "一份文件，要听谁的话才能带回来？",
+      "image": "papers",
+      "frame": 333,
+      "caption": "格雷格回到洛根住处取物的同场画面。",
+      "fact": "玛西娅派格雷格取物，罗曼要他顺便带信托文件，希芙却另行要求他不要带来。格雷格最终没有把文件带回。",
+      "analysis": "差事本来只是搬运，冲突的命令却迫使新人选择。他没有足够资格正面拒绝任何一个人，只能靠含混与遗漏降低风险。看起来最不起眼的人，第一次被放到文件是否出现的关键位置；信息流动开始依赖他的判断。",
+      "turn": "跑腿的人获得了有限却真实的选择权。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "errands"
+    },
+    {
+      "id": "siblings",
+      "where": "医院 / 希芙与罗曼",
+      "title": "谈不拢的成年人，又变回争抢的孩子。",
+      "image": "siblings",
+      "frame": 714,
+      "caption": "医院中希芙与罗曼争执的同场反应镜头。",
+      "fact": "希芙和罗曼围绕接班、签字等问题冲突升级，发生肢体扭打；不同意肯德尔，并没有让两人自然站成一个阵营。",
+      "analysis": "身体冲突把精致措辞戳破。他们可以讨论股权与高管安排，也仍然知道怎样在兄妹之间刺痛对方。父亲缺席后，争夺没有立刻变得理性；没有谁拥有足够公认的权威来让大家停下。",
+      "turn": "反对同一个方案，不等于拥有共同方案。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "errands"
+    },
+    {
+      "id": "proposal",
+      "where": "等候期间 / 汤姆与希芙",
+      "title": "他想用求婚，让最坏的一天出现一件好事。",
+      "image": "proposal",
+      "frame": 667,
+      "caption": "医院等候区的希芙；用于人物辨认，不指认求婚动作瞬间。",
+      "fact": "汤姆在医院向希芙求婚，表示希望在父亲仍在时带来一些好事。希芙惊讶于时机，最终接受。",
+      "analysis": "汤姆可以同时真心爱她，又看见关系更进一步的机会。这场求婚令人不安，正因为它没有办法从现场剥离：希芙正经历最脆弱的时刻，接受承诺能带来安定，也让她很难像在平静日常里那样衡量。",
+      "turn": "亲密承诺与家族危机发生了绑定。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "errands"
+    },
+    {
+      "id": "appointment",
+      "where": "家属之间 / 临时职位",
+      "title": "肯德尔拿到 CEO，罗曼也拿到自己的条件。",
+      "image": "appointment",
+      "frame": 905,
+      "caption": "罗曼与肯德尔商谈临时职务安排。",
+      "fact": "经过争论，肯德尔成为代理 CEO，罗曼担任 COO。安排先解决眼前领导问题，并不代表所有人已信任肯德尔。",
+      "analysis": "这次协议靠分配职位收拢分歧，而不是消除分歧。临时负责人有了名字，兄妹仍各自保留立场。肯德尔得到行动资格，也接受了一个限制：他的权威既来自紧急需要，又依赖其他人的暂时同意。",
+      "turn": "协议先让公司运转，未让家族达成和解。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "office"
+    },
+    {
+      "id": "debt",
+      "where": "医院窗边 / 杰丽的告知",
+      "title": "他以为接到公司，先接到一笔旧债。",
+      "image": "debt",
+      "frame": 1048,
+      "caption": "医院窗边：杰丽向肯德尔说明公司债务问题的同场镜头。",
+      "fact": "杰丽告诉肯德尔，公司背后存在约三十亿美元的重大债务问题。此前掌握情况的核心人物很少。",
+      "analysis": "这份信息重新定义了接班。外界看见的是谁坐上高位，接手的人开始看见旧决定留下的限制。洛根曾以儿子不够成熟为由拒绝交接，却也没有把全部处境交给他；现在判断儿子的表现，必须记得他并非在一张空白桌面上开始。",
+      "turn": "职位带来的信息，迅速变成职位必须承担的负担。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "office"
+    },
+    {
+      "id": "awake",
+      "where": "病房 / 洛根醒来",
+      "title": "他们替父亲作完决定，父亲睁开了眼。",
+      "image": "awake",
+      "frame": 1096,
+      "caption": "本集结尾：病床上的洛根。",
+      "fact": "漫长等候之后，洛根在病床上醒来。家人此前达成的安排仍处在应急性质之中。",
+      "analysis": "这是令人安心的生命消息，也是让权力结构重新悬起的消息。肯德尔不可能只把它听成好或坏，因为他想救父亲，也刚开始尝到独立负责的重量。结尾没有替他解决这个矛盾，而是让两个身份继续共存。",
+      "turn": "临时接班开始了，永久认可仍未到来。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "office"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "失去表达与决策能力，接受治疗。",
+        "家人用不同版本的父亲意愿说服彼此。",
+        "从昏迷中醒来，尚未对全部临时安排作出回应。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "作为配偶掌握照护现场。",
+        "与希芙对医疗及接近病床的安排产生分歧。",
+        "照顾关系继续存在，不等于信托修改已经完成。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 新任代理 CEO",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "赶到医院，又被高管要求考虑公司。",
+        "争取兄妹同意临时领导方案。",
+        "成为代理 CEO，并得知重大旧债。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "面对父亲病情，与弟妹会合。",
+        "参与讨论父亲意愿与信托。",
+        "临时方案得到落实，他没有成为公司经营核心。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 新任 COO",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "不愿直接接受哥哥接班。",
+        "要格雷格带信托文件，与希芙冲突。",
+        "以 COO 身份进入新的临时安排。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "担心父亲治疗与玛西娅的影响。",
+        "要求格雷格不带文件，并质疑兄长方案。",
+        "接受汤姆求婚，保留对公司安排的独立立场。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "以亲属身份留在医院外围。",
+        "被不同人物交付相反要求。",
+        "没有把信托文件带回，学会差事也有阵营。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的未婚夫 · 公司管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "陪伴希芙，想在危机中发挥作用。",
+        "向希芙求婚，试图制造一个好的确定。",
+        "订婚使他更接近家族，也未消除依赖。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "负责说明公司已有的应急方案。",
+        "在家属争执之外维持公司运作需要。",
+        "向新代理 CEO 揭示债务风险。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "waiting",
+      "label": "01 · 等候",
+      "title": "病情还没有答案，领导预案已被摆上桌。",
+      "note": "医疗不确定与公司需要稳定消息同时存在；不要把提出方案本身等同于盼望父亲死亡。",
+      "edges": [
+        "原定代理人",
+        "共同等候",
+        "反对哥哥优先",
+        "照护分歧",
+        "病床旁的配偶"
+      ]
+    },
+    {
+      "id": "bargaining",
+      "label": "02 · 争执",
+      "title": "谁能传达父亲的意愿，谁就暂时多一份权力。",
+      "note": "信托文件仍是争议对象；格雷格的跑腿不等于他有权决定文件的法律效力。",
+      "edges": [
+        "争取同意",
+        "参与家属讨论",
+        "争取 COO",
+        "要求暂缓签字",
+        "掌握照护接近"
+      ]
+    },
+    {
+      "id": "acting",
+      "label": "03 · 临时接班",
+      "title": "职位安排落定，父亲又醒了。",
+      "note": "肯德尔是代理 CEO，罗曼是 COO；临时职务不是洛根对儿子作出的永久交接承诺。",
+      "edges": [
+        "代理 CEO",
+        "保留家属身份",
+        "取得 COO",
+        "保留质疑",
+        "配偶与照护"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "duty",
+      "label": "责任与机会",
+      "people": [
+        "kendall",
+        "gerri",
+        "roman"
+      ],
+      "image": "options",
+      "title": "及时负责的人，怎样证明自己不是在等机会？",
+      "surface": "是否马上确认临时负责人。",
+      "wantA": "肯德尔要让公司及时恢复可预期的领导。",
+      "wantB": "弟妹要避免他的旧接班愿望借紧急状态永久生效。",
+      "analysis": [
+        "拖延决定有真实代价，但提出决定的人也有私人利益。这使肯德尔既不能假装没有公司需要，也不能靠一句“我在负责”就取消弟妹的疑虑。",
+        "他们真正缺少的是一份可以共同信任、边界清楚的授权。父亲曾习惯用个人威望处理问题，如今家人只能边争论边补上临时规则。"
+      ],
+      "boundary": "本集确认的是代理 CEO 与 COO，不是永久接班。",
+      "scene": "appointment"
+    },
+    {
+      "id": "access",
+      "label": "妻子与女儿",
+      "people": [
+        "marcia",
+        "shiv"
+      ],
+      "image": "medicine",
+      "title": "关心同一个病人，仍可能争夺同一扇门。",
+      "surface": "治疗选择、探视与信息接近。",
+      "wantA": "希芙要确认一切可行选择都被认真考虑。",
+      "wantB": "玛西娅要维护照护现场，也维护配偶的位置。",
+      "analysis": [
+        "希芙的不安有真实来源，玛西娅的坚持也不能自动归入阴谋。她们没有共享同一种家庭经历，却同时需要别人承认自己对病人的了解。",
+        "照顾之所以变成冲突，是因为它兼有情感与权限。谁能留在床边、替他安排、先听见医生的话，都影响别人能知道多少、能决定多少。"
+      ],
+      "boundary": "不把探视争执写成玛西娅已经操控医生或继承公司。",
+      "scene": "medicine"
+    },
+    {
+      "id": "marriage",
+      "label": "危机里的求婚",
+      "people": [
+        "tom",
+        "shiv"
+      ],
+      "image": "proposal",
+      "title": "他想给她一个确定，时机却无法保持中立。",
+      "surface": "父亲病重时是否该求婚。",
+      "wantA": "汤姆想安慰希芙，也确认两人的未来。",
+      "wantB": "希芙需要支持，却正在承受判断被扰动的时刻。",
+      "analysis": [
+        "求婚并不因为含有身份收益就必然虚假；同样，真心也不能让时机没有压力。汤姆希望把危机转成共同未来的一刻，希芙却首先要承受危机本身。",
+        "理解两人关系，需要保留这种不均衡：他想更靠近一个家庭，她已经生活在其中。一次答应暂时安放了焦虑，没有消除各自为何需要承诺的差异。"
+      ],
+      "boundary": "两人在本集订婚；不引入婚礼与后来的婚姻条件。",
+      "scene": "proposal"
+    }
+  ],
+  "feature": {
+    "title": "一个临时职位，|怎样连着三种时间？",
+    "subtitle": "医疗时间、市场时间与家庭时间同时挤进医院。以下为剧情归纳与个人解读。",
+    "image": "debt",
+    "steps": [
+      {
+        "title": "家属想等待",
+        "text": "先弄清病情，希望父亲亲口决定。"
+      },
+      {
+        "title": "公司不能等",
+        "text": "高管需要稳定领导与对外预期。"
+      },
+      {
+        "title": "临时方案先行",
+        "text": "职位落定后，旧债又提出新的限时问题。"
+      }
+    ],
+    "question": "责任先到场，|认可仍然缺席。",
+    "analysis": [
+      "肯德尔面对的是别人设定过的公司处境，和一个不能完整表达意愿的父亲。迟疑与争取都有代价，所以单凭他是否主动，很难完成对动机的判断。",
+      "真正值得追踪的是临时权力的边界：谁同意、同意多久、知道哪些信息。债务在最后出现，让本集从“谁想要位置”转到“谁能承担位置”。"
+    ],
+    "boundary": "债务具体触发条件与解决办法留待下一集；本集没有解决财务危机。"
+  },
+  "quotes": [
+    {
+      "en": "My dad is my focus right now, OK?",
+      "zh": "我现在只关心我爸，好吗？",
+      "speaker": "肯德尔 → 高管",
+      "context": "公司应急安排被提出时。",
+      "analysis": "他在为儿子的身份争取空间，也知道职业责任正逼近；这句话不能一次性证明或否定野心。"
+    },
+    {
+      "en": "Will you marry me?",
+      "zh": "你愿意嫁给我吗？",
+      "speaker": "汤姆 → 希芙",
+      "context": "医院里的求婚。",
+      "analysis": "最熟悉的承诺句式，放进最不安定的场合，才让时机本身成为问题。"
+    },
+    {
+      "en": "No one knows.",
+      "zh": "没有人知道。",
+      "speaker": "杰丽 → 肯德尔",
+      "context": "重大债务被告知时，她随后限定其实只有极少数高层知情。",
+      "analysis": "这句口语并非严格的无人知晓，而是在说明信息没有进入正常的接班准备。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "病房与会议室",
+      "image": "options",
+      "text": "家属等一个生命消息，高管等一个可执行的人选；同一栋医院被两种需求分割。",
+      "link": "options",
+      "label": "私人时间 ↔ 公司时间"
+    },
+    {
+      "number": "02",
+      "title": "在场的文件，缺席的签字人",
+      "image": "papers",
+      "text": "父亲不能说明自己的要求，其他人便借文件争论他的意愿。纸张有内容，搬运纸张的人也获得作用。",
+      "link": "papers",
+      "label": "命令 → 跑腿 → 选择"
+    },
+    {
+      "number": "03",
+      "title": "睁眼之后的未知",
+      "image": "awake",
+      "text": "结尾只给出醒来的身体，没有给出对全部方案的批准。把生命消息与权力承诺分开，才能读懂肯德尔的处境。",
+      "link": "awake",
+      "label": "生命恢复 ≠ 交接完成"
+    }
+  ],
+  "ending": {
+    "title": "接班的第一夜，|先学会替别人承担。",
+    "copy": "他终于被叫去负责。|真正的考题，藏在他刚刚知道的事情里。",
+    "question": "父亲醒来，会怎样看待这个临时安排？",
+    "known": "肯德尔出任代理 CEO，罗曼任 COO；汤姆与希芙订婚；重大债务被揭示。",
+    "unknown": "父亲的恢复情况、临时安排的稳定程度，以及债务如何解决。",
+    "boundary": "剧透截至 S01E02；不先写下一集的融资结果。"
+  },
+  "glossary": [
+    {
+      "title": "代理 CEO",
+      "text": "本集的临时领导安排。代理身份解决当下运作，不自动等于永久接班。"
+    },
+    {
+      "title": "信托文件",
+      "text": "延续首集的争议，文件是否带到医院与是否完成有效修改需要分开。"
+    },
+    {
+      "title": "信息交接",
+      "text": "肯德尔直到取得临时位置才知道旧债，这说明接班还包括信息与责任，不只是职务名称。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 2,
+  "title": "Shit Show at the Fuck Factory",
+  "translatedTitle": "烂摊子",
+  "airdate": "2018.06.10",
+  "writer": "Tony Roche",
+  "director": "Mark Mylod",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—02 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E02 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e02&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 2 集回顾",
+      "url": "https://readysteadycut.com/2018/06/11/succession-episode-2/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E02 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4773",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "arrival",
+      "file": "assets/arrival.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 47,
+      "alt": "《继承之战》S01E02：肯德尔抵达医院后的同场镜头。",
+      "caption": "肯德尔抵达医院后的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0047.jpg"
+    },
+    {
+      "id": "medicine",
+      "file": "assets/medicine.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 142,
+      "alt": "《继承之战》S01E02：家属与医务人员在医院通道中的画面。",
+      "caption": "家属与医务人员在医院通道中的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0142.jpg"
+    },
+    {
+      "id": "options",
+      "file": "assets/options.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 381,
+      "alt": "《继承之战》S01E02：家属与高管在医院讨论领导安排。",
+      "caption": "家属与高管在医院讨论领导安排。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0381.jpg"
+    },
+    {
+      "id": "papers",
+      "file": "assets/papers.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 333,
+      "alt": "《继承之战》S01E02：格雷格回到洛根住处取物的同场画面。",
+      "caption": "格雷格回到洛根住处取物的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0333.jpg"
+    },
+    {
+      "id": "siblings",
+      "file": "assets/siblings.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 714,
+      "alt": "《继承之战》S01E02：医院中希芙与罗曼争执的同场反应镜头。",
+      "caption": "医院中希芙与罗曼争执的同场反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0714.jpg"
+    },
+    {
+      "id": "proposal",
+      "file": "assets/proposal.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 667,
+      "alt": "《继承之战》S01E02：医院等候区的希芙；用于人物辨认，不指认求婚动作瞬间。",
+      "caption": "医院等候区的希芙；用于人物辨认，不指认求婚动作瞬间。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0667.jpg"
+    },
+    {
+      "id": "appointment",
+      "file": "assets/appointment.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 905,
+      "alt": "《继承之战》S01E02：罗曼与肯德尔商谈临时职务安排。",
+      "caption": "罗曼与肯德尔商谈临时职务安排。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_0905.jpg"
+    },
+    {
+      "id": "debt",
+      "file": "assets/debt.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 1048,
+      "alt": "《继承之战》S01E02：医院窗边：杰丽向肯德尔说明公司债务问题的同场镜头。",
+      "caption": "医院窗边：杰丽向肯德尔说明公司债务问题的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_1048.jpg"
+    },
+    {
+      "id": "awake",
+      "file": "assets/awake.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E02",
+      "frame": 1096,
+      "alt": "《继承之战》S01E02：本集结尾：病床上的洛根。",
+      "caption": "本集结尾：病床上的洛根。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4773&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2002%20Shit%20Show%20at%20the%20Fuck%20Factory/S_S1_E2_1096.jpg"
+    }
+  ]
+}

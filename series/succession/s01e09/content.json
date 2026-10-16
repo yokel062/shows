@@ -1,0 +1,745 @@
+{
+  "question": "婚礼还没开始，|承诺已经被重新谈过一遍。",
+  "deck": "一座英国城堡，聚齐亲属、旧情人与政治对手。|每个人都在谈明天，有些人却不能决定明天何时到来。",
+  "hero": "castle",
+  "heroKey": "婚姻、政治与资本，在同一个屋檐下交换条件。",
+  "openingTitle": "看起来是两个人结婚。|实际到场的，是一整套关系。",
+  "storyTitle": "从婚前相聚到最后通牒，|九次承诺的变形。",
+  "catalogueSummary": "婚前聚会让秘密、母亲的尖刻与政治交易同时到场。希芙以邮轮旧案谈条件，肯德尔则发现收购时间已不能由自己决定。",
+  "intro": "派对之后，肯德尔与投资人继续筹划收购，家人则来到英国筹备希芙与汤姆的婚礼。这里原本属于两人的未来，却迅速成为媒体、竞选与家族控制的谈判场。最亲密的人在相互隐瞒，最公开的敌人反而能够谈成条件。承诺没有消失，只是逐渐变成每个人能承受哪一种妥协。",
+  "prologue": {
+    "image": "arrival",
+    "title": "新郎担心没人替自己拎包，更大的失控还在后面。",
+    "fact": "汤姆抵达婚礼场地，期待这场仪式带来尊重与确定；希芙此前以为父亲不会出席。",
+    "analysis": "婚礼被期待为一次终于确认归属的场合，所以小小的服务缺口也会触动汤姆。可真正决定他安全感的，并不在行李，而在他是否了解即将进入的关系条件。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "arrivals",
+      "number": "I",
+      "title": "所有人到场",
+      "subtitle": "母亲、旧情人，也有商业伙伴。",
+      "range": "01—03",
+      "summary": "人物越齐，婚礼越难只属于新人；亲属与宾客各自携带旧关系。"
+    },
+    {
+      "id": "secrets",
+      "number": "II",
+      "title": "隐瞒与坦白",
+      "subtitle": "有人说出秘密，有人否认正在发生的事。",
+      "range": "04—06",
+      "summary": "汤姆的坦白没有换来对等的坦白，洛根的到场也没有让原有冲突消失。"
+    },
+    {
+      "id": "terms",
+      "number": "III",
+      "title": "谈好条件",
+      "subtitle": "停火可以成交，明天却被资本提前。",
+      "range": "07—09",
+      "summary": "希芙促成政治停火；肯德尔在兄妹短暂亲近之后，仍要面对提前到婚礼当天的收购计划。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "arrival",
+      "where": "英国城堡 / 新人抵达",
+      "title": "他要一场终于不必证明自己的婚礼。",
+      "image": "arrival",
+      "frame": 140,
+      "caption": "汤姆在前往婚礼场地途中的本集画面。",
+      "fact": "家属与宾客抵达英国城堡，汤姆对服务与仪式投入很高期待；希芙面对父亲此前宣布缺席的处境。",
+      "analysis": "汤姆把仪式看得很重，因为它似乎能一次性确认爱情与家族归属。希芙对父亲缺席的反应则提醒我们，生在其中的人也无法随意摆脱被重视的需要。两人都想从婚礼得到确定，只是等待回应的人不同。",
+      "turn": "婚礼被赋予超过仪式本身的确认功能。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrivals"
+    },
+    {
+      "id": "mother",
+      "where": "母亲到场 / 旧家庭的另一半",
+      "title": "她也会说聪明话，却未必给孩子一个落脚处。",
+      "image": "mother",
+      "frame": 187,
+      "caption": "希芙、罗曼与母亲卡罗琳在英国相见。",
+      "fact": "肯德尔、罗曼与希芙的母亲卡罗琳出现，以尖刻玩笑谈家人及婚姻，希芙对母亲的态度感到不快。",
+      "analysis": "母亲没有因为离开洛根的家庭就成为温柔的对照。她同样善于用机敏降低他人认真表达的可能，仿佛一切先被说成玩笑，就不必承受情感的重量。孩子面对的是另一种熟悉：会认出你的弱点，却不一定接住它。",
+      "turn": "换了一位家长，旧的防御仍然熟悉。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrivals"
+    },
+    {
+      "id": "nate",
+      "where": "宾客之间 / 汤姆遇到内特",
+      "title": "他想听见真相，眼前却先出现一套暗示。",
+      "image": "nate",
+      "frame": 375,
+      "caption": "内特与婚礼宾客交谈的本集镜头。",
+      "fact": "内特出席婚前聚会，与汤姆接触并暗示自己与希芙的历史；塔比莎也作为罗曼的伴侣到场，让汤姆遭遇派对后的尴尬。",
+      "analysis": "公开场合的熟稔可能比明确告知更难处理。汤姆既看出不对，又担心追问显得自己没有风度或不配被信任。别人能控制说多少，他只能在缝隙里猜；婚礼越接近，承认猜测可能为真越昂贵。",
+      "turn": "秘密由旁人的暗示侵入亲密关系。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrivals"
+    },
+    {
+      "id": "confession",
+      "where": "新人私下 / 一份不对称的坦白",
+      "title": "他交出公司的秘密，没有换回她的诚实。",
+      "image": "confession",
+      "frame": 780,
+      "caption": "希芙在房间里回应汤姆对内特的追问，同场反应镜头。",
+      "fact": "汤姆追问希芙与内特的关系，希芙否认越界；她转而询问邮轮问题，汤姆向她讲述掩盖与销毁材料的情况。",
+      "analysis": "希芙把一段需要回答的亲密对话转向可用于政治的公司信息。汤姆愿意坦白，也在希望坦白能换来信任。两人给出的东西并不对等：一方承担泄露的职业风险，一方暂时保住自己的私人秘密。",
+      "turn": "坦白被用作交换，却没有得到相同回应。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "secrets"
+    },
+    {
+      "id": "warning",
+      "where": "格雷格与汤姆 / 不被欢迎的提醒",
+      "title": "他不愿打错新娘，只能先打断带来消息的人。",
+      "image": "warning",
+      "frame": 960,
+      "caption": "城堡外：汤姆对试图告知情况的格雷格施压。",
+      "fact": "格雷格看见希芙与内特的接近，尝试向汤姆提醒。汤姆以肢体攻击和警告阻止他继续说。",
+      "analysis": "否认并非总是因为完全不知道，有时正是因为已经知道到难以承受。格雷格地位较低，又带来会破坏婚礼想象的消息，便成为汤姆可以施压的对象。痛苦值得理解，向更弱者发泄仍需要被判断。",
+      "turn": "无法承担的真相，被转成对传话人的惩罚。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "secrets"
+    },
+    {
+      "id": "logan",
+      "where": "洛根到场 / 缺席威胁被收回",
+      "title": "他终于来了，也把外界的目光一起带来。",
+      "image": "logan",
+      "frame": 281,
+      "caption": "洛根在婚礼场地与肯德尔私下交谈。",
+      "fact": "洛根担心缺席女儿婚礼的公开观感，最终到场。他与肯德尔谈可能的新职位或业务安排，肯德尔并未因此放下自己的计划。",
+      "analysis": "到场可以含有感情，也可以是形象计算；判断不必强迫二者只留一个。父亲仍习惯用可以给出的岗位处理儿子的疏远，儿子则开始不满足于一份由父亲划定边界的归来。",
+      "turn": "家族重新聚齐，交接问题没有因此缓和。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "secrets"
+    },
+    {
+      "id": "bargain",
+      "where": "希芙与杰丽 / 邮轮旧案变成条件",
+      "title": "她不只要停下攻击，也要未婚夫保持干净。",
+      "image": "bargain",
+      "frame": 860,
+      "caption": "希芙与杰丽谈条件时的同场反应镜头。",
+      "fact": "希芙以已知的邮轮问题为筹码，与杰丽谈 ATN 停止对吉尔及其亡妻的私人攻击，也要求汤姆不受牵连。",
+      "analysis": "她展现了真实的谈判能力，也把一个涉及受害者的严重问题暂时放进交换。保护未婚夫、保护政治工作与保留家族秘密在这里竟能同时实现；得到好条件，并不代表被当作筹码的问题已经得到处理。",
+      "turn": "严重侵害从需要面对的事实，变成暂缓公开的资源。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "terms"
+    },
+    {
+      "id": "truce",
+      "where": "洛根与吉尔 / 公开敌人的私下安排",
+      "title": "台上不能站在一起，桌边却能找到共同条件。",
+      "image": "truce",
+      "frame": 1040,
+      "caption": "本集尾声：吉尔与洛根谈停火条件。",
+      "fact": "经希芙斡旋，洛根与吉尔就停止部分相互攻击达成停火，双方各有自己愿意保护的东西。",
+      "analysis": "这场谈话并没有证明政治主张全是假，也确实展示了原则如何被现实边界修剪。对外相互定义为危险的人，在私下都能辨认哪些代价不必再付。最尖锐的对立，未必排除最清楚的交易语言。",
+      "turn": "敌对立场暂时让位于可交换的利益。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "terms"
+    },
+    {
+      "id": "castle",
+      "where": "兄妹片刻与收购倒计时",
+      "title": "他们还能抱在一起，明天却已经另有安排。",
+      "image": "castle",
+      "frame": 1080,
+      "caption": "英国城堡的本集结尾外景；船上兄妹互动与收购谈话另见正文。",
+      "fact": "兄妹在小船上有短暂亲近。与此同时，斯图伊与桑迪通知肯德尔，因泄露风险与时机考虑，收购行动必须提前到婚礼当天。",
+      "analysis": "短暂温柔不是虚假，只是无力独自改变他们携带的计划。肯德尔选择资本作为反抗工具后，也要接受资本提出的时间表。他以为自己在争取自主，开始发现重要时刻并不再由自己决定。",
+      "turn": "越过父亲的控制，需要承受另一种约束。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "terms"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "此前称不参加婚礼。",
+        "为形象与家庭考虑最终到场。",
+        "与吉尔达成停火，仍不掌握儿子的完整进攻时间。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "随父亲进入婚礼关系。",
+        "与希芙围绕家庭与体谅产生冲突。",
+        "站在洛根身边，不等于知道所有人的秘密。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "与资本伙伴推进收购。",
+        "面对父亲提供的其他安排，未放弃计划。",
+        "被要求把行动提前到妹妹婚礼当天。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "与薇拉到英国。",
+        "对被说没有工作表现出不快。",
+        "继续在家庭场合维护自己的意义与伴侣位置。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "与母亲、兄妹重聚。",
+        "带塔比莎到场，触动汤姆的尴尬。",
+        "与兄妹有亲近片刻，仍不知道完整收购安排。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "面对父亲可能缺席与母亲的尖刻。",
+        "否认私情，取得汤姆对邮轮秘密的坦白。",
+        "用秘密促成停火，也要求保护汤姆。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "看见希芙与内特的接近。",
+        "试着提醒汤姆。",
+        "被攻击并要求闭口，材料筹码仍由他私下保存。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "期待婚礼确认归属。",
+        "对内特产生怀疑，向希芙交出公司秘密。",
+        "拒绝格雷格的提醒，以暴力压住自己的不安。"
+      ]
+    },
+    {
+      "id": "caroline",
+      "name": "卡罗琳",
+      "en": "Caroline Collingwood",
+      "role": "肯德尔、罗曼与希芙的母亲",
+      "want": "维持自己的生活方式与在家庭中的话语位置。",
+      "power": "亲属关系、旧事与熟悉子女的能力。",
+      "cost": "机敏的玩笑可能躲开他人真正需要的情感回应。",
+      "reading": "她的尖刻有社交魅力，但是否照顾到子女，需要看具体时刻而非一句聪明话。",
+      "phase": [
+        "与三个孩子在英国重聚。",
+        "用讥讽谈家人和婚姻。",
+        "没有因出席就给希芙稳定的情感支持。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "以公司顾问身份参加。",
+        "听到希芙掌握邮轮问题。",
+        "接受停火条件的谈判，维护组织与汤姆的安排。"
+      ]
+    },
+    {
+      "id": "nate",
+      "name": "内特",
+      "en": "Nate Sofrelli",
+      "role": "政治顾问 · 希芙的旧识",
+      "want": "推进政治工作，也重新靠近希芙。",
+      "power": "职业联系、共同经历与亲密熟悉感。",
+      "cost": "私人关系会影响对工作与伦理边界的判断。",
+      "reading": "与希芙的熟悉既能成为职业入口，也可能让他们轻视对汤姆的影响。",
+      "phase": [
+        "带着旧情人与同事身份到场。",
+        "向汤姆制造熟稔的暗示。",
+        "与希芙的接近成为格雷格看到的风险。"
+      ]
+    },
+    {
+      "id": "gil",
+      "name": "吉尔",
+      "en": "Gil Eavis",
+      "role": "参议员 · 总统参选人",
+      "want": "推进自己的政治议程，并保护个人与竞选。",
+      "power": "公共支持、议题与对媒体的批评。",
+      "cost": "与媒体权力交涉时，原则会遇到可交换的条件。",
+      "reading": "反对一个有权势的人，与拒绝同他谈交易，并不是同一件事。",
+      "phase": [
+        "作为竞选人物与宾客进入场地。",
+        "与家族媒体的敌对仍在。",
+        "同意私下停火，保留政治活动中的现实边界。"
+      ]
+    },
+    {
+      "id": "stewy",
+      "name": "斯图伊",
+      "en": "Stewy Hosseini",
+      "role": "投资人 · 肯德尔的老友",
+      "want": "在可接受的风险下获得收益与影响力。",
+      "power": "资本、交易条件与和不同阵营的联系。",
+      "cost": "友谊可能让别人误读他的投资边界。",
+      "reading": "他愿意与肯德尔谈私交，但关键决定仍要按投资人的利益理解。",
+      "phase": [
+        "与肯德尔继续准备收购。",
+        "根据泄露风险评估原定时间。",
+        "要求肯德尔把行动提前到婚礼当天。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "arriving",
+      "label": "01 · 宾客到齐",
+      "title": "亲属与外部关系一起进入婚礼。",
+      "note": "塔比莎与内特的在场各有不同背景，不把他们都简单写成同一种关系威胁。",
+      "edges": [
+        "秘密推进计划",
+        "携伴侣到场",
+        "母子与新伴侣",
+        "担心父亲缺席",
+        "随父亲到场"
+      ]
+    },
+    {
+      "id": "secrecy",
+      "label": "02 · 选择隐瞒",
+      "title": "不同的人，说出不同程度的真相。",
+      "note": "汤姆讲述邮轮内情，希芙却仍否认私情；两份坦白并不对等。",
+      "edges": [
+        "拒绝父亲替代安排",
+        "维护自我价值",
+        "未掌握完整收购",
+        "取得邮轮信息",
+        "与女儿冲突"
+      ]
+    },
+    {
+      "id": "deadline",
+      "label": "03 · 条件落定",
+      "title": "停火谈成了，收购的时间也被提前。",
+      "note": "本集没有正式递交收购要约，婚礼当天的后果留待下一集。",
+      "edges": [
+        "接受提前期限",
+        "维持家庭位置",
+        "兄妹短暂亲近",
+        "促成政治停火",
+        "陪伴与家族立场"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "honesty",
+      "label": "婚姻与坦白",
+      "people": [
+        "shiv",
+        "tom",
+        "nate"
+      ],
+      "image": "confession",
+      "title": "一人拿真相换信任，另一人拿信任取信息。",
+      "surface": "私情追问与邮轮秘密的交付。",
+      "wantA": "汤姆要确认两人的承诺仍然可靠。",
+      "wantB": "希芙想保住私人空间，也取得政治筹码。",
+      "analysis": [
+        "两人的爱情不能被简化成纯交易，但这一晚的交换确实不对称。汤姆承担告知秘密的风险，却没有得到足以判断婚姻处境的同等信息。",
+        "她之后为他争取干净的职务安排，也不能抹去此前的隐瞒。保护一个人和尊重他作判断的条件，是相关却不相同的两件事。"
+      ],
+      "boundary": "私情没有在本集得到汤姆知情接受；不先用婚后条件替这次隐瞒解释。",
+      "scene": "confession"
+    },
+    {
+      "id": "principles",
+      "label": "理想与筹码",
+      "people": [
+        "shiv",
+        "gil",
+        "gerri"
+      ],
+      "image": "bargain",
+      "title": "谈成一个好安排，是否就处理了被当作筹码的问题？",
+      "surface": "停止私人攻击与暂不公开邮轮问题。",
+      "wantA": "希芙要保护竞选工作和未婚夫。",
+      "wantB": "公司与吉尔都要降低自己不愿承担的代价。",
+      "analysis": [
+        "谈判确实停止一部分私人伤害，也留下了被交换掉的部分：邮轮事件的受害者不在桌边，无法决定自己的遭遇是否应该继续沉默。",
+        "这不是一句“所有理想都是假的”可以结束的讨论。相反，正因为人物有真实目标，才更要看他们为达到目标愿意暂时放下谁。"
+      ],
+      "boundary": "停火不等于邮轮旧案已经获得调查或解决。",
+      "scene": "truce"
+    },
+    {
+      "id": "schedule",
+      "label": "儿子与资本期限",
+      "people": [
+        "kendall",
+        "stewy",
+        "logan"
+      ],
+      "image": "castle",
+      "title": "为了不受父亲安排，他先接受了盟友的安排。",
+      "surface": "收购日期被提前到婚礼当天。",
+      "wantA": "肯德尔想控制反抗节奏，兼顾家人的时刻。",
+      "wantB": "投资人要降低泄露风险并利用可得时机。",
+      "analysis": [
+        "肯德尔的家庭关系使日期不是普通日历，投资人却不能只按他的家庭情绪行事。开始时被他当作弹药的资本，现在需要他成为按时执行的人。",
+        "小船上的亲近让这份压力更有重量。他仍爱着兄妹，却选择了一条可能伤害共同仪式的路。温柔没有取消行动，行动也不证明温柔是假的。"
+      ],
+      "boundary": "本集截止于提前行动的要求，不提前写婚礼当天的事故。",
+      "scene": "castle"
+    }
+  ],
+  "feature": {
+    "title": "一份停火，|留下谁未能参与的代价？",
+    "subtitle": "把邮轮旧案、竞选攻击与汤姆的去向放在同一张交换路径里。",
+    "image": "bargain",
+    "steps": [
+      {
+        "title": "拿到内部信息",
+        "text": "汤姆把部门掩盖情况告诉希芙。"
+      },
+      {
+        "title": "提出互相克制",
+        "text": "邮轮暂不公开，媒体停止部分私人攻击。"
+      },
+      {
+        "title": "另加保护条件",
+        "text": "希芙同时要求汤姆保持不受牵连的位置。"
+      }
+    ],
+    "question": "桌上的人都得到一点，|没有到桌边的人怎么办？",
+    "analysis": [
+      "交易可以真实减少一种伤害，同时保留另一种伤害。理解希芙的能力，不需要把她在这一刻使用秘密的方式也一并赞许。",
+      "这条路径也把家庭与政治接在一起：伴侣的秘密成为职业资源，职业谈判又反过来替伴侣安排位置。没有一段关系完全独立。"
+    ],
+    "boundary": "按本集显示的停火理解，不把它写成所有人物长期合作或共同立场。"
+  },
+  "quotes": [
+    {
+      "en": "You're very pushy, missy.",
+      "zh": "你可真会逼人，小姑娘。",
+      "speaker": "杰丽 → 希芙",
+      "context": "听到她提出一系列条件时。",
+      "analysis": "评价既带有长辈式的轻蔑，也隐含对谈判能力的识别。"
+    },
+    {
+      "en": "Thank you, fairy godmother.",
+      "zh": "谢谢你，仙女教母。",
+      "speaker": "希芙 → 杰丽",
+      "context": "回应对方称呼时。",
+      "analysis": "她接住居高临下的称呼，再把对方放进能替自己解决问题的位置。"
+    },
+    {
+      "en": "Clean hands.",
+      "zh": "干干净净的。",
+      "speaker": "希芙 → 杰丽",
+      "context": "要求汤姆不受邮轮问题牵连。",
+      "analysis": "她要保护具体的人，也把无法干净抹去的事件重新分配给其他位置。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "一座借来的城堡",
+      "image": "castle",
+      "text": "场地看起来足够古老、稳定，里面的婚姻与所有权却都还在谈。建筑不能替人保证承诺。",
+      "link": "castle",
+      "label": "稳固外观 ↔ 流动条件"
+    },
+    {
+      "number": "02",
+      "title": "带消息的人挨打",
+      "image": "warning",
+      "text": "汤姆能够向新娘提出疑问，却更容易对地位较低的传话人发泄。伤害常沿着能够施压的方向流动。",
+      "link": "warning",
+      "label": "不安 → 向下惩罚"
+    },
+    {
+      "number": "03",
+      "title": "小船上的片刻",
+      "image": "mother",
+      "text": "兄妹仍能靠近，说明竞争没有耗尽感情；也说明感情真实存在时，人仍可能继续伤害彼此。配图用于兄妹辨认，不指认船上镜头。",
+      "link": "castle",
+      "label": "温柔存在 ↔ 计划继续"
+    }
+  ],
+  "ending": {
+    "title": "他们终于谈好了条件。|明天，却已不只属于新人。",
+    "copy": "一场停火暂时安静下来。|一份收购被要求更早发生。",
+    "question": "当家人的仪式与自己的进攻撞在一起，他会怎样选择？",
+    "known": "洛根到场；政治停火谈成；希芙仍隐瞒私情；资本伙伴要求收购提前。",
+    "unknown": "婚礼当天的公开要约、婚姻谈话与收购能否推进。",
+    "boundary": "剧透截至 S01E09，不披露季终事故或最终父子结果。"
+  },
+  "glossary": [
+    {
+      "title": "邮轮秘密的范围",
+      "text": "本集利用的是已知的掩盖及材料处理信息，不等于所有具体案件已有完整结论。"
+    },
+    {
+      "title": "停火与认同",
+      "text": "减少相互攻击是一个交易结果，不必被理解成双方价值观已相同。"
+    },
+    {
+      "title": "资本期限",
+      "text": "出资与合作带来执行要求，肯德尔并未因此取得对所有行动时点的独占决定权。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 9,
+  "title": "Pre-Nuptial",
+  "translatedTitle": "婚礼前夕",
+  "airdate": "2018.07.29",
+  "writer": "Jesse Armstrong",
+  "director": "Mark Mylod",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—09 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E09 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e09&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Show Snob · 第 9 集回顾",
+      "url": "https://showsnob.com/2018/08/06/succession-season-1-episode-9-recap/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E09 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4780",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "arrival",
+      "file": "assets/arrival.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 140,
+      "alt": "《继承之战》S01E09：汤姆在前往婚礼场地途中的本集画面。",
+      "caption": "汤姆在前往婚礼场地途中的本集画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0140.jpg"
+    },
+    {
+      "id": "mother",
+      "file": "assets/mother.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 187,
+      "alt": "《继承之战》S01E09：希芙、罗曼与母亲卡罗琳在英国相见。",
+      "caption": "希芙、罗曼与母亲卡罗琳在英国相见。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0187.jpg"
+    },
+    {
+      "id": "nate",
+      "file": "assets/nate.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 375,
+      "alt": "《继承之战》S01E09：内特与婚礼宾客交谈的本集镜头。",
+      "caption": "内特与婚礼宾客交谈的本集镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0375.jpg"
+    },
+    {
+      "id": "confession",
+      "file": "assets/confession.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 780,
+      "alt": "《继承之战》S01E09：希芙在房间里回应汤姆对内特的追问，同场反应镜头。",
+      "caption": "希芙在房间里回应汤姆对内特的追问，同场反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0780.jpg"
+    },
+    {
+      "id": "warning",
+      "file": "assets/warning.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 960,
+      "alt": "《继承之战》S01E09：城堡外：汤姆对试图告知情况的格雷格施压。",
+      "caption": "城堡外：汤姆对试图告知情况的格雷格施压。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0960.jpg"
+    },
+    {
+      "id": "logan",
+      "file": "assets/logan.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 281,
+      "alt": "《继承之战》S01E09：洛根在婚礼场地与肯德尔私下交谈。",
+      "caption": "洛根在婚礼场地与肯德尔私下交谈。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0281.jpg"
+    },
+    {
+      "id": "bargain",
+      "file": "assets/bargain.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 860,
+      "alt": "《继承之战》S01E09：希芙与杰丽谈条件时的同场反应镜头。",
+      "caption": "希芙与杰丽谈条件时的同场反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_0860.jpg"
+    },
+    {
+      "id": "truce",
+      "file": "assets/truce.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 1040,
+      "alt": "《继承之战》S01E09：本集尾声：吉尔与洛根谈停火条件。",
+      "caption": "本集尾声：吉尔与洛根谈停火条件。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_1040.jpg"
+    },
+    {
+      "id": "castle",
+      "file": "assets/castle.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E09",
+      "frame": 1080,
+      "alt": "《继承之战》S01E09：英国城堡的本集结尾外景；船上兄妹互动与收购谈话另见正文。",
+      "caption": "英国城堡的本集结尾外景；船上兄妹互动与收购谈话另见正文。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4780&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2009%20Pre%20Nuptial/S_S1_E9_1080.jpg"
+    }
+  ]
+}

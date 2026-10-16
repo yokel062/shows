@@ -1,0 +1,713 @@
+{
+  "question": "一家人围坐吃饭，|谁还愿意相信父亲？",
+  "deck": "感恩节把人聚到同一张桌子。|旧案要被销毁，新的反抗正在寻找同意。",
+  "hero": "table",
+  "heroKey": "说着感谢的人，也在练习拒绝和自保。",
+  "openingTitle": "家人到齐了。|信任却越来越少。",
+  "storyTitle": "从公司到餐桌，|九次无法圆回的裂缝。",
+  "catalogueSummary": "感恩节的团聚让经营分歧变成家庭伤害。伊万的忠诚、格雷格留下的文件和孩子遭遇的一击，分别改变了下一步的筹码。",
+  "intro": "洛根已经公开归来，但肯德尔开始怀疑公司是否还能承受父亲的决定。家宴将两种质疑放到一起：他是否仍能带领公司，他是否仍有权如此对待家人？这一次，反抗不只停在怨言。与此同时，汤姆要清除邮轮旧案的纸面痕迹，格雷格却决定为自己留下东西。",
+  "prologue": {
+    "image": "plan",
+    "title": "接班计划落空后，肯德尔转向一项表决。",
+    "fact": "肯德尔对洛根继续扩张地方电视台的决策产生担忧，开始与杰丽等人讨论不信任动议。",
+    "analysis": "这次他尝试使用公司程序，而不是再等父亲点头。但只要选票仍握在受父亲影响的人手里，程序就需要先经过关系。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "arrive",
+      "number": "I",
+      "title": "节日前的安排",
+      "subtitle": "一边准备团圆，一边准备防备。",
+      "range": "01—03",
+      "summary": "经营分歧、婚前协议与祖父的到来，都让平静的节日多出条件。"
+    },
+    {
+      "id": "paper",
+      "number": "II",
+      "title": "文件与盟友",
+      "subtitle": "有人要求消除痕迹，有人想留下退路。",
+      "range": "04—06",
+      "summary": "格雷格没有完全照办，伊万也不愿把批评弟弟直接变成协助推翻弟弟。"
+    },
+    {
+      "id": "dinner",
+      "number": "III",
+      "title": "餐桌上的裂口",
+      "subtitle": "伤害发生后，家常话不再足够。",
+      "range": "07—09",
+      "summary": "父亲打到孩子，让对判断力的抽象担忧成为具体经历；不信任表决开始得到更坚决的支持。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "plan",
+      "where": "公司 / 地方台收购",
+      "title": "他想扩张，儿子想先判断他还清不清醒。",
+      "image": "plan",
+      "frame": 134,
+      "caption": "肯德尔在公司讨论经营与父亲判断力的同场镜头。",
+      "fact": "洛根积极推进地方电视台收购，肯德尔与专业顾问对决策及其恢复状态感到不安，讨论不信任动议。",
+      "analysis": "反对父亲既可能出于公司利益，也可能满足儿子重新取得位置的愿望。不能因为两种动机重叠，就认为风险是编出来的。关键是让具体决策接受审查，而不是只问说话的人是否足够孝顺。",
+      "turn": "经营争论开始寻找正式的治理出口。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrive"
+    },
+    {
+      "id": "prenup",
+      "where": "汤姆与希芙 / 婚前协议",
+      "title": "签字之前，他先听见关系里的分量差。",
+      "image": "prenup",
+      "frame": 89,
+      "caption": "汤姆与希芙在家中讨论婚前安排。",
+      "fact": "汤姆让作为律师的母亲查看婚前协议，并对其中的忠诚安排表示不安。希芙以不同方式淡化他的担忧。",
+      "analysis": "协议把平时可以绕开的不均衡写成文字。汤姆希望条款能确认共同期待，希芙却更习惯把自由视为无须同等解释的前提。他并非没有议价能力，但害怕失去关系，使开口的每一步都更费力。",
+      "turn": "纸上条件把亲密关系中的权力差显形。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrive"
+    },
+    {
+      "id": "ewan-arrival",
+      "where": "长途接人 / 格雷格与祖父",
+      "title": "他想靠家族往上走，祖父先叫他离远一点。",
+      "image": "ewan-arrival",
+      "frame": 444,
+      "caption": "感恩节聚会中的格雷格与长辈，同场人物配图。",
+      "fact": "格雷格接祖父伊万来过感恩节。伊万对洛根、公司及家族价值观抱有强烈批评，也提醒格雷格保持警惕。",
+      "analysis": "祖父代表另一种长辈权威，却没有给格雷格一个同样具体的工作出口。格雷格可以理解批评，仍不愿放弃眼前机会。这里的代际差异不是谁更聪明，而是谁能承担退出的代价。",
+      "turn": "两位长辈的价值与资源，向新人提出不同要求。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "arrive"
+    },
+    {
+      "id": "shred",
+      "where": "公司档案 / 一次被要求做完的差事",
+      "title": "碎纸机需要他听话，他偏偏留下副本。",
+      "image": "shred",
+      "frame": 626,
+      "caption": "格雷格在公司处理文件的同场画面。",
+      "fact": "汤姆让格雷格销毁与邮轮问题相关的文件。格雷格在处理过程中秘密保留了副本。",
+      "analysis": "他并没有公开揭露问题，也没有完全执行命令。副本首先是一种自保：当上司能把责任向下交付，材料就可能帮助他证明自己知道什么、奉谁的命令行事。犹疑与机会意识在这里变成了可被带走的东西。",
+      "turn": "组织试图消除的痕迹，成为新人的保护资源。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "paper"
+    },
+    {
+      "id": "brothers",
+      "where": "家宴 / 洛根与伊万",
+      "title": "一个把影响力当功绩，一个追问它造成了什么。",
+      "image": "brothers",
+      "frame": 895,
+      "caption": "家宴中的伊万与家属；用于同场关系辨认。",
+      "fact": "兄弟二人就公司、公共影响及家庭价值激烈争执，伊万一度离席。",
+      "analysis": "伊万的批评指向洛根如何使用媒体，而洛根更习惯把成功与规模当作辩护。两人拥有共同家史，却没有因此共享同一种成功标准。矛盾不只是旧怨，也涉及一家媒体公司对家门之外的人做了什么。",
+      "turn": "家族成功被放到不同的道德尺度上。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "paper"
+    },
+    {
+      "id": "ewan-vote",
+      "where": "离席之后 / 肯德尔试探",
+      "title": "讨厌弟弟的人，仍可能拒绝替你推翻他。",
+      "image": "ewan-vote",
+      "frame": 716,
+      "caption": "家宴里肯德尔面对长辈的同场反应镜头。",
+      "fact": "肯德尔向身为董事的伊万试探改变公司领导的可能，伊万不愿参与对弟弟的谋划。",
+      "analysis": "肯德尔希望把价值批评迅速换成一张可以使用的票。伊万却区分了厌恶某人的做法，与接受这种反抗方式。支持者不是意见相似的人数，而是愿意为一个具体行动付出代价的人数。",
+      "turn": "他第一次更清楚地看到反感并不自动等于支持。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "paper"
+    },
+    {
+      "id": "table",
+      "where": "餐桌 / 被要求表达感谢",
+      "title": "感谢的句式，没有消除各自的不满。",
+      "image": "table",
+      "frame": 940,
+      "caption": "家宴餐桌旁的希芙与罗曼。",
+      "fact": "家人轮流表达感谢，谈伴侣、家人和自己的处境，随后继续玩节日游戏。",
+      "analysis": "礼仪可以让人完成一段共同表演，也可以让尖刻绕着固定句式露出来。谁被欢迎、谁被当作笑料、谁要努力称赞，仍按原来的位置分配。形式上的团圆与实际的情感安全，始终隔着距离。",
+      "turn": "家常仪式让紧张短暂有了共同外壳。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "dinner"
+    },
+    {
+      "id": "iverson",
+      "where": "游戏之后 / 父亲与孙子",
+      "title": "这一击，让“担心判断力”不再只是意见。",
+      "image": "iverson",
+      "frame": 806,
+      "caption": "拉瓦与孩子在家中楼梯处的同场画面；非击打瞬间。",
+      "fact": "洛根在与孙子伊弗森的互动中打到孩子，肯德尔和拉瓦强烈反应，聚会进一步破裂。",
+      "analysis": "孩子没有参与公司的争斗，却承担了父亲权力难以被限制的后果。肯德尔此刻面对的不只是自己的认可需求，也是作为父亲能否保护孩子的责任。原先可以被说成争职位的质疑，现在有了不能用职位解释掉的事实。",
+      "turn": "公司的判断争议，变成家庭中的具体伤害。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "dinner"
+    },
+    {
+      "id": "after-dinner",
+      "where": "散席后 / 两种继续",
+      "title": "他继续复述游戏，儿子继续寻找选票。",
+      "image": "after-dinner",
+      "frame": 985,
+      "caption": "散席前后，杰丽关注局面的反应镜头。",
+      "fact": "洛根仍在复述记忆游戏的内容；杰丽对他的行为更加担忧，肯德尔推进不信任表决的决心增强。",
+      "analysis": "把游戏说完整，可以像是在证明自己仍然记得规则，却没有回答刚才如何对待孩子。家庭经常用恢复日常来替代面对伤害，而这一集让至少一些人不再愿意立刻回到日常。下一步反抗有了更迫切的理由，也仍需要真正的票。",
+      "turn": "表面的继续，不能恢复已经改变的信任。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "dinner"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "推进新的地方台收购。",
+        "在家宴与兄长价值观冲突。",
+        "打到孙子后，仍试图继续原有日常。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "安排家庭聚会并邀请伊万。",
+        "努力让不同家属处在同一场合。",
+        "团聚没有消除兄弟旧怨与子女担忧。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "与专业人士讨论父亲的判断。",
+        "试探伊万是否支持改变领导。",
+        "因儿子受伤而更坚决推进不信任动议。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "带薇拉参加家宴。",
+        "期待伴侣得到欢迎，也维护自己的生活方式。",
+        "没有成为不信任计划中的核心组织者。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "仍在公司与家人之间试探。",
+        "以玩笑参与餐桌互动。",
+        "目睹家庭失控，将面对哥哥接下来的选择。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "与汤姆讨论协议与忠诚。",
+        "在家宴中观察家人的位置。",
+        "没有因为参与团圆就放下独立判断。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "接祖父来过节，听到远离家族的提醒。",
+        "奉命销毁邮轮文件，却留下副本。",
+        "开始拥有能用于自保的材料。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "对婚前协议不安。",
+        "命令格雷格销毁邮轮材料。",
+        "并不知道格雷格完整保留了什么。"
+      ]
+    },
+    {
+      "id": "ewan",
+      "name": "伊万",
+      "en": "Ewan Roy",
+      "role": "洛根的兄长 · 董事",
+      "want": "坚持对弟弟及公司的批评，同时守住自己的忠诚界限。",
+      "power": "董事票与长辈身份。",
+      "cost": "道德批评和亲属忠诚并不总能给出同一个答案。",
+      "reading": "理解他需要同时看两件事：他厌恶什么，以及他拒绝用什么方式反抗。",
+      "phase": [
+        "以长兄与董事身份到场。",
+        "严厉批评洛根与公司。",
+        "拒绝直接参与肯德尔针对弟弟的计划。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "对经营决策与洛根恢复状况有顾虑。",
+        "听取肯德尔对公司领导的忧虑。",
+        "被洛根对孩子的行为进一步动摇。"
+      ]
+    },
+    {
+      "id": "rava",
+      "name": "拉瓦",
+      "en": "Rava Roy",
+      "role": "肯德尔分居的妻子",
+      "want": "为自己与孩子保留稳定的生活边界。",
+      "power": "是否继续亲密关系、怎样安排家庭接触的自主权。",
+      "cost": "肯德尔容易把一次温柔重新解释成关系的复原。",
+      "reading": "她的拒绝不是对肯德尔经营成绩的评分，而是对共同生活经历的判断。",
+      "phase": [
+        "带孩子进入家庭聚会。",
+        "保持对孩子处境的关注。",
+        "儿子受到击打后，明确表达保护与愤怒。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "planning",
+      "label": "01 · 各自准备",
+      "title": "家宴尚未开始，大家已带着不同的担忧。",
+      "note": "不信任动议处在筹划阶段；不能提前把任何私下倾向写成已经投出的票。",
+      "edges": [
+        "筹划动议",
+        "携伴侣到场",
+        "仍在父亲体系",
+        "讨论婚前协议",
+        "安排团聚"
+      ]
+    },
+    {
+      "id": "dinner",
+      "label": "02 · 聚在一起",
+      "title": "反对洛根的人，也不一定反对同一件事。",
+      "note": "伊万批评公司的价值与社会影响，并不因此承诺支持肯德尔的方案。",
+      "edges": [
+        "向伊万试探",
+        "争取被重视",
+        "玩笑与观望",
+        "保留自身立场",
+        "调和不同家属"
+      ]
+    },
+    {
+      "id": "fracture",
+      "label": "03 · 伤害发生",
+      "title": "一场对孩子的伤害，使判断不能只留在口头。",
+      "note": "文件副本由格雷格私下保留；并非全家都已知道。",
+      "edges": [
+        "保护孩子并推进",
+        "目睹聚会破裂",
+        "面对新的选择",
+        "看见家庭裂缝",
+        "团聚无法复原"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "brothers",
+      "label": "两位长辈",
+      "people": [
+        "logan",
+        "ewan"
+      ],
+      "image": "brothers",
+      "title": "共同的家史，没有造出共同的道德语言。",
+      "surface": "媒体影响、成功与亲属忠诚。",
+      "wantA": "洛根要家人承认自己创造的事业。",
+      "wantB": "伊万要指出事业的公共代价，又拒绝背叛弟弟。",
+      "analysis": [
+        "伊万并不是肯德尔可以直接领走的一张反对票。他厌恶弟弟的许多做法，却仍为亲属忠诚设有界限；这可能让观众不满，也让他成为有自身矛盾的人。",
+        "洛根则把批评听成不懂自己如何在现实中行动。兄弟争执把一个问题拉出家门：当财富与影响已经足够大，家人能否只把它当作私人成功？"
+      ],
+      "boundary": "本集伊万拒绝谋划；下一集如何投票不在本页提前揭示。",
+      "scene": "ewan-vote"
+    },
+    {
+      "id": "evidence",
+      "label": "上司与新人",
+      "people": [
+        "tom",
+        "greg"
+      ],
+      "image": "shred",
+      "title": "命令要他销毁过去，他却为未来留了一份。",
+      "surface": "邮轮文件的销毁。",
+      "wantA": "汤姆要减少职位附带的风险。",
+      "wantB": "格雷格要避免成为最后只剩责任的人。",
+      "analysis": [
+        "格雷格留下副本，并不等于完成了一次道德举报。他仍在为自己的生存计算，也正因为有这个目的，才会保留组织希望他消除的痕迹。",
+        "材料改变了两人的关系。汤姆有命令权，格雷格开始拥有可以证明命令存在的东西。纸张的价值在这里来自信息不对称，而不是职位高低。"
+      ],
+      "boundary": "文件未在本集向公众公布，不能写成事件已被揭露。",
+      "scene": "shred"
+    },
+    {
+      "id": "child",
+      "label": "父亲与儿子的父职",
+      "people": [
+        "logan",
+        "kendall",
+        "rava"
+      ],
+      "image": "iverson",
+      "title": "他可以忍受自己受辱，孩子的处境却提出另一道问题。",
+      "surface": "洛根对伊弗森的击打及随后的反应。",
+      "wantA": "洛根仍以自己习惯的方式要求服从。",
+      "wantB": "肯德尔与拉瓦需要保护孩子，而非维护家宴表面。",
+      "analysis": [
+        "作为儿子，肯德尔长期被拉回求认可的位置；作为父亲，他面前出现了一个更清楚的责任。孩子无法替自己改变家族秩序，成年人便不能只把伤害当成又一场难堪。",
+        "这一幕也让对洛根判断力的质疑获得具体基础。它仍不能自动证明任何接班方案正确，却足以使继续装作一切正常变得更加困难。"
+      ],
+      "boundary": "不以脑部疾病为击打行为作道德开脱，也不作现实医疗诊断。",
+      "scene": "iverson"
+    }
+  ],
+  "feature": {
+    "title": "同一种纸，|在两条线里留下不同的未来。",
+    "subtitle": "文件销毁与董事会准备，是本集同时发展的两种行动。",
+    "image": "shred",
+    "steps": [
+      {
+        "title": "要求删去过去",
+        "text": "邮轮材料被交给下属销毁。"
+      },
+      {
+        "title": "私下保留证据",
+        "text": "格雷格留下可证明处境的副本。"
+      },
+      {
+        "title": "试着决定未来",
+        "text": "肯德尔寻找改变领导的正式支持。"
+      }
+    ],
+    "question": "谁能保留记录，|谁就多一种解释自己的办法。",
+    "analysis": [
+      "公司的秘密与家庭的伤害并没有停留在情绪中。有人把材料带走，有人把不满变成计划；后续行动从这些看似私下的决定里开始。",
+      "但记录与规则都不会自己行动。副本要有人愿意使用，动议要有人愿意公开支持。它们提供了可能性，没有替任何人完成选择。"
+    ],
+    "boundary": "本集只到保留副本与推进动议，未发生董事会正式表决。"
+  },
+  "quotes": [
+    {
+      "en": "I'm thankful to have Willa here.",
+      "zh": "我很感谢薇拉能来这里。",
+      "speaker": "康纳 → 家人",
+      "context": "家宴轮流表达感谢时。",
+      "analysis": "他把伴侣在场当作值得郑重确认的事，也显露自己对被接纳的期待。"
+    },
+    {
+      "en": "Does shit happen?",
+      "zh": "真的就会出这种事吗？",
+      "speaker": "汤姆 → 希芙",
+      "context": "讨论婚前协议与忠诚时。",
+      "analysis": "他顺着对方轻描淡写的措辞追问，试图把无法安放的不安重新变成一个需要回答的问题。"
+    },
+    {
+      "en": "Are you not gonna be marrying Shiv anymore?",
+      "zh": "你不是要娶希芙了吗？",
+      "speaker": "罗曼 → 汤姆",
+      "context": "汤姆称赞即将加入的家庭后。",
+      "analysis": "一句插话拆掉礼貌外壳，也让新人必须继续接住这个家庭对自己的嘲弄。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "感谢与抱怨",
+      "image": "table",
+      "text": "固定句式要求表达感谢，语气却不断泄露不满。形式上的相聚并不等于关系已有安全感。",
+      "link": "table",
+      "label": "共同仪式 ↔ 各自处境"
+    },
+    {
+      "number": "02",
+      "title": "带走的东西",
+      "image": "shred",
+      "text": "格雷格从办公室带走副本，其他人从家宴带走对父亲的新判断。真正推动下一步的，未必是公开说过的话。",
+      "link": "shred",
+      "label": "文件副本 ↔ 新的判断"
+    },
+    {
+      "number": "03",
+      "title": "把游戏接下去",
+      "image": "after-dinner",
+      "text": "记住游戏的顺序，与承认自己如何伤害孩子，是两种不同能力。恢复表面秩序不能代替承担。",
+      "link": "after-dinner",
+      "label": "记忆规则 ↔ 面对伤害"
+    }
+  ],
+  "ending": {
+    "title": "团聚结束了，|反抗开始有了下一步。",
+    "copy": "有人把文件留了下来。|有人不愿再把眼前的事解释过去。",
+    "question": "当私下的反对要变成公开的一票，谁还能坚持？",
+    "known": "格雷格保留邮轮文件副本；肯德尔推进不信任动议；伊弗森遭到击打。",
+    "unknown": "董事们是否会真正支持动议，以及文件将怎样被使用。",
+    "boundary": "剧透截至 S01E05，不提前给出董事会结果。"
+  },
+  "glossary": [
+    {
+      "title": "不信任动议",
+      "text": "剧中用于挑战公司现任领导的董事会行动。本页只写其筹备，不把口头不满算成正式票数。"
+    },
+    {
+      "title": "婚前协议",
+      "text": "本集借它呈现双方对婚姻期待的差异，不对现实条款作法律解释。"
+    },
+    {
+      "title": "文件副本",
+      "text": "格雷格保留的是潜在证据与筹码；保存材料和公开举报并不是同一个行为。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 5,
+  "title": "I Went to Market",
+  "translatedTitle": "我去了市场",
+  "airdate": "2018.07.01",
+  "writer": "Georgia Pritchett",
+  "director": "Adam Arkin",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—05 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E05 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e05&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 5 集回顾",
+      "url": "https://readysteadycut.com/2018/07/02/succession-episode-5/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E05 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4776",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "plan",
+      "file": "assets/plan.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 134,
+      "alt": "《继承之战》S01E05：肯德尔在公司讨论经营与父亲判断力的同场镜头。",
+      "caption": "肯德尔在公司讨论经营与父亲判断力的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0134.jpg"
+    },
+    {
+      "id": "prenup",
+      "file": "assets/prenup.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 89,
+      "alt": "《继承之战》S01E05：汤姆与希芙在家中讨论婚前安排。",
+      "caption": "汤姆与希芙在家中讨论婚前安排。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0089.jpg"
+    },
+    {
+      "id": "ewan-arrival",
+      "file": "assets/ewan-arrival.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 444,
+      "alt": "《继承之战》S01E05：感恩节聚会中的格雷格与长辈，同场人物配图。",
+      "caption": "感恩节聚会中的格雷格与长辈，同场人物配图。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0444.jpg"
+    },
+    {
+      "id": "shred",
+      "file": "assets/shred.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 626,
+      "alt": "《继承之战》S01E05：格雷格在公司处理文件的同场画面。",
+      "caption": "格雷格在公司处理文件的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0626.jpg"
+    },
+    {
+      "id": "brothers",
+      "file": "assets/brothers.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 895,
+      "alt": "《继承之战》S01E05：家宴中的伊万与家属；用于同场关系辨认。",
+      "caption": "家宴中的伊万与家属；用于同场关系辨认。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0895.jpg"
+    },
+    {
+      "id": "ewan-vote",
+      "file": "assets/ewan-vote.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 716,
+      "alt": "《继承之战》S01E05：家宴里肯德尔面对长辈的同场反应镜头。",
+      "caption": "家宴里肯德尔面对长辈的同场反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0716.jpg"
+    },
+    {
+      "id": "table",
+      "file": "assets/table.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 940,
+      "alt": "《继承之战》S01E05：家宴餐桌旁的希芙与罗曼。",
+      "caption": "家宴餐桌旁的希芙与罗曼。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0940.jpg"
+    },
+    {
+      "id": "iverson",
+      "file": "assets/iverson.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 806,
+      "alt": "《继承之战》S01E05：拉瓦与孩子在家中楼梯处的同场画面；非击打瞬间。",
+      "caption": "拉瓦与孩子在家中楼梯处的同场画面；非击打瞬间。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0806.jpg"
+    },
+    {
+      "id": "after-dinner",
+      "file": "assets/after-dinner.jpg",
+      "width": 1208,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 985,
+      "alt": "《继承之战》S01E05：散席前后，杰丽关注局面的反应镜头。",
+      "caption": "散席前后，杰丽关注局面的反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4776&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2005%20I%20Went%20to%20Market/S_S1_E5_0985.jpg"
+    }
+  ]
+}

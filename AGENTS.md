@@ -21,6 +21,7 @@
 - 《亿万》第二季使用 `s02eXX/content.json`，运行 `python tools/build_billions.py --season 2 --complete`；模板为 `shared/season-two-episode.html`。第二季以查克、阿克斯、温迪三人为关系图核心，泰勒按本集行动加入外围人物；三条阶段关系依次为查克—阿克斯、查克—温迪、阿克斯—温迪。目录位于 `season-2/`，各篇只使用截至对应集已揭示的信息。
 - 《亿万》第三季使用 `s03eXX/content.json`，运行 `python tools/build_billions.py --season 3 --complete`；模板为 `shared/season-three-episode.html`。前三季目录位于 `season-1/`、`season-2/`、`season-3/`，作品入口按季度展示。第三季关系图包含查克、阿克斯、温迪、泰勒四个核心人物，阶段说明中的五条关系依次为查克—阿克斯、查克—温迪、阿克斯—温迪、阿克斯—泰勒、温迪—泰勒。
 - 场景的“这一场为什么重要 · 个人解读”默认展开。人物关系图使用 `shared/portraits.json` 注册的统一剧中角色照，同一人跨集复用，新增人物时补齐演员和图像出处。
+- 《继承之战》第一季十集使用 `series/succession/s01eXX/content.json`，运行 `python tools/build_succession.py --complete`；只重建一集可用 `--episode 6`。首集保留独立模板 `shared/episode.html`，第 2—10 集使用 `shared/season-episode.html`；统一角色照登记在 `shared/portraits.json`。构建同时生成十集目录与 `season.json`，逐集限制剧透，不用后集事实解释前集选择。
 - 整季目录默认显示全部集数的配图与导读，不按观看进度隐藏；单集入口在新标签页打开。
 
 ## Git 与发布

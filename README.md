@@ -11,6 +11,7 @@
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
 | 亿万 · Billions | 第一至第三季，各十二集 | 单集包含截至该集的剧情 | [季度目录](https://yokel062.github.io/shows/series/billions/) |
 | 白莲花 · The White Lotus | 第一季第一集 · Arrivals | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/) |
+| 继承之战 · Succession | 第一季完整十集 | 单集包含截至该集的剧情，不涉及第二季 | [十集目录](https://yokel062.github.io/shows/series/succession/) |
 
 ## 兄弟连十集目录
 
@@ -130,6 +131,39 @@ python tools/build_white_lotus.py
 
 单集与目录模板、CSS、JS 均在 `series/the-white-lotus/shared/`。构建后得到完整静态 HTML，无需线上构建，也不依赖运行时请求 JSON；关闭 JavaScript 仍可阅读所有剧情与冲突关系。
 
+## 继承之战第一季十集档案
+
+**[第一季十集目录](https://yokel062.github.io/shows/series/succession/)** · **[GitHub 内容目录](https://github.com/yokel062/shows/tree/main/series/succession)**
+
+墨黑、象牙白与暗金的桌面阅读页面，从《Celebration》的生日交接写到《Nobody Is Ever Missing》的英国婚礼。保留首集完成的十二节点版本，第 2—10 集各有三幕、九个剧情节点；全季共 93 个节点、32 组人物冲突深读、105 张对应集数的真实剧照与 20 位人物的统一角色照。
+
+每篇包含前情与开场、分阶段人物关系、关键机制的因果路径、英文短台词及三个画面呼应。剧情事实与个人解读分开，分析默认展开，图像逐张说明对应范围并登记原图。关系图不会把人物怀疑写成事实，也不把私下支持等同于已经投票；单集只使用截至该集已揭示的信息，不引入第二季解释。
+
+整季目录展示全部配图与导读，单集在新标签页打开；各集有前后导航。关闭 JavaScript 仍可阅读全部人物、冲突和台词，图片可直接打开原始构图。英文短句均核对本集转录、注明中文自译，各篇引用总量限定在 25 个英文词内。
+
+| 集数 | 原名 | 在线阅读 |
+| --- | --- | --- |
+| 01 | Celebration | [图文解读](https://yokel062.github.io/shows/series/succession/s01e01/) |
+| 02 | Shit Show at the Fuck Factory | [图文解读](https://yokel062.github.io/shows/series/succession/s01e02/) |
+| 03 | Lifeboats | [图文解读](https://yokel062.github.io/shows/series/succession/s01e03/) |
+| 04 | Sad Sack Wasp Trap | [图文解读](https://yokel062.github.io/shows/series/succession/s01e04/) |
+| 05 | I Went to Market | [图文解读](https://yokel062.github.io/shows/series/succession/s01e05/) |
+| 06 | Which Side Are You On? | [图文解读](https://yokel062.github.io/shows/series/succession/s01e06/) |
+| 07 | Austerlitz | [图文解读](https://yokel062.github.io/shows/series/succession/s01e07/) |
+| 08 | Prague | [图文解读](https://yokel062.github.io/shows/series/succession/s01e08/) |
+| 09 | Pre-Nuptial | [图文解读](https://yokel062.github.io/shows/series/succession/s01e09/) |
+| 10 | Nobody Is Ever Missing | [图文解读](https://yokel062.github.io/shows/series/succession/s01e10/) |
+
+编辑源为 `series/succession/s01eXX/content.json`，统一角色照登记在 `series/succession/shared/portraits.json`。修改后运行：
+
+```bash
+python tools/build_succession.py --complete
+node --check series/succession/shared/episode.js
+python tools/validate_site.py
+```
+
+只生成一篇可使用 `--episode 6`；首集模板为 `shared/episode.html`，第 2—10 集为 `shared/season-episode.html`，共享 `episode.css`、`episode.js`。构建同时生成作品目录和 `season.json`；`--complete` 要求十集齐备。生成后的 HTML 直接供 GitHub Pages 使用，无需线上构建或运行时拉取 JSON。
+
 ## 目录约定
 
 ```text
@@ -158,6 +192,7 @@ series/
 tools/
   build_episodes.py
   build_billions.py
+  build_succession.py
 movies/
   <movie-slug>/
 ```

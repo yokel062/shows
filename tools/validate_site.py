@@ -3,6 +3,7 @@
 from collections import Counter
 from html.parser import HTMLParser
 import json
+import hashlib
 import re
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -130,6 +131,39 @@ def main():
             for item in source['images']:
                 with Image.open(directory / item['file']) as picture:
                     assert picture.size == (item['width'], item['height']), f'{directory}: wrong image dimensions'
+    succession = ROOT / 'series' / 'succession'
+    if succession.is_dir():
+        season = json.loads((succession / 'season.json').read_text())
+        assert season['complete'] and [e['episode'] for e in season['episodes']] == list(range(1, 11))
+        registry = json.loads((succession / 'shared/portraits.json').read_text())['characters']
+        for number, entry in enumerate(season['episodes'], 1):
+            directory = succession / f's01e{number:02}'
+            path = directory / 'content.json'
+            data = json.loads(path.read_text())
+            html = (directory / 'index.html').read_text()
+            payload = json.loads(re.search(r'<script type="application/json" id="episode-data">(.*?)</script>', html, re.DOTALL)[1])
+            assert payload['sourceHash'] == hashlib.sha256(path.read_bytes()).hexdigest(), f'{directory}: stale editorial source'
+            people = {p['id']: registry[p['id']] for p in data['characters']}
+            digest = hashlib.sha256(json.dumps(people, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+            assert payload['portraitHash'] == digest, f'{directory}: stale registered portraits'
+            assert payload['images'] == data['images'] and payload['phases'] == data['phases']
+            assert entry['title'] == data['title'] and entry['question'] == data['question'].replace('|', '')
+            assert entry['sceneCount'] == len(data['scenes']) and entry['conflictCount'] == len(data['conflicts'])
+            assert html.count('<details class="scene-analysis" open>') == len(data['scenes'])
+            assert sum(len(q['en'].split()) for q in data['quotes']) <= 25
+            rendered = pages[(directory / 'index.html').resolve()]
+            for scene in data['scenes']:
+                assert 'scene-' + scene['id'] in rendered.ids
+            for person in data['characters']:
+                portrait = registry[person['id']]
+                assert portrait['actor'] and portrait['kind'] == 'character-still'
+                assert '../shared/' + portrait['file'] in rendered.images
+            for item in data['images']:
+                assert item['kind'] == 'episode-still' and item['episode'] == f'S01E{number:02}'
+                assert item['originalUrl'].endswith(f'S_S1_E{number}_{item["frame"]:04}.jpg')
+                with Image.open(directory / item['file']) as picture:
+                    assert picture.size == (item['width'], item['height'])
+        print('Succession: all ten episodes match editorial sources, catalogues and portrait registration')
     images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
     images += list(billions.glob('s??e??/assets/*')) + list((billions / 'shared' / 'portraits').glob('*'))
     raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]

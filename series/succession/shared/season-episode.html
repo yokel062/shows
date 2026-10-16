@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#18201f">
+  <meta name="description" content="{{description}}">
+  <title>继承之战 {{episode_id}} · {{title}}｜{{question_text}}</title>
+  <link rel="icon" href="../shared/emblem.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../shared/episode.css">
+  <script src="../shared/episode.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip" href="#story">跳到剧情解读</a>
+  <div class="reading-progress" aria-hidden="true"><span></span></div>
+  <header class="masthead">
+    <a class="brand" href="../../../"><span>✦</span>剧中人<small>STORY FIELDNOTES</small></a>
+    <nav aria-label="本集章节"><a href="#story">剧情解读</a><a href="#people">人物关系</a><a href="#conflicts">冲突深读</a><a href="#quotes">台词与细节</a><a href="#sources">资料来源</a></nav>
+    <a class="episode-id" href="../">SUCCESSION <span>S01 / E{{number}}</span> ↗</a>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="episode-title">
+      <div class="hero-image">{{hero_photo}}</div><div class="hero-shade"></div>
+      <div class="hero-content wrap">
+        <p class="eyebrow"><span class="gold-rule"></span> THE ROY FAMILY / 罗伊家族档案 0{{number}}</p>
+        <h1 id="episode-title"><span class="chinese-title">继 承 之 战</span><span class="english-title" lang="en">SUCCESSION</span></h1>
+        <p class="hero-episode">SEASON 01 <i></i> EPISODE {{number}} <i></i> {{title}}</p>
+        <h2>{{question}}</h2>
+        <p class="hero-deck">{{deck}}</p>
+        <div class="hero-actions"><a class="button" href="#story">走进本集故事 <span>↘</span></a><a class="quiet-link" href="#people">先认清这家人 <span>→</span></a></div>
+      </div>
+      <div class="episode-stamp" aria-label="第 {{number}} 集"><span>FAMILY ARCHIVE</span><b>{{number}}</b><span>POWER / LOVE / CONTROL</span></div>
+      <div class="hero-bottom"><div class="wrap"><span>{{hero_key}}</span><a href="#source-stills">{{hero_caption}} ↗</a></div></div>
+    </section>
+    <div class="scope-strip"><div class="wrap"><p><span class="scope-dot"></span><strong>剧透边界</strong> {{spoiler}}</p><span>剧情事实 / 个人解读分别标注 <b>·</b> 约 18 分钟阅读</span></div></div>
+    <div class="episode-facts wrap"><div><span>本集原名</span><strong lang="en">{{title}} <small>{{translated_title}} · 自译</small></strong></div><div><span>首播 / HBO</span><strong>{{airdate}}</strong></div><div><span>编剧</span><strong>{{writer}}</strong></div><div><span>导演</span><strong>{{director}} <a class="ref" href="#source-episode">[3]</a></strong></div></div>
+    <section class="opening wrap">
+      <div><p class="eyebrow ink-gold">THE QUESTION / 从这里读起</p><h2>{{opening_title}}</h2></div>
+      <div class="opening-copy"><p>{{intro}}</p><div class="reading-lenses"><span>跟住三条线</span><p><b>公司</b> 谁拥有正式的权力？</p><p><b>家庭</b> 谁仍在等父亲的点头？</p><p><b>阶层</b> 谁可以把别人的人生当游戏？</p></div></div>
+    </section>
+    <section class="prologue wrap" aria-labelledby="prologue-title">
+      <div class="prologue-visual">{{prologue_photo}}<span class="image-kicker">PREVIOUSLY / 前情与开场</span></div>
+      <div class="prologue-copy"><p class="eyebrow">WHERE WE BEGIN / 本集从这里开始</p><h2 id="prologue-title">{{prologue_title}}</h2><p class="prologue-fact"><span class="fact-label">剧情事实</span>{{prologue_fact}} {{prologue_refs}}</p><p class="prologue-analysis"><span>个人解读</span>{{prologue_analysis}}</p></div>
+    </section>
+    <section class="story wrap" id="story" aria-labelledby="story-title">
+      <div class="section-heading"><div><p class="eyebrow ink-gold">01 / THE STORY</p><h2 id="story-title">{{story_title}}</h2><p>按本集主线分为三幕；并行发生的谈话与善后，保留其交错关系。</p></div><span class="margin-note">THREE ACTS<br>NINE TURNS</span></div>
+      <nav class="chapter-nav" aria-label="三幕剧情">{{chapter_nav}}</nav>
+      {{acts}}
+    </section>
+    <section class="relations" id="people" aria-labelledby="people-title">
+      <div class="wrap">
+        <div class="section-heading"><div><p class="eyebrow">02 / THE PEOPLE</p><h2 id="people-title">姓氏连在一起，<br>利益却各有方向。</h2><p>看清家人的位置，再看他们为什么不能轻易站在一起。</p></div><span class="margin-note">A FAMILY TREE<br>A MAP OF DEPENDENCE</span></div>
+        <div class="phase-controls enhanced-only" role="group" aria-label="切换本集阶段">{{phase_buttons}}</div>
+        <div class="relation-layout">
+          <div class="graph-panel"><div class="graph" aria-label="罗伊家族关系图，点击人物查看解读">
+            <svg viewBox="0 0 800 560" aria-hidden="true">
+              <path class="family-edge" d="M360 147V205M100 255V205H688V255M296 205V255M492 205V255"/>
+              <path class="marriage-edge" d="M423 92H588"/>
+              <path class="couple-edge" d="M688 358V433"/>
+              <path class="extended-edge" d="M100 436V405H40V92H297"/>
+              <text class="edge-label" data-edge="0" x="100" y="235">预期交接</text><text class="edge-label" data-edge="1" x="296" y="235">置身经营之外</text><text class="edge-label" data-edge="2" x="492" y="235">嘲弄与试探</text><text class="edge-label" data-edge="3" x="688" y="235">外部事业</text><text class="edge-label marriage-label" data-edge="4" x="505" y="73">生活中的亲近</text>
+              <text x="716" y="402">{{couple_label}}</text><text class="extended-label" x="81" y="392">侄孙</text>
+            </svg>{{nodes}}
+          </div><div class="graph-legend"><span><i></i>父母与子女</span><span><i class="spouse"></i>配偶 / 恋人</span><span><i class="extended"></i>旁系亲属</span><small>点击头像读人物</small></div>
+          <div class="phase-summaries" aria-live="polite">{{phase_summaries}}</div>
+          <div class="additional-people"><span>本集另外几位关键人物</span>{{additional_people}}</div>
+          </div>
+          <aside class="person-details" aria-label="人物档案" aria-live="polite">{{person_cards}}</aside>
+        </div>
+        <p class="relation-foot">{{relation_foot}}</p>
+      </div>
+    </section>
+    <section class="watch-study wrap" id="feature" aria-labelledby="feature-title">
+      <div class="section-heading"><div><p class="eyebrow ink-gold">03 / FOLLOW THE CONSEQUENCE</p><h2 id="feature-title">{{feature_title}}</h2><p>{{feature_subtitle}}</p></div><span class="margin-note">CAUSE / CHOICE<br>CONSEQUENCE</span></div>
+      <ol class="watch-route feature-route">{{feature_steps}}</ol>
+      <div class="watch-layout"><div>{{feature_photo}}</div><div class="watch-copy"><p class="eyebrow ink-gold">READ THE MECHANISM / 个人解读</p><h3>{{feature_question}}</h3>{{feature_analysis}}<p class="boundary"><span>事实边界</span>{{feature_boundary}}</p></div></div>
+    </section>
+    <section class="conflicts wrap" id="conflicts" aria-labelledby="conflicts-title">
+      <div class="section-heading"><div><p class="eyebrow ink-gold">04 / BENEATH THE ARGUMENT</p><h2 id="conflicts-title">争的是什么，<br>怕失去的又是什么？</h2><p>本集三组冲突，分开看表面问题、双方诉求与更深的依赖。以下为个人解读。</p></div><span class="margin-note">THREE CONFLICTS<br>NO SIMPLE VILLAINS</span></div>
+      <nav class="conflict-nav" aria-label="选择人物冲突">{{conflict_nav}}</nav>
+      <div class="conflict-panels" aria-live="polite">{{conflicts}}</div>
+    </section>
+    <section class="quotes wrap" id="quotes" aria-labelledby="quotes-title">
+      <div class="section-heading"><div><p class="eyebrow ink-gold">05 / BETWEEN THE LINES</p><h2 id="quotes-title">一句话里，<br>站着两种身份。</h2><p>把短句放回场景，听清一段关系怎样改变。</p></div><span class="margin-note">WORDS / ROLES<br>WHAT GOES UNSAID</span></div>
+      <div class="quote-grid">{{quotes}}</div><p class="small-note">三句共 {{quote_words}} 个英文词，核对自本集非官方对白转录；中文为本页自译。“说话时刻”为情境概括，解读并非人物明确说出的意图。<a href="#source-transcript">核对转录 ↗</a></p>
+    </section>
+    <section class="motifs wrap" aria-labelledby="motifs-title">
+      <div class="section-heading"><div><p class="eyebrow ink-gold">06 / WATCH AGAIN</p><h2 id="motifs-title">再看一遍，<br>留意这三个回声。</h2><p>只讨论截至本集的呼应，不借后续情节倒推人物。以下为个人解读。</p></div></div>
+      <div class="motif-grid">{{motifs}}</div>
+    </section>
+    <section class="ending" aria-labelledby="ending-title"><div class="wrap">
+      <p class="eyebrow">END OF EPISODE {{number}} / 本集停在这里</p>
+      <div class="ending-layout"><h2 id="ending-title">{{ending_title}}</h2><div><p>{{ending_copy}}</p><p>{{ending_question}}</p></div></div>
+      <div class="ending-boundaries"><article><span>本集已经发生</span><p>{{ending_known}}</p></article><article><span>本集仍然未定</span><p>{{ending_unknown}}</p></article><article><span>这一页的边界</span><p>{{ending_boundary}}</p></article></div>
+    </div></section>
+    {{episode_nav}}
+    <footer class="sources wrap" id="sources">
+      <p class="eyebrow ink-gold">READING NOTES / 可回头核对的阅读</p><h2>剧情有依据，解读有边界。</h2><p class="source-intro">剧集与人物均属虚构。剧情以本集播出版对白、分集回顾及画面交叉核对，分析独立撰写。正文配图来自本集，统一角色照按登记跨集复用；版权归 HBO 及相关权利人。外部资料页可能包含更多剧透。</p>
+      <details class="source-details"><summary>剧情、台词与创作资料 <span>{{source_count}} 项</span></summary><ol class="source-list">{{source_list}}</ol></details>
+      <details class="source-details"><summary>逐张剧照与统一人物照出处 <span>{{image_count}} 张剧照 / {{person_count}} 位人物</span></summary><p class="asset-intro">正文保留原图构图，页面局部裁切仅用于排版，点击可查看完整画面；未使用 AI 生成剧照。统一头像从已登记的剧中画面裁切，演员、来源集数、帧编号及原图逐一登记。</p><ul class="asset-list">{{image_list}}</ul><h3 class="portrait-credits-heading">统一角色照</h3><ul class="asset-list">{{portrait_list}}</ul></details>
+      <details class="source-details"><summary>观剧提示：信托、职位与家庭排序</summary><div class="reading-glossary">{{glossary}}</div></details>
+      <div class="footer-bottom"><a class="brand" href="../../../"><span>✦</span>剧中人</a><span>SUCCESSION / 0{{number}} · 一集一份档案</span><a href="../">作品目录 ↗</a><a href="#top">回到开头 ↑</a></div>
+    </footer>
+  </main>
+  <dialog class="lightbox" id="image-lightbox" aria-label="完整剧照"><button type="button" class="lightbox-close" aria-label="关闭完整剧照">×</button><img id="lightbox-image" src="{{hero_file}}" alt="待选择的完整剧照" width="1280" height="720" loading="lazy"><p id="lightbox-caption"></p></dialog>
+  <script type="application/json" id="episode-data">{{payload}}</script>
+</body>
+</html>

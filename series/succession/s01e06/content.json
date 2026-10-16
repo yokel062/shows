@@ -1,0 +1,745 @@
+{
+  "question": "私下答应的支持，|为什么走不进会议室？",
+  "deck": "一次不信任表决，先要集齐人，再要留住勇气。|父亲拒绝离场，儿子却被困在路上。",
+  "hero": "vote",
+  "heroKey": "承诺存在于谈话里，选票要在人面前落下。",
+  "openingTitle": "他算过人数。|没有算清父亲在场的重量。",
+  "storyTitle": "从拉票到清场，|九次站位的改变。",
+  "catalogueSummary": "肯德尔筹齐反对父亲的支持，却无法按时回到董事会。程序、地理与恐惧叠在一起，私下联盟在洛根面前发生改变。",
+  "intro": "上一集的家宴使肯德尔更坚定地推进不信任动议。这一集，他试着把愤怒转成程序，把私下赞同转成一张张票。问题是，名单上写着支持，不代表人在洛根面前仍能同样表态。父亲的身体已经不如从前，他在房间里形成的威压却仍然有效；儿子越想保证每一张票，越可能离关键现场更远。",
+  "prologue": {
+    "image": "stewy",
+    "title": "盟友可以说理解你，却不肯替你预先承担输局。",
+    "fact": "肯德尔与同伴争取董事支持，斯图伊在私下谈话中避免作出无条件保证。",
+    "analysis": "资本与私人忠诚的差别，再次比父子的口头冲突更早出现。谁愿意倾听、谁愿意下注、谁愿意在场说出口，是三种不同的支持。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "count",
+      "number": "I",
+      "title": "算票",
+      "subtitle": "先把同意放进一张名单。",
+      "range": "01—03",
+      "summary": "联盟形成大致轮廓，仍有人保留模糊空间；各条支线也在测试忠诚的价格。"
+    },
+    {
+      "id": "distance",
+      "number": "II",
+      "title": "离场",
+      "subtitle": "儿子追一张票，父亲回到房间。",
+      "range": "04—06",
+      "summary": "肯德尔为提高胜算离开曼哈顿，却因交通限制无法按时返回。"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "当面选择",
+      "subtitle": "规则需要有人能把它执行完。",
+      "range": "07—09",
+      "summary": "洛根拒绝退出并威压现场，投票结果没有按肯德尔的预期发展；失败被立刻转成清理反对者。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "stewy",
+      "where": "私下会面 / 资本的立场",
+      "title": "他支持的，首先是最后会赢的那一边。",
+      "image": "stewy",
+      "frame": 46,
+      "caption": "斯图伊与肯德尔私下谈到表决的画面。",
+      "fact": "肯德尔向斯图伊争取支持，斯图伊回避绝对承诺，更关注自己作为投资人的位置。",
+      "analysis": "肯德尔想收集确定，斯图伊保留选择。理解这种回答不需要先判定朋友真假：一个人可以真心喜欢你，同时拒绝让自己的资本无条件跟着你的家庭战争走。危险在于，把友善的语气当成已经交出的票。",
+      "turn": "私人支持与投票承诺之间出现缝隙。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "count"
+    },
+    {
+      "id": "canvass",
+      "where": "董事与高管 / 四处确认",
+      "title": "纸上的多数，需要一连串互不知情的承诺。",
+      "image": "canvass",
+      "frame": 140,
+      "caption": "肯德尔与杰丽在外接触支持者的同场画面。",
+      "fact": "肯德尔、弗兰克和杰丽等人协调行动；罗曼也与劳伦斯交流，尝试让他支持改变公司领导。",
+      "analysis": "秘密行动可以避免被父亲逐个阻止，也会让联盟难以成为一个能互相支撑的共同体。每个人面对的是各自的收益与风险，未必知道别人的底线。最后投票时，名单上的人数便不只取决于曾经谈过什么。",
+      "turn": "联盟有了轮廓，承诺仍然分散。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "count"
+    },
+    {
+      "id": "loyalty",
+      "where": "并行 / 格雷格、汤姆与伊万",
+      "title": "一边叫他远离，一边教他享受加入。",
+      "image": "loyalty",
+      "frame": 420,
+      "caption": "汤姆带格雷格体验富人消费的同场镜头。",
+      "fact": "伊万告诫格雷格不要卷入表决，格雷格仍向汤姆透露消息。汤姆带他体验昂贵消费，强化两人的接近。",
+      "analysis": "祖父的警告要求他克制，汤姆的示范让加入显得可以马上尝到。格雷格不是完全不知道危险，而是也在比较自己站在谁身边更像拥有未来。利益不只表现为职位，有时先表现为被带进一个消费场景。",
+      "turn": "忠诚通过提醒与奖赏同时被塑造。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "count"
+    },
+    {
+      "id": "washington",
+      "where": "华盛顿 / 洛根的行程",
+      "title": "他以为能见总统，却被通知暂时不行。",
+      "image": "washington",
+      "frame": 514,
+      "caption": "洛根因行程变化停留在华盛顿的同场画面。",
+      "fact": "洛根前往华盛顿会见总统，因潜在安全威胁等因素，原定会面被取消。",
+      "analysis": "这条线短暂把洛根放在别人的安排里。他对被晾着感到恼怒，也提醒观众：这个家里的最高权威，在更大的系统里仍会遭遇限制。意外的行程变化，又使肯德尔原以为父亲不在的窗口变得不稳。",
+      "turn": "父亲对外遇到限制，对内的缺席却更难预测。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "distance"
+    },
+    {
+      "id": "last-vote",
+      "where": "长岛 / 补足最后的把握",
+      "title": "为了多一份确定，他离开了最需要在的地方。",
+      "image": "last-vote",
+      "frame": 701,
+      "caption": "肯德尔乘直升机前往长岛争取董事支持。",
+      "fact": "肯德尔前往长岛探望一名生病的董事，希望获得支持或至少降低反对；他计划在开会前赶回。",
+      "analysis": "行动很积极，也包含对脆弱胜算的过度追逐。他把一张票看成可以补足安全感的最后一块，却低估了执行时间本身是风险。对父亲的反抗不只需要说服力，也需要承受仍有一部分无法提前控制。",
+      "turn": "提高胜率的动作，制造了新的现场缺席。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "distance"
+    },
+    {
+      "id": "traffic",
+      "where": "回程 / 无法起飞的直升机",
+      "title": "金钱能缩短路程，不能取消封锁。",
+      "image": "traffic",
+      "frame": 747,
+      "caption": "肯德尔滞留车流、试图赶回会议现场。",
+      "fact": "安全管制造成直升机无法按原计划返回，肯德尔被困在路面交通中，只能通过电话接入董事会。",
+      "analysis": "他习惯了昂贵工具能压缩距离，此刻距离重新变得真实。电话可以传递内容，不能代替一个人在房间里为盟友承受目光。父子对决不再只是论点强弱，也是谁能形成现场的情绪重心。",
+      "turn": "儿子的声音到了，身体没有到场。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "distance"
+    },
+    {
+      "id": "vote",
+      "where": "董事会 / 洛根拒绝退出",
+      "title": "会议要求他离场，他用在场改变会议。",
+      "image": "vote",
+      "frame": 841,
+      "caption": "洛根留在董事会现场，面对提出不信任的同事。",
+      "fact": "弗兰克主持表决，洛根拒绝离开，并不断打断、质问反对者。肯德尔通过扬声器要求按程序进行。",
+      "analysis": "规则的力量取决于有人能让它兑现。洛根的优势是无需先证明自己的反驳更有道理，只要让每个人在公开说出反对时感到孤立。父亲的目光、老板的职位权与多年合作的历史，在同一张桌子上形成压力。",
+      "turn": "私人威望压进正式程序。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "switch",
+      "where": "同一张桌子 / 罗曼与弃权者",
+      "title": "私下很勇敢，举手时却发现父亲就在对面。",
+      "image": "switch",
+      "frame": 888,
+      "caption": "董事会中伊万、弗兰克与斯图伊等人的同场画面。",
+      "fact": "罗曼未按肯德尔的期待坚持反对，斯图伊与劳伦斯选择弃权，伊万支持洛根留下。动议没有通过。",
+      "analysis": "这些选择各有理由：恐惧、投资计算、亲属忠诚，不能被简化成一个统一的背叛动作。但对肯德尔而言，它们叠在一起就足以改变结局。他错把不同性质的支持，暂时按同一种确定来计算。",
+      "turn": "数字没有离开人，联盟在当面选择中改写。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "dismissal",
+      "where": "散会与街头 / 洛根清场",
+      "title": "失败不是各自回去工作，而是当场失去位置。",
+      "image": "dismissal",
+      "frame": 1075,
+      "caption": "肯德尔在表决失败后走入街头。",
+      "fact": "洛根宣称自己继续掌权，并解雇肯德尔、弗兰克等反对者。肯德尔赶回时，结果已难以挽回。",
+      "analysis": "这场清理不仅惩罚已经表态的人，也向仍在公司的人展示下一次反对的成本。肯德尔试图用程序摆脱父亲，父亲把程序的失败转成一次重新确认个人权威的机会。街头的儿子暂时失去的不只是职位，还有他熟悉的进入世界的方式。",
+      "turn": "反对的成本被公开展示，父亲重新定义房间。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "离开纽约去会见总统。",
+        "行程受阻后返回，进入董事会。",
+        "拒绝回避并压制表决，清理反对者。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "没有成为本集董事会拉票的决策者；配偶位置不能被当作董事投票事实。",
+        "没有成为本集董事会拉票的决策者；配偶位置不能被当作董事投票事实。",
+        "没有成为本集董事会拉票的决策者；配偶位置不能被当作董事投票事实。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 表决发起者，随后遭解职",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "协调支持与票数。",
+        "为了最后一张票去长岛，回程受阻。",
+        "远程参与仍失败，被解除公司职务。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "没有进入这次表决的核心策划；他与公司的距离不同于肯德尔。",
+        "没有进入这次表决的核心策划；他与公司的距离不同于肯德尔。",
+        "没有进入这次表决的核心策划；他与公司的距离不同于肯德尔。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "与劳伦斯接触，向哥哥显示拉票能力。",
+        "似乎准备支持改变公司领导。",
+        "面对父亲威压，未坚持哥哥期待的表态。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "在公司争权之外维持自己的政治与私人生活。",
+        "与内特保持接近，未参与核心拉票。",
+        "不是本次不信任动议的共同策划者。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "听祖父要求不要卷入。",
+        "仍把消息告诉汤姆。",
+        "在被接纳的诱惑与长辈提醒之间继续找位置。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "从格雷格处得知家族动向。",
+        "带新人体验昂贵消费。",
+        "对家族权力变动的期待，最终并未按自己想象发生。"
+      ]
+    },
+    {
+      "id": "stewy",
+      "name": "斯图伊",
+      "en": "Stewy Hosseini",
+      "role": "投资人 · 肯德尔的老友",
+      "want": "在可接受的风险下获得收益与影响力。",
+      "power": "资本、交易条件与和不同阵营的联系。",
+      "cost": "友谊可能让别人误读他的投资边界。",
+      "reading": "他愿意与肯德尔谈私交，但关键决定仍要按投资人的利益理解。",
+      "phase": [
+        "回避无条件保证。",
+        "保留投资人的判断空间。",
+        "正式选择弃权。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "协助讨论反对洛根的安排。",
+        "以专业顾问身份参与协调。",
+        "没有在现场推动对洛根的强制回避。"
+      ]
+    },
+    {
+      "id": "frank",
+      "name": "弗兰克",
+      "en": "Frank Vernon",
+      "role": "资深高管 · 家族公司的老臣",
+      "want": "让自己的经验与多年贡献获得基本尊重。",
+      "power": "经营知识、董事会与长期合作关系。",
+      "cost": "地位仍受洛根的个人决定影响。",
+      "reading": "他熟悉公司的程序，也清楚程序会怎样被个人威望挤压。",
+      "phase": [
+        "参与协调并准备会议。",
+        "主持董事会表决。",
+        "坚持程序却未能让洛根离场，随后被解雇。"
+      ]
+    },
+    {
+      "id": "ewan",
+      "name": "伊万",
+      "en": "Ewan Roy",
+      "role": "洛根的兄长 · 董事",
+      "want": "坚持对弟弟及公司的批评，同时守住自己的忠诚界限。",
+      "power": "董事票与长辈身份。",
+      "cost": "道德批评和亲属忠诚并不总能给出同一个答案。",
+      "reading": "理解他需要同时看两件事：他厌恶什么，以及他拒绝用什么方式反抗。",
+      "phase": [
+        "提醒孙子远离争夺。",
+        "保留对弟弟的强烈批评。",
+        "正式支持洛根留下，不接受这种推翻方式。"
+      ]
+    },
+    {
+      "id": "lawrence",
+      "name": "劳伦斯",
+      "en": "Lawrence Yee",
+      "role": "Vaulter 创办人 · 董事",
+      "want": "保住自己的业务与交易后的影响力。",
+      "power": "业务资产、董事席位与独立选择权。",
+      "cost": "不能把对肯德尔的不满等同于愿意替他冒险。",
+      "reading": "他的每次表态都要回到自己的利益，羞辱过洛根的儿子不表示就会支持推翻洛根。",
+      "phase": [
+        "被罗曼争取。",
+        "保留独立判断，没有交出可靠保证。",
+        "以这是家族事务为由弃权。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "promise",
+      "label": "01 · 私下承诺",
+      "title": "一张名单，容纳着不同程度的同意。",
+      "note": "杰丽是专业顾问，不能把她的倾向算成一张董事选票。",
+      "edges": [
+        "组织反对动议",
+        "不在核心拉票",
+        "向劳伦斯争取",
+        "未参与核心方案",
+        "维持配偶关系"
+      ]
+    },
+    {
+      "id": "absence",
+      "label": "02 · 两个现场",
+      "title": "儿子离开曼哈顿，父亲却回到关键房间。",
+      "note": "交通与安全管制构成剧情中的执行风险，不是单纯因为肯德尔不够努力。",
+      "edges": [
+        "被困回程",
+        "保持距离",
+        "将面对父亲",
+        "关注外部事业",
+        "不参与表决"
+      ]
+    },
+    {
+      "id": "aftermath",
+      "label": "03 · 清理异议",
+      "title": "私人威压赢过一次不完整执行的程序。",
+      "note": "本页按剧情呈现区分正式规则与洛根的实际做法，不据此说明现实公司投票都如此运作。",
+      "edges": [
+        "被解除职务",
+        "仍属家庭",
+        "没有坚持原立场",
+        "非共同策划者",
+        "维持配偶关系"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "rules",
+      "label": "规则与威望",
+      "people": [
+        "logan",
+        "kendall",
+        "frank"
+      ],
+      "image": "vote",
+      "title": "规则要求他回避，其他人却没有让回避发生。",
+      "surface": "不信任表决的主持与洛根的在场。",
+      "wantA": "肯德尔要让票数决定领导去留。",
+      "wantB": "洛根要让每一张票先经过自己的目光。",
+      "analysis": [
+        "程序不是完全无用，但也不能独自抵挡有职位权、威望与惩罚能力的人。弗兰克能提出要求，若没有足够的人共同执行，要求就会变成持续遭到打断的发言。",
+        "肯德尔的缺席让这个困难更大：盟友无法把风险聚到一个在场的带头人身上，只能逐一面对老板。父亲因此把一场集体判断拆回各自的生存选择。"
+      ],
+      "boundary": "洛根拒绝回避是剧情中的违规争议，不能当作正常治理常识。",
+      "scene": "vote"
+    },
+    {
+      "id": "roman",
+      "label": "哥哥与父亲",
+      "people": [
+        "kendall",
+        "roman",
+        "logan"
+      ],
+      "image": "switch",
+      "title": "他能向外嘲弄权威，却仍难当面拒绝父亲。",
+      "surface": "罗曼的私下支持与现场选择。",
+      "wantA": "肯德尔要弟弟把承诺变成反对票。",
+      "wantB": "罗曼想得到能力认可，又害怕父亲的惩罚。",
+      "analysis": [
+        "罗曼不是突然不知道自己说过什么。他在不同场合承受不同重量：对劳伦斯可以表现聪明，对父亲却重新进入长期形成的服从反应。",
+        "这不能取消他的责任，却能解释为什么一句“他背叛了”仍不足够。哥哥把弟弟当作一张稳固的票，忽略了这张票还连着另一个儿子对父亲的恐惧。"
+      ],
+      "boundary": "不把现场退缩写成早已策划好的双面间谍行动。",
+      "scene": "switch"
+    },
+    {
+      "id": "capital",
+      "label": "投资与忠诚",
+      "people": [
+        "kendall",
+        "stewy",
+        "ewan"
+      ],
+      "image": "stewy",
+      "title": "反对父亲的人，未必愿意替儿子赢。",
+      "surface": "弃权与长辈的支持方向。",
+      "wantA": "肯德尔要把熟悉、批评和理解都计入联盟。",
+      "wantB": "斯图伊按投资利益选择，伊万按自己的忠诚界限选择。",
+      "analysis": [
+        "一个靠资本进场，一个靠家史判断，两人都没有义务接受肯德尔对支持的定义。肯德尔需要的是具体承诺，而不是把不同人的立场改写成自己需要的形状。",
+        "这也让失败超出单次交通意外。即使他按时到场，联盟仍必须面对利益和忠诚的不一致；缺席使脆弱处暴露，不是凭空创造了所有脆弱。"
+      ],
+      "boundary": "本集显示具体投票选择，不据此断言任何人所有未来决定。",
+      "scene": "switch"
+    }
+  ],
+  "feature": {
+    "title": "私下的“可以”，|怎样变成现场的“不”？",
+    "subtitle": "把筹票、执行和当面表态分开，看清这次行动在哪里失去支撑。",
+    "image": "vote",
+    "steps": [
+      {
+        "title": "记录倾向",
+        "text": "不同程度的支持，被整理成预期多数。"
+      },
+      {
+        "title": "发起者缺席",
+        "text": "交通限制让肯德尔只能远程参与。"
+      },
+      {
+        "title": "现场重新计算",
+        "text": "父亲威压、弃权与忠诚改变最终结果。"
+      }
+    ],
+    "question": "多数不能只被计算，|还必须能共同站在场上。",
+    "analysis": [
+      "联盟不是数字的相加。它需要人知道自己为何参与、能承担什么，以及面对压力时谁会与自己站在一起。",
+      "本集把治理程序与家庭情感压进同一张桌子。肯德尔试图用公司规则解决父子问题，却仍需要那些在家庭秩序中长大的人执行规则。"
+    ],
+    "boundary": "不以这场戏替代现实公司法与治理程序；本集按剧情呈现结果。"
+  },
+  "quotes": [
+    {
+      "en": "I abstain.",
+      "zh": "我弃权。",
+      "speaker": "劳伦斯 → 董事会",
+      "context": "正式表态时。",
+      "analysis": "最短的一句，让肯德尔看清被争取过的人仍保留自己的判断。"
+    },
+    {
+      "en": "Continuity prevails.",
+      "zh": "维持现状优先。",
+      "speaker": "洛根 → 董事会",
+      "context": "争议表决后的自我宣告。",
+      "analysis": "他把需要争议的程序解释成已经存在的秩序，随即宣称自己胜出。"
+    },
+    {
+      "en": "I win.",
+      "zh": "我赢了。",
+      "speaker": "洛根 → 董事会",
+      "context": "宣布自己继续掌权时。",
+      "analysis": "公司的集体治理，被他说成一次个人胜负，父亲与老板的身份在此重叠。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "昂贵的速度失效",
+      "image": "traffic",
+      "text": "直升机能缩短大部分距离，却无法让人摆脱公共事件带来的限制。城市短暂收回了对富人的便利。",
+      "link": "traffic",
+      "label": "特权工具 ↔ 公共限制"
+    },
+    {
+      "number": "02",
+      "title": "声音与身体",
+      "image": "vote",
+      "text": "扬声器保留了肯德尔的论点，却没有保留在场的人能形成的支撑。洛根的身体与目光占据了这个空位。",
+      "link": "vote",
+      "label": "远程声音 ↔ 在场威压"
+    },
+    {
+      "number": "03",
+      "title": "回到街上的人",
+      "image": "dismissal",
+      "text": "走在陌生人之间的肯德尔失去公司的入口，并没有失去财富；视觉上的失落不能被误读成已经脱离阶层特权。",
+      "link": "dismissal",
+      "label": "职位失去 ≠ 一无所有"
+    }
+  ],
+  "ending": {
+    "title": "他想让父亲离开房间。|最后离开的，是自己。",
+    "copy": "名单曾经像一个答案。|现场把每个人的理由重新摊开。",
+    "question": "失去公司入口之后，他还剩哪一种独立？",
+    "known": "不信任动议失败；肯德尔与弗兰克等反对者被解雇；洛根继续掌权。",
+    "unknown": "肯德尔如何应对失去职位，家人怎样面对这次公开失败。",
+    "boundary": "剧透截至 S01E06，不提前写之后的复吸与重整。"
+  },
+  "glossary": [
+    {
+      "title": "倾向与选票",
+      "text": "私下表示理解，不等于正式承诺；正式弃权又不同于支持某一边。"
+    },
+    {
+      "title": "回避的争议",
+      "text": "剧情中洛根被要求退出却拒绝，必须与正常公司程序区分。"
+    },
+    {
+      "title": "顾问不等于董事",
+      "text": "杰丽参与专业协调，不应被直接记作一张董事票；人物支持和票数计算分别理解。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 6,
+  "title": "Which Side Are You On?",
+  "translatedTitle": "你站哪一边",
+  "airdate": "2018.07.08",
+  "writer": "Susan Soon He Stanton",
+  "director": "Andrij Parekh",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—06 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E06 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e06&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 6 集回顾",
+      "url": "https://readysteadycut.com/2018/07/09/succession-episode-6/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E06 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4777",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "stewy",
+      "file": "assets/stewy.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 46,
+      "alt": "《继承之战》S01E06：斯图伊与肯德尔私下谈到表决的画面。",
+      "caption": "斯图伊与肯德尔私下谈到表决的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0046.jpg"
+    },
+    {
+      "id": "canvass",
+      "file": "assets/canvass.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 140,
+      "alt": "《继承之战》S01E06：肯德尔与杰丽在外接触支持者的同场画面。",
+      "caption": "肯德尔与杰丽在外接触支持者的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0140.jpg"
+    },
+    {
+      "id": "loyalty",
+      "file": "assets/loyalty.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 420,
+      "alt": "《继承之战》S01E06：汤姆带格雷格体验富人消费的同场镜头。",
+      "caption": "汤姆带格雷格体验富人消费的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0420.jpg"
+    },
+    {
+      "id": "washington",
+      "file": "assets/washington.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 514,
+      "alt": "《继承之战》S01E06：洛根因行程变化停留在华盛顿的同场画面。",
+      "caption": "洛根因行程变化停留在华盛顿的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0514.jpg"
+    },
+    {
+      "id": "last-vote",
+      "file": "assets/last-vote.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 701,
+      "alt": "《继承之战》S01E06：肯德尔乘直升机前往长岛争取董事支持。",
+      "caption": "肯德尔乘直升机前往长岛争取董事支持。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0701.jpg"
+    },
+    {
+      "id": "traffic",
+      "file": "assets/traffic.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 747,
+      "alt": "《继承之战》S01E06：肯德尔滞留车流、试图赶回会议现场。",
+      "caption": "肯德尔滞留车流、试图赶回会议现场。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0747.jpg"
+    },
+    {
+      "id": "vote",
+      "file": "assets/vote.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 841,
+      "alt": "《继承之战》S01E06：洛根留在董事会现场，面对提出不信任的同事。",
+      "caption": "洛根留在董事会现场，面对提出不信任的同事。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0841.jpg"
+    },
+    {
+      "id": "switch",
+      "file": "assets/switch.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 888,
+      "alt": "《继承之战》S01E06：董事会中伊万、弗兰克与斯图伊等人的同场画面。",
+      "caption": "董事会中伊万、弗兰克与斯图伊等人的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_0888.jpg"
+    },
+    {
+      "id": "dismissal",
+      "file": "assets/dismissal.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 1075,
+      "alt": "《继承之战》S01E06：肯德尔在表决失败后走入街头。",
+      "caption": "肯德尔在表决失败后走入街头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4777&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2006%20Which%20Side%20Are%20You%20On/S_S1_E6_1075.jpg"
+    }
+  ]
+}

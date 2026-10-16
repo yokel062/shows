@@ -1,0 +1,722 @@
+{
+  "question": "终于听见父亲的认可，|为什么反而更难离开？",
+  "deck": "婚礼照常进行，收购要约已经递出。|一场夜里的事故，把胜负之外的人生推到眼前。",
+  "hero": "embrace",
+  "heroKey": "他争了一季的认可，在最无法拒绝时到来。",
+  "openingTitle": "第一集，他等一次交接。|季终，他等父亲替自己解释。",
+  "storyTitle": "从收购到拥抱，|九次无法撤回的选择。",
+  "catalogueSummary": "正式收购要约与婚礼同日发生。肯德尔一度准备越过父亲，夜间事故却使他重新依赖父亲的保护与叙述。",
+  "intro": "肯德尔终于走到不再请求任命的一步：与资本伙伴向父亲递交收购要约。洛根必须应对一个有现实威胁的方案，兄妹也要面对这场进攻发生在婚礼当天。然后，故事让一条本不属于家族争夺的生命进入结局。肯德尔的惊慌值得被理解，但理解不能抹去他的行动；父亲的拥抱含有感情，也同时附着撤回反抗的条件。",
+  "prologue": {
+    "image": "offer",
+    "title": "这次不是问什么时候交班，而是把文件送到父亲面前。",
+    "fact": "肯德尔与斯图伊敲定收购安排，正式向洛根递交要约，洛根开始召集顾问应对。",
+    "analysis": "首集父亲让儿子签字，季终儿子把另一份文件交给父亲。两次都在重写公司的未来，区别是肯德尔此时试图不再依赖父亲同意。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "bid",
+      "number": "I",
+      "title": "正式出手",
+      "subtitle": "父亲的秩序第一次面临外部力量。",
+      "range": "01—03",
+      "summary": "要约递出，火箭失事，家族仪式仍要继续；不同形式的自信都开始面对真实后果。"
+    },
+    {
+      "id": "vows",
+      "number": "II",
+      "title": "各自谈条件",
+      "subtitle": "文件、婚姻与一次离场。",
+      "range": "04—06",
+      "summary": "格雷格使用副本争位置，希芙重谈婚姻边界，肯德尔在需要药物的状态下离开婚宴。"
+    },
+    {
+      "id": "water",
+      "number": "III",
+      "title": "无法回到之前",
+      "subtitle": "事故、掩饰与父亲的方案。",
+      "range": "07—09",
+      "summary": "一名年轻人死亡，肯德尔没有及时求助而离场；父亲提供的保护，要求他交回自己的反抗。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "offer",
+      "where": "婚礼当天 / 洛根房间",
+      "title": "他终于把父亲放进必须应对的局面。",
+      "image": "offer",
+      "frame": 135,
+      "caption": "洛根接到肯德尔正式收购要约后的反应。",
+      "fact": "肯德尔把收购文件交给洛根，确认自己与斯图伊等人的计划。洛根愤怒，将他赶出房间，并组织法律与经营团队回应。",
+      "analysis": "父亲这次不能只靠撤回一句承诺解决问题，必须面对公司的外部所有权与交易压力。肯德尔确实比首集更能主动行动，也仍把进攻选择在一个会伤到兄妹的时刻。能力的增长并不自动带来更好的关系判断。",
+      "turn": "父亲遭遇实际威胁，家庭仪式也被卷入。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "bid"
+    },
+    {
+      "id": "rocket",
+      "where": "婚宴间隙 / 罗曼看直播",
+      "title": "他想让进度像烟花一样漂亮，屏幕里却爆炸了。",
+      "image": "rocket",
+      "frame": 225,
+      "caption": "罗曼躲到洗手间查看火箭发射直播。",
+      "fact": "罗曼为配合婚礼等考虑催促卫星发射，火箭在发射台爆炸。他先掩饰知情，稍后才从杰丽处听到无人死亡的消息。",
+      "analysis": "工作被他当成证明价值的舞台，成本却由实际工程与工作人员承担。洗手的动作把退缩拍得很清楚：他想让灾难暂时离开自己的生活。听到无人死亡可以松一口气，却不能倒过来证明催促没有问题。",
+      "turn": "表演式的进度，碰到不能靠语气消除的风险。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "bid"
+    },
+    {
+      "id": "family",
+      "where": "婚礼与单独谈话 / 家庭公告",
+      "title": "祝福还在继续，父亲先把儿子命名为背叛者。",
+      "image": "family",
+      "frame": 450,
+      "caption": "洛根召集子女说明肯德尔收购行动。",
+      "fact": "婚礼举行、家人致辞。洛根向其他子女披露收购，兄妹对肯德尔在这一天出手愤怒；康纳也提出自己的总统竞选抱负。",
+      "analysis": "洛根让家人先用被背叛的情绪理解交易，便能把经营方案重新拉回亲情审判。兄妹的不满有真实基础，他们自己的仪式被利用了；这又使肯德尔难以要求大家只听商业理由。家族话语并没有因为资本到场就失效。",
+      "turn": "收购被转译成兄弟姐妹需要表态的家庭事件。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "bid"
+    },
+    {
+      "id": "copies",
+      "where": "城堡外 / 格雷格开口",
+      "title": "留下的副本，终于换成一次可以说出口的要求。",
+      "image": "copies",
+      "frame": 660,
+      "caption": "格雷格向肯德尔透露自己保留文件副本的同场镜头。",
+      "fact": "格雷格告诉肯德尔，自己保留了邮轮问题的关键材料副本，希望在未来安排里得到更好的职位与保障。",
+      "analysis": "从跑腿到保留副本，他正在学会把自己的风险转成筹码。这不是纯粹正义的胜利，也不是毫无意义的卑微：一个常被向下交付责任的人，第一次能让更高位置的人认真听自己说话。代价是他也开始使用同一套交换语言。",
+      "turn": "信息使职务较低的人获得议价机会。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "vows"
+    },
+    {
+      "id": "marriage",
+      "where": "新婚夜 / 希芙与汤姆",
+      "title": "婚已经结了，规则却到现在才被问能否接受。",
+      "image": "marriage",
+      "frame": 630,
+      "caption": "希芙与汤姆在新婚夜谈关系边界。",
+      "fact": "希芙承认与内特的关系，表示自己可能不适合一夫一妻式婚姻。汤姆接受她的表达，也说希望此前就谈过这些，随后把内特赶出婚宴。",
+      "analysis": "问题不只是关系形式，而是条件何时、以怎样的对等程度提出。婚礼已经完成，汤姆承担的退出成本更高。他可以真的爱她、选择留下，也仍有理由感到自己失去了充分提前判断的机会。对内特的强硬，让他短暂夺回一个可以控制的局部。",
+      "turn": "坦白迟到了，接受并不自动证明条件对等。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "vows"
+    },
+    {
+      "id": "drive",
+      "where": "离开婚宴 / 肯德尔与服务员",
+      "title": "他要找到可卡因，开上了一条自己不熟的夜路。",
+      "image": "drive",
+      "frame": 750,
+      "caption": "肯德尔驾驶、安德鲁坐在副驾驶的夜间车内画面。",
+      "fact": "肯德尔寻找药物，遇见被洛根开除的服务员安德鲁。安德鲁已使用氯胺酮、认为不宜驾驶，肯德尔于是驾车带他去找联系人。",
+      "analysis": "这不是一段平等、清醒的日常出行。肯德尔急于满足自己的需求，安德鲁有自己的药物状态与失业处境。片刻的聊天可以让阶层差距仿佛变小，却不能消除两人对后果的承受能力相差多大。",
+      "turn": "一种当下的欲望，把两个不同处境的人带到同一条路。",
+      "sources": [
+        "transcript",
+        "recap",
+        "detail"
+      ],
+      "act": "vows"
+    },
+    {
+      "id": "crash",
+      "where": "桥边 / 车辆落水",
+      "title": "不是蓄意的事故，仍然留下不能跳过的责任。",
+      "image": "crash",
+      "frame": 770,
+      "caption": "车辆落水后的水面，属于本集事故场景。",
+      "fact": "路上突然出现鹿，副驾驶安德鲁伸手扭动方向盘，车辆冲入水中。肯德尔逃出后尝试返回施救未果，最终未报警便离开现场，安德鲁死亡。",
+      "analysis": "把事故简单写成蓄意杀人会抹去画面发生的事，把惊慌当成全部解释又会抹去后续决定。我们既看见他尝试救人，也看见他没有及时寻求救援、选择逃离。一次事故与事故之后的行动，必须分别判断。",
+      "turn": "私人争权被一条真实失去的生命打断。",
+      "sources": [
+        "transcript",
+        "recap",
+        "detail"
+      ],
+      "act": "water"
+    },
+    {
+      "id": "return",
+      "where": "回到城堡 / 舞池和孩子",
+      "title": "他洗掉身上的水，回不去事情发生之前。",
+      "image": "return",
+      "frame": 900,
+      "caption": "肯德尔返回婚宴，在舞池与家人一起活动。",
+      "fact": "肯德尔失去房卡，绕回房间清理自己，再返回婚宴，与家人一起跳舞，试图表现得一切正常。",
+      "analysis": "这段日常越温柔，越让前一幕无法被当成已经过去。家人暂时不知道的事，观众无法忘记；他的爱与惊惧都可以真实存在，掩饰也因此更具体。故事仍跟随他，却没有让被留在水里的人变得不重要。",
+      "turn": "表面秩序恢复，事实没有恢复。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "water"
+    },
+    {
+      "id": "embrace",
+      "where": "次日 / 父亲的房间",
+      "title": "那句最想听的话，附着一份最难拒绝的安排。",
+      "image": "embrace",
+      "frame": 1025,
+      "caption": "本集结尾：洛根拥抱崩溃的肯德尔。",
+      "fact": "警方发现事故并调查，洛根掌握肯德尔与现场的联系。他提出处理后续，要求肯德尔撤回收购、接受戒治安排；肯德尔崩溃，回到父亲怀里。",
+      "analysis": "父亲的拥抱可能有真情，同时也是儿子最难拒绝的权力条件。他把一个无法承受的事实放在两种叙述之间：足以毁掉人生的大事，或被自己控制为婚礼上的小插曲。肯德尔失去的不是全部选择，而是此刻承受真实后果的能力；保护因此重新变成服从。",
+      "turn": "认可终于出现，独立行动却被一并收回。",
+      "sources": [
+        "transcript",
+        "recap",
+        "detail"
+      ],
+      "act": "water"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "收到有现实威胁的收购文件。",
+        "在婚礼中组织应对，把家人聚到自己一边。",
+        "掌握事故信息，以保护换儿子撤回进攻。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "参与婚礼与父亲的家庭位置。",
+        "并非全部秘密与收购安排的共同策划者。",
+        "结尾没有被证明主导事故处理，不替她添加幕后计划。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "正式发出收购要约。",
+        "面临家人愤怒、继续寻找药物。",
+        "事故后掩饰，次日接受父亲的保护与撤退条件。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "参与家族合照，维护薇拉的伴侣位置。",
+        "宣布总统竞选抱负。",
+        "个人宏大计划与其他人的真实危机形成落差。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "观看自己催促的发射。",
+        "面对爆炸先掩饰，后因无人死亡松气。",
+        "没有承受与事故风险对等的即时后果。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "在婚礼中面对哥哥的行动。",
+        "新婚夜承认私情，提出非单偶关系的期待。",
+        "得到汤姆接受，但提前知情与对等仍是问题。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "掌握自己保留的副本。",
+        "主动向肯德尔提出职位与保障要求。",
+        "从单纯跑腿者转向会使用信息议价的人。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的丈夫 · 公司管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "完成婚礼，也仍期待稳定的共同承诺。",
+        "听见迟到的坦白与婚姻新条件。",
+        "接受希芙，转而把内特赶走，控制一个可控制的局部。"
+      ]
+    },
+    {
+      "id": "stewy",
+      "name": "斯图伊",
+      "en": "Stewy Hosseini",
+      "role": "投资人 · 肯德尔的老友",
+      "want": "在可接受的风险下获得收益与影响力。",
+      "power": "资本、交易条件与和不同阵营的联系。",
+      "cost": "友谊可能让别人误读他的投资边界。",
+      "reading": "他愿意与肯德尔谈私交，但关键决定仍要按投资人的利益理解。",
+      "phase": [
+        "与肯德尔敲定要约。",
+        "期待他在压力下继续执行。",
+        "收购因肯德尔的撤退而失去原定推进条件。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "参与父亲的应对与公司风险判断。",
+        "确认火箭事故后果并向罗曼说明。",
+        "未被本集证明参与洛根与肯德尔的全部私人事故安排。"
+      ]
+    },
+    {
+      "id": "dodds",
+      "name": "安德鲁",
+      "en": "Andrew “Doddy” Dodds",
+      "role": "婚礼服务员 · 安德鲁·多兹",
+      "want": "本集能确认的是，他失去工作后与肯德尔一同离开会场。",
+      "power": "对当地道路与联系人的了解。",
+      "cost": "处在财富差距悬殊的相遇里，且当晚受到药物影响。",
+      "reading": "他有名字与自己的生活。不能因为故事跟随肯德尔，就把他的死亡只读成豪门儿子的挫折。",
+      "phase": [
+        "被洛根从婚礼服务工作中开除。",
+        "在药物影响下与肯德尔一同离开。",
+        "车辆落水后死亡；他的生命不能只被当作肯德尔的剧情转折。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "attack",
+      "label": "01 · 发出要约",
+      "title": "儿子不再等任命，父亲必须面对外部资本。",
+      "note": "正式收购要约不等于收购已经完成，肯德尔尚未取得公司控制。",
+      "edges": [
+        "正式挑战父亲",
+        "宣布竞选抱负",
+        "催促项目出事",
+        "婚礼受到影响",
+        "维持配偶位置"
+      ]
+    },
+    {
+      "id": "wedding",
+      "label": "02 · 仪式继续",
+      "title": "人人都想把自己的关系谈成可以接受的样子。",
+      "note": "婚姻形式与知情时机分开理解；秘密副本的使用也不是公开举报。",
+      "edges": [
+        "寻找药物与出口",
+        "寻求宏大意义",
+        "隐瞒自己的慌张",
+        "迟到的关系坦白",
+        "不掌握全部秘密"
+      ]
+    },
+    {
+      "id": "consequence",
+      "label": "03 · 后果到来",
+      "title": "保护重新变成条件，儿子回到父亲的秩序。",
+      "note": "父亲承诺处理后续，不等于警方已经作出最终结论，也不证明有预谋陷害。",
+      "edges": [
+        "撤回进攻并崩溃",
+        "仍不知事故全貌",
+        "没有面对同等代价",
+        "婚姻条件尚待承受",
+        "维持配偶关系"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "protection",
+      "label": "父爱与条件",
+      "people": [
+        "logan",
+        "kendall"
+      ],
+      "image": "embrace",
+      "title": "他可以真的爱儿子，也可以用保护终止儿子的反抗。",
+      "surface": "事故后提供帮助与要求撤回收购。",
+      "wantA": "洛根要处理危机，也要重新控制公司与儿子。",
+      "wantB": "肯德尔想摆脱即将吞没自己的事实与后果。",
+      "analysis": [
+        "把父亲只读成毫无感情的操纵者，会漏掉拥抱的真实重量；把拥抱只读成无条件的爱，又会漏掉它出现前已经谈好的代价。两者在同一动作里发生。",
+        "首集肯德尔试着以能力换认可，季终他在崩溃中得到认可。此时父亲不再需要证明他是否够强，只需要提供他无法独自承担的解释。救援恢复了依赖，依赖又撤回了反抗。"
+      ],
+      "boundary": "不把父亲的承诺写成司法结论，也无证据证明事故由他策划。",
+      "scene": "embrace"
+    },
+    {
+      "id": "consent",
+      "label": "婚礼后的条件",
+      "people": [
+        "shiv",
+        "tom"
+      ],
+      "image": "marriage",
+      "title": "愿意留下的人，是否已经有过充分选择？",
+      "surface": "新婚夜提出不同的婚姻期待。",
+      "wantA": "希芙希望诚实面对自己的欲望与关系需要。",
+      "wantB": "汤姆希望承诺在决定结婚之前就已被共同理解。",
+      "analysis": [
+        "讨论非单偶关系本身不是唯一问题，迟到与不对等才让这一幕难受。汤姆已经完成婚礼，并把家族归属押在这段关系里，此刻说接受，与此前能否自由决定不是同一个问题。",
+        "他赶走内特的动作既有真实的自尊反抗，也把无法向新娘完整表达的愤怒放到较可控制的人身上。得到一个局部胜利，未必修复了婚姻中更大的不均衡。"
+      ],
+      "boundary": "不把他的接受写成事先同意此前隐瞒，也不预判后季婚姻走向。",
+      "scene": "marriage"
+    },
+    {
+      "id": "life",
+      "label": "富人故事中的另一条命",
+      "people": [
+        "kendall",
+        "dodds",
+        "logan"
+      ],
+      "image": "crash",
+      "title": "观众跟着肯德尔走，不表示安德鲁只属于他的故事。",
+      "surface": "事故、离场与随后的掩饰。",
+      "wantA": "肯德尔在惊慌中想重新获得安全。",
+      "wantB": "安德鲁的死亡要求被看成一条具体生命的丧失。",
+      "analysis": [
+        "叙事给肯德尔的恐惧很多时间，却没有让这段时间替他完成免责。他尝试施救的动作要保留，没有报警离开的选择也必须保留；二者不能互相删去。",
+        "父亲的方案把死亡重新放进家族可以管理的叙述。最令人不安的不是一句话就真的抹去事实，而是拥有资源的人能够让另一个人的死亡，首先成为自己家怎样继续下去的问题。"
+      ],
+      "boundary": "事故不是本页可认定的蓄意杀人；同样不以惊慌替离场与掩饰开脱。",
+      "scene": "return"
+    }
+  ],
+  "feature": {
+    "title": "两个人出了同一场事故，|只有一个人能回到婚宴。",
+    "subtitle": "分清事故本身、事故后的行动与父亲提供的方案。",
+    "image": "return",
+    "steps": [
+      {
+        "title": "车辆落水",
+        "text": "鹿出现、方向盘被扭动，安德鲁未能逃生。"
+      },
+      {
+        "title": "离开并掩饰",
+        "text": "肯德尔尝试施救后离场，未报警，回到原本的仪式。"
+      },
+      {
+        "title": "父亲安排叙述",
+        "text": "帮助附带撤回收购与接受戒治的要求。"
+      }
+    ],
+    "question": "一条生命，|不能只被写成继承人的学费。",
+    "analysis": [
+      "首集男孩追逐的百万美元，在富人那里只是游戏；季终服务员的死亡，也被父亲放进可以处理的家庭危机。前后呼应的是权力如何安排别人经历的意义。",
+      "但钱与叙述不能真正消除发生的事。季终让肯德尔回到家庭，同时要求观众记得：拥抱之外，还有一个不能回来的年轻人。"
+    ],
+    "boundary": "本页止于第一季结尾，不添加后季警方、家属或听证进展。"
+  },
+  "quotes": [
+    {
+      "en": "You're my number one boy.",
+      "zh": "你是我的头号好儿子。",
+      "speaker": "洛根 → 肯德尔",
+      "context": "儿子接受撤退条件、崩溃时。",
+      "analysis": "首集最渴望的认可，此时与最彻底的依赖重叠；温柔不是没有力量的东西。"
+    },
+    {
+      "en": "Put my fuckin' wine back.",
+      "zh": "把我的酒他妈的放回去。",
+      "speaker": "汤姆 → 内特",
+      "context": "把他从婚宴赶走时。",
+      "analysis": "他终于能在一个具体对象面前下命令，婚姻里更难提出的要求却仍然留着。"
+    },
+    {
+      "en": "Is that OK to say to you?",
+      "zh": "我可以这样对你说吗？",
+      "speaker": "希芙 → 汤姆",
+      "context": "新婚夜提出非单偶婚姻期待之后。",
+      "analysis": "询问听起来给出同意的机会，时机却让拒绝背负了已经完成的婚礼。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "两份交给父亲的文件",
+      "image": "offer",
+      "text": "首集是父亲要求儿子签信托文件，季终是儿子递收购文件。权力方向一度翻转，最终又回到父亲能定义后果的位置。",
+      "link": "offer",
+      "label": "签字服从 → 要约反抗"
+    },
+    {
+      "number": "02",
+      "title": "洗手与洗去痕迹",
+      "image": "rocket",
+      "text": "罗曼看见火箭爆炸后洗手，肯德尔事故后清理自己。两人都先恢复身体的表面秩序，但各自面对的生命代价并不相同。",
+      "link": "return",
+      "label": "表面清理 ↔ 事实仍在"
+    },
+    {
+      "number": "03",
+      "title": "终于得到的拥抱",
+      "image": "embrace",
+      "text": "认可没有以成熟接班的形式抵达，而在儿子无法承受后果时抵达。父子关系的亲密与控制，在这一刻不能拆成两个简单答案。",
+      "link": "embrace",
+      "label": "温柔出现 ↔ 依赖恢复"
+    }
+  ],
+  "ending": {
+    "title": "他回到父亲怀里，|也回到父亲的秩序。",
+    "copy": "第一季没有交出一个新王。|它留下一个重新依赖父亲的儿子，|和一条不会因为拥抱而复原的生命。",
+    "question": "认可、保护与控制，到底何时被他们学成了同一种语言？",
+    "known": "收购行动被肯德尔撤回；安德鲁死亡；希芙与汤姆结婚并重谈关系；格雷格使用文件议价。",
+    "unknown": "事故最终如何处理、人物怎样承担后果，以及下一阶段的公司与家庭关系。",
+    "boundary": "第一季到此结束。页面不涉及第二季及之后的具体剧情。"
+  },
+  "glossary": [
+    {
+      "title": "Bear hug 要约",
+      "text": "本集作为迫使目标公司认真应对的收购方案出现，递交不代表交易已完成。"
+    },
+    {
+      "title": "事故与后续行为",
+      "text": "落水的直接经过、尝试施救、未报警离场与掩饰是不同环节，必须分别记录。"
+    },
+    {
+      "title": "承诺与最终结果",
+      "text": "洛根提出由自己处理，不等于页面可以宣布调查已终结；第一季未给出的结果继续留白。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 10,
+  "title": "Nobody Is Ever Missing",
+  "translatedTitle": "无人真正缺席",
+  "airdate": "2018.08.05",
+  "writer": "Jesse Armstrong",
+  "director": "Mark Mylod",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含第一季十集完整剧情，不涉及第二季。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E10 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e10&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 10 集回顾",
+      "url": "https://readysteadycut.com/2018/08/06/succession-finale-tv-recap/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E10 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4781",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    },
+    {
+      "id": "detail",
+      "title": "Nobody Is Ever Missing · 分集细节与客串演员",
+      "url": "https://en.wikipedia.org/wiki/Nobody_Is_Ever_Missing",
+      "note": "交叉核对事故中驾驶、转动方向盘与离场的先后，以及安德鲁·多兹的姓名、演员登记。页面含季终完整剧情。"
+    }
+  ],
+  "images": [
+    {
+      "id": "offer",
+      "file": "assets/offer.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 135,
+      "alt": "《继承之战》S01E10：洛根接到肯德尔正式收购要约后的反应。",
+      "caption": "洛根接到肯德尔正式收购要约后的反应。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0135.jpg"
+    },
+    {
+      "id": "rocket",
+      "file": "assets/rocket.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 225,
+      "alt": "《继承之战》S01E10：罗曼躲到洗手间查看火箭发射直播。",
+      "caption": "罗曼躲到洗手间查看火箭发射直播。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0225.jpg"
+    },
+    {
+      "id": "family",
+      "file": "assets/family.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 450,
+      "alt": "《继承之战》S01E10：洛根召集子女说明肯德尔收购行动。",
+      "caption": "洛根召集子女说明肯德尔收购行动。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0450.jpg"
+    },
+    {
+      "id": "copies",
+      "file": "assets/copies.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 660,
+      "alt": "《继承之战》S01E10：格雷格向肯德尔透露自己保留文件副本的同场镜头。",
+      "caption": "格雷格向肯德尔透露自己保留文件副本的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0660.jpg"
+    },
+    {
+      "id": "marriage",
+      "file": "assets/marriage.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 630,
+      "alt": "《继承之战》S01E10：希芙与汤姆在新婚夜谈关系边界。",
+      "caption": "希芙与汤姆在新婚夜谈关系边界。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0630.jpg"
+    },
+    {
+      "id": "drive",
+      "file": "assets/drive.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 750,
+      "alt": "《继承之战》S01E10：肯德尔驾驶、安德鲁坐在副驾驶的夜间车内画面。",
+      "caption": "肯德尔驾驶、安德鲁坐在副驾驶的夜间车内画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0750.jpg"
+    },
+    {
+      "id": "crash",
+      "file": "assets/crash.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 770,
+      "alt": "《继承之战》S01E10：车辆落水后的水面，属于本集事故场景。",
+      "caption": "车辆落水后的水面，属于本集事故场景。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0770.jpg"
+    },
+    {
+      "id": "return",
+      "file": "assets/return.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 900,
+      "alt": "《继承之战》S01E10：肯德尔返回婚宴，在舞池与家人一起活动。",
+      "caption": "肯德尔返回婚宴，在舞池与家人一起活动。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_0900.jpg"
+    },
+    {
+      "id": "embrace",
+      "file": "assets/embrace.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 1025,
+      "alt": "《继承之战》S01E10：本集结尾：洛根拥抱崩溃的肯德尔。",
+      "caption": "本集结尾：洛根拥抱崩溃的肯德尔。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4781&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2010%20Nobody%20Is%20Ever%20Missing/S_S1_E10_1025.jpg"
+    }
+  ]
+}

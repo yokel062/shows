@@ -1,0 +1,713 @@
+{
+  "question": "他救下了公司，|谁又登上了救生艇？",
+  "deck": "股价在下跌，银行要求按条款说话。|一位老朋友带来资金，也带来新的所有权。",
+  "hero": "capital",
+  "heroKey": "救命的钱会到场，控制权也会跟着改变。",
+  "openingTitle": "危机需要立刻解决。|代价却可能留在未来。",
+  "storyTitle": "从债务到资本，|九步渡过眼前的水。",
+  "catalogueSummary": "肯德尔接手债务危机，用老朋友的资本换取喘息空间。公司暂时得救，但他是否看清了救援者站在哪一边？",
+  "intro": "前一集刚拿到代理 CEO 的位置，肯德尔就被迫处理父亲留下的债务。他想学父亲的强硬，银行却只认契约；他想证明自己能解决问题，解决方案却要让外部投资人进入公司。与此同时，希芙调查玛西娅，肯德尔试图挽回拉瓦。公司与亲密关系都在问：一次新的动作，能不能抹去原来的不信任？",
+  "prologue": {
+    "image": "covenant",
+    "title": "这次逼他作答的，是一条已经写好的约定。",
+    "fact": "肯德尔得知，债务与 Waystar 股价相连，跌破约定水平可能触发全额偿付要求。",
+    "analysis": "这与父亲反复变化的考题不同：条款不需要在意他是不是好儿子。公司危机让他暂时离开家庭语言，进入必须落实资金与条件的世界。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "pressure",
+      "number": "I",
+      "title": "价格往下",
+      "subtitle": "姿态改变不了条款。",
+      "range": "01—03",
+      "summary": "银行谈判没有给他退路，经营口号也不能立刻变成现金。"
+    },
+    {
+      "id": "search",
+      "number": "II",
+      "title": "向外找路",
+      "subtitle": "朋友、私家调查与亲密关系。",
+      "range": "04—06",
+      "summary": "每个人都想用自己熟悉的关系降低不安，但对方并不必然接受他们的解释。"
+    },
+    {
+      "id": "price",
+      "number": "III",
+      "title": "救援的条件",
+      "subtitle": "现金进入，新的依赖也进入。",
+      "range": "07—09",
+      "summary": "肯德尔暂时稳定了财务，父亲并不认可；观众又看见投资关系中尚未说明的一面。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "covenant",
+      "where": "公司 / 债务细节",
+      "title": "父亲的旧决定，变成儿子的倒计时。",
+      "image": "covenant",
+      "frame": 135,
+      "caption": "杰丽向肯德尔说明公司债务与条款。",
+      "fact": "杰丽说明约三十二点五亿美元债务，以及股价跌破 130 美元时的偿付风险。肯德尔必须尽快找到应对办法。",
+      "analysis": "数字使危机变得具体：问题不只是公司看起来不好，而是市场价格可能触发必须付钱的义务。首集里父子争论谁有能力，这里必须补问能力面对的原始条件是什么。肯德尔可以犯错，却不能被当成从零创造了全部风险的人。",
+      "turn": "接班者被放进前任决定留下的限制里。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "bank",
+      "where": "银行电话 / 试着强硬",
+      "title": "模仿父亲的口气，换不来父亲的位置。",
+      "image": "bank",
+      "frame": 317,
+      "caption": "肯德尔与银行交涉时的同场镜头。",
+      "fact": "肯德尔试着与银行谈判，言辞越来越强硬，对方仍坚持条款与偿付要求，通话不欢而散。",
+      "analysis": "他把强势当成可以复制的技巧，却没有复制支撑强势的关系和筹码。银行并不需要认同他的自尊，也不会因为遭到辱骂就改变风险判断。一次失败的电话，揭示他仍在把“像父亲”与“能处理处境”混为一谈。",
+      "turn": "强硬姿态碰到不必服从他的人。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "lifeboats",
+      "where": "经营会议 / 救生艇策略",
+      "title": "方向很多，不等于眼前有一条能上岸。",
+      "image": "lifeboats",
+      "frame": 362,
+      "caption": "经营会议：肯德尔与各部门讨论增长方案。",
+      "fact": "肯德尔提出“千艘救生艇”的战略说法，鼓励各业务寻找方向，试图稳定团队与公司信心。",
+      "analysis": "把多项探索称为救生艇，可以让众人相信公司仍有选择。但救生艇比喻也承认了母船正在出问题。经营愿景有鼓舞作用，无法替代债务所需的现实资金；这两种工作都需要做，却不能互相冒充。",
+      "turn": "组织得到一个动员故事，资金缺口仍在。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "roles",
+      "where": "并行 / 新任 COO 与公司新人",
+      "title": "得到一间办公室，未必知道怎样使用权力。",
+      "image": "roles",
+      "frame": 543,
+      "caption": "罗曼在公司新职位上的画面。",
+      "fact": "罗曼开始以 COO 身份进入公司日常，表现出对裁员和改变规则的兴趣；格雷格也以新人身份寻找自己的位置。",
+      "analysis": "罗曼很快理解职位允许他对别人做什么，却未必同样关心岗位要求自己完成什么。格雷格则连基本归属都不稳定。将两条线放在一起看，公司的等级差距便不只是一串称谓，而是谁有试错余地、谁先要证明自己配得上留下。",
+      "turn": "同一家公司里，身份决定试错的价格。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "search"
+    },
+    {
+      "id": "stewy",
+      "where": "老朋友 / 投资谈判",
+      "title": "他可以相信朋友，仍必须读懂投资人。",
+      "image": "stewy",
+      "frame": 453,
+      "caption": "肯德尔与斯图伊在本集会面中的画面。",
+      "fact": "肯德尔向大学旧友、投资人斯图伊寻找资金支持。两人的熟悉使交易成为可以谈的选项。",
+      "analysis": "老朋友能让求助显得不那么像失败，投资人却需要按收益与风险作决定。肯德尔渴望的是一条能立刻救公司的路，斯图伊提供的是一份有所有权条件的交易。友谊帮助开门，不会使门后的合同失去商业性质。",
+      "turn": "私人熟悉开始承担公共资产的决定。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "search"
+    },
+    {
+      "id": "investigate",
+      "where": "并行 / 希芙的调查",
+      "title": "她想知道玛西娅是谁，也想知道门后发生了什么。",
+      "image": "investigate",
+      "frame": 770,
+      "caption": "本集聚会中的希芙与汤姆；用于支线人物辨认，非私下调查镜头。",
+      "fact": "希芙请旧识内特协助调查玛西娅背景。探望康复中的洛根时，父亲在神志不稳定的状态下把她的手引向自己胯部，她惊愕地离开。",
+      "analysis": "希芙的不安既指向玛西娅，也指向病后父亲变得难以辨认的状态。调查是一种把模糊转为信息的办法，却不能自动把怀疑升级成证据。那次令人不适的接触同样不宜被草率解释成清醒策划，病后状态留下的未知需要保留。",
+      "turn": "失去接近感的人，转而寻找额外的信息。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "search"
+    },
+    {
+      "id": "rava",
+      "where": "晚餐与第二天 / 分居夫妻",
+      "title": "一次亲近，被他听成一份复合声明。",
+      "image": "rava",
+      "frame": 951,
+      "caption": "拉瓦与肯德尔在本集家庭支线中的画面。",
+      "fact": "肯德尔与拉瓦度过亲近的一晚，期待关系复原。拉瓦随后明确表示，自己已找离婚律师，不能把这一晚当成复合。",
+      "analysis": "肯德尔很想让成功的感觉连续发生：事业上的新身份，也应当让生活重新归位。但拉瓦不是公司危机里可以被一句愿景说服的对象。温柔与决定可以同时存在；拒绝复合，也不等于此前的亲近就是虚假。",
+      "turn": "他的希望不能替对方决定关系的含义。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "price"
+    },
+    {
+      "id": "capital",
+      "where": "资本进入 / 向父亲汇报",
+      "title": "四十亿美元买来喘息，没有买来一句满意。",
+      "image": "capital",
+      "frame": 999,
+      "caption": "康复中的洛根听肯德尔汇报后的反应镜头。",
+      "fact": "斯图伊同意投入四十亿美元，换取股份与董事席位。肯德尔向洛根说明自己渡过了眼前风险，仍遭到父亲否定。",
+      "analysis": "他确实完成了一项有现实效果的融资，也确实改变了家族对公司的掌握方式。洛根的责备可能包含对控制权的担忧，同时再次把儿子的行动压回不合格的结论。评价这项交易，需要分开即时生存、长期代价与父亲是否高兴。",
+      "turn": "公司喘过气，家族控制和父子评价却未稳定。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "price"
+    },
+    {
+      "id": "sighting",
+      "where": "尾声 / 格雷格看见的人",
+      "title": "救援者的另一段关系，暂时只被旁观者撞见。",
+      "image": "sighting",
+      "frame": 1042,
+      "caption": "本集尾声：格雷格望见斯图伊与桑迪往来的同场画面。",
+      "fact": "格雷格看到斯图伊与洛根的商业对手桑迪接触。肯德尔并未在同一时刻掌握这一幕的全部含义。",
+      "analysis": "画面制造信息差，并未把所有合作安排一次性讲清。观众有理由重新警惕资本来自哪里，却还不能假装知道未来计划。财务问题刚被解决，公司的关系问题已经换了一种形式出现。",
+      "turn": "看似外围的人，先看见交易之外的联系。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "price"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "在家康复，公司已由儿子临时负责。",
+        "外部资金方案在自己缺席时推进。",
+        "听到融资结果，仍否定肯德尔。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "参与洛根的康复照护。",
+        "成为希芙想进一步了解的人。",
+        "照护接近与子女怀疑之间的距离仍在。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 代理 CEO",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "面对旧债及股价触发条件。",
+        "银行谈判受挫，转向斯图伊。",
+        "完成融资，却未得到父亲认可。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "没有成为债务谈判的决策者，家族身份与日常经营仍有距离。",
+        "没有成为债务谈判的决策者，家族身份与日常经营仍有距离。",
+        "没有成为债务谈判的决策者，家族身份与日常经营仍有距离。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · COO",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "取得 COO 位置。",
+        "用挑衅与对裁员的兴趣显示权力。",
+        "未承担肯德尔融资谈判的主要责任。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "对玛西娅及父亲的处境不安。",
+        "借内特的职业联系调查背景。",
+        "仍未得到一个能消除疑虑的完整答案。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "试着找到公司里的基本位置。",
+        "在等级差异中观察高层往来。",
+        "看到斯图伊与桑迪接触，掌握一条局部信息。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的未婚夫 · 公司管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "以管理人员与希芙未婚夫的身份维持关系，也继续向格雷格展示等级。",
+        "以管理人员与希芙未婚夫的身份维持关系，也继续向格雷格展示等级。",
+        "以管理人员与希芙未婚夫的身份维持关系，也继续向格雷格展示等级。"
+      ]
+    },
+    {
+      "id": "stewy",
+      "name": "斯图伊",
+      "en": "Stewy Hosseini",
+      "role": "投资人 · 肯德尔的老友",
+      "want": "在可接受的风险下获得收益与影响力。",
+      "power": "资本、交易条件与和不同阵营的联系。",
+      "cost": "友谊可能让别人误读他的投资边界。",
+      "reading": "他愿意与肯德尔谈私交，但关键决定仍要按投资人的利益理解。",
+      "phase": [
+        "以老朋友身份听肯德尔求助。",
+        "按交易条件讨论资金与所有权。",
+        "成为出资人与董事，并被看见与桑迪接触。"
+      ]
+    },
+    {
+      "id": "rava",
+      "name": "拉瓦",
+      "en": "Rava Roy",
+      "role": "肯德尔分居的妻子",
+      "want": "为自己与孩子保留稳定的生活边界。",
+      "power": "是否继续亲密关系、怎样安排家庭接触的自主权。",
+      "cost": "肯德尔容易把一次温柔重新解释成关系的复原。",
+      "reading": "她的拒绝不是对肯德尔经营成绩的评分，而是对共同生活经历的判断。",
+      "phase": [
+        "愿意与肯德尔吃饭。",
+        "恢复短暂亲密，但没有承诺复合。",
+        "明确自己的离婚准备与关系边界。"
+      ]
+    },
+    {
+      "id": "nate",
+      "name": "内特",
+      "en": "Nate Sofrelli",
+      "role": "政治顾问 · 希芙的旧识",
+      "want": "推进政治工作，也重新靠近希芙。",
+      "power": "职业联系、共同经历与亲密熟悉感。",
+      "cost": "私人关系会影响对工作与伦理边界的判断。",
+      "reading": "与希芙的熟悉既能成为职业入口，也可能让他们轻视对汤姆的影响。",
+      "phase": [
+        "以希芙的旧识和政治同行身份出现。",
+        "接受有关玛西娅背景的调查请求。",
+        "职业联系使两人重新靠近，尚不引入后续发展。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "debt",
+      "label": "01 · 债务",
+      "title": "父亲的旧债，先规定儿子的行动空间。",
+      "note": "具体金额与条款按本集对白理解；这不是对现实银行合同的一般解释。",
+      "edges": [
+        "继承债务压力",
+        "不参与融资核心",
+        "试用 COO 权力",
+        "寻找背景信息",
+        "康复照护"
+      ]
+    },
+    {
+      "id": "rescue",
+      "label": "02 · 找钱",
+      "title": "家庭以外的关系，成为眼前最可行的路。",
+      "note": "朋友提供的是带条件的资本，不是无偿救助；拉瓦也保留独立选择。",
+      "edges": [
+        "转向老友融资",
+        "保持距离",
+        "在公司内试位",
+        "请内特协助",
+        "控制照护接近"
+      ]
+    },
+    {
+      "id": "entry",
+      "label": "03 · 新股东",
+      "title": "救生艇能托住公司，也能让新的人登船。",
+      "note": "本集只展示斯图伊出资与他和桑迪的接触，不提前给出后来的收购方案。",
+      "edges": [
+        "被否定的融资",
+        "维持家属位置",
+        "保留 COO 职务",
+        "疑虑未消",
+        "仍在床边"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "rescue",
+      "label": "儿子与父亲",
+      "people": [
+        "kendall",
+        "logan",
+        "stewy"
+      ],
+      "image": "capital",
+      "title": "救下眼前的公司，为什么仍被当成失败？",
+      "surface": "融资成效与家族控制。",
+      "wantA": "肯德尔要先避免债务危机，并证明自己能行动。",
+      "wantB": "洛根在意外部资本进入，也保留对儿子是否合格的裁决。",
+      "analysis": [
+        "用即时结果衡量，肯德尔并非什么都没做；用长期控制衡量，交易又不能被写成没有代价的胜利。两种尺度都应该摆上桌，而不是只重复父亲的评价。",
+        "父子关系让这种讨论更困难：肯德尔想汇报一项解法，也想听见认可。洛根不认可时，儿子便容易把对控制权的争执，全部体验为对自己的否定。"
+      ],
+      "boundary": "资金进入与股权稀释同时发生；本集尚未证明后续所有后果。",
+      "scene": "capital"
+    },
+    {
+      "id": "friend",
+      "label": "朋友与资本",
+      "people": [
+        "kendall",
+        "stewy"
+      ],
+      "image": "stewy",
+      "title": "私交可以降低陌生感，不能代替条件审查。",
+      "surface": "老朋友提供的出资方案。",
+      "wantA": "肯德尔需要可信而迅速的救援。",
+      "wantB": "斯图伊需要与资金规模相称的权益。",
+      "analysis": [
+        "肯德尔面对危机时更容易把熟悉感当成确定性。斯图伊可以喜欢他，也可以在同一时间衡量其他合作对象。把两者分开，并不是认定友谊不存在。",
+        "尾声的接触画面把风险放回观众面前：认得某个人，不等于认得他全部的利益网络。谁带来钱，钱又依赖谁，是一组必须继续追问的问题。"
+      ],
+      "boundary": "只确认本集看见的接触，不提前披露后续合作计划。",
+      "scene": "sighting"
+    },
+    {
+      "id": "intimacy",
+      "label": "肯德尔与拉瓦",
+      "people": [
+        "kendall",
+        "rava"
+      ],
+      "image": "rava",
+      "title": "他需要一次复原，她需要自己的边界。",
+      "surface": "亲密一晚是否代表复合。",
+      "wantA": "肯德尔希望工作与家庭一起回到正确轨道。",
+      "wantB": "拉瓦可以接受亲近，同时不撤回离开的判断。",
+      "analysis": [
+        "对肯德尔而言，一次温柔很容易成为又一份待公布的好消息。他需要被确认，而拉瓦正在拒绝让自己的决定随他的情绪变动。",
+        "这个支线与融资形成温和却清楚的对应：他能促成一次事件，不能独自决定事件意味着什么。关系没有因为他最近承担了更多责任，就必须给他奖赏。"
+      ],
+      "boundary": "不把拉瓦拒绝复合写成故意惩罚或操纵肯德尔。",
+      "scene": "rava"
+    }
+  ],
+  "feature": {
+    "title": "一笔融资，|有三种不同的结果。",
+    "subtitle": "先看当下的资金，再看所有权，最后看父子如何评价。",
+    "image": "capital",
+    "steps": [
+      {
+        "title": "现金与风险",
+        "text": "出资缓解迫近的偿债压力。"
+      },
+      {
+        "title": "股份与席位",
+        "text": "外部资本取得公司中的正式位置。"
+      },
+      {
+        "title": "认可仍缺席",
+        "text": "父亲的不满没有随危机缓解而消失。"
+      }
+    ],
+    "question": "解决眼前问题，|仍要看谁获得明天的决定权。",
+    "analysis": [
+      "融资可以有效，也可以昂贵。把它只写成“肯德尔被坑”会抹去他面对的限制；只写成“成功救公司”又会漏掉所有权变化。",
+      "首集的问题是父亲何时交出权力，本集的问题变成家族是否仍能独占权力。资本来自家庭之外，新的关系从这里进入。"
+    ],
+    "boundary": "不把本集的股权安排外推成所有融资都损害公司，也不提前揭示后续收购。"
+  },
+  "quotes": [
+    {
+      "en": "We round up.",
+      "zh": "我们往上取整。",
+      "speaker": "银行方 → 肯德尔",
+      "context": "肯德尔试图把债务数字说得稍微小一点。",
+      "analysis": "冷淡的短句让他的叙述姿态撞上债权人精确计算的立场。"
+    },
+    {
+      "en": "There are no bad lifeboats.",
+      "zh": "救生艇没有坏的。",
+      "speaker": "肯德尔 → 经营团队",
+      "context": "鼓励不同业务探索增长。",
+      "analysis": "他需要开放选项，也在用一个能动员人的比喻承认公司身处危险。"
+    },
+    {
+      "en": "I was rounding down.",
+      "zh": "我刚才是往下取整。",
+      "speaker": "肯德尔 → 银行方",
+      "context": "债务金额被对方纠正时。",
+      "analysis": "一句像玩笑的修饰，不能让需要偿还的数字随之变小。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "玻璃办公室",
+      "image": "roles",
+      "text": "通透的高层空间让人看见城市，却不保证看见资金背后的关系。占有视野与掌握局势不是同一件事。",
+      "link": "roles",
+      "label": "看得很远 ↔ 知道很少"
+    },
+    {
+      "number": "02",
+      "title": "共同经历，不同解释",
+      "image": "rava",
+      "text": "肯德尔把亲密读成复原，拉瓦保留另一种解释。与公司中急着宣布成功的冲动放在一起，会看见他多么需要一个确定答案。",
+      "link": "rava",
+      "label": "一晚亲近 ↔ 长期决定"
+    },
+    {
+      "number": "03",
+      "title": "旁观者的视线",
+      "image": "sighting",
+      "text": "格雷格没有主导融资，反而看见决策者没在现场看到的接触。信息与职位并不总按同样的顺序分配。",
+      "link": "sighting",
+      "label": "外围位置 → 局部先知"
+    }
+  ],
+  "ending": {
+    "title": "资金到了，|新的问题也登船了。",
+    "copy": "他可以向父亲汇报一个结果，|却仍无法替所有人解释这个结果。",
+    "question": "救援者带来的，是同一条方向吗？",
+    "known": "斯图伊出资取得股份与董事席位；拉瓦拒绝复合；格雷格看见斯图伊与桑迪接触。",
+    "unknown": "外部投资关系的完整安排，以及洛根将如何恢复经营控制。",
+    "boundary": "剧透截至 S01E03，不把后来计划写进本集。"
+  },
+  "glossary": [
+    {
+      "title": "偿付触发条件",
+      "text": "本集对白提到股价跌破 130 美元的风险；以剧中设定理解，不作为现实财务建议。"
+    },
+    {
+      "title": "股份与董事席位",
+      "text": "现金与所有权是同一笔交易的两面；董事席位意味着正式参与公司治理。"
+    },
+    {
+      "title": "融资不等于赠与",
+      "text": "斯图伊以投资人身份进入，熟悉的私人关系不能取代对交易条件的判断。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 3,
+  "title": "Lifeboats",
+  "translatedTitle": "救生艇",
+  "airdate": "2018.06.17",
+  "writer": "Jonathan Glatzer",
+  "director": "Mark Mylod",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—03 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E03 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e03&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Show Snob · 第 3 集回顾",
+      "url": "https://showsnob.com/2018/06/20/succession-lifeboats-recap/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E03 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4774",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "covenant",
+      "file": "assets/covenant.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 135,
+      "alt": "《继承之战》S01E03：杰丽向肯德尔说明公司债务与条款。",
+      "caption": "杰丽向肯德尔说明公司债务与条款。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0135.jpg"
+    },
+    {
+      "id": "bank",
+      "file": "assets/bank.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 317,
+      "alt": "《继承之战》S01E03：肯德尔与银行交涉时的同场镜头。",
+      "caption": "肯德尔与银行交涉时的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0317.jpg"
+    },
+    {
+      "id": "lifeboats",
+      "file": "assets/lifeboats.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 362,
+      "alt": "《继承之战》S01E03：经营会议：肯德尔与各部门讨论增长方案。",
+      "caption": "经营会议：肯德尔与各部门讨论增长方案。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0362.jpg"
+    },
+    {
+      "id": "roles",
+      "file": "assets/roles.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 543,
+      "alt": "《继承之战》S01E03：罗曼在公司新职位上的画面。",
+      "caption": "罗曼在公司新职位上的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0543.jpg"
+    },
+    {
+      "id": "stewy",
+      "file": "assets/stewy.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 453,
+      "alt": "《继承之战》S01E03：肯德尔与斯图伊在本集会面中的画面。",
+      "caption": "肯德尔与斯图伊在本集会面中的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0453.jpg"
+    },
+    {
+      "id": "investigate",
+      "file": "assets/investigate.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 770,
+      "alt": "《继承之战》S01E03：本集聚会中的希芙与汤姆；用于支线人物辨认，非私下调查镜头。",
+      "caption": "本集聚会中的希芙与汤姆；用于支线人物辨认，非私下调查镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0770.jpg"
+    },
+    {
+      "id": "rava",
+      "file": "assets/rava.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 951,
+      "alt": "《继承之战》S01E03：拉瓦与肯德尔在本集家庭支线中的画面。",
+      "caption": "拉瓦与肯德尔在本集家庭支线中的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0951.jpg"
+    },
+    {
+      "id": "capital",
+      "file": "assets/capital.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 999,
+      "alt": "《继承之战》S01E03：康复中的洛根听肯德尔汇报后的反应镜头。",
+      "caption": "康复中的洛根听肯德尔汇报后的反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_0999.jpg"
+    },
+    {
+      "id": "sighting",
+      "file": "assets/sighting.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 1042,
+      "alt": "《继承之战》S01E03：本集尾声：格雷格望见斯图伊与桑迪往来的同场画面。",
+      "caption": "本集尾声：格雷格望见斯图伊与桑迪往来的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4774&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2003%20Lifeboats/S_S1_E3_1042.jpg"
+    }
+  ]
+}

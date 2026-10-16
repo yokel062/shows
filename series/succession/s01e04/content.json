@@ -1,0 +1,699 @@
+{
+  "question": "他宣布自己回来了，|谁替这场归来收拾风险？",
+  "deck": "一场慈善晚宴，要展示公司的体面。|舞台之外，有些事实被要求继续留在暗处。",
+  "hero": "speech",
+  "heroKey": "公开的复位，与不公开的风险，在同一晚发生。",
+  "openingTitle": "舞台上说的是家庭。|后台谈的是谁来承担。",
+  "storyTitle": "一场慈善晚宴，|九个体面背后的动作。",
+  "catalogueSummary": "洛根急于公开复位，汤姆却在新职位上接到邮轮旧案。慈善、致辞与公关把家族聚到一起，也把风险向下传递。",
+  "intro": "肯德尔刚靠外部资本稳住公司，洛根便加快返回办公室。他们争的不只是每天谁在办公桌后，也是谁有权对外讲述交接。与此同时，汤姆接手乐园与邮轮部门，发现晋升附带一份难以承受的历史。公司需要在晚宴上看起来健康，知道内情的人则必须决定该让多少问题被看见。",
+  "prologue": {
+    "image": "return",
+    "title": "身体还在恢复，掌权的姿态已经回来。",
+    "fact": "洛根继续康复训练，并返回办公室，重新介入公司的经营。",
+    "analysis": "想回来与已经完全恢复是两回事。儿子担心健康，也担心自己的临时空间被收回；父亲越能察觉这种复杂，就越容易把关心听成挑战。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "returning",
+      "number": "I",
+      "title": "重新坐回去",
+      "subtitle": "岗位的变化，先让人感到压力。",
+      "range": "01—03",
+      "summary": "洛根回来、弗兰克复职、汤姆拿到新部门；每一次位置变化都附着别人未必乐意接手的条件。"
+    },
+    {
+      "id": "backstage",
+      "number": "II",
+      "title": "后台的消息",
+      "subtitle": "风险沿着知情关系移动。",
+      "range": "04—06",
+      "summary": "汤姆以为倾诉可以减轻压力，组织却在更快地判断谁必须知道、谁必须闭口。"
+    },
+    {
+      "id": "stage",
+      "number": "III",
+      "title": "公开的体面",
+      "subtitle": "谁上台，谁定义公司发生了什么。",
+      "range": "07—09",
+      "summary": "洛根把致辞变成复位公告；场外的疲惫与秘密，继续由其他人处理。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "return",
+      "where": "办公室 / 洛根回归",
+      "title": "他回到桌边，也把儿子重新放回旁边。",
+      "image": "return",
+      "frame": 46,
+      "caption": "洛根回到办公室后与肯德尔等人同场的画面。",
+      "fact": "洛根回到办公室并介入项目，肯德尔对其恢复速度及判断提出担忧，父子继续互相试探。",
+      "analysis": "身体康复没有自动恢复信任。肯德尔的担忧可能是真实的，也无法完全脱离临时权力即将消失的处境。洛根把反对看成不愿自己回来，就能减少对具体意见的讨论。权力争执继续借健康问题表达。",
+      "turn": "经营讨论重新受到父亲在场的支配。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "returning"
+    },
+    {
+      "id": "frank",
+      "where": "公司 / 罗曼的“帮助”",
+      "title": "他得到 COO，又得到一位不想要的老师。",
+      "image": "frank",
+      "frame": 186,
+      "caption": "弗兰克回到公司，与罗曼、肯德尔交谈。",
+      "fact": "弗兰克被请回公司协助和指导罗曼。罗曼对这位旧上司重新出现表现出抗拒。",
+      "analysis": "帮助可以提高能力，也能提醒一个人尚未被完全信任。对罗曼来说，弗兰克的经验像是盖在新职位上的括号：你有名义，但仍要有人看着。父亲不必撤回任命，就能缩小儿子独立使用职位的空间。",
+      "turn": "职位保留，独立性被加上限制。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "returning"
+    },
+    {
+      "id": "file",
+      "where": "新部门 / 汤姆的交接",
+      "title": "升职的文件里，藏着别人做过的事。",
+      "image": "file",
+      "frame": 233,
+      "caption": "汤姆在新职务上的办公室画面。",
+      "fact": "汤姆接手乐园与邮轮业务，获知邮轮上长期存在被掩盖的严重侵害与潜在命案问题。",
+      "analysis": "他想接的是权力和地位，接到的还有组织记忆。知情本身就改变了处境：此后继续沉默，不再只是不了解过去。把它称作坏消息尚且不够，它让晋升从奖励变成是否愿意为体系继续运转承担代价的考题。",
+      "turn": "掌握历史，意味着无法再假装不知道。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "returning"
+    },
+    {
+      "id": "greg",
+      "where": "私下 / 汤姆向格雷格倾诉",
+      "title": "他把秘密叫作病毒，又拉一个人一起感染。",
+      "image": "greg",
+      "frame": 466,
+      "caption": "格雷格听取汤姆谈及部门问题的同场反应镜头。",
+      "fact": "汤姆将风险比作传染的病毒，向格雷格透露邮轮问题，格雷格因此成为知情者。",
+      "analysis": "比喻把责任变成了会传播的东西：说出去会牵连人，不说又把人留在危险里。汤姆希望新人提供支持，也把新人带进了自己难以承担的秘密。两人的上下级关系，使这次倾诉无法只是平等分担。",
+      "turn": "秘密扩大了知情范围，也扩大了相互制约。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "backstage"
+    },
+    {
+      "id": "gerri",
+      "where": "晚宴 / 杰丽的提醒",
+      "title": "他想把问题公开，别人先告诉他代价。",
+      "image": "gerri",
+      "frame": 700,
+      "caption": "杰丽在慈善晚宴上谈及邮轮问题的同场镜头。",
+      "fact": "汤姆考虑公开处理邮轮问题，杰丽在晚宴上出面劝阻，使他意识到计划已经传到更高层。",
+      "analysis": "杰丽不需要大声威胁，就能让汤姆看见一个职业前途与组织利益相连的世界。揭露问题需要的不只是个人勇气，也需要愿意面对自己会失去什么。她提供的冷静判断，同时帮助公司把严重问题继续留在内部。",
+      "turn": "道德上的想法，撞上职业生存的压力。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "backstage"
+    },
+    {
+      "id": "gala",
+      "where": "并行 / 慈善晚宴后台",
+      "title": "宏大的善意，也能败给一块太冷的黄油。",
+      "image": "gala",
+      "frame": 607,
+      "caption": "慈善晚宴宾客与现场气氛配图；非后台黄油争执的特写。",
+      "fact": "康纳参与晚宴组织，对黄油等细节大发脾气；罗曼也以地位优势让服务人员难堪。",
+      "analysis": "慈善活动把关怀做成公开展示，后台的人却仍可能遭到轻慢。康纳在小事上执着，不只是笑料：一个缺乏公认职责的人，可以靠掌控细节暂时获得分量。问题在于，受他控制的人并没有同等的选择。",
+      "turn": "体面展示依靠不被平等对待的劳动。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "backstage"
+    },
+    {
+      "id": "speech-plan",
+      "where": "演讲安排 / 误读与转告",
+      "title": "一段尚未说出的话，先被读成夺权。",
+      "image": "speech-plan",
+      "frame": 793,
+      "caption": "晚宴中的肯德尔与希芙，同场人物配图。",
+      "fact": "康纳看过肯德尔演讲稿后，误以为他将宣布洛根退休，向父亲报告。洛根决定由自己上台致辞。",
+      "analysis": "还没有发生的宣布，已经足以改变谁能说话。康纳的转述让模糊担忧获得了方向，而洛根不必等待儿子解释，便能直接拿走话筒。真正的控制，不只是反驳别人说的内容，也包括决定别人有没有机会说出来。",
+      "turn": "对意图的怀疑，先取消了儿子的发言位置。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "stage"
+    },
+    {
+      "id": "speech",
+      "where": "舞台 / 洛根的公告",
+      "title": "他感谢了家人，再宣布权力回到自己手里。",
+      "image": "speech",
+      "frame": 933,
+      "caption": "洛根在慈善晚宴的台上致辞。",
+      "fact": "洛根上台称赞家人、欢迎汤姆，并公开宣布自己全面回归。肯德尔没有如原计划承担核心致辞。",
+      "analysis": "演讲把家庭赞美与权力复位包装成同一个温暖故事。台上的认可并不妨碍台下的压制；外界听见团结，肯德尔看见自己的空间被公开收回。能够决定公告的版本，便能让一次内部争夺显得像一家人的共同喜讯。",
+      "turn": "公开叙事替父亲完成复位。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "stage"
+    },
+    {
+      "id": "after",
+      "where": "散场 / 秘密与疲惫",
+      "title": "灯熄了，仍有人负责让表面继续完整。",
+      "image": "after",
+      "frame": 1074,
+      "caption": "散场后，洛根在车内疲倦休息。",
+      "fact": "汤姆怀疑格雷格泄露消息，格雷格否认；随后杰丽私下肯定了格雷格的通报。玛西娅则照顾在车中疲倦的洛根。",
+      "analysis": "结尾把两种善后并置：一个处理信息流向，一个照顾公开强硬之后疲惫的身体。洛根的回归不是虚构，但宣布全面回来不等于疲惫已经消失。格雷格也不只是被动承受，他开始寻找组织中另一个可以回应自己的出口。",
+      "turn": "公司维持体面，代价与依赖继续留在后台。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "stage"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "加速回到办公室。",
+        "听到儿子可能宣布退休的转述。",
+        "用公开致辞宣布复位，散场后显露疲惫。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "维持洛根康复中的日常。",
+        "参与公司的公开社交场合。",
+        "照顾车中睡着的洛根，保护他的休息。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "担心父亲回归过早，也面对自己的空间缩小。",
+        "准备晚宴演讲，却被父亲误读。",
+        "失去核心发言位置，听见父亲宣布回来。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "在晚宴组织上投入大量情绪。",
+        "因细节对工作人员施压，也转告演讲疑虑。",
+        "公开庆典里的存在感，仍与父亲的需要相连。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "反感弗兰克回到身边指导。",
+        "用嘲弄表达自己不是被看管的小孩。",
+        "职位未失，行为仍依赖他人承担后果。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "在政治工作中处理另一场公开形象危机。",
+        "参与晚宴，也被汤姆当成可能的知情出口。",
+        "汤姆对秘密流向的猜疑尚未带来完整信任。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "收到汤姆向下传递的秘密。",
+        "把情况转告杰丽，同时否认泄露。",
+        "得到杰丽肯定，开始在多层关系间找位置。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "升职后得知邮轮严重旧案。",
+        "想公开处理，却遭到杰丽劝阻。",
+        "转向追究谁把自己的想法上报。"
+      ]
+    },
+    {
+      "id": "gerri",
+      "name": "杰丽",
+      "en": "Gerri Kellman",
+      "role": "公司总法律顾问",
+      "want": "控制经营与舆论风险，维持自身的专业位置。",
+      "power": "法律经验、组织记忆与高层信任。",
+      "cost": "知道问题的人，也要决定自己愿意承担多大行动风险。",
+      "reading": "她的冷静是一种职业能力，也可能帮助组织把原本需要面对的问题继续留在内部。",
+      "phase": [
+        "回到公司的日常风险判断。",
+        "掌握汤姆计划并出面制止。",
+        "私下肯定格雷格的信息通报。"
+      ]
+    },
+    {
+      "id": "frank",
+      "name": "弗兰克",
+      "en": "Frank Vernon",
+      "role": "资深高管 · 家族公司的老臣",
+      "want": "让自己的经验与多年贡献获得基本尊重。",
+      "power": "经营知识、董事会与长期合作关系。",
+      "cost": "地位仍受洛根的个人决定影响。",
+      "reading": "他熟悉公司的程序，也清楚程序会怎样被个人威望挤压。",
+      "phase": [
+        "被请回公司协助罗曼。",
+        "在专业经验与罗曼的抗拒之间工作。",
+        "重新进入组织，但安全感并未因此获得永久保证。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "back",
+      "label": "01 · 回办公室",
+      "title": "父亲回归，儿子的临时空间开始缩小。",
+      "note": "洛根的身体恢复与公司的正式权力安排分别理解；没有因为走进办公室就证明所有健康顾虑消失。",
+      "edges": [
+        "临时空间缩小",
+        "准备晚宴",
+        "被配上老师",
+        "兼顾政治工作",
+        "康复与陪伴"
+      ]
+    },
+    {
+      "id": "rumor",
+      "label": "02 · 消息转手",
+      "title": "演讲稿与邮轮旧案，都先经别人的嘴改变了流向。",
+      "note": "康纳对演讲的解读并非已经发生的退休公告；格雷格则确实将汤姆的计划告知杰丽。",
+      "edges": [
+        "意图遭到误读",
+        "转告父亲",
+        "反感被指导",
+        "被卷入汤姆猜测",
+        "维持公开场合"
+      ]
+    },
+    {
+      "id": "announcement",
+      "label": "03 · 公开复位",
+      "title": "父亲拿到话筒，其他人继续在台下处理代价。",
+      "note": "邮轮问题没有在本集得到公开调查或解决，汤姆的揭露计划被压住。",
+      "edges": [
+        "失去台上位置",
+        "寻求被重视",
+        "保留职务",
+        "看见公开团结",
+        "照顾散场疲惫"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "platform",
+      "label": "父子与话筒",
+      "people": [
+        "logan",
+        "kendall",
+        "connor"
+      ],
+      "image": "speech",
+      "title": "谁有权宣布一件事，谁就先定义了它。",
+      "surface": "晚宴演讲与是否宣布退休。",
+      "wantA": "肯德尔要承担自己已有的职责与公开位置。",
+      "wantB": "洛根要阻止任何可能削弱自己的交接叙事。",
+      "analysis": [
+        "康纳的误读给洛根一个出手理由，但父亲选择的是直接接管发言，而不是先核对儿子的意图。判断一个人是否越权，与不给他解释的机会，是两回事。",
+        "慈善台上的家庭赞美使这次接管更有效。观众看见温暖团结，内部的人却知道位置刚被重新分配。公开形象并不只是遮掩争执，它也能替争执决定胜负。"
+      ],
+      "boundary": "肯德尔并未在晚宴上先行宣布洛根退休。",
+      "scene": "speech-plan"
+    },
+    {
+      "id": "infection",
+      "label": "秘密往下传",
+      "people": [
+        "tom",
+        "greg",
+        "gerri"
+      ],
+      "image": "greg",
+      "title": "当升职附带旧案，谁会被先推出去承担？",
+      "surface": "邮轮旧案是否公开，计划被谁告知高层。",
+      "wantA": "汤姆想摆脱风险，也希望保住刚得到的位置。",
+      "wantB": "格雷格需要保护自己，杰丽则维护组织的可控程度。",
+      "analysis": [
+        "汤姆把秘密告诉格雷格时，既是在求支持，也是在扩大共同知情。新人没有与他对等的选择，却仍会寻找其他保护关系。",
+        "杰丽得到消息后制止公开计划，让组织重新取得节奏。汤姆把焦虑转为追究告密者，就能暂时不面对更难的问题：那些遭到掩盖的侵害，究竟由谁负责处理？"
+      ],
+      "boundary": "本集确认有严重问题与内部掩盖，未完成具体案件的调查认定。",
+      "scene": "gerri"
+    },
+    {
+      "id": "service",
+      "label": "善意与劳动",
+      "people": [
+        "connor",
+        "roman"
+      ],
+      "image": "gala",
+      "title": "为慈善聚到一起，不代表会善待眼前的人。",
+      "surface": "后台服务细节与对工作人员的轻慢。",
+      "wantA": "康纳要一个足够成功的场合证明自己有用。",
+      "wantB": "工作人员需要完成工作，也需要基本尊重。",
+      "analysis": [
+        "康纳把细节失败体验成自己的失败，于是把压力向没有同等权力的人发泄。罗曼则更直接，把地位差异当作可供消遣的资源。",
+        "这使晚宴的慈善语言产生了刺耳的回音：为抽象的人群表达关怀，并不保证面对具体的劳动者时愿意放下优越感。两种行为可以出现在同一晚、同一群人身上。"
+      ],
+      "boundary": "不把工作人员画面当作他们同意这些对待的证据。",
+      "scene": "gala"
+    }
+  ],
+  "feature": {
+    "title": "一个秘密，|怎样沿着职位往上走？",
+    "subtitle": "从部门交接到高层劝阻，跟踪谁知道、谁开口、谁决定。",
+    "image": "gerri",
+    "steps": [
+      {
+        "title": "旧案交给新主管",
+        "text": "汤姆获得职位，也成为新的知情者。"
+      },
+      {
+        "title": "主管告诉新人",
+        "text": "格雷格被带进风险范围，并寻找另一个出口。"
+      },
+      {
+        "title": "消息回到高层",
+        "text": "杰丽知情，组织阻止汤姆自行公开。"
+      }
+    ],
+    "question": "知道得更多，|未必拥有更多自由。",
+    "analysis": [
+      "秘密在公司内传播，却没有因此成为公众能判断的事实。组织可以允许内部知情，用以提高可控程度，同时阻止知情者自己决定公开方式。",
+      "汤姆失去的不是全部权力，而是对处理节奏的自主。他越在意晋升，就越容易接受以自己的位置换取暂时安静。"
+    ],
+    "boundary": "邮轮问题本集仍未公开解决；不加入后季的调查与听证。"
+  },
+  "quotes": [
+    {
+      "en": "It's a deadly virus.",
+      "zh": "这是一种致命的病毒。",
+      "speaker": "汤姆 → 格雷格",
+      "context": "把邮轮问题当作秘密告知新人时。",
+      "analysis": "他把责任描述成感染，既说出自己的害怕，也让接下来拉人入局的行为显得像无法避免。"
+    },
+    {
+      "en": "I'm back.",
+      "zh": "我回来了。",
+      "speaker": "洛根 → 晚宴宾客",
+      "context": "公开宣告全面回归。",
+      "analysis": "最短的公告，让儿子的临时掌权和父亲的复位在公众面前有了新的版本。"
+    },
+    {
+      "en": "I aim to please, ma'am.",
+      "zh": "我就是想让您满意。",
+      "speaker": "格雷格 → 杰丽",
+      "context": "杰丽肯定他的通报之后。",
+      "analysis": "他把一次主动选择说成礼貌服务，低姿态并没有取消这次选择的实际作用。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "身体留下的裂缝",
+      "image": "after",
+      "text": "台上宣称全面回来，车内仍需要安静休息。两处画面可以同时真实，不能只取其中一处来判断全部能力。",
+      "link": "after",
+      "label": "演讲 ↔ 疲倦"
+    },
+    {
+      "number": "02",
+      "title": "话筒与文件",
+      "image": "speech",
+      "text": "肯德尔失去公开发言的机会，汤姆得到不愿公开的材料。可以说什么与必须知道什么，从来不是同一种权限。",
+      "link": "speech",
+      "label": "公开叙事 ↔ 内部知情"
+    },
+    {
+      "number": "03",
+      "title": "礼貌也能传递选择",
+      "image": "greg",
+      "text": "格雷格用谦卑语气回应杰丽，却刚完成一次会影响上司处境的动作。不能只凭姿态判断主动性。",
+      "link": "after",
+      "label": "低姿态 → 实际行动"
+    }
+  ],
+  "ending": {
+    "title": "台上的归来结束了。|台下的风险还在。",
+    "copy": "父亲重新掌握公开叙事，|新主管重新学习组织的沉默。",
+    "question": "下一次谁想改变规则，要先经过谁？",
+    "known": "洛根公开宣布全面回归；弗兰克复职；格雷格将邮轮计划通报杰丽。",
+    "unknown": "父子如何继续共事，邮轮问题将被怎样处理。",
+    "boundary": "剧透截至 S01E04，不提前引入下一次家庭聚会及后续调查。"
+  },
+  "glossary": [
+    {
+      "title": "部门交接",
+      "text": "新主管接到的责任包含旧事务，晋升并不会把原有风险清零。"
+    },
+    {
+      "title": "公开公告",
+      "text": "洛根利用慈善晚宴的致辞宣布回归，这是剧情中的形象与权力安排。"
+    },
+    {
+      "title": "知情与处理权",
+      "text": "掌握材料、决定公开、承担后果分属不同问题，不能混成同一种权限。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 4,
+  "title": "Sad Sack Wasp Trap",
+  "translatedTitle": "名流慈善局",
+  "airdate": "2018.06.24",
+  "writer": "Anna Jordan",
+  "director": "Adam Arkin",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—04 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E04 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e04&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 4 集回顾",
+      "url": "https://readysteadycut.com/2018/06/25/succession-episode-4/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E04 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4775",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "return",
+      "file": "assets/return.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 46,
+      "alt": "《继承之战》S01E04：洛根回到办公室后与肯德尔等人同场的画面。",
+      "caption": "洛根回到办公室后与肯德尔等人同场的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0046.jpg"
+    },
+    {
+      "id": "frank",
+      "file": "assets/frank.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 186,
+      "alt": "《继承之战》S01E04：弗兰克回到公司，与罗曼、肯德尔交谈。",
+      "caption": "弗兰克回到公司，与罗曼、肯德尔交谈。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0186.jpg"
+    },
+    {
+      "id": "file",
+      "file": "assets/file.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 233,
+      "alt": "《继承之战》S01E04：汤姆在新职务上的办公室画面。",
+      "caption": "汤姆在新职务上的办公室画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0233.jpg"
+    },
+    {
+      "id": "greg",
+      "file": "assets/greg.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 466,
+      "alt": "《继承之战》S01E04：格雷格听取汤姆谈及部门问题的同场反应镜头。",
+      "caption": "格雷格听取汤姆谈及部门问题的同场反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0466.jpg"
+    },
+    {
+      "id": "gerri",
+      "file": "assets/gerri.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 700,
+      "alt": "《继承之战》S01E04：杰丽在慈善晚宴上谈及邮轮问题的同场镜头。",
+      "caption": "杰丽在慈善晚宴上谈及邮轮问题的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0700.jpg"
+    },
+    {
+      "id": "gala",
+      "file": "assets/gala.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 607,
+      "alt": "《继承之战》S01E04：慈善晚宴宾客与现场气氛配图；非后台黄油争执的特写。",
+      "caption": "慈善晚宴宾客与现场气氛配图；非后台黄油争执的特写。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0607.jpg"
+    },
+    {
+      "id": "speech-plan",
+      "file": "assets/speech-plan.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 793,
+      "alt": "《继承之战》S01E04：晚宴中的肯德尔与希芙，同场人物配图。",
+      "caption": "晚宴中的肯德尔与希芙，同场人物配图。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0793.jpg"
+    },
+    {
+      "id": "speech",
+      "file": "assets/speech.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 933,
+      "alt": "《继承之战》S01E04：洛根在慈善晚宴的台上致辞。",
+      "caption": "洛根在慈善晚宴的台上致辞。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_0933.jpg"
+    },
+    {
+      "id": "after",
+      "file": "assets/after.jpg",
+      "width": 1208,
+      "height": 648,
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 1074,
+      "alt": "《继承之战》S01E04：散场后，洛根在车内疲倦休息。",
+      "caption": "散场后，洛根在车内疲倦休息。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4775&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2004%20Sad%20Sack%20Wasp%20Trap/S_S1_E4_1074.jpg"
+    }
+  ]
+}

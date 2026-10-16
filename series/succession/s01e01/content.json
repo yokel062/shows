@@ -1,0 +1,921 @@
+{
+  "version": 1,
+  "season": 1,
+  "episode": 1,
+  "title": "Celebration",
+  "chineseTitle": "继承之战",
+  "translatedTitle": "庆典",
+  "question": "他等的是王位，还是父亲的认可？",
+  "spoiler": "仅 S01E01，包含本集结尾；不涉及后续集数。",
+  "intro": "八十岁生日，本该是一场交接的前奏。肯德尔想把新媒体收购和接班消息放在同一天，证明自己已经准备好；洛根却把子女召到一起，先要求他们交出一部分未来的决定权。午餐还没开始，庆典已经变成考核。首集真正残酷的地方在于：父亲可以随时改变考题，孩子们却仍然盼着从他那里拿到及格。",
+  "hero": "father-son",
+  "prologue": {
+    "image": "night",
+    "title": "一个连房间都认不清的人，仍然决定所有人的位置。",
+    "fact": "夜里，洛根在新居中迷失方向，把尿撒在地毯上；玛西娅赶来照顾他。白天将要支配整场聚会的人，先以需要照护的姿态出现。",
+    "analysis": "首集先让观众知道一件孩子们还未充分掌握的事：父亲的身体并不可靠。于是，后来每一次强硬命令都有了双重含义。它既能压住别人，也可能是在遮住自己的衰弱。我们可以怀疑他的判断，却不能据此断定他已失去所有判断力。身体的失控与权力的完整，同时存在。",
+    "sources": [
+      "transcript",
+      "episode"
+    ]
+  },
+  "acts": [
+    {
+      "id": "promise",
+      "number": "I",
+      "title": "等候交接",
+      "subtitle": "每个人，都带着一点请求而来。",
+      "range": "01—04",
+      "summary": "肯德尔要证明自己，格雷格要一份工作，汤姆要一个位置。还没有人拿到承诺，却已经开始支付代价。"
+    },
+    {
+      "id": "terms",
+      "number": "II",
+      "title": "父亲改题",
+      "subtitle": "亲情、职位与签字，被放上同一张桌子。",
+      "range": "05—08",
+      "summary": "洛根保留公司，也保留了评判子女的权利。兄妹对他的依赖各不相同，联合起来便没有看上去那么容易。"
+    },
+    {
+      "id": "game",
+      "number": "III",
+      "title": "游戏的代价",
+      "subtitle": "有人可以退场，有人必须承担后果。",
+      "range": "09—12",
+      "summary": "一次玩笑、一份协议、一场突发疾病，让这家人的权力越出餐厅。孩子们终于等来父亲缺席，却没有等来准备好的交接。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "vaulter",
+      "act": "promise",
+      "where": "早晨 / Vaulter 办公室",
+      "title": "收购还没完成，接班人的姿态先到场。",
+      "image": "vaulter",
+      "fact": "肯德尔试图收购数字媒体公司 Vaulter。创办人劳伦斯拒绝交易，并当面攻击他的家族背景与吸毒经历。肯德尔没有退出，转而推动更高报价。",
+      "analysis": "他希望这笔收购能同时完成两种证明：给老公司找到增长方向，也给父亲看见自己有本事。所以，遭到羞辱之后，放弃交易会变得格外困难。价格谈判里混进了身份焦虑；越想证明这是一项独立判断，越容易为证明自己多付钱。但劳伦斯的傲慢，也不能自动说明收购没有商业价值。",
+      "turn": "他把“做成一笔生意”与“证明可以接班”绑在一起。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "greg",
+      "act": "promise",
+      "where": "另一处 / Waystar 主题乐园",
+      "title": "口号说是一家人，格雷格先被清出门。",
+      "image": "greg-park",
+      "fact": "格雷格吸过大麻后，在乐园扮演吉祥物时呕吐，随后丢了差事。他向母亲求助；母亲让他去纽约参加洛根的生日聚会，凭亲戚关系争取新工作。",
+      "analysis": "企业宣传中的“家庭”被立刻放到劳动现场检验：穿着沉重玩偶服的员工，并不会因为口号得到照顾。格雷格的失败有自己的责任，剧集并未把他写成无辜受害者；转折在于，他还有另一条通道——从普通员工变回老板的亲戚。观众由此第一次看见，同一家公司的规则会随身份改变。",
+      "turn": "失去工作的人，准备以家人的身份重新入场。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "gift",
+      "act": "promise",
+      "where": "礼物店 → 生日聚会",
+      "title": "汤姆挑一块表，实际在挑自己的站位。",
+      "image": "gift-shopping",
+      "fact": "汤姆为送什么礼物反复征求希芙意见，最终准备了一块百达翡丽手表。聚会上，他试图靠近洛根；希芙也为他的公司职位探口风。",
+      "analysis": "汤姆已经在公司工作，却没有因此获得家庭内部的安全感。他想让礼物同时表达敬意、品位与亲近，难就难在：他不知道自己够不够资格表达其中任何一种。希芙熟悉父亲对礼物的冷淡，汤姆仍然认真计算。这种投入的不对等，先于任何正面羞辱，暴露了谁更需要这段关系。",
+      "turn": "外来者需要精心表现，生在其中的人可以显得无所谓。",
+      "sources": [
+        "transcript",
+        "snob"
+      ]
+    },
+    {
+      "id": "signature",
+      "act": "promise",
+      "where": "回到办公室 / 一份信托文件",
+      "title": "他先相信了父亲，再考虑要不要找律师。",
+      "image": "signature",
+      "fact": "洛根来到办公室，要肯德尔签署有关玛西娅加入家族信托的文件。肯德尔确认此事不影响接班后签字；他随后也赶去参加父亲的生日聚会。",
+      "analysis": "肯德尔并非完全没有警觉，他问了文件与交接的关系，也提到律师。但他接受了父亲把事情说成日常手续的解释。这里最关键的判断失误是：他以为在谈一份已经确定的交接，洛根却仍然保留着撤回交接的自由。签字不是换来接班的对价，只是孩子对父亲的一次信任。",
+      "turn": "一边已经作出实质承诺，另一边仍只给出安抚。",
+      "sources": [
+        "transcript",
+        "spy"
+      ]
+    },
+    {
+      "id": "trust",
+      "act": "terms",
+      "where": "生日午餐前 / 子女被单独召集",
+      "title": "真正想要的生日礼物，是你们的签字。",
+      "image": "trust",
+      "fact": "洛根向四个子女说明：玛西娅将加入家族信托，并在他去世后承接他那一票，届时拥有双重投票权。他又宣布自己继续担任董事长与 CEO，接班安排暂缓。",
+      "analysis": "他把需要审阅的权利安排，装进了生日礼物的情感包装里。子女一旦提出疑问，就容易显得扫兴甚至不孝。更精确的压力来自两件事的并置：父亲暂时不交出今天的公司，却要求孩子先让出影响明天的部分权力。玛西娅因此成为争议焦点，但规则的提出者始终是洛根。",
+      "turn": "庆祝被改写成限时谈判，交接预期当场落空。",
+      "sources": [
+        "transcript",
+        "spy"
+      ]
+    },
+    {
+      "id": "father",
+      "act": "terms",
+      "where": "父子单独对质",
+      "title": "做一个好儿子，也能成为不合格的证据。",
+      "image": "argument",
+      "fact": "肯德尔质问父亲为何反悔。洛根列举他应对收购方、未让律师审查信托文件，以及离开交易去参加生日会等表现，认为他仍不够强硬。肯德尔反驳公司的增长方向。",
+      "analysis": "洛根未必完全看错了儿子的弱点；问题是，他把“信任父亲”和“来给父亲庆生”也列入能力不足的证据。肯德尔面对的是一套不断移动的标准：顺从时不够强，反对时又要承受父亲的威压。他有战略上的论点，却总被拉回一个更幼小的位置，急着证明自己值得被爸爸选中。",
+      "turn": "商业争论退回亲子考核，解释越多，认可越远。",
+      "sources": [
+        "transcript",
+        "spy"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "act": "terms",
+      "where": "洗手间 / 无人看见的片刻",
+      "title": "他砸坏房间，又蹲下来收拾自己。",
+      "image": "bathroom",
+      "fact": "受挫的肯德尔独自进入洗手间，破坏室内物品，随后又整理被自己弄乱的东西。门外，生日午餐仍在继续。",
+      "analysis": "这是一场没有观众的反抗。他不敢把破坏直接留给父亲看，也不愿让自己的失控成为新证据。于是，同一个身体先扮演愤怒者，再扮演善后者。我们可以同情他的狼狈，同时看到危险：如果愤怒只能在私下完成，他回到谈判桌时，就可能更渴望一次足够响亮的胜利来盖住它。",
+      "turn": "公开场合没能说完的愤怒，被压进下一步行动。",
+      "sources": [
+        "episode",
+        "stills"
+      ],
+      "secondaryImage": "repair"
+    },
+    {
+      "id": "bargains",
+      "act": "terms",
+      "where": "前往球场途中及抵达后 / 两场分别谈话",
+      "title": "签字的价格，开始变成职位。",
+      "image": "roman-bargain",
+      "secondaryImage": "shiv-bargain",
+      "fact": "洛根分别与罗曼、希芙谈回公司及职务安排。罗曼提出想当首席运营官，牵涉弗兰克的位置；希芙也谈自己的条件。父亲把签字意愿与职业机会放在同一轮交流中。",
+      "analysis": "这些话并没有立即构成正式任命，却足以改变子女的计算。肯德尔看到的是一家人应共同抵制父亲，弟妹看到的却可能是自己的机会。洛根不用说服所有人接受同一个方案，只要让每个人都觉得，与他单独谈还能多得一点。联盟尚未成立，潜在收益已经被拆开。",
+      "turn": "每个人都有单独报价，兄妹便很难共用一条底线。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "alliance",
+      "act": "game",
+      "where": "球场边 → 肯德尔离开",
+      "title": "他说联合，却仍把自己放在最上面。",
+      "image": "siblings",
+      "fact": "肯德尔提议弟妹一起拒绝信托修改，由自己接班、两人在他之下担任联席总裁，遭到拒绝。他随后离场处理收购，并向媒体联系人匿名放出对父亲不利的消息。",
+      "analysis": "这份联盟要求罗曼与希芙一起对抗父亲，却把胜利后的最高位置预先留给肯德尔。对他而言，这是恢复被夺走的安排；对弟妹而言，却是替哥哥承担风险。被拒之后，他绕过家人转向舆论，开始把父亲的脆弱变成筹码。那既是反击，也使私人愤怒进入了公司的公共处境。",
+      "turn": "缺少共同收益的结盟失败，肯德尔转而单独出手。",
+      "sources": [
+        "transcript",
+        "spy"
+      ],
+      "secondaryImage": "leak"
+    },
+    {
+      "id": "million",
+      "act": "game",
+      "where": "家庭垒球赛 / 一百万美元",
+      "title": "对罗曼是游戏，对男孩是另一种人生。",
+      "image": "baseball",
+      "secondaryImage": "million",
+      "fact": "罗曼答应给场边的男孩一百万美元，条件是打出全垒打，并写下支票。男孩奋力跑垒，最后被汤姆触杀出局；罗曼当面撕掉支票。",
+      "analysis": "罗曼把一笔能改变普通家庭命运的钱，变成短暂调动他人情绪的工具。男孩确实没有完成条件，可条件成立不等于情境公平：谁能轻松许诺、谁不得不认真奔跑，本身就是差距。汤姆参与完成规则，希芙的反对没能终止游戏，洛根事后的称赞也没有把承诺还给男孩。责任分散在场上，却没有消失。",
+      "turn": "富人的消遣，要求另一个家庭用真实的希望下注。",
+      "sources": [
+        "episode",
+        "snob",
+        "stills"
+      ]
+    },
+    {
+      "id": "cleanup",
+      "act": "game",
+      "where": "球场外 / 两种善后交错呈现",
+      "title": "手表留给陌生人，老朋友留在原地。",
+      "image": "nda",
+      "secondaryImage": "frank-out",
+      "fact": "科林要求男孩一家签保密协议，汤姆送出的手表最终到了这个家庭。另一边，洛根把服务多年的弗兰克撤离原职，并要求他审阅相关新闻稿。",
+      "analysis": "这组交错情节把组织的运作方式摊开：一次羞辱可以被转为协议与补偿，一段多年关系可以被转为岗位与公告。手表有真实价值，却无法让刚才的经历自动变得体面；弗兰克可能得到补偿，也没有因此掌握离场的方式。善后解决了掌权者眼前的问题，留下的感受由别人带走。",
+      "turn": "掌权者继续上路，受影响的人各自接住后果。",
+      "sources": [
+        "episode",
+        "transcript",
+        "stills"
+      ]
+    },
+    {
+      "id": "collapse",
+      "act": "game",
+      "where": "返程直升机 / Vaulter 办公室 / 医院",
+      "title": "他终于谈成交易，却最后才知道父亲倒下。",
+      "image": "collapse",
+      "secondaryImage": "deal-end",
+      "fact": "洛根在返程直升机上与子女争论时突然倒下，被紧急送医。肯德尔以更优厚条件谈成 Vaulter 收购后，才从劳伦斯口中获知父亲出事，随后赶到医院。",
+      "analysis": "剪辑让两种消息撞在一起：肯德尔期待的是胜利确认，听到的却是父亲病危。劳伦斯接受交易，并不等于接受肯德尔的权威。父亲在场时，儿子被保护也被否定；父亲倒下后，保护突然变薄，正式的接班安排却仍然空着。首集没有宣布新王，只把所有人送进没有准备好的不确定。",
+      "turn": "交接从可以反复拖延的承诺，变成无法继续回避的危机。",
+      "sources": [
+        "episode",
+        "transcript",
+        "spy"
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar RoyCo 掌权者",
+      "want": "保留最终决定权，也安排身后的影响力。",
+      "power": "公司职位、家族信托安排，以及子女对认可的需要。",
+      "cost": "身体正在失去控制，仍难接受权力必须交给别人。",
+      "reading": "不能把他读成毫无能力的暴君。他知道怎样拆解对手、调动欲望；也正因为太擅长这一套，亲密关系被他持续变成服从测试。",
+      "phase": [
+        "大家预期他退到幕后；他并未完成正式交接。",
+        "继续留任，并要求子女同意信托修改，重新规定谈判。",
+        "突发疾病送医。身体缺席，并没有自动解决职位与权利安排。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子 · 聚会主持者",
+      "want": "本集能确认的是，她照顾洛根并维持家庭日常；内心计划尚未揭示。",
+      "power": "贴近洛根的生活，也被提名进入信托安排。",
+      "cost": "子女把对父亲安排的疑惧，集中投向她本人。",
+      "reading": "她在房间、座位和日常照料中有实际位置，但不能据此替她编出操控全局的阴谋。提出“双重票权”安排的人是洛根。",
+      "phase": [
+        "夜里照顾洛根，白天安排他的生日。",
+        "被提名加入信托，成为子女警惕的中心。",
+        "仍是配偶与家属；首集没有确认全部签字完成或票权正式生效。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 被预期的接班人",
+      "want": "接掌公司，更想让父亲承认自己够资格。",
+      "power": "公司经验、收购项目与接班预期。",
+      "cost": "把个人尊严押在一笔交易与父亲的一次点头上。",
+      "reading": "他有关于数字转型的判断，也有借交易填补自尊的冲动。两者同时存在，所以不能因为他受伤就把每一个商业决定都读成正确。",
+      "phase": [
+        "以为接班消息即将公布，积极推动 Vaulter 交易。",
+        "父亲撤回交接；他试着联合弟妹，但仍要求自己居首。",
+        "收购谈成，却对父亲的急变毫不知情；胜利立刻失去安全感。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 疏离于日常经营",
+      "want": "把自己放在争斗之外，保留舒适的生活距离。",
+      "power": "家族成员身份，以及信托决定中不可忽视的一票。",
+      "cost": "拒绝主动选择，并不会使他的选择对别人没有影响。",
+      "reading": "他用退出的姿态维持与冲突的距离，但“跟着弟妹”仍会影响局势。自称不玩，不意味着脱离了家族财富和规则。",
+      "phase": [
+        "带着自己的生活想法和礼物来庆生。",
+        "不主动介入争执，表示随其他兄妹的决定。",
+        "与弟妹一起面对父亲倒下；没有突然成为确定接班人。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 用玩笑保留退路",
+      "want": "重新进入公司，并争取足够高的位置。",
+      "power": "父亲的接纳、家族身份，以及把话说成玩笑的自由。",
+      "cost": "轻佻可以躲开失败的羞耻，也容易遮住对他人的伤害。",
+      "reading": "他并非真的不在乎。谈职位时很认真，把别人置于尴尬时又说只是游戏。玩笑既是防御，也会成为不用承担后果的借口。",
+      "phase": [
+        "嘲弄哥哥的收购，显得对公司毫不留恋。",
+        "向父亲提出 COO 条件，拒绝在肯德尔之下结盟。",
+        "撕掉男孩的百万支票；随后不得不面对无法用玩笑处理的医疗危机。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "保留独立判断，也不轻易放弃家族内部的话语权。",
+      "power": "外部职业、信托签字，以及与汤姆的亲密联系。",
+      "cost": "一面质疑家族安排，一面仍在用家族渠道谈职位。",
+      "reading": "她能看见条件里的不公平，但清醒不等于退出。为汤姆争取机会、为自己谈回归条件，与反对父亲的信托安排可以同时发生。",
+      "phase": [
+        "在公司之外工作，帮汤姆处理礼物与职位焦虑。",
+        "要求审阅信托文件，也与父亲谈自己的潜在安排。",
+        "反对现有条件，却与兄弟一起被父亲的急病打断谈判。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "洛根的侄孙 · 前来求职",
+      "want": "用亲戚身份换一份更好的工作。",
+      "power": "与洛根的亲属关系，以及祖父伊万可能提供的联系。",
+      "cost": "还不懂圈内的语言，很容易被更有位置的人试探。",
+      "reading": "他的局促给观众一个进入豪门的视角，但他也在主动学习交换：既然身份能开门，能不能把长辈间的关系变成自己的机会？",
+      "phase": [
+        "丢掉乐园工作，依母亲建议来向亲戚求助。",
+        "尝试把祖父与洛根的关系纳入求职谈判。",
+        "被汤姆反复以玩笑试探；还没有因此获得稳定的内部身份。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的男友 · 公司管理人员",
+      "want": "靠近洛根，争取晋升，并获得家族接纳。",
+      "power": "与希芙的关系，以及自己在公司中的位置。",
+      "cost": "向上越不安，越需要向下确认自己不是最底层。",
+      "reading": "他精心讨好洛根，又很快让格雷格难堪。这不是两个互不相关的性格面：在上层无法获得的控制感，可以沿等级向下寻找。",
+      "phase": [
+        "为礼物反复计算，希望借希芙向洛根靠近。",
+        "家族职位正在重排，他的机会也被拿来谈条件。",
+        "在球场试探格雷格、触杀男孩；送出的手表被用于另一次善后。"
+      ]
+    },
+    {
+      "id": "frank",
+      "name": "弗兰克",
+      "en": "Frank Vernon",
+      "role": "资深高管 · 洛根的多年同事",
+      "want": "多年贡献仍能换来基本的尊重与位置。",
+      "power": "经营经验、与洛根的长期合作。",
+      "cost": "他的岗位可以成为父亲向儿子示好的资源。",
+      "reading": "他的敬酒与被撤职放在同一集里，逼人重新理解忠诚的价值。熟悉老板的历史，不能保证自己拥有决定未来的权利。",
+      "phase": [
+        "协助肯德尔收购，也参与洛根的生日。",
+        "罗曼想要的 COO 位置，牵涉他的去留。",
+        "被撤离原职，并被要求审阅自己的离任公告。"
+      ]
+    },
+    {
+      "id": "lawrence",
+      "name": "劳伦斯",
+      "en": "Lawrence Yee",
+      "role": "Vaulter 创办人 · 收购对手方",
+      "want": "在交易中保住自己与公司的影响力。",
+      "power": "是否推荐交易，以及肯德尔急于成交的需要。",
+      "cost": "接受资本进入，也将自己与新体系绑在一起。",
+      "reading": "他羞辱肯德尔，不等于站在更高的道德位置；但他很快看出，对方的价格里包含了对个人胜利的渴望。",
+      "phase": [
+        "拒绝初步报价，并正面攻击肯德尔。",
+        "不在生日谈判现场，仍是肯德尔急于解决的对手。",
+        "接受优厚交易条件，随即用洛根病倒的消息打破肯德尔的胜利感。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "morning",
+      "label": "01 · 交接预期",
+      "title": "大家在等一个公告。洛根仍握着开关。",
+      "note": "肯德尔的接班是强烈预期，尚不是已经生效的 CEO 任命。家属、员工与外来者的请求，都朝向洛根。",
+      "edges": [
+        "预期交接",
+        "置身经营之外",
+        "嘲弄与试探",
+        "外部事业",
+        "生活中的亲近"
+      ]
+    },
+    {
+      "id": "lunch",
+      "label": "02 · 条件重排",
+      "title": "同一个父亲，向不同子女开出不同条件。",
+      "note": "这里把连续谈话归纳为一个阶段，不表示所有人已相互知情或形成协议。家族信托的票权，不等于公司董事席位。",
+      "edges": [
+        "撤回交接",
+        "随弟妹决定",
+        "COO 条件",
+        "回归与职位",
+        "拟增加信托票权"
+      ]
+    },
+    {
+      "id": "crisis",
+      "label": "03 · 父亲倒下",
+      "title": "身体出现空位，权力还没有完成交接。",
+      "note": "截至本集，洛根已被送医，病情与接班结果未定；不要把这张关系图读成新的正式组织架构。",
+      "edges": [
+        "赶往医院",
+        "家属与未决票权",
+        "条件尚未落定",
+        "谈判突然中断",
+        "配偶与照护关系"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "father",
+      "label": "父与子",
+      "people": [
+        "logan",
+        "kendall"
+      ],
+      "image": "argument",
+      "title": "他要儿子有主见，又很难容忍主见离开自己。",
+      "surface": "接班时机、Vaulter 收购与肯德尔是否足够强硬。",
+      "wantA": "洛根要保留定义“合格”的权利。",
+      "wantB": "肯德尔要得到一个不会再被撤回的认可。",
+      "analysis": [
+        "父子确实在讨论公司的未来：数字媒体值不值得买，接班人能不能应对对手，都是真问题。但洛根把争论不断拉回儿子的性格与过去，甚至把信任父亲也算成判断失误。这样一来，他既是谈判对象，又是出题人和裁判。",
+        "肯德尔的困境在于，想用父亲授予的权力证明自己已经独立。即使接班成功，他仍希望那是父亲心甘情愿选中的结果。首集没有证明他已能治理公司，却足以让我们理解：为什么一句否定，会让他像失去整个人生的立足点。"
+      ],
+      "boundary": "可以批评洛根反复改变标准；不能由此推断肯德尔的每项经营判断都正确。",
+      "scene": "father"
+    },
+    {
+      "id": "siblings",
+      "label": "兄弟姐妹",
+      "people": [
+        "kendall",
+        "roman",
+        "shiv"
+      ],
+      "image": "siblings",
+      "title": "共同受父亲支配，不自动带来共同利益。",
+      "surface": "是否联合拒签，以及未来由谁领导公司。",
+      "wantA": "肯德尔要弟妹支持自己恢复接班。",
+      "wantB": "罗曼与希芙要保留各自的上升空间。",
+      "analysis": [
+        "肯德尔希望他们把父亲视为共同问题，但他的方案同时要求大家接受自己的最高位置。联合的风险需要共享，联合的最高收益却提前分好了。弟妹拒绝，既有嘲弄与自私，也有清楚的权力计算。",
+        "洛根的优势在于，他不需要每个孩子都喜欢自己。只要每个人仍相信可以从父亲那里单独争取到更好的条件，横向的兄妹关系就会弱于纵向的父子关系。首集里的家族，不缺相似的伤口，缺的是足够可信的共同安排。"
+      ],
+      "boundary": "兄妹本集没有建立稳定联盟，也没有确立同一个接班方案。",
+      "scene": "alliance"
+    },
+    {
+      "id": "trust",
+      "label": "孩子与玛西娅",
+      "people": [
+        "logan",
+        "marcia",
+        "shiv"
+      ],
+      "image": "marcia",
+      "title": "他们盯着新的受益者，提案的人却坐在旁边。",
+      "surface": "玛西娅加入信托，以及未来双重投票权。",
+      "wantA": "子女想守住身后安排中的发言权。",
+      "wantB": "洛根想让配偶获得更大的未来影响力。",
+      "analysis": [
+        "玛西娅没有与四个孩子共享同一段家庭历史。对孩子而言，给她增加票权，意味着父亲去世后，他们也未必能摆脱父亲安排的秩序。这份疑惧可以理解，但不能把他们的怀疑当成她已有阴谋的证据。",
+        "洛根把提案交给子女决定，却用生日与信任施加压力。冲突因而容易被读成“孩子排斥继母”，掩盖了父亲如何设置选项。看清受益者很必要，同时也要看清：究竟是谁把这道题放到了他们面前。"
+      ],
+      "boundary": "台词谈的是家族信托票权。本页不把它写成玛西娅已经拿到两席公司董事。",
+      "scene": "trust"
+    },
+    {
+      "id": "outsiders",
+      "label": "汤姆与格雷格",
+      "people": [
+        "tom",
+        "greg"
+      ],
+      "image": "tom-greg",
+      "title": "越靠近顶层，越急着证明下面还有人。",
+      "surface": "球场上的玩笑、帮助与亲近的试探。",
+      "wantA": "汤姆要让新来者知道谁有资格发号施令。",
+      "wantB": "格雷格想融入，又拿不准哪些话必须认真。",
+      "analysis": [
+        "汤姆对洛根谨慎得近乎笨拙，面对格雷格却突然变得游刃有余。他把威胁包进笑话，再撤回笑话的认真程度，让格雷格始终慢半拍。这是一种控制解释权的方式：不舒服的人还得担心自己是不是太敏感。",
+        "两人都想进入核心，但位置并不相同。汤姆已经能把新来者当作自己地位的参照，格雷格则必须先学会辨别语气。首集让等级关系以喜剧出现，笑声之后留下的问题是：为什么寻求接纳，常常会先训练出对更弱者的轻慢？"
+      ],
+      "boundary": "本页只谈首次相处，不借后续事件定义两人的最终关系。",
+      "scene": "gift"
+    },
+    {
+      "id": "class",
+      "label": "罗曼与男孩",
+      "people": [
+        "roman",
+        "tom",
+        "logan"
+      ],
+      "image": "million",
+      "title": "规则可以被遵守，尊严仍然会被伤害。",
+      "surface": "全垒打、百万支票与最后一次触杀。",
+      "wantA": "罗曼要一个足够好玩的刺激与反应。",
+      "wantB": "男孩想完成条件，把机会带回家。",
+      "analysis": [
+        "这段难受之处，不在于罗曼有没有事先讲明条件，而在于双方投入的东西完全不同。富人可以把巨款当作逗趣的道具，男孩却只能用一次全力奔跑回应。对一边随时可丢弃的游戏，对另一边有不可随意取消的情感重量。",
+        "游戏之后，家族没有停下来讨论男孩的感受，而是让保镖、协议与手表接手。补偿有物质价值，但它也把本来可能被讲述的遭遇，变成要求保密的事件。这是首集对财富最冷的一瞥：不仅能制造一场表演，还能安排它结束后留下什么。"
+      ],
+      "boundary": "男孩没有赢得一百万。手表补偿与百万赌约是两件事，不能互相替换。",
+      "scene": "million"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I trusted my father.",
+      "zh": "我信任了自己的父亲。",
+      "speaker": "肯德尔 → 洛根",
+      "context": "洛根把他没有认真审查信托文件列为缺点之后。",
+      "analysis": "“父亲”这个称呼把公司语境划开一道口子。他在申辩判断，也在问：在我们之间，信任怎么会变成错？"
+    },
+    {
+      "en": "It's my fuckin' company.",
+      "zh": "这是我他妈的公司。",
+      "speaker": "洛根 → 肯德尔",
+      "context": "肯德尔追问父亲究竟何时才愿意交班。",
+      "analysis": "父亲没有给出时间表，而是重申归属。任命可以讨论，最终的决定权仍被他说成一种个人所有。"
+    },
+    {
+      "en": "You make your own reality.",
+      "zh": "现实，要由你自己来创造。",
+      "speaker": "洛根 → 肯德尔",
+      "context": "洛根回顾自己在不被看好时仍推进商业决定的经验。",
+      "analysis": "这句话既能解释创业者的决断，也暴露掌权者的盲点：当别人必须适应你的决定，成功就很容易被讲成全靠意志。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "两次身体失控",
+      "image": "night",
+      "text": "夜里的迷失与返程的倒下，框住白天近乎完整的威压。观众知道身体有裂缝，孩子仍要面对一个说一不二的父亲。衰弱没有自动带来温柔。",
+      "link": "collapse",
+      "label": "夜晚 → 直升机"
+    },
+    {
+      "number": "02",
+      "title": "两次收拾残局",
+      "image": "bathroom",
+      "text": "肯德尔自己收拾砸坏的洗手间，家族则把球场事件交给科林善后。两处都在恢复表面的秩序；差别在于，有些人必须亲手承担，有些人可以把后果交出去。",
+      "link": "cleanup",
+      "label": "洗手间 ↔ 球场外"
+    },
+    {
+      "number": "03",
+      "title": "谁能决定何时散场",
+      "image": "helicopters",
+      "text": "午餐何时结束、是否去打球、谁留在原地，起初都由洛根决定。最后迫使所有人改变行程的，是他的身体。首集让同一个问题换了主语：这一次，谁还能说了算？",
+      "link": "collapse",
+      "label": "行程的主人 → 被迫改变行程"
+    }
+  ],
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E01 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e01&tv-show=succession-2018",
+      "note": "非官方转录；用于核对场景顺序、信托措辞、职务谈判与三句英文短台词。转录也含歌词，本页未引歌词。"
+    },
+    {
+      "id": "episode",
+      "title": "Celebration · 分集资料与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Celebration_(Succession)",
+      "note": "用于首播日期、编导、角色演员与剧情交叉核对；其信托与董事席位表述有混用，本页按播出版对白写作。"
+    },
+    {
+      "id": "spy",
+      "title": "ScreenSpy · 首集剧情回顾",
+      "url": "https://www.screenspy.com/succession-season-1-episode-1-celebration-recap-review-spoilers/",
+      "note": "用于核对生日、信托争执、弗兰克与收购结尾；不沿用文中对玛西娅婚次或票权的含混说法。"
+    },
+    {
+      "id": "snob",
+      "title": "Show Snob · 2018 年首集回顾",
+      "url": "https://showsnob.com/2018/06/05/succession-premiere-celebration-recap/",
+      "note": "用于主题乐园、家庭聚会与球场情节交叉核对；本页的评论独立撰写。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E01 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4772",
+      "note": "1280 × 720 播出版画面；逐张原图与帧编号在下方登记。正文图保留构图，人物头像作裁切。无后季宣传照。"
+    },
+    {
+      "id": "draft",
+      "title": "Jesse Armstrong · 2016 年 7 月首集第一稿",
+      "url": "https://assets.scriptslug.com/live/pdf/scripts/succession-101-celebration-2018.pdf",
+      "note": "创作参照，非最终播出版。页面的情节顺序与短台词按播出版转录核对，未把草稿删改内容写成已发生的剧情。"
+    }
+  ],
+  "images": [
+    {
+      "id": "father-son",
+      "file": "assets/father-son.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 497,
+      "alt": "洛根在前、肯德尔在后，父子同处生日聚会房间",
+      "caption": "生日聚会中，父子占据同一画面的不同位置。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0497.jpg"
+    },
+    {
+      "id": "night",
+      "file": "assets/night.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 18,
+      "alt": "夜里的新居，玛西娅扶住迷失方向的洛根",
+      "caption": "冷开场：玛西娅照顾夜里迷失方向的洛根。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0018.jpg"
+    },
+    {
+      "id": "vaulter",
+      "file": "assets/vaulter.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 71,
+      "alt": "肯德尔与劳伦斯在玻璃办公室中面对面交谈",
+      "caption": "初次收购谈判：肯德尔与劳伦斯。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0071.jpg"
+    },
+    {
+      "id": "greg-park",
+      "file": "assets/greg-park.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 141,
+      "alt": "主题乐园中，格雷格的吉祥物玩偶服出现工作事故",
+      "caption": "主题乐园：吉祥物表演的失控片刻。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0141.jpg"
+    },
+    {
+      "id": "gift-shopping",
+      "file": "assets/gift-shopping.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 255,
+      "alt": "汤姆向希芙征求生日礼物的意见",
+      "caption": "礼物店外：汤姆与希芙商量礼物。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0255.jpg"
+    },
+    {
+      "id": "signature",
+      "file": "assets/signature.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 281,
+      "alt": "洛根戴着帽子来到办公室，与肯德尔谈话",
+      "caption": "办公室：洛根到访，要求肯德尔处理信托文件；非签字动作的瞬间。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0281.jpg"
+    },
+    {
+      "id": "trust",
+      "file": "assets/trust.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 491,
+      "alt": "洛根站在子女面前谈信托安排，肯德尔坐在沙发中",
+      "caption": "午餐前：洛根与子女谈信托和交接。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0491.jpg"
+    },
+    {
+      "id": "argument",
+      "file": "assets/argument.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 581,
+      "alt": "洛根逼近肯德尔，父子的脸在近景中相对",
+      "caption": "父子对质：镜头把距离压得很近。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0581.jpg"
+    },
+    {
+      "id": "bathroom",
+      "file": "assets/bathroom.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 614,
+      "alt": "肯德尔在洗手间内弯身，独自发泄受挫情绪",
+      "caption": "洗手间：肯德尔独处与失控的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0614.jpg"
+    },
+    {
+      "id": "roman-bargain",
+      "file": "assets/roman-bargain.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 736,
+      "alt": "罗曼在直升机中与洛根商谈职位",
+      "caption": "前往球场途中：罗曼与父亲分别谈条件。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0736.jpg"
+    },
+    {
+      "id": "shiv-bargain",
+      "file": "assets/shiv-bargain.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 762,
+      "alt": "球场边，戴帽的希芙站在洛根身旁交谈",
+      "caption": "抵达球场后：希芙与父亲分别交谈。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0762.jpg"
+    },
+    {
+      "id": "siblings",
+      "file": "assets/siblings.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 798,
+      "alt": "球场边，罗曼与希芙听肯德尔提出联合方案",
+      "caption": "联合提议中的反应镜头：罗曼与希芙。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0798.jpg"
+    },
+    {
+      "id": "leak",
+      "file": "assets/leak.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 841,
+      "alt": "肯德尔在直升机旁拿着手机独自通话",
+      "caption": "离开球场时：肯德尔向媒体联系人放出消息。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0841.jpg"
+    },
+    {
+      "id": "baseball",
+      "file": "assets/baseball.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 850,
+      "alt": "戴蓝色帽子的男孩握着球棒，父母在后方观看",
+      "caption": "垒球场：男孩站上击球位置。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0850.jpg"
+    },
+    {
+      "id": "million",
+      "file": "assets/million.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 876,
+      "alt": "罗曼弯身靠近男孩，在百万赌约后与他交谈",
+      "caption": "百万赌约的结尾：罗曼与男孩；画面非支票撕裂的特写。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0876.jpg"
+    },
+    {
+      "id": "nda",
+      "file": "assets/nda.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 911,
+      "alt": "科林拿着文件夹与男孩父母交谈",
+      "caption": "球场外：科林与男孩一家处理保密协议。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0911.jpg"
+    },
+    {
+      "id": "frank-out",
+      "file": "assets/frank-out.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 930,
+      "alt": "弗兰克站在洛根面前，听到岗位变动的消息",
+      "caption": "球场结束后：弗兰克与洛根谈离任。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0930.jpg"
+    },
+    {
+      "id": "collapse",
+      "file": "assets/collapse.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 961,
+      "alt": "返程直升机里，洛根突发不适",
+      "caption": "直升机返程：洛根突发不适的同场镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0961.jpg"
+    },
+    {
+      "id": "deal-end",
+      "file": "assets/deal-end.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 981,
+      "alt": "肯德尔在 Vaulter 办公室得知出人意料的消息",
+      "caption": "收购结尾：肯德尔听到劳伦斯告知父亲的消息。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0981.jpg"
+    },
+    {
+      "id": "watch",
+      "file": "assets/watch.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 1016,
+      "alt": "男孩家中的桌上放着汤姆送出的手表，后方电视仍在播放",
+      "caption": "本集尾声：男孩家中的手表与电视。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_1016.jpg"
+    },
+    {
+      "id": "helicopters",
+      "file": "assets/helicopters.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 710,
+      "alt": "两架直升机飞过水面，前往家庭球赛",
+      "caption": "前往球场：普通家庭活动以直升机接驳。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0710.jpg"
+    },
+    {
+      "id": "tom-greg",
+      "file": "assets/tom-greg.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 806,
+      "alt": "汤姆在球场边对格雷格说话并搭住他",
+      "caption": "球场边：汤姆以玩笑反复试探格雷格。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0806.jpg"
+    },
+    {
+      "id": "marcia",
+      "file": "assets/marcia.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 351,
+      "alt": "玛西娅与洛根在生日聚会中低头交谈",
+      "caption": "生日聚会：玛西娅与洛根。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0351.jpg"
+    },
+    {
+      "id": "repair",
+      "file": "assets/repair.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "frame": 621,
+      "alt": "肯德尔在洗手间收拢自己弄乱的物品",
+      "caption": "洗手间：破坏之后，肯德尔又收拾物品。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4772&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2001%20Celebration/S_S1_E1_0621.jpg"
+    }
+  ]
+}

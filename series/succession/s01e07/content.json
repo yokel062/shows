@@ -1,0 +1,715 @@
+{
+  "question": "一家人来做治疗，|谁愿意先承认受过伤？",
+  "deck": "牧场离董事会很远，争夺却一起跟来了。|他们谈家庭，先要决定谁能说自己的痛。",
+  "hero": "session",
+  "heroKey": "拍给外界看的和解，装不下家里真实的伤口。",
+  "openingTitle": "把人叫到一起，|还不等于让人能够说话。",
+  "storyTitle": "一场家庭治疗，|九个被绕开或说破的时刻。",
+  "catalogueSummary": "牧场上的家庭治疗带着修复形象的目的。肯德尔的复吸、希芙的政治选择与父亲的旧伤，让表面的和解越来越难维持。",
+  "intro": "董事会失败之后，肯德尔与父亲的冲突进入诉讼和媒体。洛根希望借一场家庭治疗展示团结，然而治疗要求的承认、倾听与脆弱，恰好都与他惯用的控制方式相抵触。肯德尔真正复吸前，有关他复吸的报道已经出现。接下来发生的失控，并不能反过来证明最初的污名就是事实。",
+  "prologue": {
+    "image": "smear",
+    "title": "消息先把他写成失控的人，他才真正失去控制。",
+    "fact": "肯德尔被解职后与家族疏远、准备诉讼；媒体出现关于其复吸的说法，而这时他仍向拉瓦否认复吸。",
+    "analysis": "先区分报道与事实，才能看清这一集的因果。后来的失败不能为此前的失实攻击追认正当性，承受攻击的人也并非因此失去对自己行动的责任。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "image",
+      "number": "I",
+      "title": "被安排的和解",
+      "subtitle": "家族想让外面看见一张合照。",
+      "range": "01—03",
+      "summary": "父亲接受治疗的形式，却仍试图控制叙述；真正的承认迟迟没有发生。"
+    },
+    {
+      "id": "escape",
+      "number": "II",
+      "title": "各自离开现场",
+      "subtitle": "政治、药物与失败的专业边界。",
+      "range": "04—06",
+      "summary": "希芙找到新的政治路径，肯德尔走向复吸，治疗现场本身也失去可信度。"
+    },
+    {
+      "id": "wounds",
+      "number": "III",
+      "title": "伤口说出来",
+      "subtitle": "有人把人带回家，有人把话说到无法回避。",
+      "range": "07—09",
+      "summary": "夜里的争吵并未完成和解，次日的背部伤疤又让父亲受过的伤变得具体。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "smear",
+      "where": "纽约 / 被写在报道里的肯德尔",
+      "title": "他还没复吸，故事已经替他复吸了。",
+      "image": "smear",
+      "frame": 45,
+      "caption": "肯德尔与身边人谈到处境及报道的本集画面。",
+      "fact": "肯德尔与家族失联并就解职采取行动，媒体提前出现其复吸说法，他与拉瓦之间的信任因此继续承压。",
+      "analysis": "家族拥有的影响不只用于公开声明，也能塑造一个人被别人理解的方式。肯德尔需要反驳报道，反驳又容易显得像失控者的自辩。这种困境加重压力，却不能简化成任何后来伤害都由父亲单独造成。",
+      "turn": "叙事权先影响他与他人的关系。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "image"
+    },
+    {
+      "id": "session",
+      "where": "新墨西哥 / 康纳牧场",
+      "title": "治疗开始之前，公关目的已经进门。",
+      "image": "session",
+      "frame": 274,
+      "caption": "家人在牧场客厅参加家庭治疗。",
+      "fact": "洛根安排家人在康纳的牧场接受治疗，试图修复外界对家族关系的观感；肯德尔起初没有参加。",
+      "analysis": "治疗需要相信在这里说话不会被立即拿去对付自己，而这家人正缺少这种安全。公关目的使真话更加困难：一句不利于父亲的话，可能同时被听成破坏家庭与破坏公司形象。",
+      "turn": "共同空间搭好了，安全的表达条件没有搭好。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "image"
+    },
+    {
+      "id": "sentence",
+      "where": "治疗中 / 洛根的回应",
+      "title": "他反复说为了孩子，不肯再往自己里面走。",
+      "image": "sentence",
+      "frame": 457,
+      "caption": "洛根在家庭治疗中回应问题。",
+      "fact": "洛根表示自己一生所做都为了孩子，面对进一步追问仍重复类似说法；子女与治疗师难以让谈话深入。",
+      "analysis": "这句话未必全是假话，却可以变成不再需要回答具体问题的盾牌。只要所有行为先被归入爱，受伤的人就很难指出某次行动的伤害。治疗要求的不是一句足够动听的总说明，而是愿意面对自己究竟做过什么。",
+      "turn": "爱的概括遮住了行为的细节。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "image"
+    },
+    {
+      "id": "gil",
+      "where": "牧场之外 / 希芙见吉尔",
+      "title": "她要的独立，正好也会刺痛父亲。",
+      "image": "gil",
+      "frame": 731,
+      "caption": "希芙与吉尔谈政治工作时的反应镜头。",
+      "fact": "在内特牵线下，希芙会见反对洛根与其媒体影响的参议员吉尔，认真考虑加入竞选工作，并与内特发生亲密接触。",
+      "analysis": "她的职业选择有真实的政治内容，也带着摆脱父亲定义的需要。两者不必互相取消。可当工作与旧情重新缠在一起，独立并不只是换一位权威靠近，还需要面对自己对汤姆承诺的边界。",
+      "turn": "外部事业给她出口，也带来新的亲密责任。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "escape"
+    },
+    {
+      "id": "pool",
+      "where": "牧场 / 治疗师的事故",
+      "title": "被请来主持秩序的人，也失去了判断。",
+      "image": "pool",
+      "frame": 686,
+      "caption": "治疗师在泳池跳水受伤后被人照看。",
+      "fact": "治疗师跳入浅池受伤，家庭治疗的安排被打断。洛根此前也拒绝更深入参与。",
+      "analysis": "喜剧并未证明所有心理治疗都荒谬，而是让这个被当作形象工具的现场彻底失去权威。父亲可以借事故继续不谈，家人却并没有因此不再需要帮助。一个主持者的失败，不会自动让伤口变得不真实。",
+      "turn": "专业形式崩塌，原来的问题仍留在家里。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "escape"
+    },
+    {
+      "id": "relapse",
+      "where": "另一处 / 肯德尔与当地人",
+      "title": "他真的复吸了，这不让此前的谣言变成正确。",
+      "image": "relapse",
+      "frame": 503,
+      "caption": "肯德尔在当地夜间活动中的本集画面。",
+      "fact": "肯德尔来到新墨西哥后，加入当地人的聚会并使用可卡因、冰毒等药物，发生实际复吸。",
+      "analysis": "现在的风险与此前的失实报道需要同时成立。肯德尔仍有自己的行动责任，而攻击对他的压力也并不因此消失。将他只读成受害者会抹去选择，将他只读成自找麻烦又会抹去关系中的伤害。",
+      "turn": "污名与自毁形成了令人难受的先后关系。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "escape"
+    },
+    {
+      "id": "pickup",
+      "where": "夜间 / 罗曼接回哥哥",
+      "title": "他会嘲弄哥哥，也会去把哥哥找回来。",
+      "image": "pickup",
+      "frame": 869,
+      "caption": "夜间回到牧场的罗曼与肯德尔支线配图；非接人动作特写。",
+      "fact": "罗曼发现肯德尔的处境，前去接他，带他返回家人所在的牧场。",
+      "analysis": "照顾并没有让罗曼立刻变成另一个人，也不需要把他的轻佻全部洗白。但这一动作让兄弟关系多出一个不能忽略的事实：他们会伤害彼此，也仍可能在具体危险中伸手。关心首先表现为做了一件有用的事。",
+      "turn": "竞争关系短暂让位于实际照顾。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wounds"
+    },
+    {
+      "id": "confront",
+      "where": "夜里的餐桌 / 家人对质",
+      "title": "治疗没有说出的，醉酒的人反而喊了出来。",
+      "image": "confront",
+      "frame": 960,
+      "caption": "肯德尔与洛根在牧场夜间争吵。",
+      "fact": "洛根批评希芙与吉尔合作，也贬低汤姆；他承认曾推动关于肯德尔复吸的消息。肯德尔反击父亲，争执几乎升级为肢体冲突。",
+      "analysis": "肯德尔说出特权与怨恨之间的矛盾：父亲创造了孩子们的环境，又鄙视他们被环境塑造的样子。但他说中一部分问题，不等于在药物影响下的每次攻击都合理。尤其当他轻慢父亲曾受虐的经历，理解便再次被竞争取代。",
+      "turn": "最接近真话的一晚，仍被相互刺伤占满。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wounds"
+    },
+    {
+      "id": "scars",
+      "where": "次日 / 泳池边",
+      "title": "背上的伤疤，让父亲不再只是一个解释。",
+      "image": "scars",
+      "frame": 1048,
+      "caption": "本集结尾：洛根背上的旧伤疤，玛西娅准备为他披上毛巾。",
+      "fact": "结尾展示洛根独自游泳及背部旧伤疤，家人的争执没有因此得到当面解决。",
+      "analysis": "镜头让他曾说过的受伤经历有了具体重量，却没有要求观众用童年创伤替成年伤害开脱。一个受过伤的人，可以真的受过伤，也真的继续伤害他人。理解来源不等于取消责任，这正是本集留下的艰难尺度。",
+      "turn": "过去获得了重量，今日的责任仍然存在。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "wounds"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "面对诉讼与公众形象压力。",
+        "接受治疗形式，拒绝深入承认。",
+        "夜里与子女冲突，次日旧伤被镜头呈现。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "随洛根到牧场。",
+        "观察治疗与家人的相互试探。",
+        "结尾在洛根身边，照护与亲密仍是她的位置。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "否认尚未发生的复吸报道。",
+        "离开正常秩序，真正使用药物。",
+        "被罗曼带回家，醉酒与父亲对质。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "提供牧场并希望家人相聚。",
+        "发现自己的地方继续被公司争斗占用。",
+        "对被利用表达不满，也向薇拉暴露情感期待。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "在家庭治疗中继续防御与嘲弄。",
+        "获得新的工作期待，也担心哥哥。",
+        "实际前去接回肯德尔。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "对被安排的家庭和解保持不耐。",
+        "认真考虑为吉尔工作，与内特越过亲密边界。",
+        "被父亲攻击选择及对汤姆的感情，愤怒受伤。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "没有参与牧场核心治疗与夜间对质；不把其他集的行动挪进这场家庭讨论。",
+        "没有参与牧场核心治疗与夜间对质；不把其他集的行动挪进这场家庭讨论。",
+        "没有参与牧场核心治疗与夜间对质；不把其他集的行动挪进这场家庭讨论。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "陪希芙进入家庭场合。",
+        "亲密关系仍受她的外部选择影响。",
+        "被洛根贬低，成为父女争执的一部分。"
+      ]
+    },
+    {
+      "id": "gil",
+      "name": "吉尔",
+      "en": "Gil Eavis",
+      "role": "参议员 · 总统参选人",
+      "want": "推进自己的政治议程，并保护个人与竞选。",
+      "power": "公共支持、议题与对媒体的批评。",
+      "cost": "与媒体权力交涉时，原则会遇到可交换的条件。",
+      "reading": "反对一个有权势的人，与拒绝同他谈交易，并不是同一件事。",
+      "phase": [
+        "成为希芙考虑的新工作对象。",
+        "与她讨论不同于洛根的政治议程。",
+        "提供真实职业路径，但本集未确认全部后续安排。"
+      ]
+    },
+    {
+      "id": "nate",
+      "name": "内特",
+      "en": "Nate Sofrelli",
+      "role": "政治顾问 · 希芙的旧识",
+      "want": "推进政治工作，也重新靠近希芙。",
+      "power": "职业联系、共同经历与亲密熟悉感。",
+      "cost": "私人关系会影响对工作与伦理边界的判断。",
+      "reading": "与希芙的熟悉既能成为职业入口，也可能让他们轻视对汤姆的影响。",
+      "phase": [
+        "向希芙介绍吉尔的竞选机会。",
+        "职业熟悉转为更亲密的接触。",
+        "两人的越界没有因此得到汤姆的同意。"
+      ]
+    },
+    {
+      "id": "willa",
+      "name": "薇拉",
+      "en": "Willa Ferreyra",
+      "role": "康纳的伴侣",
+      "want": "保留自己的生活与职业空间。",
+      "power": "是否亲近、是否留在关系中的选择。",
+      "cost": "家庭财富会改变两人谈条件时的平衡。",
+      "reading": "康纳期待被爱，她的实际处境与愿望则不应被他的期待覆盖。",
+      "phase": [
+        "随康纳进入牧场关系。",
+        "承受他希望家庭与生活被认可的期待。",
+        "面对康纳希望自己爱上他的表达，仍有自己的选择。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "photo",
+      "label": "01 · 安排和解",
+      "title": "一家人被请来，公关目的也跟着来。",
+      "note": "肯德尔起初没有参加治疗；有关复吸的报道早于本集实际复吸。",
+      "edges": [
+        "诉讼与疏远",
+        "提供牧场",
+        "参加治疗",
+        "怀疑治疗诚意",
+        "在场陪伴"
+      ]
+    },
+    {
+      "id": "outside",
+      "label": "02 · 各自找出口",
+      "title": "一个走向政治工作，一个走向药物。",
+      "note": "两条离场线的性质不同，不能把职业反抗与复吸简单等同。",
+      "edges": [
+        "在外真正复吸",
+        "场地被当工具",
+        "关心哥哥处境",
+        "会见吉尔与内特",
+        "观察治疗失败"
+      ]
+    },
+    {
+      "id": "truth",
+      "label": "03 · 夜间对质",
+      "title": "话终于尖锐起来，安全却没有跟着出现。",
+      "note": "镜头展示旧伤，不等于证实每一句家史细节；伤害来源也不免除当前责任。",
+      "edges": [
+        "说破也刺伤",
+        "表达被利用感",
+        "把哥哥带回",
+        "受父亲攻击",
+        "结尾在父亲身旁"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "therapy",
+      "label": "父亲与治疗",
+      "people": [
+        "logan",
+        "kendall",
+        "shiv"
+      ],
+      "image": "sentence",
+      "title": "如果一切都被叫作爱，具体的伤害怎样被说出来？",
+      "surface": "治疗中的总说明与进一步追问。",
+      "wantA": "洛根要承认形式上的遗憾，同时保留自己的正当性。",
+      "wantB": "子女需要具体经历被看见，而非被一句奉献覆盖。",
+      "analysis": [
+        "说“为了孩子”可以表达真情，也可以终止谈话。真正困难的是愿意听见：即使出发点自认为是爱，有些行动仍让别人受伤。",
+        "本集没有把孩子们写成天然更善于沟通的人。他们也会攻击、转移与轻慢。治疗失败因此不是单一坏人破坏一个好场合，而是一套彼此都熟练使用的防御反复运作。"
+      ],
+      "boundary": "不把戏剧中的一次失败治疗推广为对心理治疗的一般判断。",
+      "scene": "sentence"
+    },
+    {
+      "id": "smear",
+      "label": "被报道与真实复吸",
+      "people": [
+        "kendall",
+        "logan",
+        "roman"
+      ],
+      "image": "relapse",
+      "title": "后来发生的失控，不能替先前的攻击补证。",
+      "surface": "媒体污名与肯德尔实际使用药物的先后。",
+      "wantA": "洛根要压住儿子的挑战与诉讼。",
+      "wantB": "肯德尔要维护自己仍然清醒可信的身份。",
+      "analysis": [
+        "报道先行，让肯德尔连否认都更难被相信；真正复吸后，又很容易被人倒过来当成报道一直正确的证明。梳清时间，是看见伤害机制的必要一步。",
+        "但压力不能替他完成免责。最有力量的阅读，是同时保留他对自身选择的责任、父亲对攻击的责任，以及罗曼愿意在危险中接回哥哥这一具体的照顾。"
+      ],
+      "boundary": "报道早于本集复吸，不能倒置因果。",
+      "scene": "pickup"
+    },
+    {
+      "id": "independence",
+      "label": "女儿的出口",
+      "people": [
+        "shiv",
+        "logan",
+        "nate"
+      ],
+      "image": "gil",
+      "title": "她想换一个工作世界，父亲却把它当成对自己的背离。",
+      "surface": "为吉尔工作与旧情人的亲近。",
+      "wantA": "希芙要证明外部事业由自己决定。",
+      "wantB": "洛根要让女儿的选择仍受家族立场约束。",
+      "analysis": [
+        "希芙的政治选择不必只是报复父亲，也不能因为有真实理想就忽略私人动机。父亲把工作与她对汤姆的感情一起攻击，便让职业自主重新落回一个女儿是否够好的审判。",
+        "她与内特的越界则是另一份责任。逃离父亲的控制，并不自动赋予她改变伴侣承诺而不说明的自由。独立必须包括如何对待不掌权的人。"
+      ],
+      "boundary": "不将她与内特的亲密写成已经得到汤姆同意。",
+      "scene": "gil"
+    }
+  ],
+  "feature": {
+    "title": "看见旧伤，|仍然要判断今天的行为。",
+    "subtitle": "结尾的背部伤疤把家族历史带回身体，以下为个人解读。",
+    "image": "scars",
+    "steps": [
+      {
+        "title": "父亲讲自己的过去",
+        "text": "受伤经历进入家庭争论。"
+      },
+      {
+        "title": "儿子轻慢这段经历",
+        "text": "真实问题被当作彼此攻击的材料。"
+      },
+      {
+        "title": "镜头独自留下旧伤",
+        "text": "观众必须同时面对受伤与伤人的人。"
+      }
+    ],
+    "question": "理解一个人的来处，|是否就必须替他的现在辩护？",
+    "analysis": [
+      "伤疤没有替他完成道歉，也没有取消孩子们的经历。它阻止的是另一种轻易判断：把父亲的痛全当成操纵话术。",
+      "本集最难的部分，是承认同一个人可以有需要同情的历史，也有必须追问的责任。两种事实不相互抵消。"
+    ],
+    "boundary": "只确认本集呈现的旧伤与谈话，不凭画面诊断具体心理疾病或还原全部童年。"
+  },
+  "quotes": [
+    {
+      "en": "Everything I've done in my life, I've done for my children.",
+      "zh": "我这一生做的一切，都是为了我的孩子。",
+      "speaker": "洛根 → 家庭治疗现场",
+      "context": "被问及对家人的感受时。",
+      "analysis": "一句总说明提供了正当性，也让具体行为更难进入谈话。"
+    },
+    {
+      "en": "You can't just use the one sentence.",
+      "zh": "你不能只反复说这一句话。",
+      "speaker": "希芙 → 洛根",
+      "context": "父亲重复同样的总说明之后。",
+      "analysis": "她要的不是更漂亮的句子，而是一个愿意继续回答的人。"
+    },
+    {
+      "en": "I got nothin' to hide.",
+      "zh": "我没什么好藏的。",
+      "speaker": "洛根 → 治疗师",
+      "context": "治疗师质疑他的投入程度时。",
+      "analysis": "自称没有秘密，并不等于已经允许别人看见脆弱。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "客厅与舞台",
+      "image": "session",
+      "text": "空间换成牧场客厅，家人仍像在管理一场公开表演。离开董事会并不自动离开控制关系。",
+      "link": "session",
+      "label": "地理离开 ↔ 关系跟随"
+    },
+    {
+      "number": "02",
+      "title": "真的接回一个人",
+      "image": "pickup",
+      "text": "抽象的爱和责任说了很多，罗曼的照顾却是一段路。具体行动暂时超越了他惯常的玩笑。",
+      "link": "pickup",
+      "label": "说关心 → 做一件事"
+    },
+    {
+      "number": "03",
+      "title": "最后没有观众的身体",
+      "image": "scars",
+      "text": "父亲独自入水，旧伤进入镜头，仍未进入全家可以安全讨论的语言。观众看见了，家人未必已理解。",
+      "link": "scars",
+      "label": "旧伤可见 ↔ 理解未成"
+    }
+  ],
+  "ending": {
+    "title": "人都回到了屋里。|话仍没有一个安全的地方。",
+    "copy": "父亲有过自己的伤口。|孩子也正在承受父亲留下的伤。",
+    "question": "看见这些以后，他们愿不愿意停止用痛换控制？",
+    "known": "肯德尔实际复吸；洛根承认推动此前报道；希芙靠近吉尔与内特；治疗未带来和解。",
+    "unknown": "肯德尔怎样恢复生活、希芙的职业路径及父子关系下一步。",
+    "boundary": "剧透截至 S01E07，不写下一集的资本计划与聚会结果。"
+  },
+  "glossary": [
+    {
+      "title": "报道与事实",
+      "text": "本集先有关于复吸的失实说法，后有实际复吸；时间不能倒过来理解。"
+    },
+    {
+      "title": "治疗的安全条件",
+      "text": "页面分析的是剧中的公开目的与家庭互动，不提供现实心理诊断。"
+    },
+    {
+      "title": "伤害的来源与责任",
+      "text": "曾受伤可以帮助理解一个人，却不能自动取消对其当前伤害行为的判断。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 7,
+  "title": "Austerlitz",
+  "translatedTitle": "奥斯特里茨",
+  "airdate": "2018.07.15",
+  "writer": "Lucy Prebble",
+  "director": "Miguel Arteta",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—07 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E07 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e07&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 7 集回顾",
+      "url": "https://readysteadycut.com/2018/07/16/succession-episode-7/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E07 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4778",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "smear",
+      "file": "assets/smear.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 45,
+      "alt": "《继承之战》S01E07：肯德尔与身边人谈到处境及报道的本集画面。",
+      "caption": "肯德尔与身边人谈到处境及报道的本集画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0045.jpg"
+    },
+    {
+      "id": "session",
+      "file": "assets/session.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 274,
+      "alt": "《继承之战》S01E07：家人在牧场客厅参加家庭治疗。",
+      "caption": "家人在牧场客厅参加家庭治疗。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0274.jpg"
+    },
+    {
+      "id": "sentence",
+      "file": "assets/sentence.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 457,
+      "alt": "《继承之战》S01E07：洛根在家庭治疗中回应问题。",
+      "caption": "洛根在家庭治疗中回应问题。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0457.jpg"
+    },
+    {
+      "id": "gil",
+      "file": "assets/gil.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 731,
+      "alt": "《继承之战》S01E07：希芙与吉尔谈政治工作时的反应镜头。",
+      "caption": "希芙与吉尔谈政治工作时的反应镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0731.jpg"
+    },
+    {
+      "id": "pool",
+      "file": "assets/pool.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 686,
+      "alt": "《继承之战》S01E07：治疗师在泳池跳水受伤后被人照看。",
+      "caption": "治疗师在泳池跳水受伤后被人照看。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0686.jpg"
+    },
+    {
+      "id": "relapse",
+      "file": "assets/relapse.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 503,
+      "alt": "《继承之战》S01E07：肯德尔在当地夜间活动中的本集画面。",
+      "caption": "肯德尔在当地夜间活动中的本集画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0503.jpg"
+    },
+    {
+      "id": "pickup",
+      "file": "assets/pickup.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 869,
+      "alt": "《继承之战》S01E07：夜间回到牧场的罗曼与肯德尔支线配图；非接人动作特写。",
+      "caption": "夜间回到牧场的罗曼与肯德尔支线配图；非接人动作特写。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0869.jpg"
+    },
+    {
+      "id": "confront",
+      "file": "assets/confront.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 960,
+      "alt": "《继承之战》S01E07：肯德尔与洛根在牧场夜间争吵。",
+      "caption": "肯德尔与洛根在牧场夜间争吵。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_0960.jpg"
+    },
+    {
+      "id": "scars",
+      "file": "assets/scars.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 1048,
+      "alt": "《继承之战》S01E07：本集结尾：洛根背上的旧伤疤，玛西娅准备为他披上毛巾。",
+      "caption": "本集结尾：洛根背上的旧伤疤，玛西娅准备为他披上毛巾。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4778&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2007%20Austerlitz/S_S1_E7_1048.jpg"
+    }
+  ]
+}

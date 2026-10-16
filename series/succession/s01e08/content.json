@@ -1,0 +1,715 @@
+{
+  "question": "离开父亲之后，|他为什么又想买回父亲的世界？",
+  "deck": "单身派对没有去布拉格。|他们走进一座地下世界，把白天的交易带进狂欢。",
+  "hero": "deal",
+  "heroKey": "有人得到退出的报价，有人把报价改成了进攻。",
+  "openingTitle": "出口就在面前。|他想要的，却不只是走出去。",
+  "storyTitle": "一夜狂欢，|九次说不清的逃离。",
+  "catalogueSummary": "一次改在纽约的单身派对，混合了欲望、童年旧事与资本谈判。肯德尔得到退出家族公司的机会，却提出另一条更激烈的路。",
+  "intro": "牧场之后，肯德尔试着以投资人的姿态开启新生活，却发现姓氏比自己的承诺先抵达别人面前。罗曼负责汤姆的单身派对，也背着父亲交付的商业任务；格雷格则被派去看顾肯德尔。所有人都像来放松，几乎每个人又都带着不能放下的工作与关系。所谓离开日常，最终只是让日常在更暗的灯光下继续。",
+  "prologue": {
+    "image": "startup",
+    "title": "他带来资金与热情，别人先看见罗伊这个姓。",
+    "fact": "肯德尔尝试投资新的创意项目，努力表示自己能提供资源，却因家族背景与形象遭到拒绝。",
+    "analysis": "他想用新的身份与父亲切开，别人却没有义务相信这次切割已经完成。被拒之后的轻蔑反应，又暴露他尚未离开旧的权力习惯。",
+    "sources": [
+      "transcript",
+      "recap"
+    ]
+  },
+  "acts": [
+    {
+      "id": "outside",
+      "number": "I",
+      "title": "试着离开",
+      "subtitle": "每个人都带着白天的差事。",
+      "range": "01—03",
+      "summary": "肯德尔想换个世界，罗曼与格雷格却仍在执行父亲的安排。"
+    },
+    {
+      "id": "inside",
+      "number": "II",
+      "title": "走进地下",
+      "subtitle": "性、阶层与旧记忆一起被放大。",
+      "range": "04—06",
+      "summary": "狂欢没有消除等级，也没有让兄弟对同一段童年达成一致。"
+    },
+    {
+      "id": "return",
+      "number": "III",
+      "title": "重新回来",
+      "subtitle": "出口变成另一次夺权的起点。",
+      "range": "07—09",
+      "summary": "父女对峙延伸到婚礼，汤姆的越界加深不安，肯德尔选择联手敌人。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "startup",
+      "where": "白天 / 新投资尝试",
+      "title": "他想当新世界的伙伴，别人仍把他看成旧世界。",
+      "image": "startup",
+      "frame": 136,
+      "caption": "肯德尔向创意项目推介自己的画面。",
+      "fact": "肯德尔向年轻的创意团队推介投资与资源，对方没有接受；他对被拒产生强烈的自尊反应。",
+      "analysis": "他是真的想寻找新方向，也习惯期待资源换来欢迎。被拒提醒他，别人不仅评估钱，也评估靠近他意味着什么。他随后想贬低对方的冲动，让新的身份再次显出父亲的旧影子。",
+      "turn": "姓氏既是资源，也是无法随意脱下的背景。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "outside"
+    },
+    {
+      "id": "party-plan",
+      "where": "公司与朋友 / 派对改址",
+      "title": "地点改了，任务一个也没少。",
+      "image": "party-plan",
+      "frame": 45,
+      "caption": "罗曼在公司处理派对与工作事务。",
+      "fact": "罗曼筹办汤姆的单身派对，原本考虑布拉格，最终改去纽约的秘密聚会。他也受命与桑迪接触地方台交易。",
+      "analysis": "罗曼想让哥哥以外的人看见自己的办事能力，夜生活又提供了他更熟悉的表达方式。可被派去谈生意，说明这场出游仍在父亲的范围之内：他可以安排热闹，不能任意卸下证明自己的职责。",
+      "turn": "放松的活动，继续承载职业考核。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "outside"
+    },
+    {
+      "id": "babysit",
+      "where": "洛根与格雷格 / 一项特殊差事",
+      "title": "他被派去看顾表亲，也被许诺可能得到好处。",
+      "image": "babysit",
+      "frame": 181,
+      "caption": "洛根向格雷格交付看顾肯德尔的要求。",
+      "fact": "洛根要求格雷格留意肯德尔的安全与药物使用，以公司前途等可能性推动他接受任务。",
+      "analysis": "关心和监控在这里难以完全分开。父亲可以担忧儿子，又不愿直接建立信任；新人便成为一只额外的眼睛。格雷格要照顾人，也在为自己的未来积累服务记录，这使差事既有实际帮助，也有交换性质。",
+      "turn": "照顾被转交给一条带条件的上下级关系。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "outside"
+    },
+    {
+      "id": "entry",
+      "where": "地下聚会 / 汤姆第一次进入",
+      "title": "他说终于放开，仍不断确认自己是否被接纳。",
+      "image": "entry",
+      "frame": 363,
+      "caption": "汤姆进入地下派对后的本集画面。",
+      "fact": "汤姆、格雷格与罗伊兄弟等人进入秘密聚会，酒精、药物和性意味浓厚的社交构成环境。",
+      "analysis": "这个空间许诺没有日常规则，实际却有更难辨认的门槛。谁认识人、谁知道怎么玩、谁的尴尬可以成为别人的笑料，都继续形成等级。汤姆越想证明自己放得开，越容易把不自在包装成兴奋。",
+      "turn": "狂欢没有让身份差异消失。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "inside"
+    },
+    {
+      "id": "dog",
+      "where": "兄弟间 / 笼子与狗粮",
+      "title": "同一段童年，他们连事实都记成不同样子。",
+      "image": "dog",
+      "frame": 408,
+      "caption": "兄弟在聚会中谈起童年往事的同场画面。",
+      "fact": "罗曼谈到童年被关进笼子、吃狗粮等记忆，肯德尔与康纳给出不同版本，有人说那是游戏、食物是巧克力蛋糕。",
+      "analysis": "这一段的重点不在观众能立刻裁决全部往事，而在同一个游戏为什么对不同的人留下不同重量。掌握解释权的人能把伤害说成大家都玩过，受伤的人则要先证明自己有资格觉得受伤。",
+      "turn": "共同记忆没有带来共同的情感事实。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "inside"
+    },
+    {
+      "id": "sandy",
+      "where": "派对里的生意 / 罗曼碰上另一套资本",
+      "title": "他想替父亲谈交易，对手却在打更大的算盘。",
+      "image": "sandy",
+      "frame": 499,
+      "caption": "桑迪在派对中与罗伊家族成员交谈。",
+      "fact": "罗曼接近桑迪讨论地方台生意；桑迪与斯图伊的资本关系也在本集中进一步被说明。",
+      "analysis": "罗曼有机会进入父亲的交易世界，却还不能决定别人为何愿意见他。对方也在利用派对的非正式环境试探家族内部的裂口。生意没有因为离开会议室而更简单，只是减少了需要公开说清条件的时刻。",
+      "turn": "父亲派出的儿子，进入对手更大的利益网络。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "inside"
+    },
+    {
+      "id": "dinner",
+      "where": "另一边 / 希芙与洛根",
+      "title": "他知道她的私事，她拒绝让工作跟着退让。",
+      "image": "dinner",
+      "frame": 771,
+      "caption": "洛根与希芙共进晚餐时的本集镜头。",
+      "fact": "希芙继续为吉尔工作，与洛根晚餐时感到父亲暗示知道她与内特的关系。两人未就事业达成和解，玛西娅随后告知洛根不去婚礼。",
+      "analysis": "父亲把亲密信息带进职业争论，就能让女儿感到自主选择也可能付出私人代价。希芙不肯放弃工作，并不等于她已公平对待汤姆；但父亲掌握她的错误，也不自动使父亲有权替她决定事业。",
+      "turn": "工作立场被延伸到婚礼与亲密关系的条件。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "return"
+    },
+    {
+      "id": "tom",
+      "where": "派对后半 / 一次被说成趣闻的越界",
+      "title": "他急着把尴尬讲成成就。",
+      "image": "tom",
+      "frame": 590,
+      "caption": "汤姆在地下聚会中的反应镜头，非性行为画面。",
+      "fact": "汤姆在他人怂恿下与一名女子发生性接触，随后向同伴描述经历，表现出夸耀与困惑并存的状态。",
+      "analysis": "他说这段经历时，像在寻求一份终于融入的证明。别人是否认为有趣，逐渐压过他自己到底怎样感受。所谓自由并不总是自主选择，也可能是在害怕被排除时，接受一套并不让自己舒服的游戏。",
+      "turn": "被接纳的欲望，让越界被包装为经验。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "return"
+    },
+    {
+      "id": "deal",
+      "where": "退出报价 / 第二次夺权",
+      "title": "他们给他五亿美元离开，他要求一起回去。",
+      "image": "deal",
+      "frame": 1044,
+      "caption": "肯德尔与斯图伊、桑迪就收购安排会面的本集尾声画面。",
+      "fact": "桑迪与斯图伊提出买下肯德尔所持权益、让他退出公司的方案。肯德尔拒绝只拿钱离开，转而提出联手敌意收购，由自己担任 CEO。",
+      "analysis": "退出本来可以让他获得一种宽裕的独立，他却发现自己仍想回到那个能够证明自己的位置。报复父亲与经营公司被再次绑在一起。与首集相比，他不再只等任命，而是准备借父亲的对手争取控制；代价是独立行动也要依赖新的资本主人。",
+      "turn": "被拒绝的出口，成为更激烈进攻的入口。",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "act": "return"
+    }
+  ],
+  "characters": [
+    {
+      "id": "logan",
+      "name": "洛根",
+      "en": "Logan Roy",
+      "role": "父亲 · Waystar 掌权者",
+      "want": "保留最终决定权，并让子女接受自己的安排。",
+      "power": "公司地位、资源与长期形成的家族威望。",
+      "cost": "身体与亲密关系都无法完全靠命令管理。",
+      "reading": "他能识别他人的需求，也习惯把需求变成服从的条件；能力和伤害在同一套做法里。",
+      "phase": [
+        "把看顾肯德尔的差事交给格雷格。",
+        "与希芙晚餐，触及她的私人关系。",
+        "以缺席婚礼表达冲突，尚不知本集完整收购提议。"
+      ]
+    },
+    {
+      "id": "marcia",
+      "name": "玛西娅",
+      "en": "Marcia Roy",
+      "role": "洛根的妻子",
+      "want": "照顾与维护洛根，也捍卫自己在家庭中的位置。",
+      "power": "生活中的接近与实际照护关系。",
+      "cost": "很容易承受子女对父亲安排的疑惧。",
+      "reading": "她有自己的立场，但本集没有揭示的计划不能替她编写；子女的怀疑也不等于事实。",
+      "phase": [
+        "继续处在洛根身边。",
+        "观察父女无法和解。",
+        "向希芙传达父亲不参加婚礼的消息。"
+      ]
+    },
+    {
+      "id": "kendall",
+      "name": "肯德尔",
+      "en": "Kendall Roy",
+      "role": "次子 · 争取独立决策的人",
+      "want": "争取经营自主，也希望父亲承认自己的价值。",
+      "power": "经营经验、项目与能够争取的盟友。",
+      "cost": "容易把个人尊严押在一次必须成功的行动上。",
+      "reading": "他的商业判断与认可焦虑同时存在，不能只因为他受到伤害，就认定他的每项选择都正确。",
+      "phase": [
+        "尝试独立投资，却因家族形象被拒。",
+        "在派对与兄弟谈起分歧记忆，也受到药物诱惑。",
+        "拒绝退出报价，提出联手收购。"
+      ]
+    },
+    {
+      "id": "connor",
+      "name": "康纳",
+      "en": "Connor Roy",
+      "role": "长子 · 家族成员",
+      "want": "保留舒适的距离，也希望自己的存在受到重视。",
+      "power": "家庭财富、亲属身份与参与决定的机会。",
+      "cost": "把自己放在局外，不能让决定的后果自动消失。",
+      "reading": "他的疏离与被认可的需要并行，常用一个可以掌握的小领域承接更大的不安。",
+      "phase": [
+        "参加汤姆的派对。",
+        "对童年笼子游戏给出不同记忆。",
+        "仍没有成为收购计划的共同发起者。"
+      ]
+    },
+    {
+      "id": "roman",
+      "name": "罗曼",
+      "en": "Roman Roy",
+      "role": "三子 · 公司与家庭之间",
+      "want": "得到有分量的职责，同时保留玩笑式的退路。",
+      "power": "家族位置、对他人弱点的敏感。",
+      "cost": "在父亲面前的恐惧，会与想表现的欲望相互牵制。",
+      "reading": "轻佻有时遮住受伤，有时遮住对别人的伤害；两者需要分开看。",
+      "phase": [
+        "安排派对并承担与桑迪接触的任务。",
+        "说出笼子记忆，又遭遇不同解释。",
+        "父亲的对手与哥哥形成另一条交易线。"
+      ]
+    },
+    {
+      "id": "shiv",
+      "name": "希芙",
+      "en": "Siobhan “Shiv” Roy",
+      "role": "女儿 · 政治顾问",
+      "want": "维持外部事业与自主权，又不放弃家族中的位置。",
+      "power": "政治经验、亲属关系与对他人动机的判断。",
+      "cost": "亲密关系与政治立场都容易变成家族谈判的一部分。",
+      "reading": "能看清别人如何使用权力，并不表示她在亲密关系里就不使用相似的方法。",
+      "phase": [
+        "继续推进吉尔的政治工作。",
+        "面对父亲对私人关系的暗示。",
+        "不肯退让事业，得知父亲不来婚礼。"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "格雷格",
+      "en": "Greg Hirsch",
+      "role": "旁系亲属 · 公司新人",
+      "want": "获得工作、被接纳，并逐渐保留保护自己的筹码。",
+      "power": "接近不同人物的机会与可能掌握的信息。",
+      "cost": "地位较低，容易被交付别人不愿亲手承担的任务。",
+      "reading": "他的局促与机会意识可以同时存在；看似顺从，有时也是在给自己留路。",
+      "phase": [
+        "接受看顾肯德尔的差事。",
+        "在聚会里笨拙地试图阻止他过量用药。",
+        "实际关心与职业交换并存。"
+      ]
+    },
+    {
+      "id": "tom",
+      "name": "汤姆",
+      "en": "Tom Wambsgans",
+      "role": "希芙的伴侣 · Waystar 管理人员",
+      "want": "稳住亲密关系，并在公司与家族中获得更高位置。",
+      "power": "与希芙的关系、职务与自己能够指挥的人。",
+      "cost": "对向上失去位置的恐惧，常会转为向下施压。",
+      "reading": "他既可能真心爱希芙，也可能依赖这段关系带来的身份，两种需要并不能简单分开。",
+      "phase": [
+        "期待自己的单身派对。",
+        "试着融入过度放纵的环境。",
+        "把越界描述成新鲜经验，仍暴露不安。"
+      ]
+    },
+    {
+      "id": "stewy",
+      "name": "斯图伊",
+      "en": "Stewy Hosseini",
+      "role": "投资人 · 肯德尔的老友",
+      "want": "在可接受的风险下获得收益与影响力。",
+      "power": "资本、交易条件与和不同阵营的联系。",
+      "cost": "友谊可能让别人误读他的投资边界。",
+      "reading": "他愿意与肯德尔谈私交，但关键决定仍要按投资人的利益理解。",
+      "phase": [
+        "连接地下聚会与资本接触。",
+        "与桑迪一方讨论肯德尔的权益。",
+        "听取由退出变成收购的反提议。"
+      ]
+    },
+    {
+      "id": "sandy",
+      "name": "桑迪",
+      "en": "Sandy Furness",
+      "role": "投资人 · 洛根的商业对手",
+      "want": "取得更大的商业控制与谈判优势。",
+      "power": "资本安排、盟友与交易机会。",
+      "cost": "肯德尔的私人复仇不能自动变成可靠的交易执行。",
+      "reading": "他提供的是可以谈条件的资本关系，不能被当成无条件的家庭救援。",
+      "phase": [
+        "接触罗曼的地方台任务。",
+        "提出以资金买下肯德尔权益。",
+        "被肯德尔邀请加入更大的夺权方案。"
+      ]
+    },
+    {
+      "id": "nate",
+      "name": "内特",
+      "en": "Nate Sofrelli",
+      "role": "政治顾问 · 希芙的旧识",
+      "want": "推进政治工作，也重新靠近希芙。",
+      "power": "职业联系、共同经历与亲密熟悉感。",
+      "cost": "私人关系会影响对工作与伦理边界的判断。",
+      "reading": "与希芙的熟悉既能成为职业入口，也可能让他们轻视对汤姆的影响。",
+      "phase": [
+        "与希芙的私情及政治工作继续相关。",
+        "这段关系被洛根的暗示触及。",
+        "并未因此获得汤姆对越界的知情同意。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "escape",
+      "label": "01 · 向外走",
+      "title": "想摆脱父亲的人，仍带着父亲安排的事。",
+      "note": "罗曼筹办派对兼有商业任务，格雷格则受托看顾肯德尔。",
+      "edges": [
+        "尝试独立投资",
+        "参加派对",
+        "安排与商业任务",
+        "继续吉尔工作",
+        "传递家庭决定"
+      ]
+    },
+    {
+      "id": "night",
+      "label": "02 · 聚会内外",
+      "title": "童年记忆、工作与性边界，都没被狂欢取消。",
+      "note": "笼子往事有多个版本，本页不把任何一人的记忆当成已完成的客观调查。",
+      "edges": [
+        "遭遇记忆分歧",
+        "提出不同版本",
+        "说出旧伤",
+        "与父亲晚餐",
+        "站在父亲身旁"
+      ]
+    },
+    {
+      "id": "counteroffer",
+      "label": "03 · 改写报价",
+      "title": "可以退出的人，选择借资本回到核心。",
+      "note": "本集只是提出新的收购方向，尚未取得公司控制权。",
+      "edges": [
+        "提出联手收购",
+        "未参与新方案",
+        "尚不知完整计划",
+        "得知婚礼缺席",
+        "传达婚礼决定"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "exit",
+      "label": "肯德尔与出口",
+      "people": [
+        "kendall",
+        "stewy",
+        "sandy"
+      ],
+      "image": "deal",
+      "title": "他想摆脱父亲，也想让父亲看见自己赢。",
+      "surface": "卖出权益退出，还是联手收购。",
+      "wantA": "肯德尔要获得足够独立、也足够响亮的胜利。",
+      "wantB": "资本一方要一个能落实、能带来收益的方案。",
+      "analysis": [
+        "如果需要的只是生活不受父亲干预，退出报价已经提供了非常优厚的条件。他拒绝说明，父亲仍然是他衡量成功的核心观众。",
+        "新的进攻更主动，却未必更自由。为了不再依赖父亲任命，他转而依赖投资人；他能作出选择，也必须面对选择把公司和自己带入怎样的关系。"
+      ],
+      "boundary": "未在本集完成收购或正式取得 CEO 任命。",
+      "scene": "deal"
+    },
+    {
+      "id": "memory",
+      "label": "兄弟与童年",
+      "people": [
+        "roman",
+        "kendall",
+        "connor"
+      ],
+      "image": "dog",
+      "title": "谁有权把一个人的伤，解释成大家的游戏？",
+      "surface": "笼子、食物与离家经历的不同版本。",
+      "wantA": "罗曼想让自己的难受被认真承认。",
+      "wantB": "哥哥们认为事情另有玩法与细节。",
+      "analysis": [
+        "记忆会变化，叙述也可能防御。但不知道全部细节，不表示罗曼的感受就没有真实性。笑着澄清的人，可能再次占据当年更有解释权的位置。",
+        "反过来，感受真切也不能让每个细节自动成为确定史实。这里需要保留两层：他们尚未达成共同记录，以及某些人显然比别人更痛。"
+      ],
+      "boundary": "不替观众裁决食物究竟是什么，也不拿后续回忆倒推。",
+      "scene": "dog"
+    },
+    {
+      "id": "freedom",
+      "label": "被允许的放纵",
+      "people": [
+        "tom",
+        "greg",
+        "roman"
+      ],
+      "image": "tom",
+      "title": "他想证明自己自由，先得满足别人的玩法。",
+      "surface": "单身派对中的越界与夸耀。",
+      "wantA": "汤姆想被同伴接纳，也想减少婚前的不安。",
+      "wantB": "同伴以刺激与嘲笑不断抬高融入的门槛。",
+      "analysis": [
+        "现场像允许人做任何事，实际却不断给人新的考题。汤姆一旦不愿意，就可能显得扫兴或不够懂行；他越努力把经历说得精彩，越显出自己在等待认可。",
+        "这与洛根家中服从的方式遥相呼应：权力不总是说不许，有时说“你当然可以”，再让人自己跨过不舒服的边界。"
+      ],
+      "boundary": "只描述本集发生的性接触，不将其写成希芙事先同意的安排。",
+      "scene": "tom"
+    }
+  ],
+  "feature": {
+    "title": "同一笔钱，|可以是出口，也可以是弹药。",
+    "subtitle": "跟踪肯德尔怎样把退出报价改写为收购提议。",
+    "image": "deal",
+    "steps": [
+      {
+        "title": "离开原体系",
+        "text": "他先尝试以独立投资人身份开始。"
+      },
+      {
+        "title": "收到退出报价",
+        "text": "约五亿美元可以让他卖出权益。"
+      },
+      {
+        "title": "要求重新进入",
+        "text": "他选择与父亲的对手争夺控制。"
+      }
+    ],
+    "question": "他要的是自由，|还是自由之后还得证明的胜利？",
+    "analysis": [
+      "退出需要接受父亲可能永远不认可自己。进攻则仍保留一种想象：等我站到最高处，他总会明白。",
+      "本集不必否定收购的商业可能，已经足够展示私人复仇怎样改变交易方向。看懂这份方向，才能理解下一步的承诺对他有多重。"
+    ],
+    "boundary": "提议不等于交易已完成；本集未发生向洛根正式递交要约。"
+  },
+  "quotes": [
+    {
+      "en": "I'm the asshole who can be your Warhol.",
+      "zh": "我就是那个能当你们沃霍尔的混蛋。",
+      "speaker": "肯德尔 → 创意团队",
+      "context": "推介自己的资金与资源时。",
+      "analysis": "他想用艺术伙伴的比喻拉近距离，却仍在急着规定自己应被怎样看待。"
+    },
+    {
+      "en": "I'm not getting out.",
+      "zh": "我不会退出。",
+      "speaker": "肯德尔 → 桑迪",
+      "context": "收到买下其权益的报价后。",
+      "analysis": "这句拒绝划清了他真正想要的东西：钱和离场还不够。"
+    },
+    {
+      "en": "Keep your money.",
+      "zh": "把你的钱留着。",
+      "speaker": "肯德尔 → 桑迪",
+      "context": "准备提出联手收购之前。",
+      "analysis": "他拒绝的只是这笔钱的原定用途，接着就要让同一方资本支持自己的进攻。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "题目叫布拉格",
+      "image": "party-plan",
+      "text": "没人真正去到题目中的城市，离开原生活的承诺也没有兑现。换地点只是换了继续同样关系的布景。",
+      "link": "party-plan",
+      "label": "远方想象 ↔ 原地继续"
+    },
+    {
+      "number": "02",
+      "title": "门与笼子",
+      "image": "dog",
+      "text": "派对的入口让人觉得终于进入核心，童年的笼子却提醒他们：被带进去，也可能只是被别人安排位置。",
+      "link": "dog",
+      "label": "获准进入 ↔ 无法自由"
+    },
+    {
+      "number": "03",
+      "title": "再坐回会议桌",
+      "image": "deal",
+      "text": "尾声把地下灯光换回明亮办公室。肯德尔看似重新振作，新的行动仍以父亲为中心。",
+      "link": "deal",
+      "label": "地下狂欢 → 明亮交易"
+    }
+  ],
+  "ending": {
+    "title": "他没有拿钱离开。|他想带着钱的主人回来。",
+    "copy": "门外的新生活没有让他安定。|父亲的公司，重新成为证明自己的地方。",
+    "question": "当私人复仇需要外部资本，它还完全属于自己吗？",
+    "known": "肯德尔提出联手敌意收购；洛根暂称不参加婚礼；汤姆在派对中越界。",
+    "unknown": "收购能否推进、洛根是否最终到场，以及婚礼前的关系如何处理。",
+    "boundary": "剧透截至 S01E08，不先写婚前谈判与季终事故。"
+  },
+  "glossary": [
+    {
+      "title": "退出报价",
+      "text": "本集提出以约五亿美元买下肯德尔权益；退出与取得公司经营权是不同方案。"
+    },
+    {
+      "title": "敌意收购",
+      "text": "剧中指向不依赖洛根自愿交接的控制权争夺；本集尚在计划层面。"
+    },
+    {
+      "title": "多版本记忆",
+      "text": "页面区分往事细节的争议与人物确实表达的受伤感，不把记忆争论写成定案。"
+    }
+  ],
+  "version": 1,
+  "season": 1,
+  "episode": 8,
+  "title": "Prague",
+  "translatedTitle": "布拉格",
+  "airdate": "2018.07.22",
+  "writer": "Jon Brown",
+  "director": "S. J. Clarkson",
+  "chineseTitle": "继承之战",
+  "initialCharacter": "kendall",
+  "spoiler": "包含 S01E01—08 剧情及本集结尾，不涉及后续集数。",
+  "relationFoot": "图示为截至本集的亲属关系与依赖归纳，阶段说明含个人解读，不是正式公司架构；实线与虚线不表示所有人已互相知情。人物头像跨集复用，来源集数在篇末登记。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E08 播出版对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e08&tv-show=succession-2018",
+      "note": "非官方转录，核对本集场景、短台词与前情回顾的分界；本页不引歌词。"
+    },
+    {
+      "id": "recap",
+      "title": "Ready Steady Cut · 第 8 集回顾",
+      "url": "https://readysteadycut.com/2018/07/23/succession-episode-8/",
+      "note": "用于情节交叉核对；人物动机与主题分析由本页独立撰写，不沿用评论者的价值判断。"
+    },
+    {
+      "id": "episode",
+      "title": "第一季分集与演职员索引",
+      "url": "https://en.wikipedia.org/wiki/Succession_season_1",
+      "note": "核对集名、首播日期、编剧、导演与演员；链接会显示全季内容，可能包含后续剧透。"
+    },
+    {
+      "id": "stills",
+      "title": "KissThemGoodbye / TheTVShows · S01E08 截图相册",
+      "url": "https://thetvshows.us/thumbnails.php?album=4779",
+      "note": "正文配图均来自本集播出版；图片对应范围、原始帧编号与原图链接逐张登记。"
+    }
+  ],
+  "images": [
+    {
+      "id": "startup",
+      "file": "assets/startup.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 136,
+      "alt": "《继承之战》S01E08：肯德尔向创意项目推介自己的画面。",
+      "caption": "肯德尔向创意项目推介自己的画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0136.jpg"
+    },
+    {
+      "id": "party-plan",
+      "file": "assets/party-plan.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 45,
+      "alt": "《继承之战》S01E08：罗曼在公司处理派对与工作事务。",
+      "caption": "罗曼在公司处理派对与工作事务。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=1",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0045.jpg"
+    },
+    {
+      "id": "babysit",
+      "file": "assets/babysit.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 181,
+      "alt": "《继承之战》S01E08：洛根向格雷格交付看顾肯德尔的要求。",
+      "caption": "洛根向格雷格交付看顾肯德尔的要求。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0181.jpg"
+    },
+    {
+      "id": "entry",
+      "file": "assets/entry.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 363,
+      "alt": "《继承之战》S01E08：汤姆进入地下派对后的本集画面。",
+      "caption": "汤姆进入地下派对后的本集画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0363.jpg"
+    },
+    {
+      "id": "dog",
+      "file": "assets/dog.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 408,
+      "alt": "《继承之战》S01E08：兄弟在聚会中谈起童年往事的同场画面。",
+      "caption": "兄弟在聚会中谈起童年往事的同场画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0408.jpg"
+    },
+    {
+      "id": "sandy",
+      "file": "assets/sandy.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 499,
+      "alt": "《继承之战》S01E08：桑迪在派对中与罗伊家族成员交谈。",
+      "caption": "桑迪在派对中与罗伊家族成员交谈。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0499.jpg"
+    },
+    {
+      "id": "dinner",
+      "file": "assets/dinner.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 771,
+      "alt": "《继承之战》S01E08：洛根与希芙共进晚餐时的本集镜头。",
+      "caption": "洛根与希芙共进晚餐时的本集镜头。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0771.jpg"
+    },
+    {
+      "id": "tom",
+      "file": "assets/tom.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 590,
+      "alt": "《继承之战》S01E08：汤姆在地下聚会中的反应镜头，非性行为画面。",
+      "caption": "汤姆在地下聚会中的反应镜头，非性行为画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_0590.jpg"
+    },
+    {
+      "id": "deal",
+      "file": "assets/deal.jpg",
+      "width": 1280,
+      "height": 720,
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 1044,
+      "alt": "《继承之战》S01E08：肯德尔与斯图伊、桑迪就收购安排会面的本集尾声画面。",
+      "caption": "肯德尔与斯图伊、桑迪就收购安排会面的本集尾声画面。｜HBO · 本集截图",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=4779&page=11",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Succession/Season%201/Succession%20Episode%2008%20Prague/S_S1_E8_1044.jpg"
+    }
+  ]
+}
