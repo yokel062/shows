@@ -1,0 +1,712 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 7,
+  "title": "Not You, Mr. Dake",
+  "chineseTitle": "谁被留下来，谁被送出去",
+  "subtitle": "电话、物证、证人和上级，必须在同一天转向。",
+  "hero": "patsy",
+  "heroTitle": "他们都脱身了。\n总得有人留下。",
+  "heroDeck": "物证换了住址，电话换了方向。\n当两份故事互相印证，真相反而被排出法庭。",
+  "openingTitle": "让案子不能开庭，需要先改变哪些人？",
+  "openingFact": "查克、阿克斯与温迪开始落实共同退路。原本针对阿克斯的载玻片计划，转向医生 Gilbert；温迪的交易记录仍需被重新解释，Mafee 成为绕不过去的证人。",
+  "openingReading": "本集把“有罪”拆成三件不能互相替代的事：做过错事，某份证据证明了什么，以及谁最终承担刑罚。三人正是借这些距离，把脱身做成一个看似能闭合的故事。",
+  "stamp": {
+    "value": "5Y",
+    "label": "THE SUBSTITUTE",
+    "note": "Gilbert 接受五年认罪方案；他并非突然承认自己策划了全部污染。"
+  },
+  "storyTitle": "一场撤案，四种代价。",
+  "storyDeck": "电话、物证、证人和上级，必须在同一天转向。",
+  "intro": "开场查克向 Gilbert 描述阿克斯家将被搜查的说法，随后显露真实目标是医生自己。阿克斯请回 Hall 改写电话记录，温迪借 Mafee 对自己的好感，让证人改口。东区起诉被撤，Dake 失职；Gilbert 在伪造交易记录与 Donnie 的真实愧疚夹击下认罪。三人赢得自由，却没有同一种庆祝能力。",
+  "catalogueIntro": "三人合作要让案件停在开庭之前。医生家出现载玻片，电话记录改了方向，Mafee 改口，Dake 被留下承担失败。撤案之后，支票与亲吻可以交付，赢下来的自由却未必让人轻松。",
+  "spoiler": "只剧透 S03E07《Not You, Mr. Dake》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E07 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e07",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 7 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S03E07 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-7/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · Not You, Mr. Dake 时间结构细读",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26418",
+      "note": "交叉核对短距离倒叙、Mafee 的心理变化与结尾；未采用作者对未来季集的判断。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/opening-lie.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e714.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "查克与Gilbert站在医生家门前",
+      "caption": "本集宣传剧照：查克向医生叙述所谓阿克斯家搜查；随后反转其实际用途；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "file": "assets/patsy.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e735.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "温迪站在查克与阿克斯之间，三人围桌讨论",
+      "caption": "本集截图：三人讨论要谁承担案件；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1349
+    },
+    {
+      "file": "assets/raid.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e715.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "Gilbert拿着搜查令面对Kate，身后有FBI探员",
+      "caption": "本集宣传剧照：真正被搜查的是Gilbert家；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "file": "assets/hall-return.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e737.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "阿克斯走在新斯科舍海边木栈道上",
+      "caption": "本集截图：阿克斯去找Hall；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1070
+    },
+    {
+      "file": "assets/mafee-ask.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e739.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "阿克斯在Mafee桌边试探他是否愿意承担风险",
+      "caption": "本集截图：阿克斯并不了解Mafee会为何说谎；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1777
+    },
+    {
+      "file": "assets/chocolate.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e74.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "Mafee与泰勒在公司餐桌边谈话",
+      "caption": "本集宣传剧照：热巧克力旁的道德困境；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/authority.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69732346b6f2546e3_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-7/",
+      "alt": "泰勒在温迪办公室追问她给建议的权力依据",
+      "caption": "本集截图：泰勒明确追问的是authority，而非专业能力；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/wendy-mafee.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e748.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "温迪在Mafee家中靠在他肩头",
+      "caption": "本集截图：温迪用亲近与自身危险说服Mafee；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1944,
+      "height": 1850
+    },
+    {
+      "file": "assets/jeffcoat.webp",
+      "originalUrl": "https://simkl.in/episodes/69/697324863817b544a_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-7/",
+      "alt": "司法部长Jeffcoat在办公室会议中说话",
+      "caption": "本集截图：上级要求结束阿克斯案并另寻可起诉者；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/gilbert-plea.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69732645eddd251c8_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-7/",
+      "alt": "Gilbert在审讯桌前摘眼镜擦泪",
+      "caption": "本集截图：医生承认曾为研究资金隐瞒Donnie治疗选择；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/mafee-payment.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e754.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "阿克斯举起一项付款相关物品",
+      "caption": "本集截图：公司偿付与奖励Mafee；不是他的改口证词画面；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1766,
+      "height": 1844
+    },
+    {
+      "file": "assets/exhausted.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e758.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "alt": "查克与温迪在昏暗房间里坐在一起",
+      "caption": "本集截图：夫妻没有精力举行期待中的庆祝；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1590
+    }
+  ],
+  "acts": [
+    {
+      "id": "replacement",
+      "number": "I",
+      "title": "把目标换掉",
+      "deck": "同一片玻璃，藏进不同的故事。",
+      "range": "01—04",
+      "summary": "开场的假搜查说法迷惑医生，三人分工实施真正的替代计划；电话记录却成了技术障碍。"
+    },
+    {
+      "id": "honor",
+      "number": "II",
+      "title": "找到不肯说谎的理由",
+      "deck": "Mafee的善意从障碍变成杠杆。",
+      "range": "05—08",
+      "summary": "阿克斯询问人格，泰勒维护朋友，温迪却把私密了解用于迫使证词转向。"
+    },
+    {
+      "id": "verdict",
+      "number": "III",
+      "title": "案件结束以后",
+      "deck": "刑期、罚款、奖金与疲倦各归其人。",
+      "range": "09—12",
+      "summary": "起诉被撤，Dake被牺牲，Gilbert认罪；可以写在文件里的结果，不等于每个人都能接受的胜利。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "false-briefing",
+      "act": "replacement",
+      "lane": "law",
+      "where": "Gilbert家门前 · 开场",
+      "title": "开场的话，先别当作事实。",
+      "image": "opening-lie",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克对 Gilbert 说，载玻片此时正在被放进阿克斯家冰箱，探员将在父子晚餐时搜出物证。医生接受“救得了谁就救谁”的说法。紧接着叙事回到三人会议，再由医生家的搜查揭示：这段描述是查克用来安抚、诱导医生的假安排。",
+      "analysis": "这段短距离回溯让观众先分享医生的错误信息，随后才看清被调换的对象。不能沿着开场对白写成阿克斯已被搜查或押走；那恰是查克希望医生相信的未来。医生肯为陷害有罪者辩护的态度，之后也被查克反过来用于瓦解他的抵抗。",
+      "turn": "因此 → 观众先听见一套计划，再看见另一套落地。"
+    },
+    {
+      "id": "three-part-plan",
+      "act": "replacement",
+      "lane": "cross",
+      "where": "阿克斯住处 · 补叙此前会谈",
+      "title": "三人先决定，不能有一场公开审判。",
+      "image": "patsy",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "叙事补回三人继续商议的过程：先清除温迪做空的风险，再让另一个人承担案子。阿克斯负责电话与资金轨迹，查克负责迫使目标接受认罪、避免上庭。两人一度想对温迪隐瞒更脏的部分，她却直接问谁来当替罪者。",
+      "analysis": "所谓保护温迪在此已成为共同采取行动的理由，不代表温迪只是被保护的客体。她听懂并加入核心选择。另一个关键是他们需要的不是经得起完整审判的真相，而是足够压迫一个人、让审判永远不会发生的组合；后面的每条支线都围绕这一限制工作。",
+      "turn": "因此 → 分工成立，检验转到具体的人与记录。"
+    },
+    {
+      "id": "doctor-raided",
+      "act": "replacement",
+      "lane": "law",
+      "where": "Gilbert家 / SDNY审讯室",
+      "title": "番茄酱瓶，揭开真正的位置。",
+      "image": "raid",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Kate 带 FBI 持搜查令进入 Gilbert 家。医生看到探员接近番茄酱瓶，才意识到载玻片被放在自己冰箱。查克随后提出由他承认策划污染、免于公开审判；医生坚持要律师并要在法庭说清经过，否认有过任何交易获利。",
+      "analysis": "搜查令与实际搜得的东西，不能抹掉物证来源已被操纵这一事实。医生此前参与污染、隐瞒治疗，不意味着他因此策划了全部交易。查克把身体处境、家庭目光和法律程序挤到同一时刻，目的正是让对方在还没有看见完整布局前先接受出口。",
+      "turn": "因此 → 物证已到位，但医生仍不肯认罪。"
+    },
+    {
+      "id": "hack-person",
+      "act": "replacement",
+      "lane": "capital",
+      "where": "法院 / 新斯科舍 / 通信公司员工住处",
+      "title": "攻不进系统，就找到能动系统的人。",
+      "image": "hall-return",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "法庭上 Bryan 仍试图推进共谋论，阿克斯的安全团队却说来不及攻入 OneSky Wireless 修改记录。阿克斯亲赴新斯科舍请 Hall 回来。Hall 找到曾出售名人及政客账户访问权限的员工，以联邦罪行威胁换取记录修改。",
+      "analysis": "这是把技术问题转成个人脆弱点的行动，不是电话公司自愿纠正错误。Hall 不靠证明原始记录不实，而是利用员工确实做过的另一项坏事，迫使他生成新事实外观。与医生一线相同，“此人并非清白”被拿来给另一件具体操纵提供便利。",
+      "turn": "因此 → 新记录能够配合证词，但证人还没有改口。"
+    },
+    {
+      "id": "mafee-map",
+      "act": "honor",
+      "lane": "capital",
+      "where": "Axe Capital · 交易区",
+      "title": "不知道他爱什么，就叫不动他。",
+      "image": "mafee-ask",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯借健康饮食与承诺试探 Mafee，发现对方分不清他要的是正常工作还是额外越界。他转问泰勒，得到的答案是：Mafee看重荣誉，不会单为公司就做违背是非的事，却可能为了朋友或所爱之人说谎。",
+      "analysis": "阿克斯在本集学习的不是一个交易技巧，而是一个人的自我理解。泰勒给出的是有条件的人格判断，不能当作已经同意具体计划。信息此后被用于寻找可施力的位置，也说明私人了解一旦进入权力会议，就可能从照顾他人的资源转成控制他人的资源。",
+      "turn": "因此 → 金钱与解雇威胁，都不一定是合适杠杆。"
+    },
+    {
+      "id": "chocolate-honor",
+      "act": "honor",
+      "lane": "capital",
+      "where": "Axe Capital · 热巧克力旁",
+      "title": "牺牲要先问理由与条件。",
+      "image": "chocolate",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Mafee 向泰勒讲起回家帮助旧友、为自己的职业名声自豪，又说 FBI 已问他温迪下单一事。他不知道是否该为公司扑向手榴弹。泰勒不问案情细节，告诉他能力由自己挣来，即使离开公司也仍在；牺牲不应来自胁迫或错误理由。",
+      "analysis": "泰勒先替 Mafee 恢复另一种未来：留在这里不是获得价值的唯一方式。这个回答没有命令他反抗，也没有保证代价消失，而是把选择的条件还给本人。它与稍后温迪让他感觉自己独一无二的办法相似地触碰自尊，却朝着相反方向使用。",
+      "turn": "因此 → 泰勒开始关心温迪会怎样对待这个朋友。"
+    },
+    {
+      "id": "authority-question",
+      "act": "honor",
+      "lane": "wendy",
+      "where": "会议室 / 温迪办公室",
+      "title": "“不伤害”，由谁来界定？",
+      "image": "authority",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "团队认为直接买通或威胁会使 Mafee 更抗拒。温迪决定利用他对自己的好感。随后泰勒问她凭什么进入别人心理、给出建议，强调问题是授权而非技巧，并明确期待她以 Mafee 的职业与个人利益为先。温迪援引医生誓言回应。",
+      "analysis": "泰勒并不掌握完整操纵方案，也没有因此自动识破所有资金和物证动作；可以确认的是，泰勒注意到朋友受压并向温迪提出边界。誓言在这场对话里不能自行证明行为正确，因为提出保护原则的人，恰也正是需要证人改变说法的获益者。",
+      "turn": "因此 → 温迪知道这份期待，仍选择亲自登门。"
+    },
+    {
+      "id": "wendy-visit",
+      "act": "honor",
+      "lane": "wendy",
+      "where": "Mafee家 · 沙发",
+      "title": "她没有直接说“替我说谎”。",
+      "image": "wendy-mafee",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪说自己依据 Mafee 的判断才跟进做空，描述检方将她描绘成共谋者的危险。她靠在他身边，称只有他会关心自己将遭受什么，并用他的名字 Dudley 加深亲近。她承认他能说的真相是自己打来电话，却让他看见“真正糟糕”的个人后果。",
+      "analysis": "这场没有一句直白的伪证指令，压力却并不因此消失。温迪利用咨询关系带来的了解，把职业危险转成一个善良者是否肯救她的私人考验。Mafee 的同情是真的，给予同情的情境却被精心组织；没有明确命令，不能等于没有操纵。",
+      "turn": "因此 → 改口由他完成，诱因由她塑造。"
+    },
+    {
+      "id": "case-collapses",
+      "act": "verdict",
+      "lane": "law",
+      "where": "法院 / 司法部长会议",
+      "title": "同一天，电话改了方向，案子也改了方向。",
+      "image": "jeffcoat",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "法官认为 Bryan 的资料足以开庭。随后消息称 Mafee 改说是自己因喜欢温迪而主动联系她，新电话记录也支持此说。Jeffcoat 要求停止针对阿克斯的起诉，改由 SEC 处理民事罚款，并授权查克追究医生；Bryan 回南区，Dake 被留下，之后被免职。",
+      "analysis": "证词与记录看似相互印证，观众却知道它们被同一阵营分别处理过。撤案是证据外观改变与上级选择共同作用的结果，不是法庭认定污染从未发生。Dake 的损失也不是独自失败：他曾替查克承担这案子的机构位置，如今又成为最容易被替换的一环。",
+      "turn": "因此 → 阿克斯脱离刑事起诉，医生变成可交付的成果。"
+    },
+    {
+      "id": "manufactured-profit",
+      "act": "verdict",
+      "lane": "law",
+      "where": "SDNY · 医生讯问",
+      "title": "真实的愧疚，装进伪造的账户。",
+      "image": "gilbert-plea",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克出示 Gilbert 获利一千一百万美元的交易材料；插叙揭出阿克斯团队经 Victor 建立账户、倒填交易时间。医生让律师暂时离开。查克再提 Donnie 被隐瞒治疗的真事，医生承认让他死去以换研究资金，接受五年、保留账户真钱的认罪方案。",
+      "analysis": "这里最危险的替换，是把承认一件真实伤害变成接受另一套被制造的案情。医生的愧疚能够解释为何屈服，不能令倒填记录变成真实交易，也不能证明他策划了全部 Ice Juice 事件。真钱使文件外观更难拆，免去审判才保证整个安排不被公开检验。",
+      "turn": "因此 → 有罪感被转成快速认罪，物证来路不再进入庭审。"
+    },
+    {
+      "id": "costs-paid",
+      "act": "verdict",
+      "lane": "capital",
+      "where": "Axe Capital · 付款与致谢",
+      "title": "罚款可以代付，感受不能代领。",
+      "image": "mafee-payment",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Axe Capital 接受三亿九千万美元、不承认也不否认的 SEC 和解。Mafee 被罚十八万一千美元，公司另以费用名义给他同额款项，阿克斯再奖一百万加密货币。温迪称他为英雄并给一个声明为柏拉图式的吻，他的拘谨没有随奖励消失。",
+      "analysis": "正式罚款与私人奖励指向同一行为的两套评价：监管说是违规，公司说是挺身而出。款项能补掉账户损失，无法替 Mafee 定义自己是否仍是好人。对照他此前拿铲子赚零花钱的自尊，奖金越大，越难把整件事归进单纯的工作报酬。",
+      "turn": "因此 → 财务清算完成，人的自我解释仍未完成。"
+    },
+    {
+      "id": "after-winning",
+      "act": "verdict",
+      "lane": "cross",
+      "where": "父亲家 / 罗兹家 / 阿克斯派对",
+      "title": "胜利有了，庆祝没有同样到来。",
+      "image": "exhausted",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Dake 责问查克自己只是炮灰。查克向父亲送高尔夫纪念杆，确认伪证风险与自己危机解除，却说胜利让人变老。回家后夫妻都没有精力完成原定的亲密庆祝；另一边 Wags 为阿克斯安排热闹派对，镜头仍留下他停顿而沉默的脸。",
+      "analysis": "结尾没有替任何人宣布悔改。它只把成功的文件结果与身体反应并置：疲倦、拘谨、静止没有遵从胜利叙事。夫妻握手与派对中的停顿可以读成消耗，却不能被当作已经决定改变的证据；本集清楚完成的是脱身，不是道德上的修复。",
+      "turn": "因此 → 可以继续生活，如何继续尚未回答。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区检察官 / 合作者",
+      "fact": "诱导医生，推动替代认罪，保住自己与妻子。",
+      "analysis": "他用真实的旧伤害压过物证操纵的事实，把责任问题改写成谁该受罚。"
+    },
+    "axe": {
+      "role": "基金创办人",
+      "fact": "请回Hall、制造交易轨迹，随后支付和解与奖励。",
+      "analysis": "擅长把记录、资金与人接成可交付结果，代价不全能用钱结清。"
+    },
+    "wendy": {
+      "role": "教练 / 脱险受益人",
+      "fact": "同意替代目标方案，利用Mafee好感促其改口。",
+      "analysis": "本集她直接参与塑造后果，不能只写成被两名男人保护。"
+    },
+    "taylor": {
+      "role": "CIO / Mafee的朋友",
+      "fact": "维护Mafee的独立价值，并追问温迪提供建议的授权。",
+      "analysis": "泰勒知道朋友承压，但没有被展示掌握全部栽赃技术和交易。"
+    },
+    "mafee": {
+      "role": "执行温迪交易的交易员",
+      "fact": "改变来电说法，接受民事罚款与公司偿付奖励。",
+      "analysis": "他想保护别人，也在失去原本确信的职业清白。"
+    },
+    "gilbert": {
+      "role": "医生 / 被替代目标",
+      "fact": "家中搜出被放置的物证，最终接受五年认罪方案。",
+      "analysis": "参与旧日伤害不等于此次全案主谋；他的真实愧疚被用于使假链条闭合。"
+    },
+    "bryan": {
+      "role": "东区出庭检察官",
+      "fact": "原本说服法官，随后被新记录与上级要求迫使撤案。",
+      "analysis": "他知道叙事不对，却尚不能把知道变成可使用的证据。"
+    },
+    "dake": {
+      "role": "东区联邦检察官",
+      "fact": "案件崩解后被司法部长留下问责并遭免职。",
+      "analysis": "自认能利用查克的安排建立功业，最后发现自己也是可替换的部件。"
+    }
+  },
+  "phases": [
+    {
+      "id": "compact",
+      "name": "第一阶段 · 分工",
+      "note": "私下联盟开始处理公开证据。",
+      "edges": [
+        "共同脱险",
+        "共同脱险",
+        "共同脱险",
+        "借问人格",
+        "尚有信任"
+      ],
+      "details": {
+        "chuck": "安抚医生并转移搜查目标",
+        "axe": "承担记录与财务安排",
+        "wendy": "直接追问谁当替代目标",
+        "taylor": "尚未掌握会议的全貌",
+        "mafee": "不肯背离原始来电事实",
+        "gilbert": "以为阿克斯即将被搜查",
+        "bryan": "准备以新线索说服法官",
+        "dake": "期待起诉进入审判"
+      }
+    },
+    {
+      "id": "leverage",
+      "name": "第二阶段 · 改变人",
+      "note": "最柔软的关系也进入方案。",
+      "edges": [
+        "互补操纵",
+        "她主动参与",
+        "她主动参与",
+        "信息被利用",
+        "提出边界"
+      ],
+      "details": {
+        "chuck": "用物证与愧疚压医生",
+        "axe": "请Hall解决电话障碍",
+        "wendy": "选用Mafee的好感与关心",
+        "taylor": "要求建议先为Mafee利益",
+        "mafee": "在名誉与救人之间动摇",
+        "gilbert": "坚持律师与公开审判",
+        "bryan": "几乎获得开庭日期",
+        "dake": "缺少真实幕后信息"
+      }
+    },
+    {
+      "id": "release",
+      "name": "第三阶段 · 分配代价",
+      "note": "刑事、民事与私人损耗分到不同人。",
+      "edges": [
+        "暂时获胜",
+        "疲惫相伴",
+        "脱险有代价",
+        "仍未获全情",
+        "信任裂口"
+      ],
+      "details": {
+        "chuck": "完成认罪成果但难庆祝",
+        "axe": "恢复自由并支付费用",
+        "wendy": "给英雄之吻却无力庆祝",
+        "taylor": "对干预他人的权限保持追问",
+        "mafee": "收下补偿仍不轻松",
+        "gilbert": "五年刑期换快速结案",
+        "bryan": "撤案并返回南区",
+        "dake": "被免职并指出自己是炮灰"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "slide-replacement",
+      "title": "医生怎样从合作人变成被告？",
+      "intro": "按本集实际揭示顺序区分假口述与真实落点。",
+      "nodes": [
+        {
+          "name": "查克的说法",
+          "role": "告诉医生会搜阿克斯",
+          "portrait": "chuck",
+          "scene": "false-briefing"
+        },
+        {
+          "name": "医生家冰箱",
+          "role": "真正搜出载玻片",
+          "portrait": null,
+          "scene": "doctor-raided"
+        },
+        {
+          "name": "伪造账户",
+          "role": "倒填交易并配入真钱",
+          "portrait": null,
+          "scene": "manufactured-profit"
+        },
+        {
+          "name": "五年认罪",
+          "role": "以旧罪愧疚压掉审判",
+          "portrait": "gilbert",
+          "scene": "manufactured-profit"
+        }
+      ],
+      "result": "同一医生做过错事，不等于这条被制造的物证和交易链因此真实。"
+    },
+    {
+      "id": "call-reversal",
+      "title": "一通电话，怎样被改成相反的方向？",
+      "intro": "原始来电与最终记录被明确分开。",
+      "nodes": [
+        {
+          "name": "温迪来电",
+          "role": "原始下单事实",
+          "portrait": "wendy",
+          "scene": "three-part-plan"
+        },
+        {
+          "name": "Hall",
+          "role": "逼通信员工改记录",
+          "portrait": null,
+          "scene": "hack-person"
+        },
+        {
+          "name": "Mafee",
+          "role": "改称自己主动联系",
+          "portrait": "mafee",
+          "scene": "case-collapses"
+        },
+        {
+          "name": "法庭与上级",
+          "role": "记录配证词，撤回起诉",
+          "portrait": null,
+          "scene": "case-collapses"
+        }
+      ],
+      "result": "这不是证人纠正误会，而是伪证与被篡改记录相互支撑的外观。"
+    },
+    {
+      "id": "care-path",
+      "title": "了解一个人，可以怎样使用？",
+      "intro": "同样触碰自尊，两种劝说方向不同。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "向泰勒询问Mafee动机",
+          "portrait": "axe",
+          "scene": "mafee-map"
+        },
+        {
+          "name": "泰勒",
+          "role": "强调能力与自愿",
+          "portrait": "taylor",
+          "scene": "chocolate-honor"
+        },
+        {
+          "name": "温迪",
+          "role": "把自己危险变成私人请求",
+          "portrait": "wendy",
+          "scene": "wendy-visit"
+        },
+        {
+          "name": "Mafee",
+          "role": "替她改变证词",
+          "portrait": "mafee",
+          "scene": "case-collapses"
+        }
+      ],
+      "result": "关心的真实并不能消除被操纵的条件；泰勒给出的信息也不等于同意这套用途。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Not the ketchup.",
+      "zh": "别碰番茄酱。",
+      "speaker": "Gilbert → 搜查探员",
+      "context": "他意识到开场听说的冰箱安排实际落在自己家。",
+      "image": "raid",
+      "analysis": "一句条件反射让那个被隐瞒的物证位置瞬间具象，也让假口述的真正用途显露。"
+    },
+    {
+      "en": "I'm asking about your authority.",
+      "zh": "我问的是你的授权。",
+      "speaker": "泰勒 → 温迪",
+      "context": "泰勒强调问题不在专业训练，而在凭什么改变别人的心理。",
+      "image": "authority",
+      "analysis": "能力说明能做到什么，授权则追问为何可以对某个人这样做。"
+    },
+    {
+      "en": "Not you, Mr. Dake.",
+      "zh": "戴克先生，你留下。",
+      "speaker": "Jeffcoat → Dake",
+      "context": "众人获准离开会议后，Dake单独被留下。",
+      "image": "jeffcoat",
+      "analysis": "命令的差别只是一句，却让分配失败后果的权力变得清楚。"
+    },
+    {
+      "en": "No trial. Just a plea.",
+      "zh": "不开庭。只认罪。",
+      "speaker": "查克 → Gilbert",
+      "context": "他提出五年与保留真钱的方案。",
+      "image": "gilbert-plea",
+      "analysis": "避免审判是整个安排的条件，既替目标提供出口，也保护了证据来路不受公开检验。"
+    }
+  ],
+  "comparison": {
+    "title": "两种“我知道你是怎样的人”。",
+    "deck": "热巧克力旁的支持，与沙发上的亲近，都触碰Mafee的自我价值。",
+    "left": {
+      "image": "chocolate",
+      "caption": "本集泰勒与Mafee会谈宣传剧照。",
+      "speaker": "泰勒 → Mafee",
+      "title": "你不依附这家公司才有价值。",
+      "text": "泰勒承认牺牲可能美好，但强调不能来自胁迫或错误理由；即使公司消失，他仍能凭能力留下。"
+    },
+    "right": {
+      "image": "wendy-mafee",
+      "caption": "本集温迪登门截图。",
+      "speaker": "温迪 → Mafee",
+      "title": "只有你会真正关心我。",
+      "text": "温迪把危险说得具体，把他的关心说得独特，并让身体亲近放大救人的个人责任。"
+    },
+    "rows": [
+      {
+        "label": "让他看见的未来",
+        "left": "离开公司也能继续事业",
+        "right": "不行动就让她遭受严重后果"
+      },
+      {
+        "label": "善意的用途",
+        "left": "恢复自己判断的空间",
+        "right": "推动替她改变证词"
+      },
+      {
+        "label": "关系中的权力",
+        "left": "同事为朋友提供支撑",
+        "right": "教练利用私密了解与好感"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "“为你好”需要由受劝的人保有不同意的空间。",
+      "text": "两边都没有粗暴命令，区别仍可从行动条件判断。泰勒把脱离组织的选项还给Mafee，温迪把他放进一种不救她就辜负特殊关系的处境。善意不只取决于说话者声称什么，也取决于对方还能自由选择什么。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "番茄酱",
+      "fact": "物证被放在医生冰箱，开场说法却指向阿克斯。",
+      "analysis": "家常物件把空间调换变得具体；所在之处并不自动证明原本属于谁。",
+      "steps": [
+        "口述位置",
+        "实际搜出",
+        "来源被遮住"
+      ]
+    },
+    {
+      "title": "电话方向",
+      "fact": "原始温迪来电被改成Mafee主动联系她。",
+      "analysis": "不是删掉全部事实，而是改变先后与主动者，便足以重写一套法律故事。",
+      "steps": [
+        "原始下单",
+        "记录被改",
+        "证词呼应"
+      ]
+    },
+    {
+      "title": "支票与冷存储",
+      "fact": "罚款、同额费用和加密货币奖励分别交付。",
+      "analysis": "可量化的代价有明确付款人，不可量化的名誉代价仍留给当事人。",
+      "steps": [
+        "公司和解",
+        "个人罚款",
+        "额外奖励"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "honor",
+    "leftImage": "chocolate",
+    "leftCaption": "泰勒为Mafee保留独立选择的空间。",
+    "rightImage": "wendy-mafee",
+    "rightCaption": "温迪把自己的安危变成他必须回答的问题。",
+    "kicker": "THE USE OF INTIMACY",
+    "title": "熟悉一个人，并不只通向一种行动。",
+    "text": "两场都以温和语气回应Mafee的价值感，产生的选择空间却相反。并置的重点不是谁更会说话，而是谁允许他带着自己的判断离开这段关系。",
+    "scene": "wendy-visit"
+  },
+  "closing": {
+    "image": "exhausted",
+    "kicker": "THE COST OF WINNING",
+    "value": "∅",
+    "title": "案子结束了。\n他们没有轻下来。",
+    "text": "三人获得能继续生活的结果，医生得到五年，Dake失去职位，Mafee收下补偿。本集不替任何人宣布悔悟，只让无法庆祝的疲倦停留在胜利之后。"
+  }
+}

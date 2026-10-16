@@ -18,6 +18,7 @@
 - 《兄弟连》第 2—10 集的编辑源为各目录的 `content.json`；修改后运行 `python tools/build_episodes.py --complete` 生成静态 HTML 与整季目录数据。共享组件在 `series/band-of-brothers/shared/`。
 - 第 1 集保留原独立页面；更改共享视觉时不要覆盖它的原内容。
 - 《亿万》第一季十二集的编辑源为各目录的 `content.json`；修改后运行 `python tools/build_billions.py --complete`。默认生成第 2—12 集与整季目录，保留已确认的首集页面；修改首集后用 `--pilot --complete` 显式重建。第 2—12 集模板为 `series/billions/shared/season-episode.html`，首集模板为 `episode.html`。
+- 《亿万》第三季使用 `s03eXX/content.json`，运行 `python tools/build_billions.py --season 3 --complete`；模板为 `shared/season-three-episode.html`。第一季和第三季目录位于 `season-1/`、`season-3/`，作品入口按季度展示。第三季关系图包含查克、阿克斯、温迪、泰勒四个核心人物，阶段说明中的五条关系依次为查克—阿克斯、查克—温迪、阿克斯—温迪、阿克斯—泰勒、温迪—泰勒。
 - 场景的“这一场为什么重要 · 个人解读”默认展开。人物关系图使用 `shared/portraits.json` 注册的统一剧中角色照，同一人跨集复用，新增人物时补齐演员和图像出处。
 - 整季目录默认显示全部集数的配图与导读，不按观看进度隐藏；单集入口在新标签页打开。
 

@@ -1,0 +1,138 @@
+{
+  "season": 3,
+  "complete": true,
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Tie Goes to the Runner",
+      "subtitle": "让资本离开他的手",
+      "intro": "阿克斯被起诉后资金冻结，泰勒接掌的公司急需重新运转；温迪推动他接受停手的代价。查克同时面对新部长的执法尺度与家庭交易痕迹，一场晚餐最终换了发言人。",
+      "hero": "s03e01/assets/taylor-dinner.png",
+      "alt": "泰勒站在晚餐会酒架前发言",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 2,
+      "title": "The Wrong Maria Gonzalez",
+      "subtitle": "被遣返的人，留下的资本",
+      "intro": "阿克斯想用二十亿美元保留市场中的控制，泰勒却必须在海啸冲击下独立承担亏损。查克安排法官更替，布莱恩寻找失约证人；同名身份的错位最终让最脆弱的人付出代价。",
+      "hero": "s03e02/assets/maria.png",
+      "alt": "布莱恩与 Terri 在街边询问 Maria",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 3,
+      "title": "A Generation Too Late",
+      "subtitle": "救援的价格",
+      "intro": "阿克斯为离婚与败诉准备隐形财富，把 Panay 的困境变成控制入口。泰勒的量化招聘揭开 Wags 的旧伤；查克无法阻止 Lugo 案，却在服从命令的同时为秘密调查另留房间。",
+      "hero": "s03e03/assets/divorce.jpg",
+      "alt": "劳拉与阿克斯在律师会议桌前",
+      "imageSource": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 4,
+      "title": "Hell of a Ride",
+      "subtitle": "胜利留下的损失",
+      "intro": "父亲可能作证，查克先用感谢、再用土地利益应对。阿克斯借慈善董事会的反感谋取太阳能收益；太空发射的悲剧让泰勒与温迪共同面对一个难题：赚钱的判断与人的失去能否同时被承认。",
+      "hero": "s03e04/assets/launch.jpg",
+      "alt": "交易区员工围坐在发射转播前",
+      "imageSource": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 5,
+      "title": "Flaw in the Death Star",
+      "subtitle": "小缺口，留住大把柄",
+      "intro": "一片未确认销毁的载玻片让阿克斯取消出行。泰勒在硅谷识破糟糕推介，也遇见能共享语言的人；纽约这边，合规争执与补做的文件提醒所有人，再大的体系也会留下小缺口。",
+      "hero": "s03e05/assets/gilbert-park.webp",
+      "alt": "Gilbert 戴眼镜站在观鸟的公园里",
+      "imageSource": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 6,
+      "title": "The Third Ortolan",
+      "subtitle": "第三只鸟与第三条路",
+      "intro": "法官只给检方一周，Spyros 却在此时递出温迪做空的交易与位置记录。阿克斯考虑认罪，查克准备自首；温迪拒绝在两种牺牲中选择，安排一场必须交出武器的会面。",
+      "hero": "s03e06/assets/ortolan.png",
+      "alt": "三位用餐者在吧台前以餐巾盖头",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 7,
+      "title": "Not You, Mr. Dake",
+      "subtitle": "谁被留下来，谁被送出去",
+      "intro": "三人合作要让案件停在开庭之前。医生家出现载玻片，电话记录改了方向，Mafee 改口，Dake 被留下承担失败。撤案之后，支票与亲吻可以交付，赢下来的自由却未必让人轻松。",
+      "hero": "s03e07/assets/patsy.png",
+      "alt": "温迪站在查克与阿克斯之间，三人围桌讨论",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=26395",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 8,
+      "title": "All the Wilburys",
+      "subtitle": "谁有资格，留在圈子里",
+      "intro": "阿克斯重返交易，清仓与扩募同步启动；泰勒要求自己的资金，Spyros努力证明自己值得留下。查克反制政治恩主，却在公开宣布时另选方向。自由恢复以后，控制权成为新的战场。",
+      "hero": "s03e08/assets/return.jpg",
+      "alt": "阿克斯张开双臂回到交易区，员工迎接",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 9,
+      "title": "Icebreaker",
+      "subtitle": "第一笔钱，最后一条绳",
+      "intro": "阿克斯需要带动二百亿美元募资的第一笔钱，泰勒却质疑危险金主能否成为根基。卢戈在押送中死亡，查克发现留在职位上并不等于拥有行动权；两条线把依附关系的价格推到台前。",
+      "hero": "s03e09/assets/hockey.jpg",
+      "alt": "阿克斯与穿冰球装备的安德洛夫在场边交谈",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=26752",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 10,
+      "title": "Redemption",
+      "subtitle": "赎回资金，赎不回信任",
+      "intro": "十五亿美元赎回把阿克斯推向不情愿的交易。他在家庭聚会上听见旧友劝告，却用泰勒的私交换来替代方案；查克秘密追查部长，温迪则同时应付家宴与员工的信心危机。",
+      "hero": "s03e10/assets/elevator.png",
+      "alt": "赤膊的班·金站在电梯里，旁边是阿克斯与投资者",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "scenes": 12,
+      "quotes": 3
+    },
+    {
+      "episode": 11,
+      "title": "Kompenso",
+      "subtitle": "给了奖金，留住了什么",
+      "intro": "薪酬日把阿克斯与泰勒推上同一张谈判桌。温迪请劳拉帮忙留人，查克则为修补与艾拉的关系动用权力；奖金谈妥之后，新公司的招牌与另一场调查仍在悄悄推进。",
+      "hero": "s03e11/assets/comp-first.jpg",
+      "alt": "阿克斯坐在办公桌后与泰勒谈薪酬",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "scenes": 12,
+      "quotes": 4
+    },
+    {
+      "episode": 12,
+      "title": "Elmsley Count",
+      "subtitle": "你看见的牌，不是全部",
+      "intro": "阿克斯在募资会上盛赞泰勒，六十亿美元承诺却在次日分流。查克以为抓住部长的干预证据，办公室里等着他的却是另一套安排；旧导师失去控制，新的联盟在餐桌边形成。",
+      "hero": "s03e12/assets/pitch.jpg",
+      "alt": "阿克斯在球场包厢向投资者介绍泰勒，泰勒站在一旁",
+      "imageSource": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "scenes": 12,
+      "quotes": 4
+    }
+  ]
+}

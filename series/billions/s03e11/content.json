@@ -1,0 +1,718 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 11,
+  "title": "Kompenso",
+  "chineseTitle": "给了奖金，留住了什么",
+  "subtitle": "一场薪酬谈判争的是未来的位置；一次朋友和解改变了另一场权力斗争的打法。",
+  "hero": "comp-first",
+  "heroTitle": "他给钱。\n谁来决定价值？",
+  "heroDeck": "奖金数字向上调整，\n离开的准备仍在向前。",
+  "openingTitle": "员工要求的只是更多钱吗？",
+  "openingFact": "薪酬日到来，泰勒曾承诺的奖金底线要由阿克斯兑现。与此同时，查克对杰夫科特的调查缺乏可靠佐证，旧友艾拉又陷入一场私人危机。",
+  "openingReading": "本集把补偿与修复分开。钱能够调整，承认彼此价值却需要真正共享位置；替朋友解决问题可以恢复关系，也可能再次用权力替别人安排人生。",
+  "stamp": {
+    "value": "$25M",
+    "label": "COMPENSATION",
+    "note": "泰勒从五千万美元要求退到两千五百万；重返募资团队才是另一项关键变化。"
+  },
+  "storyTitle": "给了奖金，留住了什么",
+  "storyDeck": "一场薪酬谈判争的是未来的位置；一次朋友和解改变了另一场权力斗争的打法。",
+  "intro": "阿克斯每年都向少发自己奖金的旧老板示威，轮到自己分配薪酬时却拒绝承认泰勒的价值与参与权。温迪说服劳拉以投资者身份介入，最后推动加薪和重返募资团队。查克帮助艾拉挽回资金与婚姻，得到主动迎接最坏情况的启发，改为布置妨碍司法陷阱。康纳蒂借部长的内部审查接近秘密调查；结尾泰勒的新公司招牌首次明示分家准备。",
+  "catalogueIntro": "薪酬日把阿克斯与泰勒推上同一张谈判桌。温迪请劳拉帮忙留人，查克则为修补与艾拉的关系动用权力；奖金谈妥之后，新公司的招牌与另一场调查仍在悄悄推进。",
+  "spoiler": "只剧透第三季第 11 集《Kompenso》及此前已播内容，含本集结尾；不使用后集解释人物。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E11 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e11",
+      "note": "非官方对白转录，用于核对本集先后、措辞及职权；开头前情回顾与本集新增行动分别处理。不将片尾下集预告计入本集。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun with Damian Lewis · 第二篇回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=27342",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "Paramount Press Express · S03E11 官方剧照集",
+      "url": "https://www.paramountpressexpress.com/showtime/shows/billions/photos?episode=8832",
+      "note": "官方按 311-Kompenso 标注集数及演员，用于核对本集人物与宣传剧照属性；图片原图另以实际采用的公开转载源登记。"
+    },
+    {
+      "id": "simkl",
+      "title": "SIMKL · S03E11 图像预览",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-11/",
+      "note": "采用本集预览对应的原尺寸截图；不采信自动生成剧情。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/opening.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1127.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "查克在餐厅与凯特和阿勒德谈论调查",
+      "caption": "本集截图：查克得知得克萨斯调查缺乏可靠佐证；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1286
+    },
+    {
+      "file": "assets/mcgann.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1129.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "阿克斯在餐厅当面奚落旧老板麦甘",
+      "caption": "本集截图：薪酬日前的年度示威；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1278
+    },
+    {
+      "file": "assets/comp-first.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e119.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "阿克斯坐在办公桌后与泰勒谈薪酬",
+      "caption": "本集宣传剧照：第一次薪酬谈判，两人隔桌而坐；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/fbi.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69730105619ad5e4b_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-11/",
+      "alt": "康纳蒂坐在纽约联邦调查局负责人的办公室里",
+      "caption": "本集截图：杰夫科特提出内部信息审查，康纳蒂自荐负责；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/decker.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1121.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "查克在德克的健身场馆外与他交谈",
+      "caption": "本集宣传剧照：查克请求德克查钱；用于随后向艾拉说明结果的同集配图；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "assets/carousel.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1116.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "泰勒与温迪在海玻璃旋转木马旁谈话",
+      "caption": "本集宣传剧照：泰勒说明自己需要继续前进的位置；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "assets/meditation.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1133.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "温迪站在冥想室内向坐着的阿克斯提出建议",
+      "caption": "本集截图：温迪要求把泰勒当作真正伙伴；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1465
+    },
+    {
+      "file": "assets/comp-second.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1135.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "阿克斯搬到桌子同侧，面对坐着的泰勒谈话",
+      "caption": "本集截图：奖金提高至两千五百万，泰勒重返募资团队；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1285
+    },
+    {
+      "file": "assets/taiga.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1119.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "查克与父亲坐在公寓里谈论泰加的去留",
+      "caption": "本集宣传剧照：父子介入艾拉婚姻的同一会面段落；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "assets/dake.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1118.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "康纳蒂与留胡须的戴克在校园建筑内交谈",
+      "caption": "本集宣传剧照：康纳蒂探望已任教的戴克；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "assets/state-plan.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973058992e84c7a9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-11/",
+      "alt": "查克在办公室里向拉达埃利施压",
+      "caption": "本集同集配图：查克使用职权处理艾拉危机；非末段与州总检察长会面的现场；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/founder.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1142.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27188",
+      "alt": "安德洛夫的代表站在 Taylor Mason Capital 招牌前",
+      "caption": "本集截图：新公司招牌出现；画面主体是安德洛夫代表，非泰勒；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1289
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "act": "a1",
+      "lane": "law",
+      "where": "牛排馆 · 晚餐",
+      "title": "证据不够，朋友也已疏远",
+      "image": "opening",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿勒德从得克萨斯回来，报告知情者不肯留下记录，愿意说话的人又没有实质信息，查克要求继续找公司内部证人。同晚他遇见已与泰加结婚的艾拉，发现自己没有被邀作伴郎，也听出朋友正为妻子的瑜伽事业持续出钱、努力维持收入。",
+      "analysis": "同一晚餐先呈现调查资源的不足，再呈现私人关系的亏空。卡特勒愿意作证并不意味着案件已经稳固；艾拉愿意说笑也不意味着旧伤消失。查克接下来既要找到可信证据，也要证明自己仍能做朋友，两个目标都会诱使他继续调用自己的职权。",
+      "turn": "因此 → 查克决定调查艾拉的私人钱款去向。"
+    },
+    {
+      "id": "s02",
+      "act": "a1",
+      "lane": "capital",
+      "where": "Regency · 早餐",
+      "title": "记得受辱，却没认出自己在重演",
+      "image": "mcgann",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "薪酬日，阿克斯照例去见旧老板麦甘，奚落对方当年少给自己五万美元，因而失去一个能替他赚大钱的员工。麦甘提醒他已从挑战者变成被挑战的有钱老板；阿克斯回公司后，仍把今年奖金看作从自己口袋里流走的钱。",
+      "analysis": "阿克斯把当年的低估保存成胜利仪式，却只记住自己离开后的成就，没有吸收留人的教训。麦甘所说的位置变化构成本集警告：曾经证明你有胆量的打法，成为老板后也许会制造同样的不满。每年回去羞辱旧人，反而让旧人的评价继续规定自己的行为。",
+      "turn": "因此 → 奖金分配将再次检验他能否承认别人的贡献。"
+    },
+    {
+      "id": "s03",
+      "act": "a1",
+      "lane": "capital",
+      "where": "Axe Capital · 办公桌",
+      "title": "数字争执背后，是谁掌舵",
+      "image": "comp-first",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯先报一千五百万美元，泰勒要求五千万，理由是自己维持公司并承担了弥补赎回的私人代价。阿克斯最终报两千万，却把泰勒排除在募资团队外，并称公司属于自己，双方无需同意；泰勒明确表示不接受这套价值判断。",
+      "analysis": "泰勒以净利润和维持组织的工作计价，阿克斯则把客户资金属于自己当成压低贡献的理由。撤掉募资席位比少给奖金更关键：他要泰勒证明公司永远有人值守，却独占与客户见面、定义未来的机会。下属被要求承担领导责任，同时被阻止积累领导身份。",
+      "turn": "因此 → 泰勒转向温迪求助，薪酬问题成为地位问题。"
+    },
+    {
+      "id": "s04",
+      "act": "a1",
+      "lane": "law",
+      "where": "联邦调查局 · 纽约办公室",
+      "title": "替部长审查，也替自己开门",
+      "image": "fbi",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "杰夫科特要求联邦调查局搜索内部邮件、短信与网络痕迹，找出他认为不忠诚的人。林奇担心是否合法，提议先取得法院命令；康纳蒂主动表示可以由自己负责。随后他建立可秘密运行的搜索，获得追查上集那次非正式行动的技术入口。",
+      "analysis": "康纳蒂与部长的目标暂时重叠，理由却不相同：部长想清理内部，康纳蒂想查清查克。林奇提出的法律疑问没有被一句愿意负责真正解决，因此不能把自荐写成已完成合法授权。他借上级要求取得入口，也让自己开始承受使用同类手段的伦理代价。",
+      "turn": "因此 → 查克隐匿的行动进入一个他无法控制的审查渠道。"
+    },
+    {
+      "id": "s05",
+      "act": "a2",
+      "lane": "law",
+      "where": "查克办公室 · 艾拉与德克",
+      "title": "修复朋友之前，先替朋友查清",
+      "image": "decker",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "此前查克以帮助改善犯罪记录为交换，找经营健身场馆的德克追钱。德克现在向艾拉说明泰加没有真正开办事业，资金转到所谓合伙人拉达埃利手中，两人还要买房。艾拉承认早有怀疑，却因没有婚前协议且仍想维持婚姻，请查克别再介入。",
+      "analysis": "艾拉的目标并不是查克想象的体面退出，而是保住婚姻。查克愿意弥补自己过去把朋友当工具的伤害，却再次倾向替朋友定义什么才是救援。这种动机并不纯粹抵消行为的实际帮助，反而让帮助必须接受更具体的检验：被救的人究竟得到了哪一种选择。",
+      "turn": "因此 → 查克继续行动，但最终结果还会被父亲改写。"
+    },
+    {
+      "id": "s06",
+      "act": "a2",
+      "lane": "wendy",
+      "where": "海玻璃旋转木马",
+      "title": "钱可以退，停滞不能接受",
+      "image": "carousel",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪与泰勒在旋转木马旁谈话，泰勒用童年独处浴缸、想象自己是人鱼的经验解释此刻的疏离。谈到薪酬，泰勒表示可以接受老板能接受的数字，却不能停滞；真正需要的是持续前进的空间，尤其不该被排除在募资团队之外。",
+      "analysis": "泰勒不是忽然不在乎钱，而是准确区分了两种匮乏：收入不足可以谈，未来被封住则改变留在这里的意义。旋转木马给“前进”一个可见的反面，反复运动不等于改变位置。温迪听见了这个区别，也愿意替泰勒把需求翻译给阿克斯。",
+      "turn": "因此 → 温迪决定把问题从补多少，改成怎样让泰勒继续成长。"
+    },
+    {
+      "id": "s07",
+      "act": "a2",
+      "lane": "wendy",
+      "where": "冥想室 / 酒吧 / 阿克斯家",
+      "title": "劝不动老板，就请投资者开口",
+      "image": "meditation",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪提醒阿克斯，泰勒需要的是伙伴位置，而非不断被迫争钱；阿克斯仍把让步视为自己不该再承担的迁就。温迪于是请求劳拉以最大单一投资者身份介入。劳拉同意，为资金利益去见前夫，要求他让泰勒感到自己是伙伴并继续创造收益。",
+      "analysis": "温迪先诉诸人性与管理判断，遇阻后改用所有权能听懂的语言。劳拉并非作为妻子回来安抚，而是以资金在场的身份要求公司留人；这让她既能影响决策，也能拒绝随后含混的亲密邀请。她帮助修补组织，没有因此撤销离婚后自己设下的生活边界。",
+      "turn": "因此 → 阿克斯终于接受重新谈判，而不是等待泰勒自行消气。"
+    },
+    {
+      "id": "s08",
+      "act": "a2",
+      "lane": "capital",
+      "where": "Axe Capital · 同侧座位",
+      "title": "加到两千五百万，重开参与的位置",
+      "image": "comp-second",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯不再隔着办公桌谈判，把泰勒的薪酬提高到五千万要求的一半，并恢复其募资团队席位。他借用温迪传来的持续前进说法，泰勒表示已经准备好。随后阿克斯感谢温迪，并把她的 Ice Juice 收益恢复到本人名下、再加倍作为奖金。",
+      "analysis": "座位变化使谈判看起来更接近平等，金额与职责也确实改善，调解产生了实际效果。不过，说出对方需要的词，并不能独自修复长期累积的信任裂缝。泰勒此刻的点头确认了回到募资岗位；这份参与是否仍代表把整个未来交给公司，结尾的新招牌会让人重新思考。",
+      "turn": "因此 → 表面上的留人危机缓和，泰勒的另一项准备仍在推进。"
+    },
+    {
+      "id": "s09",
+      "act": "a3",
+      "lane": "law",
+      "where": "罗兹父亲公寓 / 牛排馆",
+      "title": "朋友回来了，最坏情况也换了意义",
+      "image": "taiga",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克威胁拉达埃利退款并离开，再让泰加签下按婚姻年限计算补偿的婚后协议，原想安排她体面离婚。父亲却劝她留下，最终艾拉得到返还的钱与重归家庭的妻子。艾拉告诉查克，最怕她另有所爱，如今真正发生后才发现并未把自己摧毁。",
+      "analysis": "救援并未完全按查克剧本进行，父亲替艾拉保住他仍想要的婚姻。查克获得修补友情的机会，也听见一种新的风险逻辑：最坏结果未必只能预防，有时可以被主动利用。私人谈话将转化为政治策略，但不能因此把被胁迫的泰加写成自由选择了理想婚姻。",
+      "turn": "因此 → 查克开始考虑主动邀请杰夫科特作出自己最怕的干预。"
+    },
+    {
+      "id": "s10",
+      "act": "a3",
+      "lane": "law",
+      "where": "校园 · 戴克任教处",
+      "title": "两个失势者重新界定目标",
+      "image": "dake",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "康纳蒂去见已经离开检察官岗位、开始任教的戴克，说明自己找到查克非正式行动的入口。戴克承认当年是因为不相信自己才保护查克，康纳蒂则说自己曾相信查克；两人都认为他必须被阻止，但本集没有展示他们已向部长提交完整方案。",
+      "analysis": "康纳蒂的动力不只是不甘被解职，也来自对导师手段的失望。戴克的承认将个人失误与机构问题连起来，却没有自动证明他们接下来的每种方法正确。把这场会面停在确认目标与寻求判断的程度，才能保留季终行动由谁知情、何时形成的真正悬念。",
+      "turn": "因此 → 对查克的追查拥有了另一位理解旧案的参与者。"
+    },
+    {
+      "id": "s11",
+      "act": "a3",
+      "lane": "law",
+      "where": "查克与纽约州总检察长会面",
+      "title": "不再只怕被阻挠，而要引来阻挠",
+      "image": "state-plan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克让凯特约见纽约州总检察长阿尔文·爱泼斯坦，并带上卡特勒。双方承认证人不足以稳拿原始财富案，转而约定州级调查部长兄弟与有线公司，等待杰夫科特为压下调查接触证人，再把那个干预行为作为妨碍司法的目标。",
+      "analysis": "策略改变得很具体：不再赌旧交易能否被可靠证明，而是把一项现在可能发生的权力滥用变成目标。这仍是一份等待对手选择的计划，不能写成部长已经违法或陷阱已经成功。爱泼斯坦的政治野心被纳入说服过程，也使合作同时依赖利益与保密。",
+      "turn": "因此 → 查克主动设计自己先前一直想避免的泄密后果。"
+    },
+    {
+      "id": "s12",
+      "act": "a3",
+      "lane": "capital",
+      "where": "楼下工作室 · 新公司招牌",
+      "title": "留下募资席位，也立起自己的名字",
+      "image": "founder",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "本集早些时候，泰勒要求留下的量化开发者测试再投入二百亿美元能否稳定取得超过百分之八的收益。结尾开发者宣布系统准备就绪，泰勒定下一周后上线；安德洛夫的代表出现，新公司 Taylor Mason Capital 招牌明示，泰勒要求与安德洛夫见面。",
+      "analysis": "这里才从保存量化工作推进到明确的分家准备。模型目标与开发者的自信不是已验证的实盘收益，也不能把代表到场写成金主已经投钱。泰勒曾反对危险资金，如今主动约见同一人，构成当集可见的价值转折；其最终筹资、招人与退出方式仍未呈现。",
+      "turn": "因此 → 新的公司与会面要求已被揭示，真正交锋尚待发生。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "a1",
+      "number": "I",
+      "title": "谁规定你值多少",
+      "deck": "旧老板、旧朋友与新审查入口。",
+      "range": "01—04",
+      "summary": "阿克斯低估别人的贡献，查克的秘密行动也开始面对另一个机构的目光。"
+    },
+    {
+      "id": "a2",
+      "number": "II",
+      "title": "真正缺的是位置",
+      "deck": "调查私账，争取成长，修补组织。",
+      "range": "05—08",
+      "summary": "温迪找准泰勒需要的参与权，借劳拉的投资者身份让老板回到谈判。"
+    },
+    {
+      "id": "a3",
+      "number": "III",
+      "title": "修好表面，改变打法",
+      "deck": "和解成为策略灵感，独立准备成为招牌。",
+      "range": "09—12",
+      "summary": "查克准备诱发干预，康纳蒂寻找追责途径，泰勒则把自己的名字放到了公司门上。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "准备反制部长的联邦检察官",
+      "fact": "帮助艾拉并从对方的体验中获得启发，改为设计妨碍司法陷阱。",
+      "analysis": "他确实想修复关系，仍把资源、威胁与他人的选择编排成解决方案。"
+    },
+    "axe": {
+      "role": "主导薪酬分配的基金老板",
+      "fact": "压低泰勒待遇，最终接受两千五百万与募资参与权。",
+      "analysis": "他懂得被低估会推动离开，却很难承认自己也正在成为那位旧老板。"
+    },
+    "wendy": {
+      "role": "翻译成长需求的协调者",
+      "fact": "倾听泰勒、劝说阿克斯，再请劳拉以投资者身份促成让步。",
+      "analysis": "她修复的是组织仍愿意共享未来的表象与实际机会，没有看见全部独立准备。"
+    },
+    "taylor": {
+      "role": "准备独立的投资主管",
+      "fact": "重返募资团队，同时推进量化系统并要求会见安德洛夫。",
+      "analysis": "本集结尾才明示新公司；重返团队的全部策略含义尚未揭示。"
+    },
+    "lara": {
+      "role": "最大单一投资者与前妻",
+      "fact": "为保住投资收益要求善待泰勒，同时拒绝与阿克斯关系变得含混。",
+      "analysis": "她能提供管理判断，也能坚持不以复合来交换影响力。"
+    },
+    "ira": {
+      "role": "与查克修复关系的旧友",
+      "fact": "得知妻子的骗局，最终拿回钱、与妻子重归家庭，并重新与查克亲近。",
+      "analysis": "最担心的事发生后仍能生活，给查克一条出乎意料的策略提示。"
+    },
+    "bryan": {
+      "role": "接手内部审查的局方法律顾问",
+      "fact": "主动负责搜索内部讯息，并向已任教的戴克说明调查入口。",
+      "analysis": "他反对导师的手段，却开始借有争议的机构审查接近导师。"
+    },
+    "jock": {
+      "role": "要求内部忠诚审查的司法部长",
+      "fact": "要求纽约局搜索通讯，找出自己认为需要清理的人。",
+      "analysis": "他提供的入口与查克设计的诱饵同时存在，尚无人于本集真正完成收网。"
+    }
+  },
+  "phases": [
+    {
+      "id": "p1",
+      "name": "价值先被老板定义",
+      "note": "开局：薪酬分歧尚未转化为公开分家。",
+      "edges": [
+        "各自推进事务",
+        "共享旧友烦恼",
+        "直言劝说仍可",
+        "待遇与职权冲突",
+        "等待私下倾听"
+      ],
+      "details": {
+        "chuck": "调查佐证不足，又看见艾拉的困境。",
+        "axe": "重演旧日奖金仪式，认为今年在花自己的钱。",
+        "wendy": "看见泰勒待遇与参与权的问题。",
+        "taylor": "要求报酬与继续参与募资。",
+        "lara": "尚未重新介入薪酬决定。",
+        "ira": "为妻子事业持续出资。",
+        "bryan": "获得内部审查的机会。",
+        "jock": "要求查出不忠诚的机构成员。"
+      }
+    },
+    {
+      "id": "p2",
+      "name": "参与权成为谈判核心",
+      "note": "中段：温迪把泰勒的语言送到老板面前。",
+      "edges": [
+        "仍无直接新冲突",
+        "承接彼此压力",
+        "调解得到回报",
+        "退让并恢复席位",
+        "信任与代理表达"
+      ],
+      "details": {
+        "chuck": "为艾拉追钱并动用职权施压。",
+        "axe": "在温迪与劳拉劝说后改变方案。",
+        "wendy": "准确转述成长需求，推动让步。",
+        "taylor": "接受二千五百万和募资席位。",
+        "lara": "以投资者身份要求留住泰勒。",
+        "ira": "希望保婚，担心离婚代价。",
+        "bryan": "建立秘密运行的信息搜索。",
+        "jock": "期待审查替自己辨别忠诚。"
+      }
+    },
+    {
+      "id": "p3",
+      "name": "表面修补，各自准备",
+      "note": "结尾：观众看见组织之外的计划。",
+      "edges": [
+        "共同停战仍延续",
+        "修复关系供灵感",
+        "核心同盟仍在",
+        "独立准备已明示",
+        "尚未知全盘安排"
+      ],
+      "details": {
+        "chuck": "与州总检察长计划诱发部长干预。",
+        "axe": "认为留人方案已谈妥。",
+        "wendy": "调解获得认可，尚未知新公司准备。",
+        "taylor": "新公司招牌出现，要求会见安德洛夫。",
+        "lara": "守住离婚边界，完成留人劝说。",
+        "ira": "重新亲近查克并分享风险体会。",
+        "bryan": "与戴克确认阻止查克的目标。",
+        "jock": "尚未作出查克计划中的干预。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "comp-repair",
+      "title": "一句“继续前进”如何换来席位",
+      "intro": "这条传递链是真正发生的调解；泰勒接受之后仍在做其他准备。",
+      "nodes": [
+        {
+          "name": "泰勒",
+          "role": "向温迪说明不能停滞",
+          "portrait": "taylor",
+          "scene": "s06"
+        },
+        {
+          "name": "温迪",
+          "role": "将需求翻译给老板",
+          "portrait": "wendy",
+          "scene": "s07"
+        },
+        {
+          "name": "劳拉",
+          "role": "以投资者利益补上压力",
+          "portrait": "lara",
+          "scene": "s07"
+        },
+        {
+          "name": "阿克斯",
+          "role": "提高金额并恢复席位",
+          "portrait": "axe",
+          "scene": "s08"
+        }
+      ],
+      "result": "钱与参与机会都增加了，不能据此认定信任已经完全回到原处。"
+    },
+    {
+      "id": "review-access",
+      "title": "谁把机构入口交给康纳蒂",
+      "intro": "这里展示已有授权意愿与搜索动作，不替其补上法院认定。",
+      "nodes": [
+        {
+          "name": "杰夫科特",
+          "role": "要求搜查内部讯息",
+          "portrait": "jock",
+          "scene": "s04"
+        },
+        {
+          "name": "林奇",
+          "role": "提出合法性疑问",
+          "portrait": null,
+          "scene": "s04"
+        },
+        {
+          "name": "康纳蒂",
+          "role": "自荐并建立搜索",
+          "portrait": "bryan",
+          "scene": "s04"
+        },
+        {
+          "name": "戴克",
+          "role": "讨论阻止查克的目标",
+          "portrait": null,
+          "scene": "s10"
+        }
+      ],
+      "result": "反对查克的行动获得入口，具体会怎样使用尚未揭晓。"
+    },
+    {
+      "id": "worst-case",
+      "title": "一场和解怎样改变法律策略",
+      "intro": "最后一跳是查克希望诱发的行动，本集尚未发生。",
+      "nodes": [
+        {
+          "name": "艾拉",
+          "role": "最怕的事没有摧毁自己",
+          "portrait": "ira",
+          "scene": "s09"
+        },
+        {
+          "name": "查克",
+          "role": "改为主动邀请最坏后果",
+          "portrait": "chuck",
+          "scene": "s11"
+        },
+        {
+          "name": "爱泼斯坦",
+          "role": "同意开启州级调查",
+          "portrait": null,
+          "scene": "s11"
+        },
+        {
+          "name": "杰夫科特",
+          "role": "被预期会干预证人，尚未行动",
+          "portrait": "jock",
+          "scene": "s11"
+        }
+      ],
+      "result": "查克不再只怕部长发现调查，而想以其压案行为构建新案。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I kept us alive.",
+      "zh": "是我让我们活了下来。",
+      "speaker": "泰勒",
+      "context": "第一次薪酬谈判中，回应老板把成果看作自己资金的收益。",
+      "image": "comp-first",
+      "analysis": "泰勒要求把维持组织的领导工作记入贡献，不能只计算钱是谁的。"
+    },
+    {
+      "en": "I won't stagnate.",
+      "zh": "我不会停滞。",
+      "speaker": "泰勒",
+      "context": "向温迪说明自己可以退让金额，却不能失去前进空间。",
+      "image": "carousel",
+      "analysis": "这句话让钱与地位第一次被清楚区分。"
+    },
+    {
+      "en": "We can do it.",
+      "zh": "我们能做。",
+      "speaker": "康纳蒂",
+      "context": "林奇仍在担心内部搜索是否合法时，康纳蒂主动接下。",
+      "image": "fbi",
+      "analysis": "决心与程序合法性并不是同一件事；愿意负责不能代替回答疑问。"
+    },
+    {
+      "en": "I need a meeting with your boss, Grigor Andolov.",
+      "zh": "我要和你的老板格里戈尔·安德洛夫见面。",
+      "speaker": "泰勒",
+      "context": "面对安德洛夫的代表，在新公司招牌前提出要求。",
+      "image": "founder",
+      "analysis": "这次不再是替阿克斯接待金主；场所与名字让独立准备变得明确。"
+    }
+  ],
+  "comparison": {
+    "title": "两个座位，两个承认的程度",
+    "deck": "从隔桌定价到同侧商量，姿态和结果都改变了，信息却仍然不对称。",
+    "left": {
+      "image": "comp-first",
+      "caption": "本集宣传剧照：第一次薪酬谈判",
+      "speaker": "阿克斯与泰勒",
+      "title": "老板说，你来接受",
+      "text": "老板把客户资金所有权与公司主导权叠在一起，要求泰勒接受自己定下的价格与位置。"
+    },
+    "right": {
+      "image": "comp-second",
+      "caption": "本集截图：第二次薪酬谈判",
+      "speaker": "阿克斯与泰勒",
+      "title": "伙伴说，一起去募资",
+      "text": "老板提高奖金并恢复席位，也复述泰勒的成长需求。修补是真实的，却没有让观众看见泰勒因此放弃独立准备。"
+    },
+    "rows": [
+      {
+        "label": "奖金数字",
+        "left": "先报一千五百万，后报两千万",
+        "right": "最终两千五百万美元"
+      },
+      {
+        "label": "未来位置",
+        "left": "留在公司，退出募资推介",
+        "right": "重返团队，参与外部募资"
+      },
+      {
+        "label": "仍未解决",
+        "left": "贡献由谁定义",
+        "right": "成长是否必须依赖老板允许"
+      }
+    ],
+    "insight": {
+      "kicker": "RECOGNITION",
+      "title": "用对了语言，仍未必拿回信任",
+      "text": "温迪让阿克斯听懂泰勒要什么，也让谈判产生实际改变。结尾招牌提醒我们：一次让步可以修补待遇，却不能自动取消对另一种未来的准备。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "旧老板成为镜子",
+      "fact": "麦甘当年少给阿克斯奖金；阿克斯每年回来示威，随后又向泰勒强调自己的决定权。",
+      "analysis": "记得曾经受辱，不等于能识别自己正在制造相同感受。位置变化之后，老板需要学习的已不是如何赢过旧人，而是如何不重复旧人。",
+      "steps": [
+        "保存旧伤",
+        "证明自己",
+        "重复位置"
+      ]
+    },
+    {
+      "title": "父亲留下的箱子",
+      "fact": "阿克斯给瓦格斯旧杂志，闪回显示那来自母亲保存了三十四年的父亲物品；母亲问他内心是否还有制止自己说狠话的声音。",
+      "analysis": "礼物看起来是亲密，来源却揭示长期对抗。过去在他身上仍有组织现实的力量；这是一种人物解读，不能把家庭冲突写成所有成人选择的单一原因。",
+      "steps": [
+        "翻找旧物",
+        "回看旧敌",
+        "追问内在限制"
+      ]
+    },
+    {
+      "title": "修复也会带来筹码",
+      "fact": "温迪获加倍收益，泰勒获新待遇，艾拉获得钱与婚姻；三种补偿都由掌权者安排。",
+      "analysis": "结果可以带来真实帮助，同时保留权力的不对称。接受帮助不是放弃判断，也不保证被帮助者会按提供者想象的方式继续生活。",
+      "steps": [
+        "提供补偿",
+        "恢复关系",
+        "保留其他选择"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "a2",
+    "leftImage": "carousel",
+    "leftCaption": "泰勒向温迪说明：需要的是持续前进。",
+    "rightImage": "comp-second",
+    "rightCaption": "阿克斯在第二次谈判中复述同样的需求。",
+    "kicker": "THE TRANSLATION",
+    "title": "一句话经过谁，才会变成资源？",
+    "text": "需求必须先被温迪听见、再经劳拉的投资者位置加压，才得到老板回应。这解释了调解的价值，也显示公司并没有自动让贡献与发言权相匹配。",
+    "scene": "s08"
+  },
+  "closing": {
+    "image": "founder",
+    "kicker": "TAYLOR MASON CAPITAL",
+    "value": "TMC",
+    "title": "奖金谈妥了。\n新的名字也立起来了。",
+    "text": "阿克斯认为自己终于把泰勒带回募资团队。观众却在楼下看见一家公司与一次主动会面要求。此刻明确的是独立准备，不是尚未发生的资金承诺、招人结果或公开对决。"
+  }
+}

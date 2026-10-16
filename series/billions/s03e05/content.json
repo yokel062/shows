@@ -1,0 +1,671 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 5,
+  "title": "Flaw in the Death Star",
+  "chineseTitle": "小缺口，留住大把柄",
+  "subtitle": "物证、合规与信任，都在考验谁真正控制下一步。",
+  "hero": "gilbert-park",
+  "heroTitle": "致命的缺口，\n小到一片玻璃。",
+  "heroDeck": "阿克斯追问一件该被销毁的东西。\n查克则寻找不必开口的证人。",
+  "openingTitle": "为什么最危险的东西，是别人说已经扔掉的东西？",
+  "openingFact": "东区检方追查参与 Ice Juice 事件的医生。阿克斯担心留在 Gilbert 手中的载玻片，查克则从自己曾偷看的温迪会谈记录重新找出线索。",
+  "openingReading": "本集的“缺口”不只是粗心留下的物证，也包括对别人需要什么的误判。财富可以切断研究经费，却未必买得到信任；一套自称严密的安排，仍依赖某个人接受它。",
+  "stamp": {
+    "value": "18h",
+    "label": "THE SLIDE",
+    "note": "剧中对白称毒素离开冷藏约十八小时会消散；这是人物给出的条件。"
+  },
+  "storyTitle": "三条线索，寻找同一个缺口。",
+  "storyDeck": "物证、合规与信任，都在考验谁真正控制下一步。",
+  "intro": "阿克斯被一片未能确认销毁的载玻片留在纽约，泰勒因此替他赴硅谷。查克借旧会谈记录找到 Donnie 的医生，又为 Boyd 的获释补做解释。公司内部，Bill 与 Spyros 的冲突暴露合规和赚钱之间的裂缝。结尾，医生向阿克斯索要巨款，而查克已把载玻片藏进家中冰箱。",
+  "catalogueIntro": "一片未确认销毁的载玻片让阿克斯取消出行。泰勒在硅谷识破糟糕推介，也遇见能共享语言的人；纽约这边，合规争执与补做的文件提醒所有人，再大的体系也会留下小缺口。",
+  "spoiler": "只剧透 S03E05《Flaw in the Death Star》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E05 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e05",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 5 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26050",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S03E05 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · Flaw in the Death Star 第二篇细读",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26166",
+      "note": "核对双线争夺医生、Bill 的道歉与撞车、泰勒与 Oscar 的交流；作者对后续走向的猜测没有采用。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/axe-grounded.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e542.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26050",
+      "alt": "阿克斯听取安全顾问对医生调查的汇报",
+      "caption": "本集截图：阿克斯因载玻片风险中止出行；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1127
+    },
+    {
+      "file": "assets/gilbert-park.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69746940892a9a97d_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Gilbert 戴眼镜站在观鸟的公园里",
+      "caption": "本集截图：阿克斯在观鸟地点追问 Gilbert；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/walter.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6974698769b7e39af_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Walter 在学校办公室回应查克",
+      "caption": "本集截图：Donnie 的遗属 Walter 拒绝为查克开放医疗记录；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/oscar-pitch.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69747283a4de97402_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Oscar、泰勒与初创公司推介者坐在房间里",
+      "caption": "本集截图：硅谷的项目推介；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/couples.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69747107fb372764e_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Spyros 与 Bill 分坐温迪办公室的沙发",
+      "caption": "本集截图：温迪调停合规争执；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/boyd.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6974724dc956ddbc5_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Lawrence Boyd 在查克办公室谈交换条件",
+      "caption": "本集截图：Boyd 要求取回游艇；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/taylor-flaw.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6974730d872ae36b1_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "泰勒回应语音身份技术的推介",
+      "caption": "本集截图：泰勒指出项目不拥有所依赖的技术；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/kiln.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6974734c2b87bb430_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "插叙中的手伸向医疗废物箱",
+      "caption": "本集截图：医生讲述处理载玻片的过程；这是口述配合的回溯画面；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/daniel.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e5115.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26050",
+      "alt": "阿克斯、Wags 与 Spyros 在 Daniel 餐厅听主厨说明菜单",
+      "caption": "本集截图：包场晚餐用于重订 Spyros 的位置；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1196
+    },
+    {
+      "file": "assets/fountain.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69747484250474d7e_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Gilbert 夜间在喷泉前与查克谈话",
+      "caption": "本集截图：医生拒绝以出庭作证换取豁免；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/netrunner.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6974752a82c8bc9d6_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "Oscar 在 Netrunner 牌局中抬头看泰勒",
+      "caption": "本集截图：投资讨论后的游戏相遇；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/kate.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e570.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26050",
+      "alt": "Kate Sacker 在办公室与人交谈",
+      "caption": "本集截图：Kate 参与 Boyd 文件应对；此近景用于该支线；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1199
+    },
+    {
+      "file": "assets/night-axe.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69747801a78ec398e_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-5/",
+      "alt": "阿克斯在夜间听取医生的要求",
+      "caption": "本集截图：医生的私人索款反让阿克斯确定危险；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    }
+  ],
+  "acts": [
+    {
+      "id": "gap",
+      "number": "I",
+      "title": "被留下的东西",
+      "deck": "医生与物证令两个阵营重新行动。",
+      "range": "01—04",
+      "summary": "阿克斯取消行程，查克从被盗的旧记录找到医生；泰勒与公司合规线同时面对信息不对等。"
+    },
+    {
+      "id": "price",
+      "number": "II",
+      "title": "每一道门，都有人开价",
+      "deck": "游艇、技术权利、研究经费与合规权力。",
+      "range": "05—08",
+      "summary": "Boyd 要求兑现待遇，泰勒指出技术缺口；阿克斯一边施压医生，一边把合规拉回公司内部。"
+    },
+    {
+      "id": "silence",
+      "number": "III",
+      "title": "让物证替人开口",
+      "deck": "不用上证人席的办法，也会制造新的危险。",
+      "range": "09—12",
+      "summary": "医生不肯作证，查克转求物证；纸面补救暂挡 Bryan，却未使任何人安全。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "slide-alarm",
+      "act": "gap",
+      "lane": "capital",
+      "where": "纽约 · 出发前",
+      "title": "一片玻璃，叫停一架飞机。",
+      "image": "axe-grounded",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "安全顾问告诉阿克斯，东区检方已讯问 Gilbert。画面回溯阿克斯曾把载玻片留给医生处理；他现在担心自己的指纹仍在玻璃上，取消赴旧金山的安排，让泰勒代为参加 Oscar 的项目会。",
+      "analysis": "风险来自一个过去没有验证的动作：他曾把“请处理掉”当作“已经不存在”。取消行程说明物证比任何口头忠诚更难控制；授权泰勒出差则把危机意外变成接触新机会的入口。这不是确认检方已有物证，只是阿克斯先按最坏情况行动。",
+      "turn": "因此 → 纽约争夺医生，硅谷交给泰勒。"
+    },
+    {
+      "id": "find-doctor",
+      "act": "gap",
+      "lane": "law",
+      "where": "罗兹家 / Donnie Caan Success Academy",
+      "title": "旧会谈记录，变成新的路线图。",
+      "image": "walter",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克承认无法忘掉偷看温迪记录所得的内容，怀疑 Ice Juice 医生也是曾隐瞒 Donnie 试验疗法的人。Walter 不愿开放医疗记录，却提到医生捐过学校；查克转而私下索取捐助名单，找到 Gilbert。",
+      "analysis": "查克先给自己的越界安排一道语言缓冲：妻子可以反对，但他不会听。Walter 的拒绝没有终止追查，只改变了入口。这里需要区分怀疑与证实：同一医生参与两事的判断起初是查克的推断，名单才让他获得具体人名，温迪并未交出名字。",
+      "turn": "因此 → 医疗记录的门关闭，捐款名单的门打开。"
+    },
+    {
+      "id": "bottom-tranche",
+      "act": "gap",
+      "lane": "capital",
+      "where": "旧金山 · Oscar 的推介会",
+      "title": "泰勒拒绝为“多元化”买单。",
+      "image": "oscar-pitch",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Oscar 先带来连接年轻食客与餐桌的应用项目。泰勒认为这不是值得投资的机会，而是在测试 Axe Capital 能否识别较差的项目，直接要求去机场。Oscar 挽留，承诺下一轮会有更值得看的东西。",
+      "analysis": "泰勒没有靠礼貌维持交易气氛，而是把退出变成谈判动作。Oscar 用“不同时间跨度的投资者”解释推介，泰勒却坚持自己来判断机会的质量。这一场既确立投资纪律，也为两人之后真正平等的交流创造条件：吸引力从被认真对待开始。",
+      "turn": "因此 → 下一轮必须拿出真正的内容。"
+    },
+    {
+      "id": "compliance-war",
+      "act": "gap",
+      "lane": "wendy",
+      "where": "Axe Capital · 温迪办公室",
+      "title": "共同赚钱，不代表共同语言。",
+      "image": "couples",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bill 依据一位研究人员的举报计划做空 Mendham，泰勒只在合规放行的条件下支持。Spyros 否决资料质量，双方当众互骂。温迪把两人叫进办公室，却发现一个只谈赚钱，一个强调防止监管风险，无法靠互相喜欢收场。",
+      "analysis": "科学家的指控首先是线人陈述，不能因为 Bill 付了钱就自动升级为可靠研究。温迪看见的也不只是脾气：两人的工作激励不同，争论没有共同的成功定义。她以职位后果压住冲突，只完成了停火，尚未解决交易究竟怎样才能通过的问题。",
+      "turn": "因此 → 被阻止的交易，将换一种结构再来。"
+    },
+    {
+      "id": "boyd-cover",
+      "act": "price",
+      "lane": "law",
+      "where": "SDNY / 法院",
+      "title": "自由已有了，还要补一份理由。",
+      "image": "boyd",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bryan 从 Boyd 已获释这一事实追问原先的交易。Kate 先阻止他取得封存材料，再与查克商量以积极合作作解释。Boyd 不肯白给同业姓名，要求护照、旅行自由及被没收的游艇；查克让 Karl 以低调拍卖配合代购处理。",
+      "analysis": "这条线的目的不是重新发现 Boyd 有罪，而是替一次已经完成的释放补齐可交代的链条。Boyd 看出查克也怕真交易曝光，因而反过来索价。权力暂时没有单向压倒关系，双方都握着另一人的风险，程序便成了可以协商的交付物。",
+      "turn": "因此 → 有了人名，还需要让文件时间看起来正确。"
+    },
+    {
+      "id": "thermal-port",
+      "act": "price",
+      "lane": "capital",
+      "where": "旧金山 · 第二轮推介",
+      "title": "技术没有归属，故事就没有封口。",
+      "image": "taylor-flaw",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "新的项目想用语音辨识建立可追溯身份。泰勒立即指出创业者并不拥有拟改造的技术；对方接受这个“死星缺口”。会后泰勒与 Oscar 从排气口聊到阿喀琉斯，形成默契，但泰勒因已有晚间安排而婉拒晚餐。",
+      "analysis": "识别缺陷没有毁掉会谈，反而让认真做事的人有机会修正它。与纽约各方遮挡缺口的办法相比，这场交流容许陌生人提出的问题被明确说出。两人的共同语言既是知识，也是一种不必隐藏能力的轻松；此时的亲近无需借未来结果来解释。",
+      "turn": "因此 → Oscar 需要走进泰勒实际选择的夜晚。"
+    },
+    {
+      "id": "kiln-story",
+      "act": "price",
+      "lane": "capital",
+      "where": "Gilbert 的研究与会面地点",
+      "title": "最详细的故事，仍不是验证。",
+      "image": "kiln",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯的顾问施压 Gilbert 的研究经费和实验室租约。医生再次声称载玻片已销毁，并逐步讲述先想到废物箱、再走去实验室窑炉的过程。阿克斯仍不肯只接受可信的口述，要把残余风险彻底排除。",
+      "analysis": "口述的具体程度能制造真实感，无法提供独立确认。相应回溯画面跟随医生的叙述，不能当作全知镜头替他说法背书。阿克斯选择动研究项目，是因为私人生活里找不到好下手的软肋；他越能伤害医生，也越让医生需要另找保护。",
+      "turn": "因此 → 压力推动医生寻找能保住执照的出口。"
+    },
+    {
+      "id": "family-compliance",
+      "act": "price",
+      "lane": "capital",
+      "where": "Daniel 餐厅 / 次日公司",
+      "title": "把合规请到家里，再画出边界。",
+      "image": "daniel",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Spyros 识破 Bill 用做多配合信用违约掉期包装同一押注。阿克斯包场宴请 Spyros，要求他帮助公司把风险推到边缘，停止以举报相威胁；也明确本次 Mendham 交易取消。次日 Bill 被要求公开道歉，并获知今后创意交易改走 Victor 的基金。",
+      "analysis": "阿克斯同时给了归属和禁令：Spyros 可以被称为家人，却不能以外部监管者自居；Bill 可以留下，却不能把已经两次留下记录的交易继续做下去。把未来交易改道不等于本次成功绕关。随后 Bill 撞坏 Spyros 的车，则暴露公开服从与私人愤怒的距离。",
+      "turn": "因此 → 暂时修复组织关系，不能消除成员怨气。"
+    },
+    {
+      "id": "evidence-instead",
+      "act": "silence",
+      "lane": "law",
+      "where": "纽约 · 夜间喷泉",
+      "title": "不愿作证的人，仍可能交出东西。",
+      "image": "fountain",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克找上 Gilbert，提出用合作换取免于牢狱。医生不肯接受可能失去执照的代价，强调自己的研究与诊疗价值。此场会谈的关键后半段到结尾才补出：查克转而要求能替人发声的实物，让医生不必亲自登上证人席。",
+      "analysis": "这不是医生已经无罪的法律结论，而是查克提供的交易设计。两人争论的焦点由事实转成谁来承受公开后果。结尾补叙重新解释了医生后来向阿克斯索款的异常，也提醒读者：此刻尚不能把载玻片写成已经在阿克斯家中被搜获。",
+      "turn": "因此 → 人的沉默被保留，物证的去向被改变。"
+    },
+    {
+      "id": "cards-on-table",
+      "act": "silence",
+      "lane": "capital",
+      "where": "Netrunner 牌局 / Oscar 家",
+      "title": "真正的邀请，是进入对方的规则。",
+      "image": "netrunner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Oscar 到泰勒参加的 Netrunner 活动，和泰勒在游戏规则里继续交流。两人谈论运气、展示牌面，随后一同回家并发生亲密关系。次晨双方用“投资”作双关道别；泰勒此行终于同时获得工作与私人层面的回应。",
+      "analysis": "这条支线没有把智力当作亲密的障碍。Oscar 没有要求泰勒撤销原有计划，而是加入其中；此前被当作劣质买家的防备因此松动。与纽约把信息藏起来的对话相对，牌局让双方能在有限规则中选择开放，这正是本集少见的非胁迫式靠近。",
+      "turn": "因此 → 出差不再只是代替阿克斯执行任务。"
+    },
+    {
+      "id": "paper-wall",
+      "act": "silence",
+      "lane": "law",
+      "where": "SDNY · 夜间与次日",
+      "title": "时间被改写，追问没有消失。",
+      "image": "kate",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Karl 让 Kate 找出旧纸本并以能对应旧时间的墨迹补写 Boyd 合作材料。Bryan 上诉后获准查看封存记录，却只看到纸质的完整解释，怀疑这是刻意让自己看到的掩护。随后他向 Boyd 直接还原 Ice Juice 诱饵，却得不到协助。",
+      "analysis": "对白中“证据是真的，只改日期”的辩护，正暴露这份档案最关键的虚假。材料内容可以含有真实罪行，仍不能证明当初释放 Boyd 就基于那些合作。Bryan 对 Kate 故意败诉的指控只是他的判断；可以确定的是，表面手续挡住了继续向里查的路。",
+      "turn": "因此 → Bryan 越过纸面解释，把怀疑转向查克本人。"
+    },
+    {
+      "id": "two-hundred",
+      "act": "silence",
+      "lane": "cross",
+      "where": "纽约夜间 / 罗兹家",
+      "title": "两亿美元，让阿克斯听懂了谎话。",
+      "image": "night-axe",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Gilbert 坚称玻璃已成灰烬，却突然要求给自己与家人两亿美元。顾问此前查到他生活节俭、捐款全用于研究，阿克斯据此推断医生已与政府合作、正在拖延。结尾查克家中冰箱里的载玻片给观众确认；Bryan 与 Dake 也开始正面追问查克。",
+      "analysis": "索款表面上回答了“你究竟想要什么”，却与已经查明的生活模式冲突，反使阿克斯失去最后的侥幸。观众此时知道的多过东区检方：载玻片在查克手里，出现在哪里仍待行动。温迪也面对同一危险——两位男人每完成一步自救，就更难让她站在战线外。",
+      "turn": "因此 → 物证保存完好，下一步才是真正的选择。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官",
+      "fact": "利用旧会谈记录找到 Gilbert，并取得载玻片。",
+      "analysis": "能从拒绝中另找入口，也把私人越界持续转换成办案优势。"
+    },
+    "axe": {
+      "role": "被起诉的基金创办人",
+      "fact": "追问载玻片，施压医生，同时裁决合规争端。",
+      "analysis": "擅长计算财务动机，本集却被一个不以私人财富为先的人卡住。"
+    },
+    "wendy": {
+      "role": "绩效教练 / 查克之妻",
+      "fact": "调停 Bill 与 Spyros，承认无法持续向两边付出。",
+      "analysis": "她有修复关系的能力，但不能无限替别人吸收选择的后果。"
+    },
+    "taylor": {
+      "role": "CIO / 硅谷来访投资者",
+      "fact": "代阿克斯考察项目，指出技术权利问题，与 Oscar 亲近。",
+      "analysis": "拒绝劣质机会也愿意建立关系；专业判断与私人需要在本集可以共存。"
+    },
+    "gilbert": {
+      "role": "医生 / Ice Juice 关联人",
+      "fact": "拒绝出庭方案，并在结尾被揭示交出物证。",
+      "analysis": "保护执照和研究是他的明确诉求；不能把索款台词直接当作真实欲望。"
+    },
+    "bryan": {
+      "role": "东区检察官",
+      "fact": "追问 Boyd 释放，试图把调查扩大到查克。",
+      "analysis": "他识破解释的可疑，却尚拿不到足够证据拆穿整个安排。"
+    },
+    "bill": {
+      "role": "交易员",
+      "fact": "Mendham 两次被阻，公开道歉后撞坏 Spyros 的车。",
+      "analysis": "对赚钱的确信使他无法把合规视作共同职责，服从并未带来认同。"
+    },
+    "spyros": {
+      "role": "合规主管",
+      "fact": "两次否决 Mendham，接受阿克斯对内部归属的重定义。",
+      "analysis": "坚持程序，也渴望成为圈内人；晚餐让这两种需求正面相撞。"
+    }
+  },
+  "phases": [
+    {
+      "id": "alarm",
+      "name": "第一阶段 · 风险重现",
+      "note": "各人先试图守住自己的领域。",
+      "edges": [
+        "物证争夺",
+        "旧记录再伤",
+        "仍需支撑",
+        "授权远行",
+        "守住公司"
+      ],
+      "details": {
+        "chuck": "从旧笔记寻找医生",
+        "axe": "取消出行追物证",
+        "wendy": "再次面对会谈记录被利用",
+        "taylor": "代表公司抵达硅谷",
+        "gilbert": "声称已处理载玻片",
+        "bryan": "搜查医生与Boyd线索",
+        "bill": "期待做空获利",
+        "spyros": "否决研究资料"
+      }
+    },
+    {
+      "id": "bargain",
+      "name": "第二阶段 · 价格失效",
+      "note": "金钱不是所有人的首要答案。",
+      "edges": [
+        "隔空抢人",
+        "消耗加重",
+        "夜谈无解",
+        "专业获展开",
+        "共同守盘"
+      ],
+      "details": {
+        "chuck": "用Boyd新合作补旧解释",
+        "axe": "压经费也问私人价码",
+        "wendy": "用岗位后果压住争执",
+        "taylor": "指出技术缺口并被认真回应",
+        "gilbert": "坚决保护执照和研究",
+        "bryan": "追求获释文件的真实原因",
+        "bill": "改造交易结构仍被识破",
+        "spyros": "被邀请成为内部家人"
+      }
+    },
+    {
+      "id": "slide",
+      "name": "第三阶段 · 实物留下",
+      "note": "可疑口述与真实玻璃形成落差。",
+      "edges": [
+        "查克握物证",
+        "冰箱里有风险",
+        "支撑已到限",
+        "独立经验增多",
+        "各自承受"
+      ],
+      "details": {
+        "chuck": "已取得冷藏的载玻片",
+        "axe": "从异常索价推断政府交易",
+        "wendy": "明说无法继续无限付出",
+        "taylor": "与Oscar建立亲密关系",
+        "gilbert": "物证替代亲自出庭",
+        "bryan": "将怀疑正面指向查克",
+        "bill": "被迫道歉后私下报复",
+        "spyros": "留下职位但未获同事认同"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "slide-path",
+      "title": "一片载玻片，怎样重新进入案件？",
+      "intro": "结尾才补全的路径，不能提前写成搜查成果。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "曾交给医生销毁",
+          "portrait": "axe",
+          "scene": "slide-alarm"
+        },
+        {
+          "name": "Gilbert",
+          "role": "声称销毁却保留实物",
+          "portrait": "gilbert",
+          "scene": "two-hundred"
+        },
+        {
+          "name": "查克",
+          "role": "提出以物证替代证人",
+          "portrait": "chuck",
+          "scene": "evidence-instead"
+        },
+        {
+          "name": "家中冰箱",
+          "role": "结尾确认保存位置",
+          "portrait": null,
+          "scene": "two-hundred"
+        }
+      ],
+      "result": "本集确认物证回到查克控制之下；并未呈现栽赃行动已经完成。"
+    },
+    {
+      "id": "trade-path",
+      "title": "同一押注，为什么不能只换包装？",
+      "intro": "线人消息与可执行交易之间仍有一道合规门。",
+      "nodes": [
+        {
+          "name": "研究人员",
+          "role": "向Bill提出举报内容",
+          "portrait": null,
+          "scene": "compliance-war"
+        },
+        {
+          "name": "Bill",
+          "role": "由做空改成组合押注",
+          "portrait": "bill",
+          "scene": "family-compliance"
+        },
+        {
+          "name": "Spyros",
+          "role": "两次识破并留记录",
+          "portrait": "spyros",
+          "scene": "family-compliance"
+        },
+        {
+          "name": "阿克斯",
+          "role": "取消Mendham，规定未来改道",
+          "portrait": "axe",
+          "scene": "family-compliance"
+        }
+      ],
+      "result": "未来创意交易可走 Victor 基金，本次已被两次标记的交易仍然作废。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I can't unsee it.",
+      "zh": "我没法当作没看见。",
+      "speaker": "查克 → 温迪",
+      "context": "他重新使用偷看的会谈信息。",
+      "image": "walter",
+      "analysis": "承认记得事实，不能自动免除取得和继续使用它的责任。"
+    },
+    {
+      "en": "Compliance must be complied with.",
+      "zh": "合规要求，必须遵守。",
+      "speaker": "Spyros → 阿克斯",
+      "context": "他要求处理Bill绕过审批的行为。",
+      "image": "couples",
+      "analysis": "一句自我重复的规则宣言，把他的职责与求归属的欲望放在同一条线上。"
+    },
+    {
+      "en": "I'm fucked.",
+      "zh": "我完了。",
+      "speaker": "阿克斯 → 顾问",
+      "context": "医生提出两亿美元后，他终于作出判断。",
+      "image": "night-axe",
+      "analysis": "让他恐惧的不是金额，而是这个金额不符合对方已经显示的生活逻辑。"
+    }
+  ],
+  "comparison": {
+    "title": "同样是“发现缺口”，为什么一边靠近、一边失控？",
+    "deck": "泰勒把问题摆到桌面，阿克斯需要验证别人说已经消失的问题。",
+    "left": {
+      "image": "taylor-flaw",
+      "caption": "本集项目推介截图。",
+      "speaker": "泰勒 → 项目方 / Oscar",
+      "title": "指出不能拥有的技术。",
+      "text": "缺少权利是可以公开讨论、估值和补救的事实。对方接受问题，讨论才继续。"
+    },
+    "right": {
+      "image": "gilbert-park",
+      "caption": "本集公园会面截图。",
+      "speaker": "阿克斯 → Gilbert",
+      "title": "追问无法证明的销毁。",
+      "text": "医生的回答越具体，阿克斯越需要独立证据；威胁不能替代验证。"
+    },
+    "rows": [
+      {
+        "label": "问题能否说出",
+        "left": "明确承认没有技术所有权",
+        "right": "反复强调玻璃已经不在"
+      },
+      {
+        "label": "对方的空间",
+        "left": "共同寻找修补方案",
+        "right": "经费和实验室都被施压"
+      },
+      {
+        "label": "信息的后果",
+        "left": "建立专业尊重与亲近",
+        "right": "制造寻求政府保护的动力"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "缺口可以修补，前提是允许它存在于谈话里。",
+      "text": "本集标题不是证明谁足够聪明。它把两种聪明放在一起：一种能坦然指出失败条件，另一种想用控制别人来消除失败条件。只有前者在这一小时里扩展了双方的选择。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "玻璃与冷藏",
+      "fact": "剧中给出十八小时及冷藏条件，最终实物出现在查克家中。",
+      "analysis": "脆弱媒介承载持久风险；物证的保存条件反过来限定所有人的行动。",
+      "steps": [
+        "留下",
+        "声称销毁",
+        "冷藏保存"
+      ]
+    },
+    {
+      "title": "家人的称呼",
+      "fact": "阿克斯在晚餐上把Spyros称作家人，Bill却随后撞坏他的车。",
+      "analysis": "组织称谓可以要求忠诚，无法让成员立刻拥有亲密和尊重。",
+      "steps": [
+        "晚餐纳入",
+        "公开道歉",
+        "私人报复"
+      ]
+    },
+    {
+      "title": "牌桌与文件",
+      "fact": "泰勒与Oscar共享牌局，Kate与Karl补写带旧日期的记录。",
+      "analysis": "规则中的信息开放与程序中的信息遮挡，提供本集两种截然不同的合作方式。",
+      "steps": [
+        "共同规则",
+        "自愿开放",
+        "纸面遮挡"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "night-axe",
+    "kicker": "THE FLAW REMAINS",
+    "value": "▯",
+    "title": "他说没有了。\n玻璃却还在。",
+    "text": "阿克斯终于从异常索价看出拖延；观众随后知道查克已握有载玻片。这个结尾的胜负还没有进入法庭，它先把温迪家中的冰箱变成了下一轮冲突的起点。"
+  }
+}

@@ -9,7 +9,7 @@
 | 作品 | 内容 | 剧透范围 | 在线阅读 |
 | --- | --- | --- | --- |
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
-| 亿万 · Billions | 第一季完整十二集 | 单集包含截至该集的剧情 | [十二集目录](https://yokel062.github.io/shows/series/billions/) |
+| 亿万 · Billions | 第一季、第三季，各十二集 | 单集包含截至该集的剧情 | [季度目录](https://yokel062.github.io/shows/series/billions/) |
 | 白莲花 · The White Lotus | 第一季第一集 · Arrivals | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/) |
 
 ## 兄弟连十集目录
@@ -29,7 +29,7 @@
 
 ## 亿万第一季十二集
 
-**[完整目录](https://yokel062.github.io/shows/series/billions/)**
+**[第一季完整目录](https://yokel062.github.io/shows/series/billions/season-1/)**
 
 每集以三幕组织剧情节点，配真实截图或明确标注的宣传剧照，包含分阶段人物关系、消息与选择路径、对照深读和英文短台词卡。剧情事实与个人解读分别标注，场景解读默认展开，图片出处逐张登记；每篇只讨论截至该集的内容。首集保留已完成的重做版本。
 
@@ -54,7 +54,37 @@
 python tools/build_billions.py --complete
 ```
 
-工具核验十二集数据，生成第 2—12 集、作品目录与 `season.json`，默认保留首集 HTML。第 2—12 集模板为 `shared/season-episode.html`，共用 `episode.css`、`season.css` 和 `episode.js`。只生成一集可使用 `--episode 5`；修改首集正文后使用 `python tools/build_billions.py --pilot --complete`，由保留的首集模板与构建器重新生成。生成后的 HTML 提交到仓库，网站无需线上构建。
+工具核验十二集数据，生成第 2—12 集、第一季目录、作品目录与 `season.json`，默认保留首集 HTML。第 2—12 集模板为 `shared/season-episode.html`，共用 `episode.css`、`season.css` 和 `episode.js`。只生成一集可使用 `--episode 5`；修改首集正文后使用 `python tools/build_billions.py --pilot --complete`，由保留的首集模板与构建器重新生成。生成后的 HTML 提交到仓库，网站无需线上构建。
+
+## 亿万第三季十二集
+
+**[第三季完整目录](https://yokel062.github.io/shows/series/billions/season-3/)** · **[全部已收录季度](https://yokel062.github.io/shows/series/billions/)**
+
+沿用三幕剧情、真实配图、消息路径、对照深读与台词笔记，人物关系扩展为查克、阿克斯、温迪和泰勒四个核心位置，按本集的三个阶段切换。剧情事实与个人解读分开，图像注明场景范围和出处；各篇包含必要的前季背景，只剧透到第三季对应集，不引入后季解释。
+
+| 集数 | 标题 | 在线阅读 |
+| --- | --- | --- |
+| 01 | Tie Goes to the Runner | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e01/) |
+| 02 | The Wrong Maria Gonzalez | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e02/) |
+| 03 | A Generation Too Late | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e03/) |
+| 04 | Hell of a Ride | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e04/) |
+| 05 | Flaw in the Death Star | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e05/) |
+| 06 | The Third Ortolan | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e06/) |
+| 07 | Not You, Mr. Dake | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e07/) |
+| 08 | All the Wilburys | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e08/) |
+| 09 | Icebreaker | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e09/) |
+| 10 | Redemption | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e10/) |
+| 11 | Kompenso | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e11/) |
+| 12 | Elmsley Count | [图解笔记](https://yokel062.github.io/shows/series/billions/s03e12/) |
+
+编辑源为 `series/billions/s03eXX/content.json`，共享人物照继续登记在 `shared/portraits.json`。修改后运行：
+
+```bash
+python tools/build_billions.py --season 3 --complete
+python tools/validate_site.py
+```
+
+只渲染一篇可使用 `--season 3 --episode 5`。第三季模板为 `shared/season-three-episode.html`，在既有组件上增加 `season-three.css` 的四人关系布局。季度目录分别为 `season-1/` 与 `season-3/`，作品入口展示已收录季度。线上使用预先生成的静态 HTML，无需构建或运行时拉取 JSON。
 
 ## 白莲花首集档案
 

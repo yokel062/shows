@@ -1,0 +1,711 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 8,
+  "title": "All the Wilburys",
+  "chineseTitle": "谁有资格，留在圈子里",
+  "subtitle": "留下别人、驱逐别人，与保住自己的空间。",
+  "hero": "return",
+  "heroTitle": "自由回来了。\n控制也加码了。",
+  "heroDeck": "清仓、解雇、内幕和家族旧账。\n每个人都要重新决定，谁有权让自己留下。",
+  "openingTitle": "打赢一场生存战，为什么马上开始争夺控制？",
+  "openingFact": "阿克斯获准重返交易，查克也摆脱了眼前的调查威胁。Foley 与老查克却直接介入夫妻私生活，要查克辞职竞选；公司里，泰勒刚证明的成绩也面临被一笔抹去。",
+  "openingReading": "“圈内人”既是忠诚的奖励，也是一种可随时撤回的身份。真正的分歧落在具体权限：谁能安排候选人的人生，谁能取消别人的仓位，谁能把孩子的生活纳入谈判。",
+  "stamp": {
+    "value": "IN / OUT",
+    "label": "ALL THE WILBURYS",
+    "note": "片名借乐队成员资格作比喻；人物争的是谁能进入、谁能被赶出去。"
+  },
+  "storyTitle": "胜利之后，边界重画。",
+  "storyDeck": "留下别人、驱逐别人，与保住自己的空间。",
+  "intro": "阿克斯回公司清空现有仓位，停掉量化项目，并接下 Krakow 的天然气监管内幕。泰勒争到独立组合，却拒绝照抄他的押注。查克借 Sweeney 的消息反制 Foley，随后在旧承诺与温迪劝说下放弃竞选，转而背书 Sweeney。Spyros 用监管名单换回工作，孩子的晚餐与温迪的报复则暴露胜利后的私人代价。",
+  "catalogueIntro": "阿克斯重返交易，清仓与扩募同步启动；泰勒要求自己的资金，Spyros努力证明自己值得留下。查克反制政治恩主，却在公开宣布时另选方向。自由恢复以后，控制权成为新的战场。",
+  "spoiler": "只剧透 S03E08《All the Wilburys》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E08 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e08",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 8 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S03E08 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-8/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · All the Wilburys 第二篇细读",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26688",
+      "note": "核对圈内外主题、旧承诺与资金权限；不用作者对关系未来和后续情节的推测。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/ambush.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e86.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "查克与温迪在私人会所发现两名长辈等候",
+      "caption": "本集宣传剧照：原定私密活动被政治与家庭权力闯入；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/return.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e87.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "阿克斯张开双臂回到交易区，员工迎接",
+      "caption": "本集宣传剧照：回归交易控制权的欢迎场面；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/krakow.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e878.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "Krakow穿蓝色西装站在画作前",
+      "caption": "本集截图：财政部长向阿克斯提供天然气监管内幕；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1376
+    },
+    {
+      "file": "assets/sweeney.webp",
+      "originalUrl": "https://simkl.in/episodes/69/697391449d1e4ed9a_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-8/",
+      "alt": "市长Sweeney在办公室面对查克",
+      "caption": "本集截图：Sweeney听取查克的交换提议；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/spyros-out.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e886.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "Spyros抱着书和文件站在阿克斯面前",
+      "caption": "本集截图：被解雇的Spyros急于证明价值；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1215
+    },
+    {
+      "file": "assets/lara-wendy.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e890.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "劳拉在温迪办公室里表达愤怒",
+      "caption": "本集截图：劳拉拒绝温迪继续对儿子提供咨询；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1218
+    },
+    {
+      "file": "assets/bryan-fired.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e892.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "Bryan在办公室听查克说话",
+      "caption": "本集截图：回到南区的Bryan被解雇；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1710
+    },
+    {
+      "file": "assets/own-book.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6973910e07b8071ee_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-8/",
+      "alt": "泰勒在车库里与阿克斯谈独立资金",
+      "caption": "本集截图：泰勒要求自己的十亿美元组合；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/taylor-no.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e895.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "泰勒正面回应阿克斯的交易建议",
+      "caption": "本集截图：泰勒拒绝以未证实内幕押注天然气；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1285
+    },
+    {
+      "file": "assets/foley.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6973946faf58100cc_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-8/",
+      "alt": "Foley在酒店沙发上面对查克",
+      "caption": "本集截图：警方行动后，查克与Foley重谈权力关系；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/degiulio.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69739504e95d97392_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-8/",
+      "alt": "DeGiulio法官坐在罗兹家中说话",
+      "caption": "本集截图：旧人情被要求兑现为留任；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/last-light.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e8112.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "阿克斯夜间坐在公司桌前",
+      "caption": "本集截图：与泰勒比谁留得更晚，阿克斯取消孩子晚餐；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1748,
+      "height": 1748
+    },
+    {
+      "file": "assets/wendy-final.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e8114.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26565",
+      "alt": "温迪在酒店房间里直视老查克",
+      "caption": "本集截图：温迪在结尾回敬开场的羞辱；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1872,
+      "height": 1780
+    }
+  ],
+  "acts": [
+    {
+      "id": "returning",
+      "number": "I",
+      "title": "回归不等于续接",
+      "deck": "旧成绩被清空，旧恩主要求兑现。",
+      "range": "01—04",
+      "summary": "两名长辈侵犯私密边界，阿克斯回到公司重设交易；新的内幕邀请与政治交易同时展开。"
+    },
+    {
+      "id": "membership",
+      "number": "II",
+      "title": "谁说了算",
+      "deck": "工资、亲密与职位都被换成资格考核。",
+      "range": "05—08",
+      "summary": "Spyros被逐出，劳拉质问温迪，Bryan被报复；泰勒把感谢礼物改成具体的独立权限。"
+    },
+    {
+      "id": "control",
+      "number": "III",
+      "title": "拿回自己的方向",
+      "deck": "反制能带来选择，也能把关系变成另一场控制。",
+      "range": "09—12",
+      "summary": "查克先制服Foley，再决定不竞选；阿克斯赢得交易却错过孩子，温迪亲自回应家族权力。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "private-ambush",
+      "act": "returning",
+      "lane": "cross",
+      "where": "私人会所 / 次晨罗兹家",
+      "title": "他们说是风险教育，夫妻听见的是支配。",
+      "image": "ambush",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Foley 与老查克威胁会所经营者后闯入，羞辱原本准备私人活动的夫妻，要查克立刻辞去检察官职位、公开竞选州长。温迪回家指出，这种启动方式会让他成为受操纵的候选人；若仍要竞选，必须先反转 Foley 的控制。",
+      "analysis": "长辈把可被曝光的风险用来证明自己应有干预权，施压的手法本身却展示了另一种风险：候选人连私生活边界也守不住。温迪并不直接否决竞选，而是要求选项属于丈夫本人；这也埋下她后来不愿只等查克代为回应羞辱的原因。",
+      "turn": "因此 → 查克寻找能让恩主反过来受制的消息。"
+    },
+    {
+      "id": "clear-the-board",
+      "act": "returning",
+      "lane": "capital",
+      "where": "Axe Capital · 欢迎回归",
+      "title": "先感谢成绩，再清掉成绩。",
+      "image": "return",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒正宣布主基金上涨，阿克斯回到交易区，称赞泰勒超出基准半个百分点。随后他要求清空全部仓位、停掉量化实验，一切新交易由自己批准，并计划六个月募集二百亿美元。泰勒指出当前投资者仍会追问近期的法律风波。",
+      "analysis": "清仓在这里不只是投资判断，也是一项可见的领导权宣告。泰勒提供的业绩证明公司在阿克斯缺席时仍能运转，正让“重新开始”带有否定既有自主性的意味。募集目标越大，越需要解释连续性与可信度；阿克斯却先要让组织重新围绕自己的判断运作。",
+      "turn": "因此 → 泰勒需要的不只是口头表扬。"
+    },
+    {
+      "id": "natural-gas-tip",
+      "act": "returning",
+      "lane": "capital",
+      "where": "Krakow的画作空间",
+      "title": "他先怀疑录音，再接受秘密账户。",
+      "image": "krakow",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "现任财政部长 Krakow 告诉阿克斯，EPA 将撤销某项监管，撤销后将利好天然气行业。阿克斯先声明不做非公开信息交易，怀疑对方设局；Krakow 出示不为华盛顿所知的开曼账户，要求以加密货币分成，借共同暴露的风险证明自己的来意。",
+      "analysis": "阿克斯才脱离政府的网，第一反应是怕再次被套，而不是拒绝信息优势。秘密账户把信任建立在共同把柄上：Krakow 既交出线索，也交出能证明自己参与的痕迹。本集随后展示行情变化呼应消息，但不能把这种事后兑现写成两人交易已经合法。",
+      "turn": "因此 → 阿克斯准备下注，也试图把泰勒带入同一方向。"
+    },
+    {
+      "id": "sweeney-information",
+      "act": "returning",
+      "lane": "law",
+      "where": "Albany关系网 / 市长办公室",
+      "title": "先交还旧把柄，再索取新的把柄。",
+      "image": "sweeney",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "竞选操盘人告诉查克，他需要 Buffalo 的 Sweeney 支持。查克交还曾用来逼退市长的儿子陈述，承认当时不该利用它；又承诺由自己的办公室起诉市长的选举对手，换取能压住 Foley 的信息，并保证不会把 Sweeney 暴露出去。",
+      "analysis": "道歉与修复并非全然虚假，却与新的交换紧紧相连。归还旧把柄把对方从被控制者转成合作人，同时查克又以公职行动作报酬，延续了同一种把公共职责当作私人筹码的方式。此时观众看到的是提议与消息来源，警方的具体行动还在后面。",
+      "turn": "因此 → 查克得到寻找Foley弱点的路径。"
+    },
+    {
+      "id": "wilbury-test",
+      "act": "membership",
+      "lane": "capital",
+      "where": "Axe Capital · 解雇与打包",
+      "title": "不够像圈内人，除非还带着好消息。",
+      "image": "spyros-out",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯与 Wags 用乐队成员资格嘲讽 Spyros，认为他既没有额外价值，又疏远全公司，直接解雇。打包时 Spyros 向 Bill 提出自己仍能访问未公开的 SEC 调查名单；Bill 从拒绝听他讲话，转为愿意花时间共同判断哪些调查有实质。",
+      "analysis": "所谓品位、机智与可信度是一道由现有成员说了算的门槛。Spyros 为融入圈子捐钱也无用，却一提出可赚钱的信息，旧敌就愿意重新坐下。此线随后以 Bill 担保令他复职收束：资格真正依赖的是可持续的优势，而不是终于让所有人喜欢。",
+      "turn": "因此 → 合规主管的旧监管权限，被转成投资资源。"
+    },
+    {
+      "id": "family-boundary",
+      "act": "membership",
+      "lane": "wendy",
+      "where": "Axe Capital · 劳拉与Gordie",
+      "title": "谁能安慰孩子，谁能决定他的住处？",
+      "image": "lara-wendy",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉质疑阿克斯对其资金收取正常的二与二十费率；阿克斯承认不满来自她曾计划带孩子搬远。Gordie 等待时找温迪说父母分居，劳拉打断谈话，禁止儿子再叫“温迪阿姨”。孩子说原本没觉得是自己错，直到父母反复强调。",
+      "analysis": "一句标准安慰可能把孩子尚未提出的自责带进生活，这是 Gordie 自己给出的感受。劳拉争取咨询授权有具体边界，愤怒却又把孩子熟悉的成人关系当场切断。后段谈判里，她以更低费率接受资金七年锁定与孩子留在当地的安排，说明家庭选择也被纳入交易。",
+      "turn": "因此 → 财务与亲子问题被绑在同一套条件里。"
+    },
+    {
+      "id": "bryan-dismissal",
+      "act": "membership",
+      "lane": "law",
+      "where": "SDNY · 临时办公室",
+      "title": "你全学会了，只是没有赢。",
+      "image": "bryan-fired",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "回南区的 Bryan 被安排在无服务器权限的办公室等待，同事保持距离。查克终于来接他，看似赞许他坚持追查权力，随即反转：最重要的一课是赢，而他没有除掉自己。查克以他曾上门威胁妻子与家庭为由，命他交证件离开。",
+      "analysis": "言辞先提供被重新接纳的希望，再将它当面撤回，使惩罚超出职位本身。查克把办案时不该被权力吓退的原则改写成胜者才配保留原则，显示他会怎样使用刚保住的自由。这不是调查自然结束后的人员调配，而是人物明确说出的私人报复。",
+      "turn": "因此 → Bryan失去南区检察官身份，追查意愿不等于也被取消。"
+    },
+    {
+      "id": "own-book",
+      "act": "membership",
+      "lane": "capital",
+      "where": "车库谈判 / 阿克斯办公室",
+      "title": "十亿美元，也要问谁能决定怎么用。",
+      "image": "taylor-no",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒先前拒绝用汽车补偿清仓与量化项目被撤，争得十亿美元独立组合，也接受了车。阿克斯却把资金分期释放，称 CIO 只是建议角色，要求考虑天然气。泰勒判断他握有政府内部消息，拒绝跟投，决定自己寻找交易。",
+      "analysis": "争取名义额度与取得实际权限，是两场不同的谈判。泰勒要求的是不受干预的组合，阿克斯用时间、审批与建议重新套回控制。拒绝天然气不意味着泰勒已脱离公司，也不必被提前写成全面道德对立；明确发生的是不愿拿未被证实的内幕替代自己的分析。",
+      "turn": "因此 → 两人仍合作，独立的含义已成为争议。"
+    },
+    {
+      "id": "foley-trap",
+      "act": "control",
+      "lane": "law",
+      "where": "酒店 · 钢材认证交易",
+      "title": "警方抓住现场，查克留下谈条件。",
+      "image": "foley",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "NYPD 进入 Foley 与认证人员交付报酬的酒店现场，带走后者。查克随后指出劣质钢材被标高等级、卖入公共工程的模式，以及追溯旧项目可能造成的巨额责任。他没有在此宣布立即起诉 Foley，而是要求此后由自己作决定，恩主只可给建议。",
+      "analysis": "这一场要分清执行者和决定：警察控制现场，不等于南区检方已经完成对Foley的起诉。查克把真实的公共安全危险转为重新分配两人权力的杠杆，选择暂缓而非立刻追究。开场被教训的候选人在此取得主动，却仍沿用把个人条件放进公共程序的方式。",
+      "turn": "因此 → Foley被制服，不代表查克已摆脱所有承诺。"
+    },
+    {
+      "id": "choose-office",
+      "act": "control",
+      "lane": "law",
+      "where": "罗兹家 / 宣布活动",
+      "title": "刚剪掉一根线，旧誓言又找上门。",
+      "image": "degiulio",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "DeGiulio 要查克兑现不拒绝任何请求的旧承诺，留任检察官，以保障自己迈向最高法院的计划。温迪又指出他真正热爱的是自主选择战斗的现职。随后公开活动上，查克没有宣布自己竞选，反而支持 Sweeney，令父亲与 Foley 当场错愕。",
+      "analysis": "决定有不止一个原因：法官提出具体债务，温迪帮助丈夫辨认欲望，查克最后承担公开选择。不能把它全归结成听妻子的话，也不能写成他已完全自由。留任避免了竞选的讨价还价，却保留了Jeffcoat与人情网络；Foley也明说不会就此认输。",
+      "turn": "因此 → 竞选没有启动，恩主关系转为公开冲突。"
+    },
+    {
+      "id": "stay-later",
+      "act": "control",
+      "lane": "capital",
+      "where": "Axe Capital / 等父亲的餐厅",
+      "title": "行情兑现，孩子却等不到人。",
+      "image": "last-light",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "此前 Spyros 已在 Bill 担保下复职。此时天然气行情按消息上涨，阿克斯要求未来卖出时给 Krakow 分成，又给拒绝跟投的泰勒多放一亿美元。他看到泰勒仍在工作，决定像过去跑步机上一定等邻人先停那样留得更晚，取消与孩子的晚餐。",
+      "analysis": "他已经拥有自由、钱和组织控制，却很快需要下一场可比较的胜负。多释放资金没有结束地位竞争，反而与拒绝先离场并置。孩子收到的是“买下所有甜点”的替代品，这使前面争取孩子留在身边的坚持变得尖锐：控制陪伴条件，仍不等于实际陪伴。",
+      "turn": "因此 → 新的对手坐在公司里，旧的亲密被排到后面。"
+    },
+    {
+      "id": "wendy-answer",
+      "act": "control",
+      "lane": "wendy",
+      "where": "老查克的酒店房间 · 结尾",
+      "title": "这一次，她自己把门推开。",
+      "image": "wendy-final",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪先前向阿克斯借用 Hall 处理家庭事务。结尾老查克等候的女人没有来，温迪走进房间，用开场同样的脱外套取笑方式反击，告诉他自己参与促成查克放弃竞选，并警告他记住以后想羞辱、威胁她时面对的是谁。",
+      "analysis": "温迪没有请求长辈理解私生活，而是展示自己也能打断他的私密安排。动作与开场形成严密回声，权力从让人难堪转到谁有能力设置难堪。它能读成守住边界，也暴露她正使用与施压者相近的手法；本集并未证明这种回应会使家庭从此和平。",
+      "turn": "因此 → 羞辱得到回敬，控制的循环并未被自动终止。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "留任的南区检察官",
+      "fact": "解雇Bryan、反制Foley，并最终支持Sweeney竞选。",
+      "analysis": "重新获得选择空间，也继续把公职能力用于处理私人支配关系。"
+    },
+    "axe": {
+      "role": "重返交易的创办人",
+      "fact": "清仓、重取审批，接受天然气内幕并把泰勒当成新比较对象。",
+      "analysis": "他争取的是不受干扰的主动权，却没有同样给予下属与家人。"
+    },
+    "wendy": {
+      "role": "教练 / 家族冲突参与者",
+      "fact": "承认操纵Mafee后的不适，劝丈夫留任，并亲自回应老查克。",
+      "analysis": "她能说明伤痕未消失，也在用熟悉的控制方式重新站稳。"
+    },
+    "taylor": {
+      "role": "CIO / 要求独立组合者",
+      "fact": "争得十亿美元名义额度，拒绝跟做天然气内幕押注。",
+      "analysis": "尊重成绩需要落实为权限；泰勒仍在公司内部争取判断空间。"
+    },
+    "spyros": {
+      "role": "被解雇后复职的合规主管",
+      "fact": "以未公开的SEC调查名单取得Bill担保。",
+      "analysis": "归属不来自讨好，而来自能被公司转成收益的信息。"
+    },
+    "bryan": {
+      "role": "被南区解雇的检察官",
+      "fact": "回到旧办公室后被查克要求交证件离开。",
+      "analysis": "坚持追查没有换来制度保护，查克明确把惩罚与妻子受威胁相连。"
+    },
+    "lara": {
+      "role": "投资客户 / 阿克斯前伴侣",
+      "fact": "要求降低费率，限制温迪接触儿子，接受资金与居住安排。",
+      "analysis": "她试图维护母亲与客户的权利，两种身份又被阿克斯绑在同一谈判里。"
+    },
+    "foley": {
+      "role": "纽约州政治操盘者",
+      "fact": "逼查克辞职竞选，随后被钢材现场行动反制。",
+      "analysis": "他先把私人边界当教学工具，后来仍拒绝承认一次落败就结束掌控。"
+    }
+  },
+  "phases": [
+    {
+      "id": "triumph",
+      "name": "第一阶段 · 返回中心",
+      "note": "自由恢复，旧权力要求回归。",
+      "edges": [
+        "暂时同盟",
+        "共同反感羞辱",
+        "借用Hall",
+        "清空泰勒成绩",
+        "不再单纯"
+      ],
+      "details": {
+        "chuck": "被长辈要求辞职竞选",
+        "axe": "宣布清仓与重新审批",
+        "wendy": "反对丈夫被操盘",
+        "taylor": "成绩获赞却被清空",
+        "spyros": "用讨好证明归属",
+        "bryan": "等待旧上司接见",
+        "lara": "发现按正常费率收费",
+        "foley": "以私生活施压候选人"
+      }
+    },
+    {
+      "id": "terms",
+      "name": "第二阶段 · 重谈条件",
+      "note": "被支配者寻找自己的筹码。",
+      "edges": [
+        "各谋新方向",
+        "她要求自主",
+        "承认胜后空虚",
+        "争十亿独立盘",
+        "专业关系延续"
+      ],
+      "details": {
+        "chuck": "借Sweeney消息反制Foley",
+        "axe": "提供汽车但限制资金权限",
+        "wendy": "向阿克斯借Hall处理家务",
+        "taylor": "争到额度又拒绝天然气",
+        "spyros": "以SEC名单吸引Bill",
+        "bryan": "因触犯查克家庭被解雇",
+        "lara": "与温迪争咨询权限",
+        "foley": "被现场交易与旧案风险压住"
+      }
+    },
+    {
+      "id": "reversal",
+      "name": "第三阶段 · 选择代价",
+      "note": "反击成功，不等于停止控制别人。",
+      "edges": [
+        "仍是暂时同盟",
+        "接受留任选择",
+        "彼此共享伤痕",
+        "成为新比较对象",
+        "共同承压"
+      ],
+      "details": {
+        "chuck": "背书Sweeney，继续留任",
+        "axe": "赢天然气却错过孩子晚餐",
+        "wendy": "在酒店亲自回敬老查克",
+        "taylor": "得到追加资金但未解独立之争",
+        "spyros": "复职仍遭圈内人取笑",
+        "bryan": "失去职位，未来未在本集交代",
+        "lara": "以一与十费率接受七年安排",
+        "foley": "承认被抢先但警告反击"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "political-reversal",
+      "title": "查克怎样从被操盘者变成改写宣布的人？",
+      "intro": "消息、执法与承诺依次改变选项。",
+      "nodes": [
+        {
+          "name": "Foley / 父亲",
+          "role": "逼辞职并羞辱夫妻",
+          "portrait": "foley",
+          "scene": "private-ambush"
+        },
+        {
+          "name": "Sweeney",
+          "role": "提供Foley线索，换取对手被起诉",
+          "portrait": null,
+          "scene": "sweeney-information"
+        },
+        {
+          "name": "查克",
+          "role": "借钢材现场重新定条件",
+          "portrait": "chuck",
+          "scene": "foley-trap"
+        },
+        {
+          "name": "公开活动",
+          "role": "改为背书Sweeney",
+          "portrait": null,
+          "scene": "choose-office"
+        }
+      ],
+      "result": "他先取得反制，再受旧承诺与自身偏好影响选择留任；这不是毫无外部约束的决定。"
+    },
+    {
+      "id": "capital-permission",
+      "title": "十亿美元为什么还不等于独立？",
+      "intro": "口头额度、释放时间与交易方向是不同权限。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "先清空原仓位与量化",
+          "portrait": "axe",
+          "scene": "clear-the-board"
+        },
+        {
+          "name": "泰勒",
+          "role": "提出自己的独立组合",
+          "portrait": "taylor",
+          "scene": "own-book"
+        },
+        {
+          "name": "阿克斯",
+          "role": "分期给钱并建议天然气",
+          "portrait": "axe",
+          "scene": "own-book"
+        },
+        {
+          "name": "泰勒",
+          "role": "拒绝内幕，另找机会",
+          "portrait": "taylor",
+          "scene": "own-book"
+        }
+      ],
+      "result": "仍在组织内部的分歧，已落实到谁决定资金何时到手、投向哪里。"
+    },
+    {
+      "id": "membership-price",
+      "title": "Spyros用什么换回自己的位置？",
+      "intro": "讨好失败后，可交易的信息被当作额外价值。",
+      "nodes": [
+        {
+          "name": "解雇决定",
+          "role": "称他不是圈内人",
+          "portrait": "axe",
+          "scene": "wilbury-test"
+        },
+        {
+          "name": "调查名单",
+          "role": "仍可访问未公开SEC信息",
+          "portrait": "spyros",
+          "scene": "wilbury-test"
+        },
+        {
+          "name": "Bill",
+          "role": "研究并担保其策略",
+          "portrait": null,
+          "scene": "stay-later"
+        },
+        {
+          "name": "复职",
+          "role": "老板承认有额外价值",
+          "portrait": "spyros",
+          "scene": "stay-later"
+        }
+      ],
+      "result": "这条路径展示公司采用信息优势，不能被说成监管机构授权的正常研究。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I want my own book.",
+      "zh": "我要自己的投资组合。",
+      "speaker": "泰勒 → 阿克斯",
+      "context": "汽车不能回答仓位与量化项目被取消的问题。",
+      "image": "own-book",
+      "analysis": "要求从礼物转为权限，说明尊重最终要体现为可决定的事情。"
+    },
+    {
+      "en": "You didn't win.",
+      "zh": "你没有赢。",
+      "speaker": "查克 → Bryan",
+      "context": "表面欢迎结束，真正的处分理由出现。",
+      "image": "bryan-fired",
+      "analysis": "胜者把职业教育改成力量规则，让此前坚持原则的赞许显得残酷。"
+    },
+    {
+      "en": "Clear as Catskills spring water.",
+      "zh": "像卡茨基尔山泉水一样清楚。",
+      "speaker": "Foley → 查克",
+      "context": "查克以钢材问题要求重新定义双方位置。",
+      "image": "foley",
+      "analysis": "他能听懂强制条件，不代表已经接受永远失去操控权。"
+    },
+    {
+      "en": "It's just the way I'm wired.",
+      "zh": "我就是这样运转的。",
+      "speaker": "阿克斯 → Wags",
+      "context": "他解释为什么要等泰勒先下班。",
+      "image": "last-light",
+      "analysis": "把选择说成天性，轻易绕过了这一次具体放弃孩子晚餐的责任。"
+    }
+  ],
+  "comparison": {
+    "title": "“让你自己决定”，可以只是一句承诺吗？",
+    "deck": "查克要求Foley退回顾问席，泰勒也要求阿克斯兑现独立权限。",
+    "left": {
+      "image": "foley",
+      "caption": "本集Foley被现场行动压住后的截图。",
+      "speaker": "查克 → Foley",
+      "title": "你给建议，我作决定。",
+      "text": "查克以旧工程风险为筹码，拒绝让竞选恩主继续代自己安排人生。"
+    },
+    "right": {
+      "image": "taylor-no",
+      "caption": "本集泰勒拒绝天然气建议的截图。",
+      "speaker": "泰勒 → 阿克斯",
+      "title": "额度给了，方向却仍由老板指定。",
+      "text": "阿克斯称CIO为建议角色，还控制资金发放时间；泰勒只能以拒绝跟投保留部分主导权。"
+    },
+    "rows": [
+      {
+        "label": "被争取的空间",
+        "left": "是否辞职、怎样竞选",
+        "right": "资金何时到位、投向何处"
+      },
+      {
+        "label": "对方的筹码",
+        "left": "Foley握资源与私人弱点",
+        "right": "阿克斯握职位与资本"
+      },
+      {
+        "label": "本集具体行动",
+        "left": "重新定条件并改做背书",
+        "right": "拒绝内幕押注，继续寻找交易"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "他们都懂被操盘的滋味，却未必愿意放开自己的手。",
+      "text": "本集不需要提前宣布新的阵营。两场具体谈判已经说明，自主不是赞许、礼物或名义额度，而是对方能接受你作出不同的选择。查克想从恩主手里取得的，正是泰勒仍在向阿克斯争取的。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "成员资格",
+      "fact": "Spyros被指不配成为Wilbury，却以名单换回职位。",
+      "analysis": "圈子说自己在评品位，行动实际在给可获利信息标价。",
+      "steps": [
+        "嘲讽门槛",
+        "递出信息",
+        "重新接纳"
+      ]
+    },
+    {
+      "title": "七年锁定",
+      "fact": "阿克斯与劳拉把管理费、资金锁定及孩子居住安排一并谈定。",
+      "analysis": "合同语言让不同权利被摆在一张桌上，却无法保证孩子得到实际陪伴。",
+      "steps": [
+        "二与二十",
+        "一与十",
+        "孩子等晚餐"
+      ]
+    },
+    {
+      "title": "伤痕与最后一盏灯",
+      "fact": "温迪与阿克斯承认胜利快感短暂，夜里阿克斯仍因泰勒在场而不走。",
+      "analysis": "失去危险后的空白，迅速由比较填满；能离开监牢并不等于能停止竞争。",
+      "steps": [
+        "快感退去",
+        "重新比较",
+        "取消陪伴"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "wendy-final",
+    "kicker": "HANDLE WITH CARE",
+    "value": "↺",
+    "title": "她把同一句羞辱，\n送回了房间。",
+    "text": "温迪在老查克原本的私人安排中现身，像他开场那样谈起外套与炎热。反击守住了一个边界，也让本集以相似的权力动作收尾：谁都不愿再被别人随意摆放。"
+  }
+}

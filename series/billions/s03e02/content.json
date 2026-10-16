@@ -1,0 +1,659 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 2,
+  "title": "The Wrong Maria Gonzalez",
+  "chineseTitle": "被遣返的人，留下的资本",
+  "subtitle": "对冲、换法官，与无法返回的证人",
+  "hero": "maria",
+  "heroTitle": "他们能换位置\n她只能被送走",
+  "heroDeck": "二十亿美元可以重新安排，\n一位法官可以退出。\nMaria 的生活却没有第二套方案。",
+  "openingTitle": "限制生效以后，\n谁仍有办法继续游戏？",
+  "openingFact": "阿克斯已签字停止本人交易，查克也不是冰果汁案的掌案者。两人仍不愿把接下来的决定完全交给别人；与此同时，检方找到一位愿意开口的家政工。",
+  "openingReading": "本集把可以协商的约束，与不能协商的后果并排展示。最灵活的人不断重组关系，最脆弱的人却可能仅因一个身份记录就被移出现场。",
+  "stamp": {
+    "value": "2B",
+    "label": "A PLACE TO PLAY",
+    "note": "二十亿美元既是资本，也是一只尚未放开的控制手柄。"
+  },
+  "storyTitle": "换法官，换场地，\n还有一个换错的人",
+  "storyDeck": "十二个节点连起两条绕行路线，结尾落在无法自行选择路线的人身上。",
+  "intro": "公司恢复交易以后，泰勒迎来第一场重大亏损考验。阿克斯无法安心旁观，查克也无法接受随机分配的法官。两人借旧关系寻找确定性，Maria 的合作则因雇主的警觉开始倒计时。",
+  "catalogueIntro": "阿克斯想用二十亿美元保留市场中的控制，泰勒却必须在海啸冲击下独立承担亏损。查克安排法官更替，布莱恩寻找失约证人；同名身份的错位最终让最脆弱的人付出代价。",
+  "spoiler": "剧透范围：前两季必要背景及第三季第 1—2 集；不越过本集结尾。事实与个人解读分栏；英文短台词中文均为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S03E02 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e02",
+      "note": "核对对话、事件顺序与短台词；非官方转录。台词中文为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第三季第 2 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "note": "交叉核对情节及画面语境；作者猜测与预测未当作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E02 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-2/screencaps/",
+      "note": "仅用于核对本集图像归属；不使用自动生成的回顾。"
+    },
+    {
+      "id": "pipe",
+      "title": "Investor.gov · PIPE Offerings",
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/pipe-offerings",
+      "note": "金融术语背景：PIPE 指上市公司以非公开方式向投资者发行证券，并非通常意义的非上市公司私募股权投资；不据此判断剧中交易的合法性。"
+    },
+    {
+      "id": "detention",
+      "title": "Ginges Be Cray · 第2集拘留中心场景与动图",
+      "url": "https://gingesbecray.com/billions-s3e02-recap/",
+      "note": "用于核对拘留中心的场景、台词与图像；所用静图取自原站动图第0帧，保留原始尺寸，未裁切、放大或重建。作者的猜测不作为本页剧情事实。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/night.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e214.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "阿克斯深夜打电话给温迪",
+      "caption": "本集截图：阿克斯说自己无法接受不能交易的生活。",
+      "kind": "episode-still",
+      "width": 3246,
+      "height": 1788
+    },
+    {
+      "file": "assets/wheel.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e213.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "布莱恩与 Dake 等待抽签决定法官",
+      "caption": "本集宣传剧照：抽签装置决定阿克斯案由 Funt 法官承办。",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/taylor.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e220.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "泰勒询问被保留的二十亿美元",
+      "caption": "本集截图：泰勒发现下一阶段要用的资金受到阿克斯指令限制。",
+      "kind": "episode-still",
+      "width": 3204,
+      "height": 1766
+    },
+    {
+      "file": "assets/wags.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e212.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "Wags 在阿克斯公寓劝他停手",
+      "caption": "本集截图：Wags 明确指出绕过禁令的交易会危及所有人。",
+      "kind": "episode-still",
+      "width": 3184,
+      "height": 1770
+    },
+    {
+      "file": "assets/maria.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e21.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "布莱恩与 Terri 在街边询问 Maria",
+      "caption": "本集截图：两人要求 Victor 的家政工 Maria Gonzalez 就冰果汁作证；不是拘留中心的另一位同名者。",
+      "kind": "episode-still",
+      "width": 1644,
+      "height": 860
+    },
+    {
+      "file": "assets/judge.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e24.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "DeGiulio 在法官办公室与查克交谈",
+      "caption": "本集截图：查克请求 DeGiulio 争取接任案件，并承诺欠下人情。",
+      "kind": "episode-still",
+      "width": 3218,
+      "height": 1728
+    },
+    {
+      "file": "assets/office.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/01/s3trailer15.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "泰勒与 Wags 在阿克斯办公室面对阿克斯",
+      "caption": "第三季预告片画面，对应本集办公室冲突；非播出版逐帧截图。",
+      "kind": "season-trailer-still",
+      "width": 3190,
+      "height": 1698
+    },
+    {
+      "file": "assets/hallway.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e224.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "查克站在法院走廊等待 Funt",
+      "caption": "本集截图：查克等候法官，准备索取旧人情。",
+      "kind": "episode-still",
+      "width": 3170,
+      "height": 1712
+    },
+    {
+      "file": "assets/hedge.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e230.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "阿克斯夜里与泰勒讨论资金",
+      "caption": "本集截图：阿克斯保留公司资本，接受泰勒投资外部基金的安排。",
+      "kind": "episode-still",
+      "width": 2692,
+      "height": 1614
+    },
+    {
+      "file": "assets/dake.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e229.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=25243",
+      "alt": "Dake 在办公室面对布莱恩",
+      "caption": "本集截图：Dake 面对布莱恩对礼物与回报的警告；不是司法部长的通话画面。",
+      "kind": "episode-still",
+      "width": 2614,
+      "height": 1530
+    },
+    {
+      "file": "assets/wrong-maria.png",
+      "originalUrl": "https://gingesbecray.com/wp-content/uploads/2018/04/40.25.gif",
+      "sourceUrl": "https://gingesbecray.com/billions-s3e02-recap/",
+      "alt": "布莱恩站在拘留中心的玻璃砖墙前说话",
+      "caption": "本集截图：拘留中心里，布莱恩发现来的人并非所找证人；Showtime / Ginges Be Cray，原站动图首帧",
+      "kind": "episode-still",
+      "width": 458,
+      "height": 258
+    }
+  ],
+  "scenes": [
+    {
+      "id": "night-call",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "阿克斯公寓 · 深夜",
+      "title": "不能下单，仍然能看见",
+      "image": "night",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯深夜告诉温迪，自己签字放弃交易是错误。温迪指出使签字成为必要的是他此前无视规则，并劝他练习放手。他随后看见莫桑比克地震警报，立即联系过去扶持的外部基金，提出由可信的人执行想法，且不能让人发现自己在背后。",
+      "analysis": "温迪区分的是行为造成的后果与限制本身，阿克斯却只感到能力被浪费。于是他把不能交易重新拆成仍能观察、仍能联系、仍有旧部，尝试把被禁止的行动转移到别人手里。可见性被切断，并不等于控制消失；他想保留的正是法律安排要求交出的那部分。",
+      "turn": "因此 → 签字后的第一晚，他已经在寻找继续参与市场的通道。"
+    },
+    {
+      "id": "judge-wheel",
+      "act": "act1",
+      "lane": "law",
+      "where": "法院抽签 → 查克与温迪会面",
+      "title": "随机抽到的法官，被他当成待改的结果",
+      "image": "wheel",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯案抽中主张自由市场的 Funt 法官，Bach 喜形于色。查克要求 Dake 想办法使其退出，Dake 拒绝扩大两人旧协议。查克又向温迪坦言担心阿克斯揭露诱局；温迪提醒他，Funt 欠过人情，并催他坚持索取。",
+      "analysis": "查克说需要公正裁判，同时明确在筛选更适合自己案子的人。Dake 把做法称为干预，查克把它称为技巧，措辞改变的不是动作而是容忍尺度。温迪此时也参与了家庭防线的构建：她没有只让丈夫冷静，而是鼓励他把私人关系用到程序入口。",
+      "turn": "因此 → 既然 Dake 不愿代办，查克必须亲自安排退出者与接任者。"
+    },
+    {
+      "id": "reserved-capital",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital → 阿克斯公寓",
+      "title": "二十亿美元，是授权之外保留的手柄",
+      "image": "wags",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒已经分阶段将九十亿美元投入市场，下一步所需二十亿美元却被阿克斯预留。Wags 看出他想把钱送到外部基金，警告任何可追溯的指令都可能毁掉公司。阿克斯改提由泰勒在账面上合法投资外部机构，Wags 仍反对强迫配合。",
+      "analysis": "表面上是资金配置，实际问题是首席投资官能否使用被交付管理的资本。Wags 难得以严肃的口吻直呼老板名字，说明忠诚此时需要阻止他。阿克斯想到的合法出资并不能自动洗清私下指令；把钱留下来，便保留了继续讨价还价的权力。",
+      "turn": "因此 → 泰勒既要面对市场风险，还要面对老板随时拿走资本的威胁。"
+    },
+    {
+      "id": "maid-witness",
+      "act": "act1",
+      "lane": "law",
+      "where": "街边公交站 / Victor 的家",
+      "title": "合作承诺先碰上了身份恐惧",
+      "image": "maria",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "布莱恩与 FBI 探员 Terri 接近 Victor 的家政工 Maria Gonzalez，先说不管移民身份，随后以犯罪会影响绿卡施压。她承认替 Victor 参与冰果汁事件，药瓶由一名女人交来，并答应下班后录供。Victor 因她从不迟到却迟到了而起疑。",
+      "analysis": "Maria 的证词不是在平等安全的条件下取得：雇主控制担保，探员又强调身份后果，两边都能让她失去生活。Victor 甚至不需要知道谈话内容，工作纪律的一次偏差就能暴露她。检方得到口头合作，却没有同时给出足以抵御另一边控制的保护。",
+      "turn": "因此 → Victor 警告阿克斯已有问题，尚未完成的证词开始与时间赛跑。"
+    },
+    {
+      "id": "tsunami",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Axe Capital · 交易区",
+      "title": "第一天危机，不会等新主管先有经验",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "巴西出现海啸，公司的巴西糖业、航运等新近仓位受到冲击。泰勒说明已采取多种应对，继续要求团队寻找更有效的交易。对能否投资陷入法律丑闻的企业，泰勒表态只要能赚钱就做；温迪则提醒，当天可能确实会亏钱。",
+      "analysis": "灾难既伤害公众，也成了公司衡量新主管的压力测试。泰勒担心一次亏损会让努力建立的威信只剩缺乏经验，因而坚持必须毫发无伤。温迪要求承认不可逆的损失，实际上是在阻止把领导力误写成永不失败；否则补救很容易升级成孤注一掷。",
+      "turn": "因此 → 阿克斯看到损失赶回公司，而泰勒需要在危机中证明自己的决策权。"
+    },
+    {
+      "id": "replacement-judge",
+      "act": "act2",
+      "lane": "law",
+      "where": "DeGiulio 法官办公室",
+      "title": "先找好下一位，再让这一位退出",
+      "image": "judge",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克到 DeGiulio 的办公室，透露 Funt 即将退出的计划，希望对方在首席法官重新指派时抢先争取案件。他强调不要求偏向检方，只要求由无法收买的法官审理，却同时许诺：若得到帮助，余生没有任何请求会拒绝偿还。",
+      "analysis": "这笔交易最矛盾的地方，在于查克用公正不可交换来赞美对方，又把让对方坐到位置上的机会纳入交换。案件实体裁判没有被直接指定，选择裁判者的程序却已经被私人协调。一次看似维护公平的安排，依赖的是愿意永久背负的人情。",
+      "turn": "因此 → 接任者准备就位，查克只剩让 Funt 正式回避这一关。"
+    },
+    {
+      "id": "leave-office",
+      "act": "act2",
+      "lane": "capital",
+      "where": "阿克斯办公室 → 街道",
+      "title": "不发指令，也能让所有人等他的脸色",
+      "image": "office",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Spyros 全程录像监督阿克斯在办公室的行动，并移走交易终端。交易员仍在意老板的评价，泰勒指出这种在场已让团队不知听谁的。泰勒表示若不能真正掌权就离开；阿克斯离场并扬言拿走二十亿美元，却让温迪留下支持泰勒。",
+      "analysis": "他没有当众下达具体交易命令，权威仍能通过员工的恐惧和讨好继续生效。泰勒争取的不只是职位名称，而是不必随时猜测创办人心意的工作环境。阿克斯叫温迪留下，显出愤怒与理性并存：他要表达被逐出的不快，也知道公司不能失去当前的主管。",
+      "turn": "因此 → 清晰的指挥关系暂时保住，二十亿美元的归属仍悬着。"
+    },
+    {
+      "id": "favor-arrives",
+      "act": "act2",
+      "lane": "law",
+      "where": "南区检察官办公室",
+      "title": "欠条终于有了具体面孔",
+      "image": "dake",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Karl Allerd 到南区报到，自称是新任助理联邦检察官。查克不记得聘用过他，Karl 随即提起 Dake 保留的那笔人情。查克认出自己需要兑现安排，仍公开说出不信任；Sacker 被要求接待他，办公室从此多了一个外部关系带来的同僚。",
+      "analysis": "上一集没有标价的人情，如今改变了查克身边的人事。Karl 承认从查克的位置看自己像个间谍，并表示要赢得信任，说明他也清楚进入方式造成的隔阂。交换并未靠一句谢谢结清，而是把一个需要持续相处、判断和管理的人留在日常工作中。",
+      "turn": "因此 → 查克能收取法官旧债，也必须接受自己欠债带来的实际安排。",
+      "detail": "配图为本集 Dake 的办公室镜头，说明人事安排的来源；不是 Karl 报到的精确画面。"
+    },
+    {
+      "id": "wrong-maria",
+      "act": "act3",
+      "lane": "law",
+      "where": "拘留中心 → Dake 致电司法部长",
+      "title": "同一个名字，两种完全不同的下落",
+      "image": "wrong-maria",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Maria 没有按约到场。布莱恩得知同名者在拘留中心，赶到才发现眼前不是自己的证人，目标已被送上飞往危地马拉的遣返飞机。他怀疑有人预先改动身份资料，指向阿克斯。Dake 向 Jock 请求让她返回，得到的回答是拒绝补救。",
+      "analysis": "调查员原先以为姓名和出生信息足以把人从官僚系统中找回来，得到的却只是一个正确名字指向的错误身体。布莱恩对幕后操纵的判断有理由，尚不是本集已经取得的直接证据。Jock 把她描述成可遣返者，使案件所需的证人身份失去优先地位。",
+      "turn": "因此 → 检方失去已愿合作的重要证人，Maria 的生活代价则成为真实的遣返。"
+    },
+    {
+      "id": "book-loss",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "Axe Capital · 温迪办公室",
+      "title": "领导力也包括把亏损记下来",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "recap",
+        "pipe"
+      ],
+      "fact": "泰勒从 Ben Kim 反复研究却不敢提出的泰国糖业机会中，设计对困境上市公司分拆业务的上市公司私募投资（PIPE）。泰勒犹豫于任职以来最大的一单仍将锁定亏损。温迪支持独立判断，并指出将来犯错的痛苦会成为避免重蹈覆辙的经验。",
+      "analysis": "温迪没有用阿克斯会怎么做替泰勒消除责任，反而把无法请示当成听见自己声音的机会。交易的目标从抹去所有亏损，变成在已知条件下选择可承受的结果。这与同日在任性抽走资本之间形成区别：承认受伤，才可能停止为恢复完美形象追加风险。",
+      "turn": "因此 → 泰勒执行方案，公司的当日损失有了能够说明的判断与边界。"
+    },
+    {
+      "id": "collect-debt",
+      "act": "act3",
+      "lane": "law",
+      "where": "法院侧走廊 → 东区办公室",
+      "title": "他不要求偏判，只要求法官消失",
+      "image": "hallway",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克在温迪催促后拦住 Funt，提起曾为其儿子在医学院供应 Adderall 惹出的事解围。Funt 拒绝让旧债影响裁判，随后明白查克要的是回避，愤怒答应。DeGiulio 接任后，布莱恩认定有查克痕迹，警告 Dake 接受礼物将要付出更高回报。",
+      "analysis": "Funt 并未在证据标准上让步，却交出了是否审案的决定，查克精确选中了他愿意偿还而又自认能守住底线的地方。布莱恩用礼物与回礼解释这种帮助：价值并不由包装的友善决定。越能改善眼前局面的馈赠，越可能让受赠者失去拒绝下次请求的资格。",
+      "turn": "因此 → 检方换到了更合意的法官，程序之外的关系债务继续扩大。"
+    },
+    {
+      "id": "hedge-and-exile",
+      "act": "act3",
+      "lane": "cross",
+      "where": "阿克斯公寓 / 危地马拉",
+      "title": "有人得到对冲，有人被送出局",
+      "image": "hedge",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯承认留下监督是因为不知还能做什么，认可泰勒已尽力控制损失，决定保留二十亿美元。泰勒提出投资外部基金，自己做被动投资者；阿克斯看出这既给他空间，也让公司受益于其判断。本集最后，Maria 从巴士下来，回到危地马拉。",
+      "analysis": "公司内部以更复杂的分工达成暂时平衡：泰勒换来自己的场地，阿克斯有了继续玩下去的空间。但这种聪明安排与 Maria 的结尾并置，提醒观众并非人人都拥有分散风险的选择。老板还能讨论怎样对冲限制，证人则承担了失去美国生活的单向后果。",
+      "turn": "因此 → 两名掌权者各自获得缓冲，最脆弱的参与者已经离开他们的比赛。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "签过字，仍想掌控",
+      "deck": "资本、法官与证人进入新一轮选择。",
+      "range": "01—04",
+      "summary": "阿克斯寻找外部通道，查克盘算法官人选，检方争取 Maria 合作。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "真正的指挥权",
+      "deck": "海啸之后，谁能决定公司怎样承受损失。",
+      "range": "05—08",
+      "summary": "泰勒面对市场危机并要求老板离场；查克准备接任法官，也接收自己欠债的结果。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "可对冲的，与不可回头的",
+      "deck": "法官和资本可以改道，遣返已经发生。",
+      "range": "09—12",
+      "summary": "证人失去返回机会，泰勒接受亏损，查克索得回避；公司最后谈成新的分工。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官",
+      "fact": "安排 Funt 回避与 DeGiulio 接任，并接收 Dake 指定的 Karl。",
+      "analysis": "为家庭与旧布局排除不确定性，也让更多程序被私人债务包围。"
+    },
+    "axe": {
+      "role": "受交易限制的基金创办人",
+      "fact": "联系外部基金，干扰办公室后离开，最终与泰勒谈外部投资。",
+      "analysis": "无法放下的不是某笔收益，而是看见机会就必须采取行动的自我。"
+    },
+    "wendy": {
+      "role": "表现教练 / 查克妻子",
+      "fact": "催查克向 Funt 索取旧债，帮助泰勒接受亏损，要求阿克斯退开。",
+      "analysis": "她的推动并无单一方向：既帮助独立判断，也为家庭目标强化施压。"
+    },
+    "taylor": {
+      "role": "首席投资官",
+      "fact": "面对海啸与老板在场的双重压力，要求真实权力，执行泰国糖业方案。",
+      "analysis": "从不许失败转向承担损失，再用外部配置换取独立操作空间。"
+    },
+    "wags": {
+      "role": "公司运营核心",
+      "fact": "明确警告绕道交易风险，在老板与新主管之间维持运转。",
+      "analysis": "直呼名字的劝阻，说明效忠有时必须变成不顺从。"
+    },
+    "dake": {
+      "role": "东区联邦检察官",
+      "fact": "拒绝替查克更换法官，派来 Karl，向 Jock 求回证人未果。",
+      "analysis": "能拒绝扩大旧协议，却仍接受有利的帮助并参与关系交换。"
+    },
+    "bryan": {
+      "role": "调查阿克斯的检察官",
+      "fact": "争取 Maria 合作，发现证人被遣返，怀疑阿克斯并追问查克介入。",
+      "analysis": "对隐形操纵越来越敏感，但敏感不能代替可以留在案卷里的证据。"
+    },
+    "spyros": {
+      "role": "合规与风险主管",
+      "fact": "说明资金被保留，并录像监督阿克斯在公司的行动。",
+      "analysis": "录像约束显性的指令，无法单独消除员工对创办人的心理依赖。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 限制刚刚生效",
+      "note": "两名主角都试图改写已经接受的安排。",
+      "edges": [
+        "幕后仍然争夺",
+        "共同担心暴露",
+        "劝他练习放手",
+        "二十亿受限制",
+        "先承认会亏损"
+      ],
+      "details": {
+        "chuck": "不接受抽签结果。",
+        "axe": "寻找可信基金执行想法。",
+        "wendy": "提醒自由也包括接受界限。",
+        "taylor": "资金不足让授权打折。",
+        "wags": "罕见严肃劝阻老板。",
+        "dake": "拒绝代办法官更换。",
+        "bryan": "追查愿作证的家政工。",
+        "spyros": "执行老板对资本的预留。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 谁在场，谁作主",
+      "note": "市场灾难与老板目光同时挤压决策。",
+      "edges": [
+        "证人争夺展开",
+        "鼓励索取旧债",
+        "叫她留守公司",
+        "要求他离开",
+        "帮助面对失败"
+      ],
+      "details": {
+        "chuck": "预先争取 DeGiulio。",
+        "axe": "进办公室仍渴望掌握局面。",
+        "wendy": "要求阿克斯停止干扰。",
+        "taylor": "用离职表态争取真实指挥。",
+        "wags": "协助维持组织关系。",
+        "dake": "人情兑现为 Karl 报到。",
+        "bryan": "寻找失约证人。",
+        "spyros": "记录动作却挡不住威权。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 有人对冲，有人离境",
+      "note": "法官换人、资本重新分配，证人失去返回机会。",
+      "edges": [
+        "证词受阻仍追诉",
+        "家庭防线加深",
+        "承认她对局面的判断",
+        "以外部基金换空间",
+        "独立决定并记亏"
+      ],
+      "details": {
+        "chuck": "取到回避，增加新的关系债。",
+        "axe": "认可泰勒并保留资本。",
+        "wendy": "让判断者承担结果。",
+        "taylor": "接受损失，安排被动外部投资。",
+        "wags": "继续支持新分工。",
+        "dake": "接受换法官的帮助，救证人失败。",
+        "bryan": "怀疑两个方向的幕后干预。",
+        "spyros": "显性限制与隐形权威仍有落差。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "judge-route",
+      "title": "一场随机分配，怎样变成私人协调？",
+      "intro": "查克同时处理退出和接任两端，避免结果再交给运气。",
+      "nodes": [
+        {
+          "name": "抽签",
+          "role": "Funt 获得案件",
+          "portrait": null,
+          "scene": "judge-wheel"
+        },
+        {
+          "name": "温迪 / 查克",
+          "role": "把旧人情变成行动",
+          "portrait": "wendy",
+          "scene": "judge-wheel"
+        },
+        {
+          "name": "DeGiulio",
+          "role": "准备争取重新指派",
+          "portrait": null,
+          "scene": "replacement-judge"
+        },
+        {
+          "name": "Funt 回避",
+          "role": "更替最终发生",
+          "portrait": null,
+          "scene": "collect-debt"
+        }
+      ],
+      "result": "不要求法官偏判，仍可以通过选择法官改变起点；公正的语言与私人债务并存。"
+    },
+    {
+      "id": "witness-route",
+      "title": "一句愿意作证，为什么没能留下证词？",
+      "intro": "合作尚未录供，雇主已从迟到察觉异常。",
+      "nodes": [
+        {
+          "name": "Maria",
+          "role": "答应下班后录供",
+          "portrait": null,
+          "scene": "maid-witness"
+        },
+        {
+          "name": "Victor",
+          "role": "向阿克斯报告反常",
+          "portrait": null,
+          "scene": "maid-witness"
+        },
+        {
+          "name": "同名记录",
+          "role": "检方找到错误的人",
+          "portrait": null,
+          "scene": "wrong-maria"
+        },
+        {
+          "name": "Jock 拒绝",
+          "role": "无法取回已遣返证人",
+          "portrait": null,
+          "scene": "wrong-maria"
+        }
+      ],
+      "result": "布莱恩怀疑有人改动资料并指向阿克斯；本集没有向检方提供这条幕后链的直接证明。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "It's finesse.",
+      "zh": "这叫技巧。",
+      "speaker": "查克 → Dake",
+      "context": "查克向戴克解释更换法官的安排。配图为稍早的法院抽签现场，呈现他随后试图改变的结果。",
+      "image": "wheel",
+      "analysis": "改名让同一个动作更易被自己接受，却没有改变它对程序的影响。"
+    },
+    {
+      "en": "That is the wrong Maria Gonzalez.",
+      "zh": "那是另一个 Maria Gonzalez。",
+      "speaker": "布莱恩 → 拘留中心人员",
+      "context": "眼前的同名女子并非答应合作的证人；配图为拘留中心说出这句话的布莱恩。",
+      "image": "wrong-maria",
+      "analysis": "名字正确，身体却错误；行政信息的表面吻合不能保护一个具体的人。"
+    },
+    {
+      "en": "I'm your hedge.",
+      "zh": "我就是你的对冲。",
+      "speaker": "阿克斯 → 泰勒",
+      "context": "他看出外部投资既容纳自己，也保护公司。",
+      "image": "hedge",
+      "analysis": "对冲在此也指关系设计：给老板另一片场地，换来当前主管不受干预的空间。"
+    }
+  ],
+  "comparison": {
+    "title": "两种请别人退开的办法",
+    "deck": "泰勒要求权力与责任一致，查克要求审判入口符合自己的需要。",
+    "left": {
+      "image": "office",
+      "caption": "预告片中的本集办公室对峙画面。",
+      "speaker": "泰勒",
+      "title": "请老板离开办公室",
+      "text": "明确指出团队不能有两个中心，并愿意以自己的职位承担这项要求。"
+    },
+    "right": {
+      "image": "hallway",
+      "caption": "查克在法院走廊等待 Funt。",
+      "speaker": "查克",
+      "title": "请法官离开案件",
+      "text": "借儿子的旧事索取回避，同时提前协调继任者，把程序的不确定性压低。"
+    },
+    "rows": [
+      {
+        "label": "眼前障碍",
+        "left": "名义授权与实际权威冲突",
+        "right": "随机抽签得到不利法官"
+      },
+      {
+        "label": "所用手段",
+        "left": "当面说明条件，并表示可以离职",
+        "right": "索取旧债，并承诺新的永久人情"
+      },
+      {
+        "label": "谁承担结果",
+        "left": "自己作出并记下投资亏损",
+        "right": "让法官交出位置，关系债继续累积"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "退出的要求，揭示谁在承担风险",
+      "text": "两人都要别人离开一个位置。泰勒的要求让决策者承担后果，查克的要求让局面先适合自己。Maria 则连解释为何离开的位置也没有，只剩已经执行的遣返。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "木轮与走廊",
+      "fact": "法官先由木轮抽出，后在侧走廊的私下请求中退出。",
+      "analysis": "公开可见的随机程序，与不在卷宗里的关系协调先后出现，选择权并未始终留在同一个地方。",
+      "steps": [
+        "随机抽签",
+        "准备接任",
+        "索取回避"
+      ]
+    },
+    {
+      "title": "合规录像",
+      "fact": "Spyros 报时并跟拍阿克斯，交易员仍在猜老板的评价。",
+      "analysis": "权力不限于清楚记录的指令。一个人的目光已经足以改变下属是否敢提出想法，录像无法完整捕捉这种依赖。",
+      "steps": [
+        "记录动作",
+        "目光仍在",
+        "要求离场"
+      ]
+    },
+    {
+      "title": "直升机与巴士",
+      "fact": "阿克斯让孩子乘直升机赶球赛；结尾 Maria 乘巴士回到危地马拉。",
+      "analysis": "交通工具把资源差异落到身体怎样移动上。劳拉指出孩子甚至不懂得为特殊待遇尴尬，Maria 却没有决定去留的余地。",
+      "steps": [
+        "有钱赶路",
+        "缺少自觉",
+        "被迫返乡"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "maria",
+    "kicker": "THE PERSON BEHIND THE NAME",
+    "value": "MARIA",
+    "title": "他还可以对冲\n她已经回到原点",
+    "text": "配图停在 Maria 答应合作的街边。到了本集结尾，她已经被遣返；能够重排资金和人事的人仍有下一步，离开美国的人承担的却是一整段生活被截断。"
+  }
+}

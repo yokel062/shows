@@ -1,0 +1,658 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 3,
+  "title": "A Generation Too Late",
+  "chineseTitle": "救援的价格",
+  "subtitle": "量化改革、强制起诉，与资产背后的依附",
+  "hero": "divorce",
+  "heroTitle": "每一次救援\n都有人开价",
+  "heroDeck": "婚姻签了字，财富仍受威胁。\n被救回旧生活的人，\n开始交出新的选择权。",
+  "openingTitle": "替一个人解困，\n为何也能让他无路可走？",
+  "openingFact": "Ira 想结婚却失去积蓄；阿克斯签过离婚文件，又计算败诉后财产可能缩水。公司里，量化招聘令老员工害怕被淘汰。南区则收到必须起诉 Lugo 的政治命令。",
+  "openingReading": "本集不断提出帮助：给钱、保住职位、消除风险、提供技术。真正需要追问的是，接受帮助以后，谁仍能决定下一步。",
+  "stamp": {
+    "value": "1/10",
+    "label": "THE PRICE OF RESCUE",
+    "note": "Panay 原有的二与二十，变成留给自己的一与十。"
+  },
+  "storyTitle": "生活被救回，\n选择被拿走",
+  "storyDeck": "十二个节点追踪钱、技术与司法怎样把人的需要变成入口。",
+  "intro": "放开交易权以后，阿克斯开始组织更隐蔽的操盘结构。泰勒想让公司进入新的研究方式，查克则第一次在新部长的要求下直面自己不愿起诉的人。旧恐惧各自推动了新的绕行。",
+  "catalogueIntro": "阿克斯为离婚与败诉准备隐形财富，把 Panay 的困境变成控制入口。泰勒的量化招聘揭开 Wags 的旧伤；查克无法阻止 Lugo 案，却在服从命令的同时为秘密调查另留房间。",
+  "spoiler": "剧透范围：前两季必要背景及第三季第 1—3 集结尾；不借后续结果解释当前选择。事实与个人解读分栏，英文短台词中文为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S03E03 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e03",
+      "note": "核对对话、事件顺序与短台词；非官方转录。台词中文为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第三季第 3 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=25747",
+      "note": "交叉核对情节及画面语境；作者猜测与预测未当作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E03 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "note": "仅用于核对本集图像归属；不使用自动生成的回顾。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/ira-dinner.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69732828e1b7ca28c_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "Ira 在餐馆与 Taiga 谈求婚计划",
+      "caption": "本集截图：经济损失使 Ira 推迟原先准备的求婚。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/divorce.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973284dc1266a291_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "劳拉与阿克斯在律师会议桌前",
+      "caption": "本集截图：离婚文件已经签署，律师说明程序尚未完成。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/raul.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697329014b6d8d1c5_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "阿克斯与 Raul 在射击场交谈",
+      "caption": "本集截图：阿克斯向退休警员、养老金管理人 Raul 提出基金安排。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/jock.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697330656f58d57e9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "Jock 在酒店房间向查克下达要求",
+      "caption": "本集截图：Jock 要求推进 José Lugo 杀害狱警一案。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/panay.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69733304f9ae11245_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "Michael Panay 与阿克斯谈资金困境",
+      "caption": "本集截图：Panay 解释资产处境，阿克斯逐项计算他的生活开支。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/taylor.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973314422a27f60a_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "泰勒主持量化人才面试",
+      "caption": "本集截图：泰勒用纸盒任务与谈话观察候选人的判断。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/kate.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69733221f6ea726be_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "Sacker 与查克谈 Lugo 案",
+      "caption": "本集截图：两人讨论起诉压力；不是监狱长向记者提供材料的画面。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/ira-offer.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69733187b99ce9343_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "阿克斯在热狗店向 Ira 提议和解",
+      "caption": "本集截图：Ira 最初拒绝阿克斯的接近；其后接受具体交易在另一场会面发生。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/bryan.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697334627f97fcb28_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "布莱恩走在城市街道上",
+      "caption": "本集截图：布莱恩继续调查涉案者；并非结尾挥拳瞬间。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/wags.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69733663eabc6d264_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "Wags 面对泰勒解释对量化的顾虑",
+      "caption": "本集截图：量化面试失败后，Wags 说明自己的旧经历。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/war-room.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973380a5d9ee4a77_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "查克与 Sacker 在堆有案卷的房间交谈",
+      "caption": "本集截图：查克指定秘密战情室，准备恢复被叫停的调查。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/axe.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973342aefc88b767_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-3/screencaps/",
+      "alt": "阿克斯与 Ira 在珠宝会面中谈交易",
+      "caption": "本集截图：阿克斯提出收购 Ira 股份；结尾控制 Panay 是本集另一场行动。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    }
+  ],
+  "scenes": [
+    {
+      "id": "ring-delayed",
+      "act": "act1",
+      "lane": "cross",
+      "where": "餐馆 · Ira 与 Taiga",
+      "title": "松露照常刨，婚约先等等",
+      "image": "ira-dinner",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Ira 原本打算向 Taiga 求婚，晚餐中却说明自己因离开律所、冰果汁失败而失去积蓄，连选好的戒指也买不起。他问在这种情况下是否仍愿结婚，Taiga 同意等待；此前她已点下昂贵的白松露，他只能看着服务生继续刨片。",
+      "analysis": "钱在这一场并不是抽象权力，而是两人已经习惯的生活能否继续。Ira 的失落也包括不能再用消费兑现亲密承诺；Taiga 选择等待，使这种脆弱变成可被外人利用的具体需求。昂贵食物没有因为资产缩水而自动消失，旧生活仍按原来的速度计价。",
+      "turn": "因此 → Ira 有了急需恢复经济条件的理由，也因此更容易被即刻补偿的提议打动。"
+    },
+    {
+      "id": "divorce-assets",
+      "act": "act1",
+      "lane": "capital",
+      "where": "律师会议室",
+      "title": "婚姻分开，风险仍绑在一起",
+      "image": "divorce",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "劳拉与阿克斯签过离婚文件，律师提醒，即使同意资产分配，也仍需数月才可能完成。阿克斯同意平分，却担心败诉后更多财富被追索，认为真正无法触及的可能只剩三亿多美元。他告诉劳拉，要设法增加不被看见、无法被拿走的钱。",
+      "analysis": "离婚没有让两人立刻成为完全无关的财务个体：共同生活标准与案件风险依然连接着他们。阿克斯终于谈到可能败诉，却把反应落在如何遮蔽更多资产。这里不能把他的估算当法院认定；它是他向劳拉解释新计划必要性的风险叙述。",
+      "turn": "因此 → 秘密积累财富的动机被说清，后续基金安排不只为了满足交易冲动。"
+    },
+    {
+      "id": "pension-refusal",
+      "act": "act1",
+      "lane": "capital",
+      "where": "射击场 · 与 Raul 会面",
+      "title": "旧友也不能直接托付这笔钱",
+      "image": "raul",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯找退休警员 Raul，希望其管理的警察养老金投资到与自己关系密切的基金。Raul 说董事会不会接受这种关联，即使换成看似没有联系、由阿克斯保证的基金也不愿冒险；养老金无法承受不当行为的疑影，阿克斯却仍试图说服他。",
+      "analysis": "两人都熟悉退下原来工作后的身份空缺，但 Raul 把怀念与继续执行旧技能分开。阿克斯拒绝这个区分，并借朋友可能失去管理位置的焦虑施压。他需要的不只是一个听指令的基金经理，还需要一位愿把机构资金交给那个人的守门者。",
+      "turn": "因此 → 要完成隐藏控制，他必须先制造一个能让董事会接受的独立外观。"
+    },
+    {
+      "id": "lugo-order",
+      "act": "act1",
+      "lane": "law",
+      "where": "Jock 酒店房间 → 南区办公室",
+      "title": "先有要起诉的结论，再来检查事实",
+      "image": "jock",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Jock 要求查克推进 José Lugo 杀害联邦狱警一案，并强调查克已放弃不符政策的案件，现在应处理符合方向的事。布莱恩后来解释，Lugo 因付不起保释金被关押，长期遭狱警严重虐待，有二十五份囚犯陈述佐证，因此自己原先没有起诉谋杀。",
+      "analysis": "部长用曾受同样教育、读过同样法哲学来堵住原则争论，要求结果而不是开放式判断。布莱恩提供的材料则把死者与被告从职业标签还原为具体行为；他认为这名年轻人应受保护。两种叙述都能说成维护公众，区别在于是否容许事实改变预设结论。",
+      "turn": "因此 → 查克试图另找阻止起诉的办法，案件也显露新政策直接伤人的一面。"
+    },
+    {
+      "id": "panay-rescue",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Panay 的艺术收藏与资产处境",
+      "title": "救回生活，先让他算清还剩什么",
+      "image": "panay",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Panay 告诉阿克斯自己正出售收藏，应对赎回与基金关闭的压力。阿克斯逐项算城市公寓、度假屋、学校、马匹、司机与慈善开支，让他意识到剩余财富不足以维持旧生活。随后提出可介绍一笔约二十亿美元的机构资金，只要他愿接受机会。",
+      "analysis": "计算开支不是中立的财务建议，而是让对方亲口说出自己愿意付出一切。阿克斯没有先亮出最终条件，先出售的是身份复活的想象。Panay 所害怕的不只是破产，更是失去承认自己仍属于那个阶层的证明；这种恐惧把救援变成可进一步收紧的控制。",
+      "turn": "因此 → 一名愿意接受新资金的经理出现，隐形操盘的外部容器开始成形。"
+    },
+    {
+      "id": "quant-choice",
+      "act": "act2",
+      "lane": "capital",
+      "where": "Axe Capital · 面试与交易区",
+      "title": "机器要比我更好，人才要知道自己为什么失控",
+      "image": "taylor",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒与 Wags 面试量化候选人，要求他们拼成一个实际上无法按通常方式完成的纸盒。一人想复制泰勒的思维，一人被难题激怒后粗暴自夸，都未获聘。Mafee 等员工害怕被机器替代；温迪劝他们向泰勒询问，泰勒说明需要增加优势而非维持现状。",
+      "analysis": "泰勒既拒绝把已有水平加速复制，也拒绝用高智商替失控开脱。纸盒测试观察的不是动作最快，而是能否承认前提有问题。对员工的保证同样带着要求：不是永远保留每个人，而是肯投入每一回合的人仍有价值，情绪安抚与绩效标准没有被混为一谈。",
+      "turn": "因此 → 改革不会停止，但寻找外部人才必须满足比漂亮履历更严格的判断。"
+    },
+    {
+      "id": "warden-leak",
+      "act": "act2",
+      "lane": "law",
+      "where": "监狱长办公室 → 新闻报道",
+      "title": "揭开虐待，希望公众替案件踩刹车",
+      "image": "kate",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克向监狱长索取 Lugo 遭虐待的材料，以不再迅速处理针对她的囚犯诉讼施压，又承诺若配合就积极应对。监狱长同意向记者提供可核查的信息并隐去姓名。报道出现后，查克与 Sacker 一度相信舆论会使上级无法坚持起诉。",
+      "analysis": "查克要阻止自己认为不义的案件，使用的仍是熟悉的利益与压力工具。他把本职工作快慢变成交换条件，使正确目标也依赖不透明的个人裁量。新闻提供了另一种公开审视，能够改变形象，却还没有改变掌握起诉命令的人会回应哪一部分公众。",
+      "turn": "因此 → 反制暂时带来希望，但能否停止起诉仍取决于 Jock 是否让步。",
+      "detail": "配图为本集查克与 Sacker 讨论案件的画面；不是监狱长或匿名记者会面截图。"
+    },
+    {
+      "id": "ira-switch",
+      "act": "act2",
+      "lane": "law",
+      "where": "珠宝会面 → 东区询问",
+      "title": "三千万，要求他说哪一部分真相",
+      "image": "ira-offer",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯最初在热狗店遭 Ira 拒绝，后来提出由 Ionosphere 以三千万美元购买其几乎无价值的冰果汁股份，并赠戒指；条件是撤民事诉讼、不指证自己，改述查克诱发破坏。Ira 到东区后果然转谈查克，Dake 立即停止询问，布莱恩要求继续追查。",
+      "analysis": "交易并不需要 Ira 捏造每一个细节，只需要把可讲的事实重新筛选。Dake 担心进一步获知材料将触发向辩方披露的责任，因此选择不再听；这是一名人物为保住案件给出的理由，并非本页替这种做法确认正当。钱与机构胜利在两端共同压缩了真相。",
+      "turn": "因此 → 布莱恩对查克的怀疑得到具体方向，也与 Dake 的办案目标发生正面冲突。"
+    },
+    {
+      "id": "anger-punch",
+      "act": "act3",
+      "lane": "law",
+      "where": "酒吧外 · 夜晚",
+      "title": "调查撬不动，他先挥了拳",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "布莱恩与同事此前询问参与破坏的兄弟，两人拒绝指认幕后人物，态度挑衅。夜里他在酒吧外打了其中一人，警方出现并以假释违规带走兄弟俩。他回家向同住的法学生承认，自己实施的是殴打，只想感觉终于做了什么，却仍没有好转。",
+      "analysis": "他看见上级逃避不利材料，也无法让小角色指证老板，正义感由此转成亲手惩罚的冲动。承认动作构成伤害，使这场发泄不能被自动美化成有效执法。与他指责的掌权者相似，无法忍受失控开始侵蚀程序；区别此时只在他还能直说自己的动机。",
+      "turn": "因此 → 冰果汁调查继续，调查者自己的行为也留下无法用目标正确抹平的问题。",
+      "detail": "配图为本集布莱恩在街上继续奔走的镜头；不是挥拳现场。"
+    },
+    {
+      "id": "backdoor",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Axe Capital · 量化面试收尾",
+      "title": "技术后门，照见的却是人的旧恐惧",
+      "image": "wags",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "一名有 NASA 经历的候选人识破纸盒难题，模型也表现出色，泰勒仍拒绝聘用。泰勒发现程序留有可用看似合法数据事后支持交易的后门，并识破 Wags 的安排。Wags 解释雷曼时期对无法理解的量化系统失控；泰勒决定自行主持开发。",
+      "analysis": "Wags 的阻力并不只是懒惰或守旧，而是曾在不懂模型、不能质疑的局面中险些失去一切。泰勒承认创伤，却不接受把创伤变成偷偷设局的权利。外聘失败让改革改变实施方式，没有取消方向；模型由可负责的人监督，才有机会让能力和解释权留在一起。",
+      "turn": "因此 → 泰勒不雇现成量化专家，转而建设由自己掌握的系统与团队。"
+    },
+    {
+      "id": "resistance",
+      "act": "act3",
+      "lane": "law",
+      "where": "查克家中 → 南区秘密房间",
+      "title": "明天服从，今晚先留下另一条路",
+      "image": "war-room",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Jock 电话通知仍须起诉 Lugo，称另一侧舆论同样愤怒，并已开除监狱长。查克向温迪说自己被迫追诉认为无辜的人，她让他寻找办法。查克随后命 Sacker 次日立案，同时秘密恢复被叫停的庞氏骗局调查，指定一间战情室准备另寻移交渠道。",
+      "analysis": "公开服从与暗中抵抗在同一决定里成立，不能把战情室当成 Lugo 已获救的证据。Sacker 迅速说出如何利用种族敌意推进指控，也让查克看见组织有能力把不义做得专业。另开调查保存了能动性，却未解除眼前被告将要承担的制度压力。",
+      "turn": "因此 → 南区出现一条秘密反制线，代价是查克仍要公开执行自己反对的命令。"
+    },
+    {
+      "id": "crypto-price",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Panay 资金获批之后 · 私下控制",
+      "title": "重获生活的人，交出了自己的手",
+      "image": "axe",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Raul 帮助 Panay 获得养老金董事会认可后，阿克斯私下规定：Panay 必须按指令调动资产，管理费与分成由二与二十减为一与十，其余转成加密货币付给自己，并签署自愿参与文件。阿克斯再把这份秘密收益的一部分许给 Raul，落实隐藏安排。",
+      "analysis": "先救回一个人，再告诉他救援并不免费，比一开始就公开完整条件更容易锁住选择。阿克斯要求留存签字文件，使承担可见责任的人与获得幕后收益的人分开。此处不是无害的被动投资：观众听见他保留具体指令，并要求把收益转到难被看见的形式。",
+      "turn": "因此 → 秘密财富计划获得执行结构，签字后的限制被他以另一套依附关系绕行。",
+      "detail": "配图为本集阿克斯向 Ira 提出交换的画面；不是私下向 Panay 宣布条件的精确帧。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "失去生活的标价",
+      "deck": "财富缩水与政治命令同时逼近。",
+      "range": "01—04",
+      "summary": "Ira 推迟求婚，阿克斯安排离婚财产并寻找养老金，查克收到必须推进的案件。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "帮忙如何变成控制",
+      "deck": "新资本、技术与公开材料各有附带条件。",
+      "range": "05—08",
+      "summary": "Panay 接近救命资金，泰勒筛选量化人才，查克争取报道，Ira 被三千万改变了证词方向。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "另一套秘密结构",
+      "deck": "反抗与越界可能同时发生。",
+      "range": "09—12",
+      "summary": "布莱恩挥拳，泰勒拒绝技术后门；查克建立战情室，阿克斯则以秘密收益锁住外部经理。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官",
+      "fact": "试图借报道阻止 Lugo 起诉，失败后公开服从并秘密恢复旧调查。",
+      "analysis": "反抗与执行同时发生，他的主动性并未抹去眼前被告承受的代价。"
+    },
+    "axe": {
+      "role": "受交易限制的创办人",
+      "fact": "签离婚文件，争取养老金与 Panay，收购 Ira 股份并设计隐形收益。",
+      "analysis": "以拯救他人生活为入口，逐步取得他人资金、证词与行动的控制。"
+    },
+    "wendy": {
+      "role": "表现教练 / 家庭中的调停者",
+      "fact": "安抚员工的量化恐惧，劝老人向儿子修好，也鼓励查克找到反制角度。",
+      "analysis": "她能辨认旧伤怎样阻碍行动，却不能保证被推动的人采用正当方法。"
+    },
+    "taylor": {
+      "role": "首席投资官",
+      "fact": "拒绝复制自己与情绪失控的候选人，识破后门，决定主持自建量化。",
+      "analysis": "不让技术被神化，也不让对技术的恐惧成为停止改进的理由。"
+    },
+    "wags": {
+      "role": "公司运营核心",
+      "fact": "试图以候选人后门阻止量化，随后说明雷曼经历。",
+      "analysis": "忠诚与创伤可能共同形成干预，新主管必须识别其中没有说出口的理由。"
+    },
+    "kate": {
+      "role": "Sacker / 南区刑事主管",
+      "fact": "协助查 Lugo 案，面对起诉命令，获命秘密重开被搁置的调查。",
+      "analysis": "熟练提出有害的诉讼策略，与愿参与抵抗的态度同时存在。"
+    },
+    "bryan": {
+      "role": "东区检察官",
+      "fact": "为 Lugo 说明证据，追问 Ira 对查克的指控，愤怒中殴打涉案者。",
+      "analysis": "原则意识正受办案无力感侵蚀，挥拳显示他也会越过自己要求的边界。"
+    },
+    "lara": {
+      "role": "阿克斯正在离婚的配偶",
+      "fact": "同意平分资产并签署文件，听取败诉风险和增加隐形资金的打算。",
+      "analysis": "婚姻关系在解体，共同财务利益仍把两人拉进同一风险判断。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 失去旧生活",
+      "note": "婚约、离婚与养老金都遇到钱的边界。",
+      "edges": [
+        "案件牵动资产",
+        "家中仍有父子隔阂",
+        "安抚员工焦虑",
+        "维持既有授权",
+        "改革需要沟通"
+      ],
+      "details": {
+        "chuck": "面对新的强制起诉任务。",
+        "axe": "把财富安全感重新列成目标。",
+        "wendy": "坚持孩子应能见祖父。",
+        "taylor": "开始量化人才筛选。",
+        "wags": "担心重演失控的技术风险。",
+        "kate": "准备核查原先未诉案件。",
+        "bryan": "希望阻止错误起诉。",
+        "lara": "签字但离婚尚未完成。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 用需求打开门",
+      "note": "补偿、舆论与技术面试都附带选择。",
+      "edges": [
+        "Ira 转向指证查克",
+        "她希望家庭修好",
+        "她仍维持公司工作",
+        "独立推进人才筛选",
+        "解释替代恐惧"
+      ],
+      "details": {
+        "chuck": "以监狱长的诉讼处境换材料。",
+        "axe": "用生活开支击中 Panay 与 Ira。",
+        "wendy": "让焦虑员工直接询问泰勒。",
+        "taylor": "要求比复制自身更好的能力。",
+        "wags": "暗中安排带后门的候选人。",
+        "kate": "一度相信报道能够制止起诉。",
+        "bryan": "要求听完不利于查克的材料。",
+        "lara": "共同利益延续到隐藏财富计划。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 各自绕路",
+      "note": "公开限制仍在，新的秘密安排已经启动。",
+      "edges": [
+        "证词争夺加深",
+        "鼓励另找角度",
+        "仍是职业支持",
+        "自建系统继续改革",
+        "肯定人的努力"
+      ],
+      "details": {
+        "chuck": "执行 Lugo 起诉，同时建立秘密调查室。",
+        "axe": "以签字与加密收益锁住 Panay。",
+        "wendy": "调停未成，又支持丈夫找反制。",
+        "taylor": "识破后门，由自己监督开发。",
+        "wags": "说出创伤，却未阻止改革。",
+        "kate": "成为秘密调查的执行者。",
+        "bryan": "承认挥拳，也继续看查克的线索。",
+        "lara": "财务切割仍未让风险独立。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "rescue-chain",
+      "title": "一个资金计划，如何拆成各方愿意接受的部分？",
+      "intro": "养老金需要可信外观，经理需要活下去，阿克斯需要隐藏控制。",
+      "nodes": [
+        {
+          "name": "Raul 的拒绝",
+          "role": "不能直接碰关联基金",
+          "portrait": null,
+          "scene": "pension-refusal"
+        },
+        {
+          "name": "Panay 的困境",
+          "role": "急需资本保住旧生活",
+          "portrait": null,
+          "scene": "panay-rescue"
+        },
+        {
+          "name": "董事会认可",
+          "role": "独立外观使安排获准",
+          "portrait": null,
+          "scene": "crypto-price"
+        },
+        {
+          "name": "阿克斯",
+          "role": "指令、签字与加密收益",
+          "portrait": "axe",
+          "scene": "crypto-price"
+        }
+      ],
+      "result": "每个人各自解决一个眼前问题，组合起来却把交易风险与实际收益分到不同的人身上。"
+    },
+    {
+      "id": "lugo-path",
+      "title": "一篇报道，为什么没能终止起诉？",
+      "intro": "两种公众叙述分别服务于相反的政治目标。",
+      "nodes": [
+        {
+          "name": "布莱恩的材料",
+          "role": "解释虐待与未诉理由",
+          "portrait": "bryan",
+          "scene": "lugo-order"
+        },
+        {
+          "name": "查克",
+          "role": "向监狱长施压换资料",
+          "portrait": "chuck",
+          "scene": "warden-leak"
+        },
+        {
+          "name": "新闻报道",
+          "role": "让受虐年轻人成为公众议题",
+          "portrait": null,
+          "scene": "warden-leak"
+        },
+        {
+          "name": "Jock 的命令",
+          "role": "引用另一侧舆论坚持起诉",
+          "portrait": null,
+          "scene": "resistance"
+        }
+      ],
+      "result": "查克的秘密调查是另一条抵抗路线，不是本集已经撤回 Lugo 指控的证明。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I need something that thinks better.",
+      "zh": "我需要想得更好的东西。",
+      "speaker": "泰勒 → 量化候选人",
+      "context": "候选人提出高速复制泰勒的交易判断。",
+      "image": "taylor",
+      "analysis": "技术的目标不只是更快重复已有水平，也必须让使用者能够质疑自己的局限。"
+    },
+    {
+      "en": "take the win and move on",
+      "zh": "拿下胜利，然后往前走。",
+      "speaker": "Dake → 布莱恩",
+      "context": "戴克拒绝继续听艾拉对查克的指控。配图为本集布莱恩在街头继续调查的情境图，非这次办公室对话。",
+      "image": "bryan",
+      "analysis": "胜负的语言替代了对错，机构保护自己的目标开始压过追问完整事实。"
+    },
+    {
+      "en": "But it's not free.",
+      "zh": "但这不是免费的。",
+      "speaker": "阿克斯 → Panay",
+      "context": "阿克斯先帮 Panay 获得新资金，再说明必须遵从的条件。配图为此前在办公室计算生活开支的场景，非片尾宣布条件的瞬间。",
+      "image": "panay",
+      "analysis": "救援在成果出现后才宣布全部价格，获得帮助的人已经更难离开。"
+    }
+  ],
+  "comparison": {
+    "title": "两个后门，\n两种掌控",
+    "deck": "一个被发现后关闭，一个在救援之后正式启动。",
+    "left": {
+      "image": "wags",
+      "caption": "Wags 向泰勒解释量化安排背后的顾虑。",
+      "speaker": "泰勒",
+      "title": "拒绝别人偷偷安放的后门",
+      "text": "即便模型表现优秀，也拒绝以技术掩饰交易，改由自己主持可负责的开发。"
+    },
+    "right": {
+      "image": "panay",
+      "caption": "阿克斯先让 Panay 看清失去旧生活的恐惧。",
+      "speaker": "阿克斯",
+      "title": "把别人的基金变成后门",
+      "text": "以新资本救回基金，再保留指令、收取隐形收益，让外表的独立承受风险。"
+    },
+    "rows": [
+      {
+        "label": "面对的恐惧",
+        "left": "Wags 害怕重演无法理解系统的旧危机",
+        "right": "Panay 害怕失去财富、阶层与家庭生活"
+      },
+      {
+        "label": "对恐惧的回应",
+        "left": "识破暗中安排，改变改革实施方式",
+        "right": "先放大依赖，再收紧控制条件"
+      },
+      {
+        "label": "权责走向",
+        "left": "主持开发者承担解释与监督",
+        "right": "可见经理签字，幕后者取得收益"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "能看见方法，才有讨论方法的权利",
+      "text": "本集的技术问题最终仍是人的问题：谁知道系统怎样工作，谁能拒绝。泰勒把不透明安排拿到桌面上，阿克斯则需要让真实安排离开桌面，才能保留自己的行动。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "纸盒没有正确拼法",
+      "fact": "面试任务真正考察能否识别问题前提，候选人的情绪反应也被观察。",
+      "analysis": "承认题目无解不是能力不足；以蛮力和自夸遮住困惑，才暴露无法自我纠正的风险。",
+      "steps": [
+        "遭遇难题",
+        "辨认前提",
+        "承担不知"
+      ]
+    },
+    {
+      "title": "戒指与松露",
+      "fact": "Ira 在晚餐上说买不起戒指，后来在阿克斯的提议中获赠挑选戒指的机会。",
+      "analysis": "亲密关系中的具体缺口被商业谈判准确命中。金钱不需要解释一切动机，也足以让原先坚决的拒绝出现裂缝。",
+      "steps": [
+        "旧消费继续",
+        "婚约推迟",
+        "补偿进入"
+      ]
+    },
+    {
+      "title": "奖杯与护齿",
+      "fact": "老人轻视儿子的第三名奖杯，泰勒却以每一回合是否尽力回应 Mafee 的担忧。",
+      "analysis": "前者用胜负决定是否值得珍惜，后者把价值落在持续投入。两套评价方式都谈表现，留给失败者的空间却不同。",
+      "steps": [
+        "只认冠军",
+        "害怕替代",
+        "肯定投入"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "war-room",
+    "kicker": "OFFICIALLY / UNOFFICIALLY",
+    "value": "III",
+    "title": "公开要服从\n秘密还在增长",
+    "text": "战情室和隐形基金在结尾先后出现。查克试图保住另一种正义，阿克斯试图保住另一种操盘自由；秘密能提供行动空间，也让权力更难被外界完整看见。"
+  }
+}

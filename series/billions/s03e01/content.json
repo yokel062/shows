@@ -1,0 +1,671 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 1,
+  "title": "Tie Goes to the Runner",
+  "chineseTitle": "让资本离开他的手",
+  "subtitle": "资金解冻、受限的操盘者，与第一次公开代表公司的泰勒",
+  "hero": "taylor-dinner",
+  "heroTitle": "他的公司\n别人的手",
+  "heroDeck": "阿克斯的钱重新流动，\n条件是本人停止交易。\n泰勒替公司坐上那张椅子。",
+  "openingTitle": "如果不再亲自下单，\n他还拥有这艘船吗？",
+  "openingFact": "阿克斯已被起诉，资金冻结，婚姻分居；新任首席投资官泰勒面对员工焦虑。查克则在新司法部长的办公室里得知，保住职位需要接受新的执法方向。",
+  "openingReading": "本集把力量拆成不同部分：所有权、行动权、公开代表权。让其中一部分离开自己，可能正是保住其余部分的条件。",
+  "stamp": {
+    "value": "TIE",
+    "label": "THE RUNNER",
+    "note": "疑难球判给进攻者，新的权力先划定比赛规则。"
+  },
+  "storyTitle": "十二个选择，\n让冻结的公司重新移动",
+  "storyDeck": "从上级的案件清单，到晚餐桌上换了人；每一步都在重写谁能作决定。",
+  "intro": "新季从第二季后果展开：阿克斯面对冰果汁案起诉，公司不能正常动用资本；查克保住婚姻，却还欠着朋友、父亲与掌案同僚。两边都必须接受别人的条件，才有继续行动的空间。",
+  "catalogueIntro": "阿克斯被起诉后资金冻结，泰勒接掌的公司急需重新运转；温迪推动他接受停手的代价。查克同时面对新部长的执法尺度与家庭交易痕迹，一场晚餐最终换了发言人。",
+  "spoiler": "剧透范围：第一、二季必要背景及第三季第 1 集结尾；不涉及后续集数。剧情事实与个人解读分栏；短台词中文为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S03E01 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e01",
+      "note": "核对法律安排、对话、先后顺序与短引；非官方转录，中文自译。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun · Season 3 Premiere Recap",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "note": "逐场回顾及本集截图、宣传剧照；作者的未来猜测不作为剧情事实。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · Billions on Showtime 3.01",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=25188",
+      "note": "第二篇回顾用于交叉核对人物选择，不采用作者政治判断与预测。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E01 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-1/screencaps/",
+      "note": "检查本集视觉归属；未使用网页自动生成的剧情简介。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/dake-dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/s3trailer8.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "查克在餐馆与 Dake 交谈",
+      "caption": "第三季预告片画面：查克在与 Dake 的私下晚餐中谈保护温迪。（对应本集场景，非播出版逐帧截图。）",
+      "kind": "season-trailer-still",
+      "width": 3278,
+      "height": 1766
+    },
+    {
+      "file": "assets/team.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle13.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "泰勒面向会议桌主持会议",
+      "caption": "本集截图：新办公室里的首次动员，泰勒背对镜头，员工等待资金解冻。",
+      "kind": "episode-still",
+      "width": 1606,
+      "height": 800
+    },
+    {
+      "file": "assets/rage.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle36.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "阿克斯坐在公寓里接受温迪谈话",
+      "caption": "本集截图：温迪在公寓引导阿克斯检查怒气的来处与代价。",
+      "kind": "episode-still",
+      "width": 3128,
+      "height": 1464
+    },
+    {
+      "file": "assets/spyros.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle67.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "Spyros 手持咖啡在办公室说明方案",
+      "caption": "本集截图：新任合规主管 Spyros 参与讨论恢复资金流动性的条件。",
+      "kind": "episode-still",
+      "width": 2584,
+      "height": 1362
+    },
+    {
+      "file": "assets/ira.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle23.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "查克在夜间餐馆面对 Ira",
+      "caption": "本集截图：查克提出信托董事席位，并要求 Ira 不透露自己的介入。",
+      "kind": "episode-still",
+      "width": 1604,
+      "height": 806
+    },
+    {
+      "file": "assets/wendy-axe.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle40.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "温迪与阿克斯在办公室面对面",
+      "caption": "本集宣传剧照：温迪要求阿克斯为自由和公司作出取舍。",
+      "kind": "episode-production-still",
+      "width": 720,
+      "height": 405
+    },
+    {
+      "file": "assets/private.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/01/s3trailer69.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "温迪身处查克夫妇私密活动的房间",
+      "caption": "第三季预告片画面（用作本集场景配图）：夫妇口中的去看治疗师，随后显露为共同参与的支配与臣服场景。",
+      "kind": "season-trailer-still",
+      "width": 3114,
+      "height": 1692
+    },
+    {
+      "file": "assets/research.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/triangle83.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "泰勒坐在拆开的电子设备旁研究",
+      "caption": "本集截图：泰勒拆解联网设备寻找共同芯片。",
+      "kind": "episode-still",
+      "width": 2524,
+      "height": 1452
+    },
+    {
+      "file": "assets/taylor-dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/s3trailer28.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "泰勒站在晚餐会酒架前发言",
+      "caption": "第三季预告片画面：泰勒以首席投资官身份代表 Axe Capital 出席点子晚餐。（对应本集场景，非播出版逐帧截图。）",
+      "kind": "season-trailer-still",
+      "width": 3154,
+      "height": 1776
+    },
+    {
+      "file": "assets/axe-night.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/03/s3trailer24.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=24907",
+      "alt": "阿克斯夜晚独自站在公寓外",
+      "caption": "第三季预告片画面：泰勒在晚餐会发声，阿克斯独自留在城市夜色中。（对应本集场景，非播出版逐帧截图。）",
+      "kind": "season-trailer-still",
+      "width": 3256,
+      "height": 1760
+    },
+    {
+      "file": "assets/sauna.webp",
+      "originalUrl": "https://simkl.in/episodes/66/66825424a053c77a6_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-1/screencaps/",
+      "alt": "瓦格斯与另一名客人坐在昏暗的高温澡堂",
+      "caption": "本集截图：瓦格斯坐在高温澡堂，借这场会面检验泰勒的可靠性。",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/bach-club.webp",
+      "originalUrl": "https://simkl.in/episodes/66/66825522e2762ae14_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-1/screencaps/",
+      "alt": "布莱恩穿乒乓球运动衫与巴赫交谈",
+      "caption": "本集截图：球馆内，布莱恩听取巴赫对起诉案件的评价。",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/jock-frame.webp",
+      "originalUrl": "https://simkl.in/episodes/66/6682480bcb0439f41_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-1/screencaps/",
+      "alt": "乔克坐在办公室向查克下达要求",
+      "caption": "本集截图：新上司乔克向查克规定优先起诉的方向。",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    }
+  ],
+  "scenes": [
+    {
+      "id": "new-umpire",
+      "act": "act1",
+      "lane": "law",
+      "where": "华盛顿 · 新任司法部长办公室",
+      "title": "保住职位，先接受新的好球区",
+      "image": "jock-frame",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "新任司法部长 Jock Jeffcoat 告诉查克，他暂时保住南区联邦检察官的职位，随后递出标好的案件清单。对明确犯罪仍可追诉，对华尔街企业的疑难球却应有利于进攻方；查克被要求调整优先级。",
+      "analysis": "开场把查克放回受雇者的位置：他能让别人承受调查，却不能独自定义调查的方向。Jock 先用 Dake 抢走大案功劳刺激他的竞争心，再把留任与服从接在一起。所谓支持商业的原则，落实为桌上一份有标记的清单，压力有了可执行的形式。",
+      "turn": "因此 → 查克必须在上级的新尺度下，继续经营自己的案件与政治前途。"
+    },
+    {
+      "id": "frozen-team",
+      "act": "act1",
+      "lane": "capital",
+      "where": "曼哈顿 · Axe Capital 新办公室",
+      "title": "奖金可以承诺，现金还不能动",
+      "image": "team",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "公司迁入曼哈顿，资金仍被冻结，阿克斯没有参加晨会。泰勒要交易员为点子晚餐寻找投资方案，并保证配合者奖金不低于上一年。Wags 会后指出，这项保证超出了泰勒的授权，缺钱的问题并未因此消失。",
+      "analysis": "新办公室看似扩张，会议实际在处理停摆。员工要的不是一场鼓舞，而是能重新下单的资本；泰勒用未来收入购买眼前合作，先把自己放到可被追责的位置。Wags 当众配合、私下纠正，既承认新主管需要威信，也提醒承诺仍须由老板的现金兑现。",
+      "turn": "因此 → 晚餐会成为保住公司声誉的任务，恢复流动性则是完成任务的前提。"
+    },
+    {
+      "id": "dickens",
+      "act": "act1",
+      "lane": "wendy",
+      "where": "翠贝卡 · 阿克斯公寓",
+      "title": "愤怒曾使他起飞，也正在让他失明",
+      "image": "rage",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪找到独居公寓的阿克斯。他承认自己为取得晚餐邀请低声求人，却因愤怒害怕无法表现。温迪引导他回想童年伪造球星签名卖货、被打后的怒气，再看这种情绪如何损害婚姻；他拒绝继续想象未来，但答应回办公室。",
+      "analysis": "阿克斯叙述童年时，愤怒的对象也包括自己的父母和被抓到的自己，不能只把故事读成穷孩子受到欺负。温迪不否认这种燃料曾有用，而是要求他区分有用的技能与失控的习惯。他喊停练习，说明能承认情绪还不等于能忍受它带来的结局。",
+      "turn": "因此 → 温迪先使他恢复工作，再把真正的取舍放回他面前。"
+    },
+    {
+      "id": "price-of-liquidity",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital · 资产与法律会议",
+      "title": "公司的钱，必须离开他的手",
+      "image": "spyros",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "劳拉带 Steven Birch 查看资产，Wags 拒绝展示交易历史。穿插的法律会议上，Spyros 提议阿克斯个人停止交易、公司不再接受其指令，以换取立即解冻大部分资金；他断然拒绝。之后他才明确支持劳拉自行选择，并命 Wags 开放交易记录。",
+      "analysis": "劳拉要求选择理财人的权利，检方要求资金与创办人分开，两件事同时碰到他的控制欲。他能允许竞争对手看账，却无法接受自己成为不能下单的所有者。法律方案由此暴露心理障碍：这不只是付多少钱，而是公司还能否在没有他每次指令时继续存在。",
+      "turn": "因此 → 保住资金的可行出口已经出现，阻力转向阿克斯对自身身份的坚持。"
+    },
+    {
+      "id": "family-deal",
+      "act": "act2",
+      "lane": "law",
+      "where": "私下晚餐 → 东区检察官办公室",
+      "title": "温迪的名字，换一张未兑现的欠条",
+      "image": "dake-dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Dake 指出温迪做空冰果汁涉及案件。查克援引两人先前关于自己及家人的安排，并以升迁与关系施压；Dake 答应尽力不把温迪卷入，代价是日后再定的人情。布莱恩索要交易记录和最初线人身份时，Dake 随后限制了信息。",
+      "analysis": "观众听见的是 Dake 同意保护温迪，布莱恩看见的却是被上级遮住的调查细节；两种知识此时并不相等。Dake 没有因掌案而完全自由，查克也没有因案子移交就退出。那笔不标价格的人情把未来裁量抵押出去，比一次清楚结清的交换更难划定边界。",
+      "turn": "因此 → 布莱恩开始怀疑调查为何被蒙住眼睛，查克则暂时保住家庭风险的防线。"
+    },
+    {
+      "id": "repair-bill",
+      "act": "act2",
+      "lane": "law",
+      "where": "夜间餐馆 · Veselka",
+      "title": "补偿安排无法买回友情",
+      "image": "ira",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克找到仍在等待东区询问的 Ira，承认自己伤害了朋友，再提供每年三十五万美元、每季只开一次会的信托董事席位。他随即要求 Ira 保证不说出自己参与冰果汁计划。Ira 答应保密，却宣布两人的谈话与友情到此为止。",
+      "analysis": "查克把收入安排称为对物质损失的弥补，再表示要慢慢修补忠诚的伤害，实际却马上索取沉默。Ira 明白民事索赔与保密的利益关系，仍决定终止友情。利益能够让两人暂时保持一致，却不能迫使受害者继续认同那个把自己放进困境的人。",
+      "turn": "因此 → 查克能延续职业计划，却必须带着已经破裂的私人关系继续前进。"
+    },
+    {
+      "id": "heat-test",
+      "act": "act2",
+      "lane": "capital",
+      "where": "俄罗斯与土耳其浴室",
+      "title": "泰勒留任，是带条件的忠诚",
+      "image": "sauna",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Wags 将泰勒带到澡堂，追问是否考虑街上的邀约。此前，新任财政部长 Krakow 邀请泰勒掌管自己的基金，并许诺放手经营。泰勒说明已拒绝，当前价值来自阿克斯的信任；在有必要离开以前，会继续忠于这家公司。",
+      "analysis": "泰勒没有把忠诚讲成终身无条件的归属，而是准确说明自己还缺少独立业绩。Wags 的高温试探把商业挖角变成承受力测验，泰勒则把回答重新放回职业判断。愿意留下与保留离开的条件可以同时成立，这也让后续承担权力有了自己的理由。",
+      "turn": "因此 → 泰勒继续为公司找点子，但阿克斯仍须解决让人才留下的资金条件。"
+    },
+    {
+      "id": "pressure-reading",
+      "act": "act2",
+      "lane": "law",
+      "where": "乒乓球馆 → 东区办公室",
+      "title": "相同的让步，可以被读成相反的信号",
+      "image": "bach-club",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bach 试图用政治风向说服布莱恩缓和案件，布莱恩反驳：投毒与破坏上市能获得普通公众支持，检方不会白白放手。Dake 认为急于解冻代表害怕庭审败诉；布莱恩则认为阿克斯可能相信自己能同时夺回资金并赢下官司。",
+      "analysis": "这场争论没有替观众认证哪种判断正确，而是展示同一行为可以被两套人物模型解释。布莱恩熟悉阿克斯追求全胜的一面，Dake 更相信压力迫使人妥协。两人都决定维持施压，表明动机判断尚未统一，并不妨碍机构暂时采取相同的行动。",
+      "turn": "因此 → 案件继续推进；阿克斯必须按自己的实际处境选择，而不能控制别人如何解释。"
+    },
+    {
+      "id": "ship",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "Axe Capital · 阿克斯办公室",
+      "title": "船可以换舵手，仍然属于他",
+      "image": "wendy-axe",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Dollar Bill 告诉阿克斯员工可能离职，阿克斯召来管理层追责。温迪指出，不恢复资金谁主持会议都会失败，并单独劝他暂时停手：案子赢了可以重新交易，输了则有更大问题。他终于签字放弃当前交易能力，资金由此解冻。解冻后劳拉决定暂不把钱转给 Birch。",
+      "analysis": "温迪不替他保证无罪，也不许诺泰勒只是没有自我的代理人。她用忒修斯之船回应他对被取代的恐惧：日常决定换了人，资本仍属于他。她最后要求由他自己确信，把安慰停在作出决定以前；签字才是他承担公司继续生存所需的损失。",
+      "turn": "因此 → 公司恢复运作，泰勒获得真实的决策空间，阿克斯则必须遵守不再指导个股交易的边界。"
+    },
+    {
+      "id": "chip-idea",
+      "act": "act3",
+      "lane": "capital",
+      "where": "公寓研究 → 阿克斯与泰勒会面",
+      "title": "拆开设备，让被保密的需求现形",
+      "image": "research",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒拆开多种联网设备，发现与 Quartes 规格吻合的共同部件，又以研发联网洗衣机为由取得芯片参数，形成物联网供应商的投资判断。阿克斯认可方案，并说明此后不能再与泰勒讨论具体股票。此后公司管理可以商谈，个股则必须由泰勒作主。",
+      "analysis": "研究把分散商品里难以直接看见的需求聚合起来，替代了等待企业主动披露的办法；它同时带有借身份询问的灰色手段，不能只称为灵感。阿克斯当面承认泰勒在自己做不到时能交出结果，随后划出沟通禁区，授权于是获得实际内容。",
+      "turn": "因此 → 好点子已足以代表公司出场；今晚需要决定的只剩谁来公开说出它。"
+    },
+    {
+      "id": "private-language",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "查克与温迪的私人夜晚",
+      "title": "重新成为“我们”，并不等于说清一切",
+      "image": "private",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "夫妇此前谈过温迪的做空，彼此承认若早知道对方的计划可能出手阻止。夜里，他们告知孩子要去看治疗师，随后进入共同参与的支配与臣服场景。查克要求听温迪与其他男人的幻想；本集没有把这段角色语言当作完整的事实交代。",
+      "analysis": "恢复亲密与揭开秘密在这里不是同一过程。两人能借共享的性语言处理欲望、惩罚和不安，却仍由表演决定什么可以说、以什么形式说。观众知道的旧事不能自动转换成查克已经获知的内容；婚姻暂时重建，信息上的空隙依然存在。",
+      "turn": "因此 → 温迪在公司与家庭都帮助别人恢复行动，但两处关系仍各自保留无法代替对方承担的部分。"
+    },
+    {
+      "id": "new-face",
+      "act": "act3",
+      "lane": "capital",
+      "where": "Del Posto 点子晚餐 / 公寓夜景",
+      "title": "坐在他位置上的，是新的发言人",
+      "image": "taylor-dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "晚餐桌上九位基金经理读到阿克斯放弃交易的新闻，有人称他被拔牙，有人认为他取回资本就是胜利。众人等着由他的神情判断输赢，出现的却是泰勒。泰勒以首席投资官身份介绍物联网投资方案；结尾阿克斯独自在公寓外望着城市。",
+      "analysis": "公司用一个能够解释投资逻辑的人回答流言，而没有安排创办人用意志压过全桌。泰勒的出场完成温迪此前提出的命题：机构可以继续向外发声，同时仍由阿克斯承担不在场的感受。资本获得了行动，创办人的孤独却没有被盈利可能性一并解除。",
+      "turn": "因此 → Axe Capital 保住市场中的声音，本集结束在阿克斯必须适应的新位置上。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "职位留下，资金冻结",
+      "deck": "两边都受到新的外部条件约束。",
+      "range": "01—04",
+      "summary": "Jock 指定执法尺度；公司面对停摆，阿克斯的怒气让可行方案难以入口。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "每项帮助都带着价格",
+      "deck": "沉默、人情、忠诚与检方压力。",
+      "range": "05—08",
+      "summary": "查克为温迪谈保护、向 Ira 求保密；泰勒说明留任的理由，检方继续寻找迫使对手妥协的条件。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "资本继续，创办人缺席",
+      "deck": "放开操盘的手，才让公司恢复行动。",
+      "range": "09—12",
+      "summary": "温迪促成停手，泰勒带着独立研究走向晚餐；公司发出新声音，阿克斯面对不在场的孤独。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官",
+      "fact": "接受新部长的执法压力；为温迪向 Dake 索取保护，向 Ira 求得沉默。",
+      "analysis": "他暂时保住职位与家庭，却把越来越多关系变成债务和利益安排。"
+    },
+    "axe": {
+      "role": "已被起诉的基金创办人",
+      "fact": "同意暂时停止本人交易，解冻资本，让泰勒代表公司赴宴。",
+      "analysis": "最难交出的不是钱，而是由自己亲手决定钱如何流动的身份。"
+    },
+    "wendy": {
+      "role": "表现教练 / 查克妻子",
+      "fact": "帮助阿克斯正视愤怒与停手；与查克恢复亲密，自己的做空则仍是法律风险。",
+      "analysis": "能准确看见别人的盲点，不代表她自身在婚姻和案件中的边界已经清楚。"
+    },
+    "taylor": {
+      "role": "Axe Capital 首席投资官",
+      "fact": "保证奖金动员团队，拒绝 Krakow 邀请，独立研究芯片并代表公司发言。",
+      "analysis": "忠诚既有感激也有职业计算；被授予空间以后，能力才变成可见的业绩。"
+    },
+    "wags": {
+      "role": "公司运营核心",
+      "fact": "纠正奖金越权，在澡堂追问泰勒忠诚，并协助公司度过冻结。",
+      "analysis": "擅长维系阿克斯的中心地位，也必须接受救公司的办法会让新主管真正掌权。"
+    },
+    "jock": {
+      "role": "新任美国司法部长",
+      "fact": "保留查克职位，要求疑难的商业案件有利于企业，并追问执行情况。",
+      "analysis": "亲切比喻与直接监督共同工作，让政策偏好成为下属的个人责任。"
+    },
+    "dake": {
+      "role": "东区联邦检察官 / 案件负责人",
+      "fact": "承诺尽力保护温迪，并阻挡布莱恩获取部分交易记录与线人信息。",
+      "analysis": "拥有案件不等于摆脱查克；一笔待定人情令独立判断带上了交换成本。"
+    },
+    "bryan": {
+      "role": "东区检察官 / 调查阿克斯",
+      "fact": "追索交易与线人，质疑信息受限，拒绝仅凭政治风向缓和案件。",
+      "analysis": "对公众受害的解释支持强硬追诉，对上级隐瞒的敏感则开始形成内部裂缝。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 资本冻结",
+      "note": "职位、资金和声誉都需要新的支点。",
+      "edges": [
+        "起诉仍在推进",
+        "婚姻重新靠近",
+        "怒气等待疏导",
+        "代管缺乏现金",
+        "协作条件不足"
+      ],
+      "details": {
+        "chuck": "被 Jock 留任也被规定方向。",
+        "axe": "不愿出现，害怕晚餐失败。",
+        "wendy": "要求阿克斯回到办公室。",
+        "taylor": "先以奖金承诺争取团队。",
+        "wags": "维持动员，担心越权承诺。",
+        "jock": "将企业友好立场传到案件清单。",
+        "dake": "以冻结资金保持起诉杠杆。",
+        "bryan": "继续追问案件完整信息。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 每个出口都有价格",
+      "note": "保护、忠诚和资金都附带明确或延迟的条件。",
+      "edges": [
+        "冻结成为杠杆",
+        "保护换来欠债",
+        "要求承认代价",
+        "留任仍有条件",
+        "共同面对停摆"
+      ],
+      "details": {
+        "chuck": "用旧协议扩张对家人的保护。",
+        "axe": "先拒绝停止交易的方案。",
+        "wendy": "揭示愤怒与控制欲的成本。",
+        "taylor": "拒绝挖角，但未许诺永不离开。",
+        "wags": "以澡堂试探是否可靠。",
+        "jock": "政治倾向被 Bach 用作说服理由。",
+        "dake": "同意保护温迪，保留日后人情。",
+        "bryan": "不接受轻易退让，也警觉被遮挡。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 人留下，手离开",
+      "note": "公司恢复流动，创办人接受不再直接操盘。",
+      "edges": [
+        "交易限制换解冻",
+        "亲密仍含空隙",
+        "接受她的劝告",
+        "公开代表公司",
+        "判断得到执行"
+      ],
+      "details": {
+        "chuck": "家庭风险暂缓，友谊仍然破裂。",
+        "axe": "签字停手，独自承受缺席。",
+        "wendy": "促成取舍，未替他保证未来。",
+        "taylor": "获得决定权并在晚餐出场。",
+        "wags": "继续维护公司的组织运转。",
+        "jock": "追查查克是否调整了执法重点。",
+        "dake": "与布莱恩对让步动机判断不同。",
+        "bryan": "维持压力，不把解冻当案件结束。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "money-without-hand",
+      "title": "被冻结的钱，怎样重新进入市场？",
+      "intro": "心理上的停手，最终必须落到可约束的安排。",
+      "nodes": [
+        {
+          "name": "Spyros / Bach",
+          "role": "提出本人停止交易",
+          "portrait": null,
+          "scene": "price-of-liquidity"
+        },
+        {
+          "name": "温迪",
+          "role": "拆开公司所有权与操盘身份",
+          "portrait": "wendy",
+          "scene": "ship"
+        },
+        {
+          "name": "阿克斯",
+          "role": "签字接受限制",
+          "portrait": "axe",
+          "scene": "ship"
+        },
+        {
+          "name": "泰勒",
+          "role": "独立决策并公开发言",
+          "portrait": "taylor",
+          "scene": "new-face"
+        }
+      ],
+      "result": "资金解冻与个人自由交易被分开；公司继续运转并不等于创办人获得无罪结论。"
+    },
+    {
+      "id": "hidden-records",
+      "title": "查克的保护，怎样变成布莱恩的盲区？",
+      "intro": "观众听见私下条件，调查员只看见信息没有交来。",
+      "nodes": [
+        {
+          "name": "温迪的做空",
+          "role": "产生需要保护的交易痕迹",
+          "portrait": "wendy",
+          "scene": "family-deal"
+        },
+        {
+          "name": "查克",
+          "role": "援引家人协议并施压",
+          "portrait": "chuck",
+          "scene": "family-deal"
+        },
+        {
+          "name": "Dake",
+          "role": "答应保护并限制信息",
+          "portrait": "dake",
+          "scene": "family-deal"
+        },
+        {
+          "name": "布莱恩",
+          "role": "察觉调查被蒙住眼睛",
+          "portrait": "bryan",
+          "scene": "family-deal"
+        }
+      ],
+      "result": "本集确认的是保护承诺与信息阻拦，不是布莱恩已知查克的全部布局。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Tie goes to the runner.",
+      "zh": "疑难球判给跑垒的人。",
+      "speaker": "Jock → 查克",
+      "context": "新部长用棒球比喻商业案件应采用的倾向。",
+      "image": "jock-frame",
+      "analysis": "体育规则的轻松口吻，把对企业的制度偏好包装成常识；随后标记好的清单让它变成命令。"
+    },
+    {
+      "en": "Fuck Dickens!",
+      "zh": "去他的狄更斯！",
+      "speaker": "阿克斯 → 温迪",
+      "context": "他拒绝继续想象愤怒把自己带往怎样的未来。",
+      "image": "rage",
+      "analysis": "拒绝的是看见代价的痛苦；承认愤怒还没有使他准备好改变。"
+    },
+    {
+      "en": "It's not me that has to be sure.",
+      "zh": "需要确信的人不是我。",
+      "speaker": "温迪 → 阿克斯",
+      "context": "他问换了掌舵人，公司是否仍然属于自己。",
+      "image": "wendy-axe",
+      "analysis": "她可以说明选择，却不能代他承担选择；决定终于回到拥有资本的人身上。"
+    }
+  ],
+  "comparison": {
+    "title": "同样取回行动，\n两个人交出的东西不同",
+    "deck": "查克借别人的保护继续前进，阿克斯放开自己的指令让公司前进。",
+    "left": {
+      "image": "dake-dinner",
+      "caption": "查克在与 Dake 的私下晚餐中求取保护。",
+      "speaker": "查克",
+      "title": "保住自己的控制",
+      "text": "为妻子排除风险，却用日后的人情与掌案者交换，把关系拉进没有标价的债务。"
+    },
+    "right": {
+      "image": "taylor-dinner",
+      "caption": "泰勒代表 Axe Capital 公开陈述投资方案。",
+      "speaker": "阿克斯 / 泰勒",
+      "title": "接受别人作决定",
+      "text": "让资金继续参与市场，条件是本人不能再指导个股交易；公司因此获得新的公开面孔。"
+    },
+    "rows": [
+      {
+        "label": "所受限制",
+        "left": "新部长规定执法方向，家庭交易可能进入案件",
+        "right": "冻结的资本无法支持团队与市场地位"
+      },
+      {
+        "label": "取回什么",
+        "left": "温迪暂时免受卷入，自己继续保有位置",
+        "right": "资金重新流动，公司能够工作"
+      },
+      {
+        "label": "留下什么成本",
+        "left": "待定人情与调查的信息缺口",
+        "right": "本人失去当前操盘权，并承受公开缺席"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "继续前进，需要有人承受缺口",
+      "text": "两人的出路都不完整。查克把代价延后到关系里，阿克斯把代价放在当下的身份上；本集没有证明哪一种更安全，只把它们各自留下的空缺展示出来。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "棒球、马场与案件清单",
+      "fact": "Jock 先用马场刺激查克的失落，再用棒球说明疑难案件应偏向企业。",
+      "analysis": "比喻把权力包装成易懂的生活经验，清单才是需要执行的实物；轻松语气不会减轻命令的约束。",
+      "steps": [
+        "逗起竞争心",
+        "讲成常识",
+        "落实清单"
+      ]
+    },
+    {
+      "title": "被拆开的设备",
+      "fact": "泰勒拆解联网设备，比较共同芯片，并查询厂家规格。",
+      "analysis": "原本被品牌和保密协议分散的信息，经过物理拆解变成可观察的共同需求；能力来自可复述的研究过程。",
+      "steps": [
+        "分拆商品",
+        "比较部件",
+        "形成判断"
+      ]
+    },
+    {
+      "title": "忒修斯之船",
+      "fact": "温迪以换掉船帆与船板的船，回应阿克斯担忧公司失去自己面貌。",
+      "analysis": "所有权、操盘与公开身份第一次被迫分开。比喻没有消除痛苦，只为他接受一个可以存活的新结构提供语言。",
+      "steps": [
+        "害怕被取代",
+        "拆开权利",
+        "允许缺席"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "axe-night",
+    "kicker": "THE EMPTY CHAIR",
+    "value": "01",
+    "title": "公司有了声音\n他留在夜色里",
+    "text": "泰勒的发言证明公司仍能产生判断。阿克斯拿回的是资金的流动，不是所有旧日的自由；镜头把恢复行动的机构与独处的创办人放在同一个结尾。"
+  }
+}

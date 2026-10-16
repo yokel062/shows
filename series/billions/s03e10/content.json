@@ -1,0 +1,724 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 10,
+  "title": "Redemption",
+  "chineseTitle": "赎回资金，赎不回信任",
+  "subtitle": "阿克斯为保住公司拒绝出售自主权，却用泰勒的亲密关系支付另一笔账。",
+  "hero": "elevator",
+  "heroTitle": "钱可以补回来。\n关系怎么办？",
+  "heroDeck": "一笔赎回引发连锁反应。\n救公司的方法，先伤到自己人。",
+  "openingTitle": "摆脱坏交易时，你把代价转交给了谁？",
+  "openingFact": "安德洛夫刚入资便要求赎回十五亿美元；这既造成资金缺口，也会让外界怀疑公司的状况。查克开始秘密追查杰夫科特家族财富，同时还要在家宴上招待这位上级。",
+  "openingReading": "“Redemption”既是基金赎回，也带着自我救赎的意味。本集不断让人物谈家人、朋友和信任，再看他们为了事业如何使用这些关系：拒绝被别人占有，不保证不会占用别人的生活。",
+  "stamp": {
+    "value": "$1.5B",
+    "label": "REDEMPTION",
+    "note": "十五亿美元的赎回要求，迫使公司迅速寻找替代方案。"
+  },
+  "storyTitle": "赎回资金，赎不回信任",
+  "storyDeck": "阿克斯为保住公司拒绝出售自主权，却用泰勒的亲密关系支付另一笔账。",
+  "intro": "安德洛夫的赎回令阿克斯考虑把公司部分权益卖给安尼斯曼，直到对方追加交易透明度要求。他另找到了办法：从奥斯卡手里抢下泰勒透露的项目。班·金以一次错误的公开表演打乱募资，又用研究结论证明能力。查克循土地交易找到证人，秘密调查也留下被康纳蒂察觉的痕迹；结尾的家庭相聚把阿克斯带到母亲门前。",
+  "catalogueIntro": "十五亿美元赎回把阿克斯推向不情愿的交易。他在家庭聚会上听见旧友劝告，却用泰勒的私交换来替代方案；查克秘密追查部长，温迪则同时应付家宴与员工的信心危机。",
+  "spoiler": "只剧透第三季第 10 集《Redemption》及此前已播内容，含本集结尾；不使用后集解释人物。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E10 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e10",
+      "note": "非官方对白转录，用于核对本集先后、措辞及职权；开头前情回顾与本集新增行动分别处理。片尾下集预告未计入本集事实。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun with Damian Lewis · 第二篇回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=27142",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E10 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-10/screencaps/",
+      "note": "仅作明确集数的图像出处和视觉核对，不采用网页自动生成的剧情摘要。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/journalist.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1021.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "记者科恩布鲁斯在暗处与查克交换线索",
+      "caption": "本集截图：查克用另一宗腐败案消息换取部长财富线索；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1942,
+      "height": 1734
+    },
+    {
+      "file": "assets/tennis.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e101.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "阿克斯穿蓝色运动衣站在网球场边",
+      "caption": "本集截图：网球活动之后听见安德洛夫赎回要求；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1731
+    },
+    {
+      "file": "assets/franklin.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69735004dca983a48_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-10/screencaps/",
+      "alt": "富兰克林·萨克在室内与查克交谈",
+      "caption": "本集截图：凯特父亲用土地交易方向提示查克；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/coaching.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69735188038962662_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-10/screencaps/",
+      "alt": "温迪在交易区向班·金说明突破自信的办法",
+      "caption": "本集截图：温迪要求班·金做一件大胆且公开的事；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/frotty.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1013.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "阿克斯坐在海鲜餐厅的桌旁听取条件",
+      "caption": "本集截图：与安尼斯曼初步谈出售部分公司权益；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1982,
+      "height": 1830
+    },
+    {
+      "file": "assets/bruno.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1011.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "布鲁诺在生日聚会上把手搭在阿克斯肩头",
+      "caption": "本集截图：布鲁诺与阿克斯重谈友情和借钱的代价；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1616
+    },
+    {
+      "file": "assets/dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1015.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "杰夫科特与妻子在罗兹家沙发上交谈",
+      "caption": "本集截图：部长夫妇到罗兹家赴宴；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1498
+    },
+    {
+      "file": "assets/refusal.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1010.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "阿克斯与瓦格斯在办公室面对来客",
+      "caption": "本集截图：安尼斯曼追加条件时的办公室谈判；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1612
+    },
+    {
+      "file": "assets/cutler.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6973554aab162bed2_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-10/screencaps/",
+      "alt": "查克在旅馆房间里面对卡特勒",
+      "caption": "本集截图：查克逼问教会、土地费用与隐匿收益；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/elevator.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e108-1.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "赤膊的班·金站在电梯里，旁边是阿克斯与投资者",
+      "caption": "本集截图：班·金在错误场合完成公开突破；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1902,
+      "height": 1562
+    },
+    {
+      "file": "assets/taylor-axe.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1020.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "阿克斯坐在办公室回应泰勒对交易的质问",
+      "caption": "本集截图：阿克斯解释抢下基因科技项目的办法；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1351
+    },
+    {
+      "file": "assets/taylor-hurt.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1020-1.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "泰勒低头坐着，情绪明显低落",
+      "caption": "本集截图：项目争执后，泰勒来到温迪处寻求安慰；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1988,
+      "height": 1814
+    },
+    {
+      "file": "assets/family.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/s3e1023.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "安德洛夫与家人、阿克斯围坐餐桌",
+      "caption": "本集截图：安德洛夫家宴重新解释资金与家庭；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1082
+    },
+    {
+      "file": "assets/mother.gif",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/05/himom.gif",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26982",
+      "alt": "阿克斯母亲站在打开的房门内",
+      "caption": "本集截图：结尾阿克斯来到母亲家门前；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 480,
+      "height": 268
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "act": "a1",
+      "lane": "law",
+      "where": "夜间 · 停车场",
+      "title": "先把传闻变成调查入口",
+      "image": "journalist",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克把布法罗市长候选人的腐败材料交给记者，换取有关杰夫科特财富的线索。记者称部长实际财富远超公开印象，并提及其电视布道者兄弟及电视台所有权。查克随后让凯特与阿勒德寻找离开家族体系的会计、律师等可能知情者。",
+      "analysis": "报道线索在这里是调查起点，不是已证实的腐败结论。查克特意以另一宗案件的信息交换，说明他一开始就在动用掌握的资源绕过上级。去找离职者也有具体理由：现有组织成员受忠诚与利益约束，离开的人可能更有动机揭开隐匿关系。",
+      "turn": "因此 → 追查方向从部长本人转向家族传媒与资金结构。"
+    },
+    {
+      "id": "s02",
+      "act": "a1",
+      "lane": "capital",
+      "where": "网球场 / Axe Capital",
+      "title": "破冰者转身要求赎回",
+      "image": "tennis",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "安德洛夫安排阿克斯与莎拉波娃打球，之后突然提出赎回十五亿美元，称另有石油投资机会。阿克斯承认自己曾豁免新资金的季度赎回限制；回公司后他催促募资，直到斯派罗斯说出缺口，泰勒才知道金主的钱将被抽走。",
+      "analysis": "刚刚成为信誉担保的资金，立即暴露其随时撤退的一面。阿克斯以特殊待遇换来入资，也因此失去正常的缓冲期。泰勒指出隐瞒会使推介人员转述失真的情况；阿克斯则用赎回尚未发生辩解，两人对诚实的最低要求再次不在同一处。",
+      "turn": "因此 → 募资从扩大规模，变成避免资产下降被外界误读。"
+    },
+    {
+      "id": "s03",
+      "act": "a1",
+      "lane": "law",
+      "where": "私人会面 / 检察官办公室",
+      "title": "绕过凯特，接近她的父亲",
+      "image": "franklin",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "凯特要求查克不要把父亲卷入调查，查克仍单独去见富兰克林·萨克。对方不愿让董事会和股东成为政府目标，只以概括方式提示得克萨斯土地、有线线路与许可费用。查克据此推进，并把调查对象记作匿名，避免过早通知司法部。",
+      "analysis": "查克把避免下属亲自开口解释成一种保护，实际上替凯特决定了亲属关系可以怎样使用。秘密调查有对抗强势上级的理由，却也形成程序上的脆弱点。此时土地提示只构成追查方向，既不是父亲交出完整证据，也不能据此认定部长已经违法。",
+      "turn": "因此 → 团队开始沿隐匿土地收益寻找具体经手人。"
+    },
+    {
+      "id": "s04",
+      "act": "a1",
+      "lane": "wendy",
+      "where": "Axe Capital · 交易区与楼上",
+      "title": "有研究，却说不出口",
+      "image": "coaching",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "班·金向温迪解释自己想推荐一项快速获利的研究，却在同事面前紧张到无法说清。温迪带他观察高层办公室，指出他的潜能被讨好、低调与自我缩小限制，要求他做一件公开、大胆、令自己害怕的事，以打破信心障碍。",
+      "analysis": "温迪判断问题不是缺少信息，而是班·金没有认领说话的位置。她以可能进入管理层激励行动，却把具体行为交给他选择。这个空白很关键：突破内在禁令需要勇气，判断什么时间和场合合适则是另一项能力，前者成功不会自动带来后者。",
+      "turn": "因此 → 班·金决定用公开行动证明自己能够跨出边界。"
+    },
+    {
+      "id": "s05",
+      "act": "a2",
+      "lane": "capital",
+      "where": "城市岛 · 海鲜餐厅",
+      "title": "二成权益与一个公开拥抱",
+      "image": "frotty",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "养老金渠道未能及时回流，阿克斯只得见安尼斯曼。对方提出让约旦投资者买公司二成权益，不干预管理，但要求共享名望，先提改名，再退为公开拥抱与背书。阿克斯同意，并争取一年后可按四成溢价买回的退出条件。",
+      "analysis": "阿克斯厌恶这位中间人，也不愿让名字与公司被占有，但短期缺口让他开始把边界逐项定价。一个拥抱在这里不是私人友善，而是信誉转让；四成溢价则把未来摆脱对方的成本提前写好。它能解决现金问题，却会使公司声望成为出资者的附属资产。",
+      "turn": "因此 → 交易暂时可做，签约前仍可能出现新要求。"
+    },
+    {
+      "id": "s06",
+      "act": "a2",
+      "lane": "capital",
+      "where": "戈迪生日聚会 · 厨房",
+      "title": "朋友劝他别把自己租出去",
+      "image": "bruno",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯迟到赶上儿子的生日，见到前来做披萨的布鲁诺。旧友表示愿为孩子们做事，也承认友谊本不该沾上生意。阿克斯问他当年如何避开高利贷和黑帮资金；布鲁诺回答靠自己凑钱，因为那类种子资金等于把整个人租出去。",
+      "analysis": "聚会先让阿克斯看见自己与家人的距离，再让一个规模小得多的经营者说出自主的代价。布鲁诺没有提出快速融资技巧，而是承认慢与辛苦能保护家人对自己的信任。阿克斯听见了这条伦理边界，接下来的选择却会把边界转嫁给泰勒承受。",
+      "turn": "因此 → 拒绝坏钱的愿望，与尽快补洞的压力同时加深。"
+    },
+    {
+      "id": "s07",
+      "act": "a2",
+      "lane": "law",
+      "where": "罗兹家 · 家宴",
+      "title": "调查者先要装作尽职下属",
+      "image": "dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克循线到卡特勒住所扑空，对方留下损坏的手机与通行装置，自己已离开。回程爆胎令查克迟到，温迪独自招待部长夫妇。杰夫科特猜他在办一宗大案，查克借机让对方以为自己只是筹备一份要献给上级的惊喜。",
+      "analysis": "部长进入家庭后，秘密调查变成一场必须由夫妻共同维持的表演。温迪调用阿克斯的厨师撑住招待，查克用习惯性的恭顺掩饰真正目标。杰夫科特的怀疑还不是看穿计划；他对下属仍有信心，正让查克暂时藏在最熟悉的服从姿态里。",
+      "turn": "因此 → 凯特动用局方熟人追查卡特勒，调查转入具体证人。"
+    },
+    {
+      "id": "s08",
+      "act": "a2",
+      "lane": "capital",
+      "where": "Axe Capital · 签约前",
+      "title": "多加一项，就越过最后边界",
+      "image": "refusal",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "安尼斯曼到公司签约前，泰勒感谢阿克斯安排餐厅，并提到奥斯卡与佩顿·布林在场。安尼斯曼随后追加要求，索取全部交易的透明度，让自己能跟随阿克斯买卖；阿克斯拒绝，叫他离开，并向瓦格斯暗示自己可能有另一个办法。",
+      "analysis": "公开背书还可被当成暂时屈身，交出交易流则会持续出售公司的核心优势。拒绝有清晰的商业理由，但发生在听见布林名字之后，也意味着阿克斯已看见一条更便宜的出口。对他便宜，是因为这条路的首要代价并不记在他的关系账上。",
+      "turn": "因此 → 泰勒无意透露的私人饭局，成为老板寻找替代方案的入口。"
+    },
+    {
+      "id": "s09",
+      "act": "a3",
+      "lane": "law",
+      "where": "纽瓦克 · 旅馆",
+      "title": "一名证人把土地与洗钱连起来",
+      "image": "cutler",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "凯特的联邦调查局联系人找到卡特勒，查克在旅馆揭穿其投资亏损账目，逼他说明杰夫科特家族财富。卡特勒称有线公司以高价租用家族土地，部分款项回流公司高层，教会与空壳账户掩饰收益；他同意作证部长持续获利。",
+      "analysis": "供述让原本分散的土地、电视与教会线索形成可调查的结构，但它仍需要独立证据印证。查克暂不正常登记的做法，也让帮忙的探员留下疑问。康纳蒂随后听见“没有文书”的议论：保密帮助调查前进，同时使程序漏洞进入另一个人的视野。",
+      "turn": "因此 → 查克获得证人，康纳蒂则获得值得追问的程序线索。"
+    },
+    {
+      "id": "s10",
+      "act": "a3",
+      "lane": "wendy",
+      "where": "Axe Capital · 电梯与交易区",
+      "title": "最糟时机，终于说出最好研究",
+      "image": "elevator",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒完成对堪萨斯城基金的推介后，阿克斯陪投资者下楼。班·金恰在电梯中脱衣跳舞，把温迪的公开突破建议用在最差场合，客户拒绝投资。被质问时，他终于说明租车数据与荷兰护照集中出现的线索，推断啤酒企业将有并购。",
+      "analysis": "班·金的研究在表演之前已经存在，不能把他找到机会写成跳舞直接产生灵感。失败反而取消了继续躲避发言的余地，使他把长期积累说完整。阿克斯认可专业结论，也提醒下次穿好衣服：公司要的并非无限放胆，而是在风险场合准确表达能力。",
+      "turn": "因此 → 一次失控的行动，最终换来研究能力被看见。"
+    },
+    {
+      "id": "s11",
+      "act": "a3",
+      "lane": "capital",
+      "where": "阿克斯办公室 / 温迪处",
+      "title": "公司缺口由一段亲密关系买单",
+      "image": "taylor-axe",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒得知阿克斯用两亿美元买下布林公司一半，抢走奥斯卡原定项目，并以二十四亿美元拟上市估值改善账面。泰勒指责他出卖自己与奥斯卡的关系；阿克斯反称是泰勒透露消息才促成交易。泰勒随后向奥斯卡道歉，来到温迪处寻求安慰。",
+      "analysis": "饭局信息不是给老板的投资指令，阿克斯却把知情本身解释成默许，以获利替泰勒决定何为值得。泰勒拒绝接受这种责任倒置，又必须面对信息确由自己流出。画面没有完整呈现与奥斯卡的谈话，因此这里只能确认关系受伤，不能补写已经达成的分手决定。",
+      "turn": "因此 → 公司找到替代方案，泰勒对老板的信任却被实质消耗。"
+    },
+    {
+      "id": "s12",
+      "act": "a3",
+      "lane": "capital",
+      "where": "安德洛夫家宴 / 母亲门前",
+      "title": "钱回来了，家庭问题还在",
+      "image": "family",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "安德洛夫请阿克斯与家人同席，宣布不做石油投资，把钱放回基金，并承诺下次提前通知。谈起母亲时，阿克斯推认他就是上集故事中的小男孩；安德洛夫没有直认，却接受母亲为保护家庭作出牺牲的说法。随后阿克斯去敲自己母亲的门。",
+      "analysis": "金主是否从一开始就在测试并未被证实，能确认的是阿克斯已经为应对赎回破坏了别人的关系，而钱最终又回来了。童年故事获得另一种视角，让权力与受伤经验并存，却不能替暴力免责。阿克斯去见母亲，是从别人的家庭回到自己的未解关系。",
+      "turn": "因此 → 赎回压力解除，代价与记忆没有被一并撤销。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "a1",
+      "number": "I",
+      "title": "缺口与入口",
+      "deck": "钱要离开，秘密调查开始。",
+      "range": "01—04",
+      "summary": "两位主角分别寻找资金与证据，温迪试图让一个被低估的人先找到自己的声音。"
+    },
+    {
+      "id": "a2",
+      "number": "II",
+      "title": "每个人都在标价",
+      "deck": "公开背书、家庭信任与服从姿态。",
+      "range": "05—08",
+      "summary": "阿克斯听见自主性的劝告，查克在招待上级时隐藏对上级的调查，泰勒的私交进入商业视线。"
+    },
+    {
+      "id": "a3",
+      "number": "III",
+      "title": "补上钱，留下伤口",
+      "deck": "证人开口、员工开口，关系却无法说清。",
+      "range": "09—12",
+      "summary": "公司与调查都有进展；资金最终回来，更凸显此前被转移给他人的代价。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "秘密调查部长的检察官",
+      "fact": "循家族财富找到卡特勒，同时对上级维持服从表象。",
+      "analysis": "他有追究的理由，却以保密与关系调用留下程序风险。"
+    },
+    "axe": {
+      "role": "为赎回缺口寻找替代方案的老板",
+      "fact": "拒绝安尼斯曼的新条件，抢下奥斯卡项目，又得知金主不再抽资。",
+      "analysis": "他守护自己的自主，却没有给予泰勒同等的私人边界。"
+    },
+    "wendy": {
+      "role": "顾问、主人与情绪承接者",
+      "fact": "训练班·金的自信，招待部长夫妇，并接住受伤的泰勒。",
+      "analysis": "她在不同系统里提供支撑，也看见成功可能由另一人的痛苦支付。"
+    },
+    "taylor": {
+      "role": "私交被老板使用的投资主管",
+      "fact": "替公司推介并无意透露布林，随后质问阿克斯、向奥斯卡道歉。",
+      "analysis": "专业成果与私人关系第一次如此直接地被老板记到同一张账上。"
+    },
+    "grigor": {
+      "role": "可随时移动资金的关键投资者",
+      "fact": "先要求赎回十五亿美元，最后决定把钱放回并谈起家庭。",
+      "analysis": "新的家庭视角增加复杂性，没有撤销金主对公司的控制优势。"
+    },
+    "jock": {
+      "role": "仍被蒙在调查之外的部长",
+      "fact": "要求扩大联邦起诉，并在家宴上猜测查克正准备大案。",
+      "analysis": "他把下属的秘密活动解释为继续服务自己，暂时未见真正目标。"
+    },
+    "oscar": {
+      "role": "被抢项目的投资者与泰勒伴侣",
+      "fact": "布林原拟与他合作；泰勒在交易受夺后前来道歉。",
+      "analysis": "本集未完整交代两人的谈话，能确认的是合作与信任遭到伤害。"
+    },
+    "ben": {
+      "role": "研究领先于表达的分析师",
+      "fact": "电梯表演吓退客户，随后清晰讲出长期追踪的并购线索。",
+      "analysis": "他需要的突破是把能力公开说出来，不能把大胆误当成所有场合都合适。"
+    }
+  },
+  "phases": [
+    {
+      "id": "p1",
+      "name": "先补缺口，先找证据",
+      "note": "前段：主要关系仍以工作互助为主。",
+      "edges": [
+        "共同敌对已缓和",
+        "合作掩护秘密",
+        "厨师资源互助",
+        "隐瞒带来质疑",
+        "日常工作支持"
+      ],
+      "details": {
+        "chuck": "用记者线索启动秘密调查。",
+        "axe": "接获赎回要求，催促募资。",
+        "wendy": "帮助班·金认领表达空间。",
+        "taylor": "发现老板未及时告知资金缺口。",
+        "grigor": "利用被豁免的赎回限制抽资。",
+        "jock": "继续指定起诉方向。",
+        "oscar": "与泰勒分享布林项目饭局。",
+        "ben": "有研究，却仍无法公开说清。"
+      }
+    },
+    {
+      "id": "p2",
+      "name": "私人与公务互相调用",
+      "note": "中段：关系开始被当成解决问题的资源。",
+      "edges": [
+        "人脉间接相助",
+        "共同完成家宴",
+        "仍可调动互助",
+        "私人消息被利用",
+        "尚未看见伤害"
+      ],
+      "details": {
+        "chuck": "去见凯特父亲并找具体经手人。",
+        "axe": "先接受权益交易，再拒绝交易透明度。",
+        "wendy": "独自招待部长夫妇，等待查克。",
+        "taylor": "感谢饭局安排并说出项目名字。",
+        "grigor": "资金去向仍给公司造成压力。",
+        "jock": "把查克的迟到误读为献功准备。",
+        "oscar": "项目进入阿克斯视线而不知情。",
+        "ben": "准备完成公开突破。"
+      }
+    },
+    {
+      "id": "p3",
+      "name": "公司有解，关系受损",
+      "note": "结尾：资金回流不能抵消已经发生的事情。",
+      "edges": [
+        "各自暂获进展",
+        "继续相互掩护",
+        "目睹老板代价",
+        "信任受到重创",
+        "成为情绪依靠"
+      ],
+      "details": {
+        "chuck": "得到卡特勒供述，但保密痕迹被察觉。",
+        "axe": "补上账面，又见资金回流并拜访母亲。",
+        "wendy": "安慰泰勒，承接交易的私人后果。",
+        "taylor": "拒绝把透露信息当成授权出卖关系。",
+        "grigor": "决定把钱放回并重述家庭意义。",
+        "jock": "尚不知道调查的真实目标。",
+        "oscar": "听见泰勒道歉，完整结果仍未呈现。",
+        "ben": "研究被认可，胆量也有了边界。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "money-hole",
+      "title": "赎回压力怎样转移到泰勒身上",
+      "intro": "箭头表示本集可见的决策连锁，不表示泰勒授权老板抢项目。",
+      "nodes": [
+        {
+          "name": "安德洛夫",
+          "role": "提出十五亿美元赎回",
+          "portrait": "grigor",
+          "scene": "s02"
+        },
+        {
+          "name": "阿克斯",
+          "role": "考虑并拒绝权益交易",
+          "portrait": "axe",
+          "scene": "s08"
+        },
+        {
+          "name": "泰勒",
+          "role": "无意透露布林在饭局",
+          "portrait": "taylor",
+          "scene": "s08"
+        },
+        {
+          "name": "阿克斯",
+          "role": "抢下布林项目",
+          "portrait": "axe",
+          "scene": "s11"
+        }
+      ],
+      "result": "公司账面改善，奥斯卡的项目与泰勒的信任承担代价。"
+    },
+    {
+      "id": "hidden-case",
+      "title": "从财富传闻到可询问的证人",
+      "intro": "线索、口供与违法认定是不同层次，本集停在供述形成。",
+      "nodes": [
+        {
+          "name": "记者",
+          "role": "提出家族传媒财富疑点",
+          "portrait": null,
+          "scene": "s01"
+        },
+        {
+          "name": "富兰克林",
+          "role": "提示土地与线路方向",
+          "portrait": null,
+          "scene": "s03"
+        },
+        {
+          "name": "凯特的局方联系人",
+          "role": "找到出逃的卡特勒",
+          "portrait": null,
+          "scene": "s09"
+        },
+        {
+          "name": "卡特勒",
+          "role": "解释土地收益与教会账目",
+          "portrait": null,
+          "scene": "s09"
+        }
+      ],
+      "result": "查克得到愿意作证的人；未正常登记的调查也引起康纳蒂注意。"
+    },
+    {
+      "id": "voice",
+      "title": "研究如何终于被说出来",
+      "intro": "公开表演没有制造投资线索，线索来自此前长期追踪。",
+      "nodes": [
+        {
+          "name": "班·金",
+          "role": "研究受表达恐惧阻隔",
+          "portrait": "ben",
+          "scene": "s04"
+        },
+        {
+          "name": "温迪",
+          "role": "提出公开突破练习",
+          "portrait": "wendy",
+          "scene": "s04"
+        },
+        {
+          "name": "班·金",
+          "role": "在电梯失控表演",
+          "portrait": "ben",
+          "scene": "s10"
+        },
+        {
+          "name": "阿克斯",
+          "role": "追问并认可研究",
+          "portrait": "axe",
+          "scene": "s10"
+        }
+      ],
+      "result": "被看见的能力来自最后的具体陈述，不能由错误场合的大胆代替。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "No seed money is worth that.",
+      "zh": "没有哪笔种子资金值得付出那种代价。",
+      "speaker": "布鲁诺",
+      "context": "解释自己为何不借会让人失去自主的黑帮资金。",
+      "image": "bruno",
+      "analysis": "资金来源决定的可能是整个人如何生活，而不只是利息高低。"
+    },
+    {
+      "en": "No, you're not.",
+      "zh": "不，你并不抱歉。",
+      "speaker": "泰勒",
+      "context": "阿克斯为抢项目说抱歉，泰勒立刻拒绝这句表态。",
+      "image": "taylor-axe",
+      "analysis": "泰勒把礼貌措辞与实际选择分开：若结果正合他意，抱歉并不能恢复对方的边界。"
+    },
+    {
+      "en": "Hi Mom.",
+      "zh": "嗨，妈。",
+      "speaker": "阿克斯",
+      "context": "结尾来到母亲家门前。",
+      "image": "mother",
+      "analysis": "商场语言在这个门口突然缩短，留下本集没有解释完的家庭距离。"
+    }
+  ],
+  "comparison": {
+    "title": "同样说要自主，谁的边界算数？",
+    "deck": "安尼斯曼索要交易流时，阿克斯说不；泰勒要求保护亲密关系时，老板改写了责任。",
+    "left": {
+      "image": "refusal",
+      "caption": "本集截图：办公室拒绝安尼斯曼",
+      "speaker": "阿克斯",
+      "title": "我的交易，不能归你",
+      "text": "他认为全部透明度会出卖核心优势，因此宁可承担缺口也不肯交出。这个界限被他视为不可侵犯。"
+    },
+    "right": {
+      "image": "taylor-hurt",
+      "caption": "本集截图：泰勒承受交易后果",
+      "speaker": "泰勒",
+      "title": "我的关系，也不该归你",
+      "text": "泰勒没有把饭局信息作为授权，老板却用得到信息的事实为利用信息辩护，还把收益当成足够补偿。"
+    },
+    "rows": [
+      {
+        "label": "被要求交出的东西",
+        "left": "交易策略与持续信息优势",
+        "right": "项目私交与伴侣之间的信任"
+      },
+      {
+        "label": "谁来决定是否值得",
+        "left": "阿克斯坚持由自己决定",
+        "right": "阿克斯替泰勒作了决定"
+      },
+      {
+        "label": "即时结果",
+        "left": "安尼斯曼被赶走",
+        "right": "公司获利，泰勒向奥斯卡道歉"
+      }
+    ],
+    "insight": {
+      "kicker": "BOUNDARIES",
+      "title": "能拒绝被占有的人，也可能占用别人",
+      "text": "阿克斯并非不懂自主权的价值。他的问题是把自主权按组织层级分配：老板的边界构成原则，下属的边界却可以作为解决公司问题的材料。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "同一个词，两张账",
+      "fact": "标题既对应基金赎回，也让家庭、愧疚与补偿进入视野。",
+      "analysis": "资金最终放回并不意味着所有代价都退回原处。金融账可以逆转，泰勒说出的道歉和老板做出的选择已经成为共同记忆。",
+      "steps": [
+        "资金抽离",
+        "他人支付",
+        "资金回流"
+      ]
+    },
+    {
+      "title": "匿名案的可见痕迹",
+      "fact": "查克隐藏对象、使用租车与加密通讯；探员仍会谈起没有文书的工作。",
+      "analysis": "秘密没有消失，只是转移成工时、记录和同事之间的问题。康纳蒂本集获得的是疑点与追问方向，不能提前写成已经掌握全部反制材料。",
+      "steps": [
+        "减少正式痕迹",
+        "借用人情渠道",
+        "引起程序疑问"
+      ]
+    },
+    {
+      "title": "母亲与被教出来的孩子",
+      "fact": "温迪谈班·金习惯缩小自己；安德洛夫谈母亲的牺牲；阿克斯最终登门见母亲。",
+      "analysis": "这些家庭关系各不相同，却都让现在的行事方式与过去相连。理解来源能增加人物层次，不能替成年后的利用和暴力开脱。",
+      "steps": [
+        "习得边界",
+        "重复行为",
+        "回到家门"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "a2",
+    "leftImage": "bruno",
+    "leftCaption": "布鲁诺：不让借款占有整个人。",
+    "rightImage": "refusal",
+    "rightCaption": "阿克斯：不肯让出全部交易透明度。",
+    "kicker": "A CLEAN EXIT?",
+    "title": "拒绝这一种依附，不等于付清所有代价",
+    "text": "两场对话为阿克斯划出同一条线：钱不值得换走自主。他随后却使用泰勒提供的私人信息解决问题，让“自己凑出来”拥有了极不对称的含义。",
+    "scene": "s08"
+  },
+  "closing": {
+    "image": "mother",
+    "kicker": "THE DOOR",
+    "value": "HOME",
+    "title": "公司问题解决了。\n他去敲另一扇门。",
+    "text": "安德洛夫把资金放回，也让阿克斯重新看待一个童年故事。阿克斯来到母亲家；泰勒刚为老板的解决办法付出私人代价。家庭在结尾成为待处理的关系，而非现成的赎罪。"
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 4,
+  "title": "Hell of a Ride",
+  "chineseTitle": "胜利留下的损失",
+  "subtitle": "太阳能、一次爆炸，与父亲认可的方式",
+  "hero": "launch",
+  "heroTitle": "他们赢了钱\n失去了什么",
+  "heroDeck": "火箭爆炸，空头兑现。\n董事会除名，另一笔交易成功。\n父亲终于称赞儿子：你对我够狠。",
+  "openingTitle": "赢到想要的结果，\n为什么仍然难以庆祝？",
+  "openingFact": "一份可能指向查克的证词，把父亲带进询问室。另一边，阿克斯正在慈善领域寻找能利用的新机会，泰勒准备观看一个自己敬佩的人亲自参加的太空发射。",
+  "openingReading": "本集将收益与失去同时记账：资本可以获利，关系可以恢复，人的哀悼、被剥夺的位置和代际伤害却不会自动清零。",
+  "stamp": {
+    "value": "X",
+    "label": "THE UNKNOWN",
+    "note": "计算能衡量风险，无法把生命里的未知消除。"
+  },
+  "storyTitle": "同一场胜利，\n分别记在谁的账上",
+  "storyDeck": "从三天前回到询问室，再从公开表决走到共享餐桌；十二个节点保留揭示顺序。",
+  "intro": "本集以老人面对豁免的悬念开场，再退回三天前，逐步解释父子为何走到同一张桌旁。与此同时，慈善提案与太空空头带来两种不同的获利：一种精心操纵他人的反感，另一种兑现后让判断者无法高兴。",
+  "catalogueIntro": "父亲可能作证，查克先用感谢、再用土地利益应对。阿克斯借慈善董事会的反感谋取太阳能收益；太空发射的悲剧让泰勒与温迪共同面对一个难题：赚钱的判断与人的失去能否同时被承认。",
+  "spoiler": "剧透范围：前两季必要背景及第三季第 1—4 集完整结尾；不涉及后续。按观众获知顺序区分证词、推断与揭示；台词中文为本页自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield · S03E04 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e04",
+      "note": "核对对话、事件顺序与短台词；非官方转录。台词中文为本页自译。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun · 第三季第 4 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=25986",
+      "note": "交叉核对情节及画面语境；作者猜测与预测未当作剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E04 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "note": "仅用于核对本集图像归属；不使用自动生成的回顾。"
+    },
+    {
+      "id": "trader",
+      "title": "Fan Fun · Winning Ugly / S3 Ep4",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=25991",
+      "note": "交叉核对太阳能传话、反对表演与两笔交易；未来预测不作为事实。"
+    },
+    {
+      "id": "timeline",
+      "title": "Ginges Be Cray · Hell of a Ride",
+      "url": "https://gingesbecray.com/billions-s3e04-hell-of-a-ride-recap/",
+      "note": "核对三天前/两天前结构与结尾；作者态度、历史解释及预测未照搬。"
+    },
+    {
+      "id": "kiss",
+      "title": "The Ringer · 第4集父子尾声场景分析",
+      "url": "https://www.theringer.com/2018/04/16/tv/billions-chuck-rhoades-kiss-tom-brady",
+      "note": "只核对本集父亲上门、赞许与亲吻的场景及 Showtime 截图，不采用文章的后续剧情预测。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/senior.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6974186b981d984e9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "老查克坐在东区检察官询问桌前",
+      "caption": "本集截图：老人面对豁免与作证的提议；答复被延迟到本集后段才揭示。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/oscar.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69741909a9b7df314_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "Oscar Langstraat 向阿克斯介绍提议",
+      "caption": "本集截图：Oscar 在慈善活动上解释投资式慈善。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/wags.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6974202768b35e7f8_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "Wags 在办公室里继续争取墓地",
+      "caption": "本集截图：Wags 围绕身后墓地展开安排；不是墓地夜景。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/short.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6974206b00cab19d4_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "泰勒与 Mafee 在交易区谈太空发射",
+      "caption": "本集截图：泰勒依据此前发射取消与技术问题调整 Farpoint 空头。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/yale.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697422679d788b8bb_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "查克在耶鲁讲台上向父亲致辞",
+      "caption": "本集截图：查克利用父亲的校友奖项作公开和解的尝试。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/launch.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69742345568dac9c9_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "交易区员工围坐在发射转播前",
+      "caption": "本集截图：公司员工观看太空发射；火箭爆炸使空头头寸获利。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/bryan.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69742383e96397cc2_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "布莱恩向 Dake 汇报调查进展",
+      "caption": "本集截图：布莱恩继续追踪冰果汁证据与查克家族资金。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/couple.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697424228737bf378_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "查克与温迪在校友夜晚交谈",
+      "caption": "本集截图：Craig 的死讯使温迪发现丈夫已知两人旧事，随后夫妇在酒吧详谈。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/wendy.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69742544e328eeb1a_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "温迪面对泰勒谈哀伤与盈利",
+      "caption": "本集截图：她帮助泰勒处理崇敬的人死亡、自己却获利的矛盾。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/board.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69742663a86dd7bce_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "慈善董事会举手表决阿克斯去留",
+      "caption": "本集截图：投资提案通过后，董事会表决将阿克斯除名。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/shared-table.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6974276b45a12973a_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-4/screencaps/",
+      "alt": "泰勒在与阿克斯和 Oscar 的晚餐中发言",
+      "caption": "本集截图：泰勒解释共享餐盘如何让份额公开，继而离席。",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 404
+    },
+    {
+      "file": "assets/father-approval.jpg",
+      "originalUrl": "https://wp.theringer.com/wp-content/uploads/2024/11/A-close-up-of-Chuck-Sr.-twisting-his-sons-ear-while-kissing-him.jpg",
+      "sourceUrl": "https://www.theringer.com/2018/04/16/tv/billions-chuck-rhoades-kiss-tom-brady",
+      "alt": "老查克捏住儿子的耳朵，在儿子家中亲吻他",
+      "caption": "本集截图：老查克上门赞许儿子，随即捏住他的耳朵亲吻；Showtime / The Ringer",
+      "kind": "episode-still",
+      "width": 1830,
+      "height": 1000
+    }
+  ],
+  "scenes": [
+    {
+      "id": "three-days",
+      "act": "act1",
+      "lane": "law",
+      "where": "东区询问室 → 三天前",
+      "title": "先看见豁免，再看见父子为何走到这里",
+      "image": "senior",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "开场中，布莱恩依据 Ira 的陈述与资金规模，指向查克动用信托的布局；检方提出豁免换老人合作，画面暂不交代答复。叙事随后退回三天前：Dake 告诉查克，布莱恩可能已找上父亲。查克担心父亲不听劝，决定设法恢复对话。",
+      "analysis": "悬置答复，让本集的父子相处始终带着另一张询问桌的阴影。Dake 的提醒也再次证明正式分区没有切断秘密通报，查克知道的不只是证据，还有对方接近哪个人。父亲此时既是受伤的家人，也是可能决定他政治与职业命运的证人。",
+      "turn": "因此 → 修复关系有了紧迫的自保目的，但老人会怎样选择，要等本集后段揭示。"
+    },
+    {
+      "id": "erase-and-arm",
+      "act": "act1",
+      "lane": "capital",
+      "where": "墓地会面 / 私人行动人员",
+      "title": "一边擦掉线索，一边把证据递给对手的人",
+      "image": "wags",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "阿克斯陪 Wags 看三十五万美元的曼哈顿墓地，随后听行动人员报告：FBI 正接近可生产冰果汁致病物的实验室。他要求在调查到达前让相关实验室不复存在，同时命人把 Ira 针对查克的书面陈述交给布莱恩，让不愿放手的调查员继续追下去。",
+      "analysis": "这是两种相反的信息动作：阻断指向自己的链，增强指向查克的链。他并不需要信任布莱恩，只需相信调查员拿到材料以后会坚持。Wags 的墓地野心与这场会面同处一地，给胜负之外加上时间尺度；人想安排身后留名，眼前仍忙于抹掉责任痕迹。",
+      "turn": "因此 → 实验室线开始流失，查克家族的资金链却获得了外部推动。",
+      "detail": "配图为本集 Wags 在办公室的镜头，辨认墓地副线人物；不是这次墓地密谈的精确画面。"
+    },
+    {
+      "id": "solar-route",
+      "act": "act1",
+      "lane": "capital",
+      "where": "World-Aid 活动 → 私下传话",
+      "title": "慈善提案，也能变成一条买股路线",
+      "image": "oscar",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Oscar 提议让 World-Aid 投资太阳能板制造商 Rayveon，使供给非洲的项目产生可持续收益。阿克斯知道董事会不信任自己，又因涉案被撤下活动主台。他随后让 Wags 经基金会负责人 Ayles 把标的送到泰勒面前，避免看起来是自己指导交易。",
+      "analysis": "观众在董事会表决前，已经知道阿克斯看中了制造商股价可能上涨的机会；真正延迟揭开的，是他将怎样利用反感推动表决。传话经过慈善效率的外衣，并未抹掉起点上的投资意图。泰勒会不会接下去，又被他看作畏惧风险与逐利之间的拉力。",
+      "turn": "因此 → 同一个提案同时连接非洲供给、董事会地位与公司投资，公开目标不再解释全部利益。"
+    },
+    {
+      "id": "farpoint",
+      "act": "act1",
+      "lane": "capital",
+      "where": "Axe Capital · 发射倒计时",
+      "title": "希望他成功，同时押注商业计划会失败",
+      "image": "short",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒与 Mafee 讨论 Craig Heidecker 亲自搭乘的 Farpoint 发射：前三次因导航等问题取消，未见修正，再次取消会使计划延后。泰勒决定加大空头，却也穿着支持公司的衣服，表示希望他到达空间站，押注针对的是商业模式而非探索愿景。",
+      "analysis": "泰勒没有把喜欢一个人直接转换成相信其公司的价格，也没有假装做空等于盼望每一种坏事。此时预计的风险包括取消发射，并非已经预知死亡。把这条界线说清，才能理解后面为什么判断获利仍会带来震动：结果比原先的市场假设更残酷。",
+      "turn": "因此 → 公司带着空头观看发射，泰勒则同时带着敬意与谨慎等待结果。"
+    },
+    {
+      "id": "yale-speech",
+      "act": "act2",
+      "lane": "law",
+      "where": "耶鲁 · 父亲五十周年校友会",
+      "title": "他试着用感谢换回父亲",
+      "image": "yale",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "查克在父亲获奖时作意外致辞，感谢他提供机会、联盟与进入世界的钥匙。私下老人却批评儿子示弱，炫耀旧日征服。查克承认致辞有自保用意，又说若自己出事，希望父亲照顾 Kevin；老人答应照顾孙子，但没有明确承诺保护儿子。",
+      "analysis": "致辞把家庭特权说成可感激的传承，私下对话却暴露父亲认同的是强势与征服。查克尝试以下一代唤起责任，仍在寻找一种不伤害对方的保护方式。老人答应照顾孩子而不回答核心要求，使这次和解保留了情感与交易都没有真正达成的空白。",
+      "turn": "因此 → 查克仍不确信父亲会保密，公开感谢没有结束作证风险。"
+    },
+    {
+      "id": "explosion",
+      "act": "act2",
+      "lane": "capital",
+      "where": "交易区转播 / 校友夜晚",
+      "title": "判断兑现的那一刻，人却不在了",
+      "image": "launch",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "火箭终于升空，随即爆炸，Craig 死亡。交易区短暂震惊后，Dollar Bill 喊出股价将下跌，众人庆祝空头获利；泰勒与 Mafee 没有跟着欢呼。校友会上的温迪获知消息，查克向她表达对损失的慰问，让她意识到丈夫早已知道两人的关系。",
+      "analysis": "同一条新闻在不同位置成为收益、哀伤或秘密终于被承认的入口。空头获利没有证明公司造成爆炸，也不能证明泰勒希望这种结局。员工的欢呼让抽象盈亏与人的死亡在一个房间碰撞，温迪的反应则把此前被表演语言遮住的婚姻旧事带回现实。",
+      "turn": "因此 → 泰勒需要处理获利的道德震动，夫妇也终于有了一次直接谈旧事的理由。"
+    },
+    {
+      "id": "doctor-clue",
+      "act": "act2",
+      "lane": "law",
+      "where": "东区调查 · 工厂经理询问",
+      "title": "实验室的人走了，另一名参与者说出医生",
+      "image": "bryan",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "Dake 报告可能供应致病物的实验室技术员已经飞往国外，责备布莱恩没有及时跟进。另一条线中，检方以监控拍到的行为质问工厂经理；他称被告知用量不会危险、咨询过医生，并描述指示者外貌。布莱恩又追到信托规模吻合，迫使 Dake 批准正式询问老人。",
+      "analysis": "案件不是单线前进：技术员离境使一条来源变弱，工厂经理又把链条推向尚未确认身份的医生。不能把外貌描述直接写成已找到某个具体人。布莱恩同时要求上级若拒绝豁免就给书面理由，使阻拦从模糊态度变成需要承担记录的决定。",
+      "turn": "因此 → 父亲正式进入可交换豁免的询问，查克必须在答复揭示前再作应对。"
+    },
+    {
+      "id": "marriage-angle",
+      "act": "act2",
+      "lane": "wendy",
+      "where": "校友会酒吧 → Foley 会面",
+      "title": "真正说出伤害，然后把父亲的规则用回去",
+      "image": "couple",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "夫妇在酒吧详谈 Craig 旧事，查克说父亲曾跟踪并告知自己，也坦言这件事伤他很深。谈到少年时由父亲安排的性经验与首次获赞，温迪更懂父子关系。Dake 报告老人将录供后，她让查克运用对父亲的了解；查克随后找 Foley，以 Kingsford 土地利益作杠杆。",
+      "analysis": "这次坦白没有把伤害说成从未发生，而是约定它再出现时以文明方式讲出来。温迪的下一句鼓励又将理解转成策略：既然知道父亲只尊重强势，就借那套语言回应他。亲密在同一场里带来和解能力，也能给更精准的反击提供依据。",
+      "turn": "因此 → 父亲面临的不再只有儿子的感谢，还有土地可能失去赌场价值的实际压力。"
+    },
+    {
+      "id": "two-truths",
+      "act": "act3",
+      "lane": "wendy",
+      "where": "温迪办公室",
+      "title": "一个人可以哀悼，也可以从死亡中获利吗",
+      "image": "wendy",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒向温迪谈 Craig 腕表的精密，以及自己既敬佩其愿景又从死亡获利的冲突。温迪指出完美无法保证，未知风险仍存在，Craig 选择承受；她允许两种情绪同时成立，却要求在公司专注能赚钱的判断。两人都没有否认悲伤，谈话把情绪重新放回公司的工作要求中。",
+      "analysis": "温迪的建议兼有帮助与制度压力：她让泰勒不必因悲伤否定理性，也要求情绪最终服从工作中的效率。购买腕表没有把冲突彻底解决，可以读作纪念、认同精密理想，也有拿收益购买逝者符号的刺痛；本集没有替这些可能性选定唯一答案。",
+      "turn": "因此 → 泰勒继续工作，却把这次胜利留下的矛盾带在身上。"
+    },
+    {
+      "id": "board-vote",
+      "act": "act3",
+      "lane": "capital",
+      "where": "World-Aid 董事会",
+      "title": "把别人对自己的厌恶，变成提案的推力",
+      "image": "board",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "温迪劝阿克斯接受声誉受损期的退让，他仍到场，在 Oscar 推介投资式慈善时激烈反对，贬低在座者驾驭新项目的能力。董事会通过建立投资基金的提案，随后表决将他除名。他失去席位，同时得到自己希望出现的太阳能投资方向。",
+      "analysis": "他不能让董事会喜欢自己，于是改为利用不喜欢自己。反对的表演既满足被逐出的愤怒，也让赞成提案成为其他人证明独立的方式。公开席位的损失是真实的，但不能单看成失败：观众早知他已经安排市场头寸，另一层目标正在相反方向获益。",
+      "turn": "因此 → 董事会的排斥成为可交易的力量，真正收益要到后面的晚餐才完全说开。"
+    },
+    {
+      "id": "answer-return",
+      "act": "act3",
+      "lane": "law",
+      "where": "土地警告 → 回到开场询问室",
+      "title": "父亲拒绝指认，保护重新有了价格",
+      "image": "senior",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "州议员通知老人，Kingsford 土地可能改为保护区，赌场若转移将令其投资失值。叙事回到开场，老人拒绝指认儿子，称自己主动动用信托、儿子是受害者。这是他的证词；布莱恩未能取得合作，戴克让他回头追问其他证人。",
+      "analysis": "本集先给出经济施压，再揭示保护选择，父亲的拒绝因而同时具有家庭与利益的重量。查克先试着用感谢修复，最终却依靠父亲最熟悉的强势手段挡住证词。检方失去了关键配合，但这不能把一份有利于儿子的说法变成已经独立核实的事实。",
+      "turn": "因此 → 老人没有给出检方想要的指认，父子关系暂时由利益与强势重新接上。"
+    },
+    {
+      "id": "shared-plate",
+      "act": "act3",
+      "lane": "cross",
+      "where": "钟表店之后 · 埃塞俄比亚餐馆",
+      "title": "每个人分到了收益，还要问留下什么",
+      "image": "shared-table",
+      "sources": [
+        "transcript",
+        "recap"
+      ],
+      "fact": "泰勒说明已用十只太阳能股掩住 Rayveon 仓位；Oscar 看懂阿克斯借反对推动提案的意图。泰勒以共享餐盘说明公平，称两人更适合各吃自己的牛排后离席。随后老查克上门赞许儿子的强硬做法，阿克斯与 Wags 再访墓地谈传承。",
+      "analysis": "泰勒参与了交易，却仍要求合作建立在公开透明上。父亲的赞美和墓地里的闲谈随后带出两种传承：查克学会用伤害换认可，阿克斯与 Wags 想替成功安排长久意义。共同利益没有让所有人愿意同席，赢下一局也没有替他们回答，关系与人生最终会留下什么。",
+      "turn": "因此 → 三条线都留下了收益，也留下如何维系关系、怎样被记住的问题。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "act1",
+      "number": "I",
+      "title": "答复之前的三天",
+      "deck": "先有风险，再有各自想保住的东西。",
+      "range": "01—04",
+      "summary": "询问悬念展开，阿克斯同时处理证据与资本，泰勒把愿景和商业风险分开。"
+    },
+    {
+      "id": "act2",
+      "number": "II",
+      "title": "被新闻照见的私人生活",
+      "deck": "公开表演、突然死亡与终于说出的伤害。",
+      "range": "05—08",
+      "summary": "校友感谢未换来保证，发射悲剧让温迪与泰勒受震动；医生线索与父亲作证继续逼近。"
+    },
+    {
+      "id": "act3",
+      "number": "III",
+      "title": "收益无法抵销一切",
+      "deck": "表决、答复与一张不愿共享的餐桌。",
+      "range": "09—12",
+      "summary": "泰勒处理哀悼，阿克斯推进提案，父亲保护与称赞儿子；每个人都有所得，却难以共同庆祝。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区联邦检察官",
+      "fact": "尝试向父亲和解，坦言婚姻伤害，最终用土地利益施压阻止不利证词。",
+      "analysis": "不再只否认父亲的规则，而是借同一规则取得认可与自保。"
+    },
+    "axe": {
+      "role": "受交易限制的创办人",
+      "fact": "阻断实验室线，递送 Ira 陈述，借慈善董事会反感推进太阳能投资。",
+      "analysis": "能把声誉劣势转成战术，却依赖遮住实际指令与利益的路径。"
+    },
+    "wendy": {
+      "role": "表现教练 / 查克妻子",
+      "fact": "哀悼 Craig，与丈夫直接谈旧事，帮助泰勒处理获利冲突并劝阿克斯退让。",
+      "analysis": "她也正在失去人；工作中要求别人优先选择赚钱的真相，显得尤其复杂。"
+    },
+    "taylor": {
+      "role": "首席投资官",
+      "fact": "做空 Farpoint 后面对死亡获利，购买纪念腕表，并接下太阳能投资。",
+      "analysis": "既能看穿老板的路径，也会参与它；餐馆离席保留了情感上的距离。"
+    },
+    "senior": {
+      "role": "查克父亲 / 信托受托人",
+      "fact": "面对豁免未供出儿子，在土地受压后称赞儿子的反击。",
+      "analysis": "他的保护与伤害并存，认可往往由强硬行为触发。"
+    },
+    "bryan": {
+      "role": "东区检察官",
+      "fact": "追查工厂参与者、实验室与信托，要求获准正式询问老人。",
+      "analysis": "坚持把上级的阻拦转成须写下理由的选择，仍未拿到目标证词。"
+    },
+    "wags": {
+      "role": "公司运营核心",
+      "fact": "传递太阳能标的，借私人调查争夺墓地并最终得手。",
+      "analysis": "组织忠诚与身后焦虑都通过资源和施压解决，生命被当成可安排的最后项目。"
+    },
+    "oscar": {
+      "role": "科技投资者 / 慈善提案人",
+      "fact": "推动投资式慈善，识破阿克斯反对表演，感谢助攻并邀请后续交流。",
+      "analysis": "公开保持品牌清白，同时接受别人用争议手段促成自己的目标。"
+    }
+  },
+  "phases": [
+    {
+      "id": "opening",
+      "name": "01 · 各自害怕失去",
+      "note": "证词、慈善席位与太空愿景成为不同风险。",
+      "edges": [
+        "递证与清线并行",
+        "共同面对父亲",
+        "劝他认识声誉损失",
+        "经他人传递意图",
+        "尚未面对死亡收益"
+      ],
+      "details": {
+        "chuck": "担心父亲选择报复。",
+        "axe": "安排阻断线索、推动查克调查。",
+        "wendy": "与丈夫计划到校友会修好。",
+        "taylor": "以技术与经营风险评估 Farpoint。",
+        "senior": "保留保护孙子的立场。",
+        "bryan": "追问老人能否确认资金安排。",
+        "wags": "筹划墓地并为老板传话。",
+        "oscar": "寻求太阳能投资提案支持。"
+      }
+    },
+    {
+      "id": "middle",
+      "name": "02 · 新闻改变了情绪",
+      "note": "死亡进入盈利，婚姻旧事进入直接谈话。",
+      "edges": [
+        "家族线逼近",
+        "坦白伤害与旧事",
+        "她也承受个人丧失",
+        "投资被暗中引导",
+        "分享哀悼与矛盾"
+      ],
+      "details": {
+        "chuck": "听到父亲将正式录供。",
+        "axe": "准备利用董事会对自己的反感。",
+        "wendy": "承认旧事，听见丈夫真实受伤。",
+        "taylor": "从获利中感到失去英雄。",
+        "senior": "拒绝儿子的温情修复。",
+        "bryan": "以书面理由压力争取询问。",
+        "wags": "以调查手段继续争墓地。",
+        "oscar": "等待董事会决定新方向。"
+      }
+    },
+    {
+      "id": "ending",
+      "name": "03 · 得到的认可与剩下的距离",
+      "note": "秘密收益完成，关系仍含不愿庆祝的部分。",
+      "edges": [
+        "证词暂未突破",
+        "以坦白重建共同防线",
+        "她劝退他却绕行",
+        "看穿路径仍参与",
+        "情绪不被盈利消除"
+      ],
+      "details": {
+        "chuck": "以强势获得父亲赞美。",
+        "axe": "丢席位却推动提案与公司获利。",
+        "wendy": "让泰勒继续工作，自己的失去也仍在。",
+        "taylor": "购买腕表，交易后选择离席。",
+        "senior": "保护儿子，同时肯定儿子伤害自己。",
+        "bryan": "未取得指认，重回其他证人。",
+        "wags": "得到墓地并谈身后传承。",
+        "oscar": "获得提案与未来合作入口。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "solar-message",
+      "title": "一条不便直接发出的买股意图，怎样抵达？",
+      "intro": "观众先知道起点，晚餐时才确认泰勒已经识破并执行。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "看中 Rayveon 的收益机会",
+          "portrait": "axe",
+          "scene": "solar-route"
+        },
+        {
+          "name": "Wags / Ayles",
+          "role": "用慈善效率包装标的",
+          "portrait": "wags",
+          "scene": "solar-route"
+        },
+        {
+          "name": "泰勒",
+          "role": "用十股组合掩住目标",
+          "portrait": "taylor",
+          "scene": "shared-plate"
+        },
+        {
+          "name": "董事会",
+          "role": "因公开对抗批准新方向",
+          "portrait": null,
+          "scene": "board-vote"
+        }
+      ],
+      "result": "正式限制没有消灭暗中引导；泰勒承认参与，也以离席表达对合作方式的距离。"
+    },
+    {
+      "id": "father-leverage",
+      "title": "儿子怎样换到父亲熟悉的语言？",
+      "intro": "感谢没有取得保证，实际利益让下一次对话改变条件。",
+      "nodes": [
+        {
+          "name": "查克致辞",
+          "role": "公开承认父亲提供的优势",
+          "portrait": "chuck",
+          "scene": "yale-speech"
+        },
+        {
+          "name": "温迪",
+          "role": "让他运用对父亲的了解",
+          "portrait": "wendy",
+          "scene": "marriage-angle"
+        },
+        {
+          "name": "Foley / 议员",
+          "role": "土地可能改作保护区",
+          "portrait": null,
+          "scene": "answer-return"
+        },
+        {
+          "name": "父亲",
+          "role": "不指认儿子并称赞其反击",
+          "portrait": "senior",
+          "scene": "answer-return"
+        }
+      ],
+      "result": "保护与伤害没有互相排除；父亲用认可再次肯定了迫使别人承受后果的能力。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "Not his vision.",
+      "zh": "不是他的愿景。",
+      "speaker": "泰勒 → Mafee",
+      "context": "说明做空针对商业模式，仍希望空间探索成功。",
+      "image": "short",
+      "analysis": "这条界线解释了获利后的哀伤：判断风险不是许愿某个人死亡。"
+    },
+    {
+      "en": "Mind the truth that makes you money.",
+      "zh": "盯住那条能让你赚钱的真相。",
+      "speaker": "温迪 → 泰勒",
+      "context": "允许两种情绪存在，却要求工作中明确优先项。",
+      "image": "wendy",
+      "analysis": "安慰同时也是公司的价值要求；它帮助行动，也把没有赚钱的情感推到工作之外。"
+    },
+    {
+      "en": "I'm proud of you, son.",
+      "zh": "儿子，我为你骄傲。",
+      "speaker": "父亲 → 查克",
+      "context": "儿子用土地利益施压后，父亲上门赞赏。配图为同一场中紧随其后的亲吻，认可与强制在一个动作里重叠。",
+      "image": "father-approval",
+      "analysis": "认可终于出现，却因为儿子敢于伤害自己；父子和解保留了最难摆脱的旧规则。"
+    }
+  ],
+  "comparison": {
+    "title": "同样是获利，\n一笔令人哀悼，一笔依靠遮蔽",
+    "deck": "Farpoint 与 Rayveon 的不同，不能被“公司赚到钱”抹平。",
+    "left": {
+      "image": "launch",
+      "caption": "交易区观看发射，随后从爆炸带来的股价下跌中获益。",
+      "speaker": "泰勒",
+      "title": "判断风险，却没有制造悲剧",
+      "text": "泰勒希望愿景成功，依据公司问题做空；死亡结果使收益与敬意发生冲突。"
+    },
+    "right": {
+      "image": "board",
+      "caption": "董事会公开除名阿克斯，同时通过他希望通过的投资方向。",
+      "speaker": "阿克斯",
+      "title": "引导结果，又隐藏引导路径",
+      "text": "经别人传递投资意图，再借公开反对推动表决；收益与策略之间存在主动安排。"
+    },
+    "rows": [
+      {
+        "label": "判断依据",
+        "left": "历次取消发射与未解决的技术问题",
+        "right": "提案通过将有利于太阳能制造商"
+      },
+      {
+        "label": "对事件的作用",
+        "left": "持有空头，本集未显示造成爆炸",
+        "right": "组织传话与反对表演，主动推动提案"
+      },
+      {
+        "label": "结果留下什么",
+        "left": "英雄死亡与盈利同时进入自我理解",
+        "right": "公开丢席位，私下获利，并引来泰勒的距离"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "得到利润，不足以解释一笔交易",
+      "text": "需要继续问：收益来自看见风险，还是来自改变别人的选择？这一区分不使死亡获利毫无痛苦，却能防止把观察悲剧与造成、操纵事件混成一种行为。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "校友奖项与父亲的吻",
+      "fact": "查克先在讲台感谢父亲，后来因强硬反击得到父亲的称赞与亲吻。",
+      "analysis": "公开荣誉的语言没能完成修复，竞争与伤害反而唤起认可。下一代得到的示范因此既是保护，也是难以拆除的规则。",
+      "steps": [
+        "公开感谢",
+        "实际施压",
+        "获得认可"
+      ]
+    },
+    {
+      "title": "腕表与未知数",
+      "fact": "泰勒细数 Craig 腕表的精密部件，后来购入同款。",
+      "analysis": "可测量的精准令人安慰，却不能替一艘载人火箭消除未知。表既能纪念理想，也保留从死亡获利的矛盾，不必强行读成单一态度。",
+      "steps": [
+        "崇敬精密",
+        "承认未知",
+        "携带纪念"
+      ]
+    },
+    {
+      "title": "最后一块墓地",
+      "fact": "Wags 为曼哈顿墓地出价，遭人抢先后借调查和婚外情曝光施压，最终取得位置。",
+      "analysis": "他想让死后安排弥补生前混乱，解决方式却仍是熟悉的资源争夺。结尾谈年龄与遗产，把胜负放回没人能完全控制的生命期限。",
+      "steps": [
+        "预订身后",
+        "排开对手",
+        "想到寿命"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "wags",
+    "kicker": "A HELL OF A RIDE",
+    "value": "90+",
+    "title": "安排了身后的地方\n也安排不了剩下的时间",
+    "text": "结尾阿克斯与 Wags 再访墓地，谈三十岁之死的悲剧与九十岁的一生。配图为本集 Wags 筹办墓地期间的办公室镜头：最后得到的那块土地，无法替任何人保证还有多少时间。"
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 12,
+  "title": "Elmsley Count",
+  "chineseTitle": "你看见的牌，不是全部",
+  "subtitle": "导师用信任与特权建立的系统，被学生学会，也被学生改写。",
+  "hero": "pitch",
+  "heroTitle": "他把未来推上台。\n未来转身离开。",
+  "heroDeck": "六十亿美元的承诺，\n两场看似成功的收网。",
+  "openingTitle": "他们究竟失去了钱、职位，还是解释发生了什么的权力？",
+  "openingFact": "泰勒已经筹备自己的公司，却仍与阿克斯一同出席募资活动。查克与州总检察长正在诱导杰夫科特干预证人，等待部长主动来求助。",
+  "openingReading": "本集的两次反转都依赖信息不对称：你相信身边的人仍在配合自己的剧本，别人却已把你的权威、赞许或秘密用作另一场行动的材料。",
+  "stamp": {
+    "value": "$6B",
+    "label": "COMMITTED",
+    "note": "六十亿美元是募资承诺，尚待锁定；它不是已经入账的现金。"
+  },
+  "storyTitle": "你看见的牌，不是全部",
+  "storyDeck": "导师用信任与特权建立的系统，被学生学会，也被学生改写。",
+  "intro": "阿克斯公开把泰勒介绍为公司未来，却不知这番背书正替新竞争者建立信用。募资承诺随后分流，泰勒公开独立、马菲跟随，班·金则拒绝跳槽。安德洛夫提出杀人，阿克斯最终拒绝；另一边查克以为部长落入陷阱，却在办公室被解职。奥斯卡愿意给泰勒投资，却拒绝恢复亲密；温迪与查克接纳阿克斯，三人开始讨论各自的新对手。",
+  "catalogueIntro": "阿克斯在募资会上盛赞泰勒，六十亿美元承诺却在次日分流。查克以为抓住部长的干预证据，办公室里等着他的却是另一套安排；旧导师失去控制，新的联盟在餐桌边形成。",
+  "spoiler": "只剧透第三季第 12 集《Elmsley Count》及此前已播内容，含本集结尾；不使用后集解释人物。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E12 播出对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e12",
+      "note": "非官方对白转录，用于核对本集先后、措辞及职权；开头前情回顾与本集新增行动分别处理。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "recap",
+      "title": "Fan Fun with Damian Lewis · 第二篇回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=27527",
+      "note": "交叉核对人物、会面及本集截图；作者对未来的猜测不作为剧情事实。"
+    },
+    {
+      "id": "gallery",
+      "title": "SIMKL · S03E12 本集截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-12/screencaps/",
+      "note": "仅作明确集数的图像出处和视觉核对，不采用网页自动生成的剧情摘要。"
+    },
+    {
+      "id": "crosscheck",
+      "title": "Ginges Be Cray · S03E12 第二站点回顾",
+      "url": "https://gingesbecray.com/billions-s3e012-elmsley-count-recap/",
+      "note": "交叉核对募资、最后解职和奥斯卡来访；该文把卢戈姓名写错，涉及旧案时以对白核对。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/private-pitch.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1248.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "泰勒站在 Taylor Mason Capital 招牌前面对安德洛夫",
+      "caption": "本集截图：募资活动前，泰勒单独争取安德洛夫；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1742
+    },
+    {
+      "file": "assets/pitch.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e125.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "阿克斯在球场包厢向投资者介绍泰勒，泰勒站在一旁",
+      "caption": "本集宣传剧照：公开募资推介，阿克斯为泰勒背书；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/kate-bryan.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e123.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "康纳蒂在酒吧坐在凯特身旁交谈",
+      "caption": "本集宣传剧照：凯特纠正康纳蒂对秘密调查目标的理解；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/coup.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e128.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "瓦格斯、阿克斯和温迪站在会议室里面对公司危机",
+      "caption": "本集宣传剧照：募资承诺分流后的应急讨论；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/offer.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e127.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "安德洛夫在空置住宅内向阿克斯提出处理泰勒的方案",
+      "caption": "本集宣传剧照：以害虫比喻暗示杀人；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/confrontation.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1223.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "阿克斯与泰勒在新公司办公室里面对面",
+      "caption": "本集宣传剧照：阿克斯登门质问泰勒；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 600,
+      "height": 350
+    },
+    {
+      "file": "assets/jock-call.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/6974140984d007cbd_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-12/screencaps/",
+      "alt": "杰夫科特在酒店里面对查克提出私下会见证人的要求",
+      "caption": "本集截图：部长向查克提出私下会见证人的要求；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/spa.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/697414890a6a8c227_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-12/screencaps/",
+      "alt": "卡特勒穿浴袍在酒店水疗房间内等待",
+      "caption": "本集截图：被安排作为诱饵的卡特勒等待部长；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/garage.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e123.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "温迪在地下停车场回应泰勒的招募",
+      "caption": "本集截图：关于同理心、忠诚与金钱的争执；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1752,
+      "height": 1802
+    },
+    {
+      "file": "assets/refusal.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1227.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "阿克斯与安德洛夫在窗前的桌子两侧相对",
+      "caption": "本集宣传剧照：阿克斯最终拒绝杀害泰勒；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "assets/fired.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1210.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "康纳蒂、杰夫科特与戴克在查克办公室里，查克坐在画面右侧",
+      "caption": "本集宣传剧照：查克遭解职，康纳蒂获任南区临时联邦检察官；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/new-attorney.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e124.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "康纳蒂站在查克身旁准备送他离开办公室",
+      "caption": "本集宣传剧照：解职之后的离场；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/oscar-after.jpg",
+      "originalUrl": "https://simkl.net/episodes/69/69741762caf18c5ed_0.jpg",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-12/screencaps/",
+      "alt": "泰勒独自在新公司的办公桌旁，手中拿着一张纸",
+      "caption": "本集截图：奥斯卡来访段落中的泰勒与新办公室；图中没有奥斯卡；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "file": "assets/dinner.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/06/s3e1249.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=27340",
+      "alt": "温迪、查克与阿克斯在家中餐桌边共同喝酒",
+      "caption": "本集截图：结尾三人开始讨论各自的对手；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1814,
+      "height": 1416
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "act": "a1",
+      "lane": "capital",
+      "where": "Taylor Mason Capital · 会面",
+      "title": "赴公司募资前，先募自己的钱",
+      "image": "private-pitch",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯与团队到达主经纪商的资本介绍活动，期待争取三百亿美元中的一大部分；泰勒发消息说还在整理事情，实际正单独向安德洛夫介绍自己的反应速度与量化技术，并把离开阿克斯比作逃出一座泄漏一氧化碳的房子。",
+      "analysis": "泰勒不再把独立停在楼下的招牌和模型，而是直接争取能让计划成立的资金。生存比喻给离开提供理由，却也遮住一个矛盾：此前被泰勒视作不稳根基的金主，如今成为自主的入口。安德洛夫听取方案与代表表示乐观，都还不是已完成出资。",
+      "turn": "因此 → 泰勒带着两套募资目的走进同一场活动。"
+    },
+    {
+      "id": "s02",
+      "act": "a1",
+      "lane": "capital",
+      "where": "花旗球场 · 募资包厢",
+      "title": "导师亲自为竞争者建立信用",
+      "image": "pitch",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒赶到后，阿克斯在投资者面前强调公司低相关性与风险控制，并把关键表现归功于泰勒。他称泰勒是自己遇到过最有效的资金管理者，也是 Axe Capital 的未来；泰勒邀请客户来近距离观察工作，并以藏牌手法解释长期练习造就的效果。",
+      "analysis": "阿克斯的赞许不是空话，它把自己的资历借给泰勒作为证明。他想出售一个稳定合作的团队，泰勒却已经准备把客户对个人能力的认可带走。上集争取募资席位的意义在此显现：参与不只是一种尊重，也是一场能让潜在客户认识自己的公开展示。",
+      "turn": "因此 → 共同品牌的推介同时提升了潜在独立品牌的可信度。"
+    },
+    {
+      "id": "s03",
+      "act": "a1",
+      "lane": "law",
+      "where": "酒吧 · 凯特与康纳蒂",
+      "title": "调查对象猜对，行动方向猜反",
+      "image": "kate-bryan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "康纳蒂从内部通讯查到凯特帮查克调动探员、隐藏卡特勒，误以为查克正在替部长摆平证人。他要求凯特合作，凯特却解释这次是为了反制部长，包括卢戈案在内的命令已逼查克行动。康纳蒂随后把新的理解告诉暂住自己家的戴克。",
+      "analysis": "数据能显示谁联系了谁，却不会自行解释目的。康纳蒂先把导师过去的手段套到现在，凯特则以目的正确为由要求他放行。这一解释改变他对行动的认识，并未让旧有问题消失；结尾的选择也因此不只是揭露误会，而是要决定是否仍然阻止查克。",
+      "turn": "因此 → 康纳蒂与戴克知道真目标，观众尚不知道两人将如何选择。"
+    },
+    {
+      "id": "s04",
+      "act": "a1",
+      "lane": "capital",
+      "where": "募资庆功后 · 次日公司",
+      "title": "六十亿承诺，只留下五亿入场",
+      "image": "coup",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯庆祝一上午获得六十亿美元承诺，次日瓦格斯却发现难以锁定款项，泰勒与马菲也不在。团队查明五亿实际入场、三十五亿跟随泰勒、二十亿转去别处；班·金迟到后说明拒绝了招募，回闪也揭出泰勒曾用升职不加薪作为挖角的理由。",
+      "analysis": "真正的反转并非钱从公司账上消失，而是尚待兑现的承诺被另一套推介分流。班·金的回忆也使上集泰勒建议不给他加薪拥有策略含义；这是本集才得到的解释。阿克斯决定起诉知识产权与招揽问题，但律师提醒来不及靠诉讼阻止新公司开张。",
+      "turn": "因此 → 阿克斯从募资者转成被挖走资金与人员的竞争者。",
+      "detail": "法律线同期推进：查克听从父亲建议，催州总检察长启动大陪审团，使部长必须决定是否接触证人。"
+    },
+    {
+      "id": "s05",
+      "act": "a2",
+      "lane": "capital",
+      "where": "安德洛夫的空置住宅",
+      "title": "金主把竞争说成害虫问题",
+      "image": "offer",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "安德洛夫召阿克斯到一所空置住宅，主动表示可以让他的“害虫”问题永不再来。霍尔试图插话被喝止；金主要求阿克斯亲口允许，阿克斯没有答应，只请求等到明日回复。他随后向霍尔解释，必须同时考虑答应和拒绝这类人的后果。",
+      "analysis": "这不再是商业报复的夸张比喻，对话明确把永久消失作为可执行的暴力方案。阿克斯的迟疑因此构成真正危险的门槛，但迟疑仍不同于下令。他既愤怒，也知道拒绝会触及金主的自尊；选择被放在一个连说不都要评估代价的关系结构里。",
+      "turn": "因此 → 阿克斯先要求亲眼见泰勒，再决定如何回答。"
+    },
+    {
+      "id": "s06",
+      "act": "a2",
+      "lane": "capital",
+      "where": "Taylor Mason Capital · 办公区",
+      "title": "同一段合作，两种生存叙述",
+      "image": "confrontation",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯先对已跳槽的马菲放话报复，再与泰勒当面对质。泰勒列举被压低、被羞辱及失信的经历，称离开为了生存与取胜；阿克斯则称自己确实信任泰勒、相信双方在一起成功，如今却被偷走资源。他用珠峰死亡地带警告，泰勒以年轻的肺回应。",
+      "analysis": "两人并非只是争谁先背叛，也在争谁有权描述共同经历。阿克斯把严格控制当作特殊信任，泰勒把这种信任感受为随时可能被牺牲。泰勒的痛苦不取消挖角与隐瞒，阿克斯的真诚也不取消此前的伤害；双方经验各有依据，却已无法共享同一套解释。",
+      "turn": "因此 → 商业分家正式成为公开敌对。"
+    },
+    {
+      "id": "s07",
+      "act": "a2",
+      "lane": "law",
+      "where": "部长酒店 / 水疗诱饵",
+      "title": "部长打来电话，查克以为牌局照计划走",
+      "image": "jock-call",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "杰夫科特要求查克安排与卡特勒私下见面，称能提醒对方什么对家庭重要。查克按既定方案装作不情愿，索取留任至本届政府结束及自行决定南区案件的承诺。随后他把卡特勒安排在看似不会被窃听的水疗房间，实际准备记录部长的行为。",
+      "analysis": "查克以职位与自治权包装帮助，试图使行动符合部长熟悉的利益交换逻辑。此时观众跟随的是查克的判断：他看见诱饵布置，却只能依赖盟友转述最关键的见面结果。稍后那通宣称录音成功的电话，正利用了这种无法亲自核实的信息距离。",
+      "turn": "因此 → 他带着收网期待回到自己的办公室。"
+    },
+    {
+      "id": "s08",
+      "act": "a2",
+      "lane": "wendy",
+      "where": "地下停车场",
+      "title": "温迪发现自己也可能是被推演的人",
+      "image": "garage",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒拦住温迪，邀请她加入新公司，称既为团队完整发展，也给她一个摆脱旧错误的新起点。温迪认为自己的同理心被用来争取募资席位，拒绝招募；泰勒则批评她未阻止阿克斯，反而与其一同下沉，并称金钱能买来忠诚与信任的同等结果。",
+      "analysis": "温迪先前准确听见泰勒的需要，并不意味着那份需要是假的；泰勒也确实从这份理解获得策略资源。争吵最痛的地方在于双方都有能刺穿对方自我叙述的话。温迪从倡议反省转为感到被使用，解释了她随后为何改变建议，也让她对忠诚的坚持带上个人伤口。",
+      "turn": "因此 → 温迪拒绝离开，并把矛头重新指向泰勒。"
+    },
+    {
+      "id": "s09",
+      "act": "a3",
+      "lane": "capital",
+      "where": "车内评估 / 安德洛夫处",
+      "title": "拒绝杀人，也拒绝放过对手",
+      "image": "refusal",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "霍尔解释即使杀人不易留下执法线索，安德洛夫也将永远握住阿克斯的把柄，并提醒心理重量。阿克斯要求暗中加强劳拉和孩子的安保，最后明确拒绝杀害泰勒。金主宣布将全部资金转给泰勒；阿克斯仍坚持要对手活着承受自己的商业打击。",
+      "analysis": "拒绝是真实且明确的，不是暗示金主自行去做；阿克斯也没有因此放弃报复。他既守住一条暴力边界，也拒绝让金主用谋杀永久控制自己。安德洛夫把不肯杀人与不值得托付资金相连，表明这笔钱从来附带另一套忠诚测试，拒绝必然影响资金关系。",
+      "turn": "因此 → 金主宣布转投；阿克斯选择留下活着的竞争对手。"
+    },
+    {
+      "id": "s10",
+      "act": "a3",
+      "lane": "law",
+      "where": "南区检察官办公室",
+      "title": "进去收网，出来交证件",
+      "image": "fired",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克抵达后发现部长、康纳蒂、戴克与爱泼斯坦都在。结尾才揭示康纳蒂与戴克已向部长通报计划，部长根本没有去接触卡特勒；爱泼斯坦倒向部长，获任副司法部长。杰夫科特当场解职查克，让新任南区临时联邦检察官康纳蒂送他离开；戴克没有获得新官职。",
+      "analysis": "所谓录音成功只是诱导查克回办公室的说法，不是后来被销毁的一份真实收网成果。查克的计划依赖盟友在压力下守住选择，却未能控制他们对自身前途的计算。部长关于不存在案件的断言是胜利者的表述，不能据此替旧财富疑点作清白裁决。",
+      "turn": "因此 → 职位与程序入口易主，查克失去组织提供的行动权。"
+    },
+    {
+      "id": "s11",
+      "act": "a3",
+      "lane": "capital",
+      "where": "Taylor Mason Capital · 深夜",
+      "title": "五亿美元能投，亲密不能重开",
+      "image": "oscar-after",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "奥斯卡带着咖啡与五亿美元初始投资意向书到访，表示相信泰勒聪明、能替自己赚钱。泰勒邀请他之后相聚，试图继续谈两人的关系；奥斯卡拒绝，明确说经历此前的事，自己不可能再向泰勒敞开。资金支持与恢复亲密在这一刻被分开。",
+      "analysis": "奥斯卡没有用撤回商业认可惩罚泰勒，也没有让预期利润覆盖关系受伤的事实。投资意向是一种可以讨论回报的承诺，亲密则需要他愿意再次承受被伤害的风险。泰勒可以赢得新客户，却不能仅凭能力、聪明或金钱让同一个人交出另一种信任。",
+      "turn": "因此 → 新公司的资本入口增加，私人关系仍无法按收益修复。"
+    },
+    {
+      "id": "s12",
+      "act": "a3",
+      "lane": "cross",
+      "where": "罗兹家 · 餐桌",
+      "title": "失去旧位置的人，开始共享新策略",
+      "image": "dinner",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪在电话中改变先前等待泰勒自食其果的建议，要求阿克斯主动反击。结尾阿克斯来到罗兹家，查克说自己已不再是联邦检察官，双方也已没有旧仇需要继续；三人在餐桌旁喝酒，分别提到对付杰夫科特与泰勒的新想法，温迪让他们继续讨论。",
+      "analysis": "这张桌子靠共同失落与新对手建立，而不是由谁宣布自己变成好人。查克失去公职后，旧利益冲突的形式改变了，熟悉的策略能力仍在。温迪既是邀请者也是方向选择者；三人开始交换判断，本集却没有展示下一轮行动怎样执行，联盟仍停在意愿与初步计划上。",
+      "turn": "因此 → 旧的两人战争退场，新同盟在具体的共同谈话中形成。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "a1",
+      "number": "I",
+      "title": "公开的胜利，隐藏的去向",
+      "deck": "推介、赞许与尚未兑现的承诺。",
+      "range": "01—04",
+      "summary": "阿克斯的背书帮助泰勒获得信用，查克的秘密也被另一组人重新理解。"
+    },
+    {
+      "id": "a2",
+      "number": "II",
+      "title": "你以为对方仍在你的剧本里",
+      "deck": "杀人提议、当面对质与诱饵会面。",
+      "range": "05—08",
+      "summary": "两位导师都试图拿回局面，温迪也被迫面对自己在另一套计划里的位置。"
+    },
+    {
+      "id": "a3",
+      "number": "III",
+      "title": "边界与阵营重新画线",
+      "deck": "拒绝暴力，失去职位，拒绝亲密。",
+      "range": "09—12",
+      "summary": "有些资源可以转移，有些关系无法购买；失去旧位置的三人最终坐到一起。"
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "被解职的南区联邦检察官",
+      "fact": "诱捕部长的计划被揭破，失去职位；结尾接纳阿克斯到家中。",
+      "analysis": "他误判的不只对手，也包括盟友在压力下怎样计算自己的未来。"
+    },
+    "axe": {
+      "role": "遭遇公开分家的导师与老板",
+      "fact": "募资承诺大幅分流，拒绝杀害泰勒，并准备商业反击。",
+      "analysis": "他守住暴力边界，却仍需要证明自己不能被利用后抛下。"
+    },
+    "wendy": {
+      "role": "拒绝跳槽、重新选择阵营的顾问",
+      "fact": "被泰勒批评与招募后改变建议，在结尾促成与查克的策略交流。",
+      "analysis": "她谈忠诚，也因被使用而受伤；选择同时包含原则与私人愤怒。"
+    },
+    "taylor": {
+      "role": "正式成为竞争者的新基金创办人",
+      "fact": "带走资金承诺与马菲，招募温迪失败，得到奥斯卡投资意向却失去复合机会。",
+      "analysis": "自主来自熟练使用旧系统的资源；新的位置没有自动恢复旧关系。"
+    },
+    "grigor": {
+      "role": "以暴力测试忠诚的投资者",
+      "fact": "提出杀人，遭明确拒绝后宣布把全部资金转给泰勒。",
+      "analysis": "资金移动与服从测试相连，合同外的条件直到此刻仍在改变。"
+    },
+    "jock": {
+      "role": "保住职权并清除下属的部长",
+      "fact": "提前得知陷阱、未接触证人，任命新副手并解职查克。",
+      "analysis": "他没有靠证明财富疑点不存在取胜，而是靠获得对手计划与盟友。"
+    },
+    "bryan": {
+      "role": "新任南区临时联邦检察官",
+      "fact": "获知真实调查目标后，仍与戴克通报部长，最终接替查克并送其离开。",
+      "analysis": "他反对导师的方式，结果仍借部长的任免权取得位置。"
+    },
+    "mafee": {
+      "role": "离开旧公司的交易员",
+      "fact": "接受泰勒的新公司机会，与老板公开碰面时遭到报复威胁。",
+      "analysis": "他的离开让分家不只是技术与资金流向，也成为组织成员的实际选择。"
+    }
+  },
+  "phases": [
+    {
+      "id": "p1",
+      "name": "共同推介，各有底牌",
+      "note": "开局：观众已知泰勒筹备独立，阿克斯仍当作一个团队。",
+      "edges": [
+        "停战继续",
+        "共享反制压力",
+        "合力完成推介",
+        "公开背书暗分离",
+        "信任调解尚在"
+      ],
+      "details": {
+        "chuck": "等待部长进入与证人的会面。",
+        "axe": "公开盛赞泰勒是公司未来。",
+        "wendy": "帮助团队推介，尚不知募资分流。",
+        "taylor": "以两套目的接触同一批资本。",
+        "grigor": "先听泰勒的独立推介。",
+        "jock": "真实掌握的信息尚未向观众揭晓。",
+        "bryan": "从凯特处得知查克在反制部长。",
+        "mafee": "接受另一种组织位置的邀请。"
+      }
+    },
+    {
+      "id": "p2",
+      "name": "同盟裂开，底线受到试探",
+      "note": "中段：分家公开，反制计划却看似顺利。",
+      "edges": [
+        "各自面临反转",
+        "信任调查将成",
+        "共同面对分家",
+        "师徒公开敌对",
+        "同理心遭指控"
+      ],
+      "details": {
+        "chuck": "用留任与自治要求包装诱饵。",
+        "axe": "面对杀人提议，去见泰勒。",
+        "wendy": "仍建议反省，随后拒绝泰勒招募。",
+        "taylor": "与阿克斯对质，也挑战温迪的自我理解。",
+        "grigor": "要求亲口许可永久消除竞争者。",
+        "jock": "表演需要查克帮忙接触证人。",
+        "bryan": "已了解目标，实际选择仍被隐藏。",
+        "mafee": "新公司身份被阿克斯当面确认。"
+      }
+    },
+    {
+      "id": "p3",
+      "name": "各自失位，重新结盟",
+      "note": "结尾：谁跟谁合作、谁拒绝什么，都变得明确。",
+      "edges": [
+        "同桌交流策略",
+        "共同接纳盟友",
+        "共同选择反击",
+        "保留对手开商战",
+        "关系彻底破裂"
+      ],
+      "details": {
+        "chuck": "失去公职，仍保留策略与报复意愿。",
+        "axe": "拒绝杀人，接受新的家庭餐桌。",
+        "wendy": "改变建议，选择阿克斯与查克一侧。",
+        "taylor": "得到商业认可，未能恢复奥斯卡的亲密信任。",
+        "grigor": "宣布转投资金，并警告勿损其利益。",
+        "jock": "留任并完成对南区的人事更替。",
+        "bryan": "以临时联邦检察官身份送走旧上司。",
+        "mafee": "已在泰勒的新组织继续工作。"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "capital-coup",
+      "title": "承诺如何从共同品牌流向新公司",
+      "intro": "这里分流的是尚待锁定的募资承诺，不能理解为从已入账资产中偷转。",
+      "nodes": [
+        {
+          "name": "阿克斯",
+          "role": "公开为泰勒表现背书",
+          "portrait": "axe",
+          "scene": "s02"
+        },
+        {
+          "name": "泰勒",
+          "role": "邀请客户直接认识自己",
+          "portrait": "taylor",
+          "scene": "s02"
+        },
+        {
+          "name": "出资者",
+          "role": "三十五亿美元跟随泰勒",
+          "portrait": null,
+          "scene": "s04"
+        },
+        {
+          "name": "Taylor Mason Capital",
+          "role": "由准备转为正式竞争",
+          "portrait": null,
+          "scene": "s06"
+        }
+      ],
+      "result": "六十亿承诺中只有五亿进入旧公司，另外二十亿退往别处。"
+    },
+    {
+      "id": "counter-trap",
+      "title": "查克什么时候失去信息优势",
+      "intro": "这条路径按本集逐步揭示整理；通报部长的完整安排到结尾才明说。",
+      "nodes": [
+        {
+          "name": "康纳蒂",
+          "role": "从通讯误读目标",
+          "portrait": "bryan",
+          "scene": "s03"
+        },
+        {
+          "name": "凯特",
+          "role": "解释查克正在反制部长",
+          "portrait": null,
+          "scene": "s03"
+        },
+        {
+          "name": "康纳蒂与戴克",
+          "role": "结尾揭示已通报陷阱",
+          "portrait": "bryan",
+          "scene": "s10"
+        },
+        {
+          "name": "杰夫科特",
+          "role": "避开证人并解职查克",
+          "portrait": "jock",
+          "scene": "s10"
+        }
+      ],
+      "result": "爱泼斯坦的成功录音说法只是引查克回办公室，职位最终落到康纳蒂手中。"
+    },
+    {
+      "id": "money-trust",
+      "title": "同一个人，两种完全不同的承诺",
+      "intro": "所有节点都发生在奥斯卡来访的短场里；金融认可没有恢复私人同意。",
+      "nodes": [
+        {
+          "name": "奥斯卡",
+          "role": "带来五亿美元投资意向",
+          "portrait": null,
+          "scene": "s11"
+        },
+        {
+          "name": "泰勒",
+          "role": "试图重新安排相聚",
+          "portrait": "taylor",
+          "scene": "s11"
+        },
+        {
+          "name": "奥斯卡",
+          "role": "拒绝再次敞开心扉",
+          "portrait": null,
+          "scene": "s11"
+        },
+        {
+          "name": "泰勒",
+          "role": "面对资本与亲密分开的结果",
+          "portrait": "taylor",
+          "scene": "s11"
+        }
+      ],
+      "result": "能力可以买到投资机会，无法替另一个人决定是否再次信任。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "They are the future of Axe Capital.",
+      "zh": "泰勒就是 Axe Capital 的未来。",
+      "speaker": "阿克斯",
+      "context": "在募资推介中公开评价泰勒。",
+      "image": "pitch",
+      "analysis": "赞许成为背书；说话者以为它加固共同组织，听众却也能把信用带到新组织。"
+    },
+    {
+      "en": "Young lungs.",
+      "zh": "年轻的肺。",
+      "speaker": "泰勒",
+      "context": "回应阿克斯把行业顶端比作珠峰死亡地带的警告。",
+      "image": "confrontation",
+      "analysis": "泰勒接受了登顶的竞争比喻，却把经验优势改写成年龄与承受力的较量。"
+    },
+    {
+      "en": "I'm gonna pass on your offer.",
+      "zh": "你的提议，我拒绝。",
+      "speaker": "阿克斯",
+      "context": "向安德洛夫最终拒绝杀害泰勒。",
+      "image": "refusal",
+      "analysis": "一句明确拒绝把迟疑与授权分开；他仍要报复，但选择留下活着的对手。"
+    },
+    {
+      "en": "Tell him about it.",
+      "zh": "把你的想法告诉他。",
+      "speaker": "温迪",
+      "context": "结尾让阿克斯向查克说明对付泰勒的思路。",
+      "image": "dinner",
+      "analysis": "联盟在一次实际的信息交流里成形，而非只靠共同喝一杯酒。"
+    }
+  ],
+  "comparison": {
+    "title": "两位学生，怎样改变导师的牌局？",
+    "deck": "分家与接任都借助导师培养的能力，却通过不同制度完成。",
+    "left": {
+      "image": "confrontation",
+      "caption": "本集宣传剧照：阿克斯到新公司质问",
+      "speaker": "泰勒与阿克斯",
+      "title": "把贡献变成独立信用",
+      "text": "泰勒利用公开背书、客户接触与人员判断创办公司，争的是谁能带着能力与信任继续组织资金。"
+    },
+    "right": {
+      "image": "new-attorney",
+      "caption": "本集宣传剧照：康纳蒂送查克离开",
+      "speaker": "康纳蒂与查克",
+      "title": "把秘密变成任免结果",
+      "text": "康纳蒂先误读秘密目标，后来仍选择阻止导师，并借部长的权力获得临时检察官位置。"
+    },
+    "rows": [
+      {
+        "label": "导师失去的资源",
+        "left": "客户承诺、马菲与对团队未来的定义权",
+        "right": "公职、案件入口与对办公室的控制"
+      },
+      {
+        "label": "新位置从何而来",
+        "left": "另立公司并争取外部资本",
+        "right": "现有部长行使任免权"
+      },
+      {
+        "label": "仍然依赖谁",
+        "left": "客户选择与新金主的条件",
+        "right": "任命自己的部长与机构"
+      }
+    ],
+    "insight": {
+      "kicker": "SUCCESSION",
+      "title": "离开旧导师，不等于摆脱依附",
+      "text": "泰勒获得自己的招牌，康纳蒂获得旧上司的办公室。两种胜利都是真的，也都仍依赖外部资源；自主并非由一个新名字或一张任命书自动完成。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "手法的名字，改变了指向",
+      "fact": "泰勒在台上用 Elmsley Count 解释熟练工作；阿克斯后来用同名藏牌手法形容自己看不见的分家行动。",
+      "analysis": "同一句解释从能力展示转成欺骗诊断。观众看见的不是凭空出现的奇迹，而是早已发生、直到结果显露才被重新排列的信息。",
+      "steps": [
+        "公开展示",
+        "隐去另一目的",
+        "结果改变解释"
+      ]
+    },
+    {
+      "title": "没有发生的会面",
+      "fact": "卡特勒在水疗室等待，爱泼斯坦却打电话宣称已经录到部长；结尾部长说明根本没有进去。",
+      "analysis": "最重要的证据不是被毁掉，而是从未按查克期待的方式产生。看见布置、听见胜利转述与亲眼看到完成，三者之间的距离正是陷阱。",
+      "steps": [
+        "看见诱饵",
+        "相信转述",
+        "揭露未曾发生"
+      ]
+    },
+    {
+      "title": "金钱之外的拒绝",
+      "fact": "阿克斯拒绝杀人、温迪拒绝跳槽、奥斯卡拒绝复合，各自保留一条无法仅用利益覆盖的界限。",
+      "analysis": "这些拒绝的动机并不相同，也不使人物变得纯粹。它们仍说明对同一个人的能力、利益与亲密，可以作出不同选择，不能被一项交易打包替代。",
+      "steps": [
+        "提出交换",
+        "区分承诺",
+        "保留边界"
+      ]
+    }
+  ],
+  "evidence": {
+    "afterAct": "a2",
+    "leftImage": "jock-call",
+    "leftCaption": "杰夫科特表现得像需要查克帮忙。",
+    "rightImage": "spa",
+    "rightCaption": "卡特勒被安置在房间里，等待尚未发生的会面。",
+    "kicker": "WHAT IS SHOWN",
+    "title": "摆好诱饵，不等于拍到了猎物",
+    "text": "本集让观众看见细致布置，却把关键的成功藏进一通电话。查克依赖盟友报告完成的那一步，正是最后被揭穿的空位。",
+    "scene": "s07"
+  },
+  "closing": {
+    "image": "dinner",
+    "kicker": "A NEW TABLE",
+    "value": "3",
+    "title": "旧战争结束。\n三个人坐到了一起。",
+    "text": "查克已失去检察官职位，阿克斯面对新竞争者，温迪选择促成两人的策略交流。餐桌上的共同语言仍是如何读懂对手、怎样回击；具体行动尚未在这一季发生。"
+  }
+}

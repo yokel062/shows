@@ -1,0 +1,681 @@
+{
+  "version": 2,
+  "season": 3,
+  "episode": 6,
+  "title": "The Third Ortolan",
+  "chineseTitle": "第三只鸟与第三条路",
+  "subtitle": "最初争的是谁先被起诉，最后争的是谁肯交出武器。",
+  "hero": "ortolan",
+  "heroTitle": "三个人，\n只剩同一条退路。",
+  "heroDeck": "一次自作聪明的递交，让温迪成为证据。\n两场准备牺牲的告别，等来她重开局面。",
+  "openingTitle": "当任何一方的失败都拖垮三个人，敌人还算敌人吗？",
+  "openingFact": "查克准备把载玻片放进阿克斯住处，东区检方却还缺证据。Spyros 把温迪做空 Ice Juice 的记录递给 Bryan，令原来的攻守关系骤然改变。",
+  "openingReading": "本集不是用温迪把战争温柔地调停完毕。她先经历真实的牢狱威胁，才把共同生存变成两位对手必须承认的条件；桌上的物证，则检验承诺能否变成行动。",
+  "stamp": {
+    "value": "III",
+    "label": "THE THIRD ORTOLAN",
+    "note": "第三份奢侈食物，也映照三人都可能被吞没的处境。"
+  },
+  "storyTitle": "一周倒计时，走到同一张桌前。",
+  "storyDeck": "最初争的是谁先被起诉，最后争的是谁肯交出武器。",
+  "intro": "法官给东区检方一周补充证据，迫使查克提前实施载玻片计划；受雇者与 Spyros 都拒绝替他放置物证。Spyros 自行揭出温迪做空记录，反让阿克斯愿意认罪、查克准备自首。温迪受 Foley 的谈话启发，将三人召到一起。查克一度仍想栽赃，最终把载玻片公开放上桌。",
+  "catalogueIntro": "法官只给检方一周，Spyros 却在此时递出温迪做空的交易与位置记录。阿克斯考虑认罪，查克准备自首；温迪拒绝在两种牺牲中选择，安排一场必须交出武器的会面。",
+  "spoiler": "只剧透 S03E06《The Third Ortolan》及此前已播内容，含本集结尾；不引用后续情节解释本集。中文标题为本页阅读标题，台词中文均为自译。",
+  "sources": [
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S03E06 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=billions-2016&episode=s03e06",
+      "note": "非官方播出对白转录；用于核对事件、措辞和顺序。短台词中文为本页自译，未采用拍摄剧本替代播出版本。"
+    },
+    {
+      "id": "fan",
+      "title": "Fan Fun with Damian Lewis · 第 6 集逐场回顾",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "note": "交叉核对场景与本集图像；原文对动机和未来的猜测未当作剧情事实。图片按截图与宣传剧照分别登记。"
+    },
+    {
+      "id": "images",
+      "title": "SIMKL · S03E06 截图集",
+      "url": "https://simkl.com/tv/551846/billions/season-3/episode-6/",
+      "note": "明确按本集编号提供截图；采用图片均检查人物与上下文，不使用网页自动生成的剧情解释。"
+    },
+    {
+      "id": "reading",
+      "title": "Fan Fun · The Third Ortolan 第二篇细读",
+      "url": "https://www.fanfunwithdamianlewis.com/?p=26313",
+      "note": "核对温迪被卷入、三人会面与泰勒的直觉讨论；不采用评论区及预告对下一集的猜测。"
+    }
+  ],
+  "acts": [
+    {
+      "id": "clock",
+      "number": "I",
+      "title": "一个星期",
+      "deck": "法庭上的期限压缩了法庭外的动作。",
+      "range": "01—04",
+      "summary": "查克的物证计划需要提前；阿克斯要看清检方底牌，泰勒则面对公司失去创办人的可能。"
+    },
+    {
+      "id": "exposure",
+      "number": "II",
+      "title": "被递出去的人",
+      "deck": "Spyros 以为传递胜利，实际改变所有人的风险。",
+      "range": "05—08",
+      "summary": "温迪的交易把原本分开的案件拉在一起；阿克斯考虑七年刑期，Bryan 拒绝再当查克的工具。"
+    },
+    {
+      "id": "table",
+      "number": "III",
+      "title": "把武器摆出来",
+      "deck": "告别、自首与共同生存，逐个成为可选项。",
+      "range": "09—12",
+      "summary": "饕餮晚餐像最后一餐，夫妻各自准备退路；温迪改变选项，查克终于放弃把物证藏在对方家里。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "plant-plan",
+      "act": "clock",
+      "lane": "law",
+      "where": "纽约 · 秘密交易",
+      "title": "五万美元，买一个错误的位置。",
+      "image": "plant",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克把载玻片交给 Roland Aduba，先付五万美元，另承诺完成后再付钱并帮助其家人获得美国签证。对方计划趁阿克斯三周后赴 Art Basel、家中维修时潜入，把物证放进住处的药柜或避光位置。",
+      "analysis": "这一行动已经超出保存证据，而是要改变证据出现的位置。查克利用对方团聚的需要换取风险劳动，但对方仍有自己的判断与拒绝能力。对白关于十八小时的说法是人物给出的保存条件，不能因此替这套栽赃计划补上科学或合法性证明。",
+      "turn": "因此 → 计划原本需要三周，法庭却不会等。"
+    },
+    {
+      "id": "one-week",
+      "act": "clock",
+      "lane": "law",
+      "where": "法院 · 撤案动议",
+      "title": "确信有罪，不等于拿得出证据。",
+      "image": "court",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bach 申请撤案，要求检方展示足够证据。Bryan 承认尚未找到能直接连接阿克斯与污染物的行动者，怀疑证人被干扰也暂时不能证实。DeGiulio 没立即撤案，而是再给一周：到期证据不足，就批准撤案。",
+      "analysis": "法官把不同层级的问题分开：有证人说过什么，与能否证明谁做过什么，不是同一件事。阿克斯把出庭当侦察，Bach 则从检方没有展示载玻片推断物证尚未在东区入档。观众知道查克手里有它，正好看见各方知识之间的空隙。",
+      "turn": "因此 → 查克被迫加速，阿克斯仍无法放心。"
+    },
+    {
+      "id": "taylor-instinct",
+      "act": "clock",
+      "lane": "wendy",
+      "where": "Axe Capital · 温迪办公室",
+      "title": "若阿克斯离场，谁接住公司？",
+      "image": "coach",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "泰勒担心阿克斯坐牢后公司的稳定，也承认部分自己想借此检验能力。温迪说公司能否继续成长将取决于泰勒，劝泰勒把直觉理解成更深层的内部计算，并区分它与恐惧、愿望和外部声音。",
+      "analysis": "温迪没有把复杂感受简化成不忠，而是同时承认期待与害怕。不过她又以阿克斯最好的状态设定标尺，让泰勒既被授权，也继续活在比较之中。泰勒最后更不安，说明识别问题与获得安慰不是同一件事，成长也不会自动沿前任的路径发生。",
+      "turn": "因此 → 泰勒寻找自己的判断方法，而非只等案子结果。"
+    },
+    {
+      "id": "two-refusals",
+      "act": "clock",
+      "lane": "law",
+      "where": "纽约 · 车边与跑道",
+      "title": "查克也有叫不动的人。",
+      "image": "spyros-run",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "一周的期限让潜入难度大增，Roland 退款退出，认为自己若再次入狱，便无法照顾家人。查克又找 Spyros 利用员工权限放置物证，提供保护并提起旧日性侵指控施压；Spyros 自称已是阿克斯一方，仍拒绝合作。",
+      "analysis": "两个拒绝分别来自风险评估与归属选择。查克能开价、许诺、威胁，却不能让实际执行变得容易。Roland 把未来团聚与自己仍有自由联系起来，避免被大人物的保证代替判断；Spyros 则借拒绝宣布自己如今属于获胜的阵营，恰为随后错误的热心埋下伏笔。",
+      "turn": "因此 → 栽赃失去执行者，Spyros 转而寻找自己的贡献。"
+    },
+    {
+      "id": "phone-and-code",
+      "act": "exposure",
+      "lane": "capital",
+      "where": "远程通话 / Axe Capital",
+      "title": "算法可以重写，陪伴无需接管。",
+      "image": "flowers",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Oscar 的飞燕草回应泰勒对数列的兴趣；电话中，泰勒谈到回测未达收益要求，程序员又没有处理滑点。Oscar 指出可能需要推倒重来。此后他飞到纽约带着零食陪泰勒工作，明确说泰勒不需要他的技术帮助。",
+      "analysis": "这段关系没有把支持等同于替人解决问题。指出必须重写会令人沮丧，却仍是认真听懂工作后的回应。后来亲自到场也不是突然抢走主导权，而是承认独立工作仍会孤独。它与本集其他人不断以保护之名替别人决定形成了具体差别。",
+      "turn": "因此 → 泰勒获得陪伴，也保留工作的主导权。"
+    },
+    {
+      "id": "spyros-handoff",
+      "act": "exposure",
+      "lane": "capital",
+      "where": "Axe Capital · 阿克斯临时办公室",
+      "title": "他以为拿着接力棒，其实拆了防线。",
+      "image": "spyros-news",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Spyros 查出温迪做空 Ice Juice 的账户记录，并称借 NSA 朋友私下查到下单电话位于查克办公室。他以为这能把检方注意力移向夫妻，来向阿克斯邀功；阿克斯明确说温迪不可碰，Spyros 才承认已先告诉 Bryan。",
+      "analysis": "交易、历史频率和电话位置能够支撑怀疑，仍不自动证明温迪参加了整个污染计划。真正改变局面的，是信息已经离开公司，无法靠一句禁止撤回。Spyros 把保护老板理解成把风险交给老板以外的人，误读了阿克斯对温迪的关系边界。",
+      "turn": "因此 → 温迪从可能的旁观者变成检方的调查对象。"
+    },
+    {
+      "id": "wendy-warning",
+      "act": "exposure",
+      "lane": "wendy",
+      "where": "Axe Capital · 温迪办公室",
+      "title": "再好的律师，也不是安全保证。",
+      "image": "wendy-news",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯亲自告诉温迪，Bryan 已拿到她做空的详细资料。温迪先问是不是阿克斯出卖了自己；他否认并承诺支付最好的律师。她指出他自己已有最好的律师，仍处于险境。最后两人承认，没有一句话真能让她安全。",
+      "analysis": "当危险落到本人身上，这场会谈让情感支持遇到它的实际边界。阿克斯愿意负责，不代表他能撤销已经传出的记录；温迪也不再接受资源承诺被当作结果。她最先追问消息由谁传出，显示信任仍需确认，而不只是因长期关系就预先成立。",
+      "turn": "因此 → 保护的承诺必须改成代价明确的行动。"
+    },
+    {
+      "id": "plea-and-family",
+      "act": "exposure",
+      "lane": "capital",
+      "where": "Bach 会谈 / 街边劳拉面前",
+      "title": "一个人的牺牲，也会由别人承担。",
+      "image": "lara",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "阿克斯询问以认罪声明排除被诱导的说法，保护查克与温迪。Bach 告知最少七年，并提醒家人代价。阿克斯向劳拉预告自己倾向认罪；劳拉说可能带孩子搬去加州，拒绝让他们的生活被探监与父亲入狱的标签占据。",
+      "analysis": "阿克斯把温迪视为公司不可替代的人，律师却逼他看见“自己承担”仍会改变孩子的一生。劳拉的回应不是提供慰问，而是坚持自己也有决定孩子环境的权利。这里呈现的是正在考虑的认罪方案，不能写成协议已签、法庭已判。",
+      "turn": "因此 → 自愿认输仍不能让其他生活保持原样。"
+    },
+    {
+      "id": "bryan-home",
+      "act": "table",
+      "lane": "law",
+      "where": "罗兹家 · 正式会谈",
+      "title": "昔日下属，不再接受私下说服。",
+      "image": "home-interview",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Bryan 到罗兹家谈 Ira 的陈述、温迪交易与查克涉嫌诱导阿克斯的线索，给出抗辩或合作认罪的选项。他也拿出行动者画像，要求未来在宣誓下回应。查克称自己一直指导、培养他；Bryan 则认为自己的忠诚遭到利用。",
+      "analysis": "Bryan 的推论还需要庭上证明，但查克已无法再决定调查应该看见谁、忽略谁。两人争的“道德指南针”不是抽象自评：具体冲突在于旧上司要求特殊例外，调查者拒绝承认。温迪要求夫妻分别找律师，显示婚姻共同体也可能具有不同的法律利益。",
+      "turn": "因此 → 查克准备自首，阿克斯也准备告别。"
+    },
+    {
+      "id": "ortolan-supper",
+      "act": "table",
+      "lane": "capital",
+      "where": "私密晚餐 / 城市夜景",
+      "title": "盖住眼睛，无法盖住明天。",
+      "image": "ortolan",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "Wags 为阿克斯安排由 Wylie Dufresne 介绍的圃鹀晚餐，两人用餐巾盖头吃下整只鸟。Wags 还想再来一份，阿克斯则说自己像即将被处理的鸟。饭后他们回忆公司跨过百亿规模的夜钓，阿克斯准备独自面对后果。",
+      "analysis": "盖头既被解释成留住香气，也被解释成遮挡羞耻；两种理由让享受与自欺同处一张桌。阿克斯此刻能花钱买最浓烈的体验，却买不到第二天仍能保持的自由。晚餐的奢侈不必被浪漫化，它更像一个习惯掌控的人为失控安排最后仪式。",
+      "turn": "因此 → 另一边，夫妻也在谈如何承受明天。"
+    },
+    {
+      "id": "break-stick",
+      "act": "table",
+      "lane": "wendy",
+      "where": "罗兹家 / Foley 会面",
+      "title": "温迪拒绝只在两种牺牲里选。",
+      "image": "foley",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "查克对着蛋糕承认害怕，准备自首以减轻妻子风险；温迪不愿接受。她按原定安排见 Foley，听他以折断禅杖解释如何打破无论怎样回答都要受罚的困局。她随后联系两人安排会面；查克却先通知 Kate，让 Karl 准备次晨搜查令。",
+      "analysis": "Foley 给的是改变条件的比喻，没有向她提供具体违法方案。温迪由此决定把两个敌人变成共同求生的参与者；查克接到召集后仍想利用进门机会安放载玻片。相同的一次邀请，先被他们读成不同用途，因而结尾还需要一次真正可见的选择。",
+      "turn": "因此 → 会面开始了，合作尚未真的成立。"
+    },
+    {
+      "id": "slide-table",
+      "act": "table",
+      "lane": "cross",
+      "where": "阿克斯住处 · 夜间",
+      "title": "透明，必须先把玻璃拿出来。",
+      "image": "chuck-table",
+      "sources": [
+        "transcript",
+        "fan"
+      ],
+      "fact": "温迪要求两人放下争胜，把所有武器摆到桌上，并以自己作为信任的中介。查克借上厕所一度把载玻片放进阿克斯的盥洗包；在正式继续讨论前，他取回物证，公开放上桌，让阿克斯知道原本仍有一场栽赃在等着他。",
+      "analysis": "真正的转折不是两人停止嘲讽，而是查克放弃一项尚能单方面获利的隐藏行动。载玻片原本靠出现在错误位置产生威力，现在靠暴露真实位置建立最低限度合作。三人选择共同生存，并不意味着彼此无罪或从此信任，更不等于后续解决办法已经完成。",
+      "turn": "因此 → 敌对暂停，接下来才需要设计共同退路。"
+    }
+  ],
+  "images": [
+    {
+      "file": "assets/plant.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6973610371a7d46a0_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-6/",
+      "alt": "查克在与Roland会面时听取回应",
+      "caption": "本集截图：同集稍后的退出会面，用于载玻片计划支线；不是开场付款瞬间；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/court.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6125.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "穿西装的阿克斯与Bach抵达法院",
+      "caption": "本集截图：撤案动议的出庭段落；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1544,
+      "height": 1340
+    },
+    {
+      "file": "assets/coach.webp",
+      "originalUrl": "https://simkl.in/episodes/69/6973604f52e714c70_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-6/",
+      "alt": "泰勒在温迪办公室回应公司继任问题",
+      "caption": "本集截图：泰勒谈到阿克斯可能入狱后的不安；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "file": "assets/spyros-run.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6126.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "戴帽子的Spyros在跑道上对查克说话",
+      "caption": "本集截图：Spyros拒绝查克要求；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1239
+    },
+    {
+      "file": "assets/flowers.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6121.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "泰勒手持卡片看着花束",
+      "caption": "本集截图：Oscar送来的飞燕草；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1235
+    },
+    {
+      "file": "assets/spyros-news.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e651.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "阿克斯在桌前听Spyros解释",
+      "caption": "本集截图：所谓接力棒变成温迪的交易资料；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1713
+    },
+    {
+      "file": "assets/wendy-news.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6128.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "阿克斯告诉温迪坏消息",
+      "caption": "本集截图：阿克斯在温迪办公室告知资料外泄；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 1964,
+      "height": 1828
+    },
+    {
+      "file": "assets/lara.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6131.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "劳拉与阿克斯站在街边谈话",
+      "caption": "本集截图：劳拉获知可能的认罪安排；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1179
+    },
+    {
+      "file": "assets/home-interview.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e676.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "查克与温迪在家中面对Bryan",
+      "caption": "本集宣传剧照：夫妻接受Bryan登门会谈；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1728,
+      "height": 1080
+    },
+    {
+      "file": "assets/ortolan.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e6134.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "三位用餐者在吧台前以餐巾盖头",
+      "caption": "本集截图：圃鹀晚餐；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1311
+    },
+    {
+      "file": "assets/cake.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e684.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "查克与温迪坐在厨房桌边，查克手持蛋糕",
+      "caption": "本集宣传剧照：自首方案的夜谈；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 1000,
+      "height": 750
+    },
+    {
+      "file": "assets/foley.png",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e673.png",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "Foley坐在沙发上与温迪谈话",
+      "caption": "本集截图：关于困局与折断禅杖的会面；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-still",
+      "width": 2048,
+      "height": 1216
+    },
+    {
+      "file": "assets/arrival.jpg",
+      "originalUrl": "https://www.fanfunwithdamianlewis.com/wp-content/uploads/2018/04/s3e66.jpg",
+      "sourceUrl": "https://www.fanfunwithdamianlewis.com/?p=26221",
+      "alt": "查克与温迪在电梯里并肩站立",
+      "caption": "本集宣传剧照：两人抵达阿克斯住处；Showtime / Fan Fun with Damian Lewis",
+      "kind": "episode-production-still",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "assets/chuck-table.webp",
+      "originalUrl": "https://simkl.in/episodes/69/69736780231afe45f_w.webp",
+      "sourceUrl": "https://simkl.com/tv/551846/billions/season-3/episode-6/",
+      "alt": "查克与阿克斯隔桌站立，温迪坐在前景",
+      "caption": "本集截图：三人夜间会面把武器摆上桌；Showtime / SIMKL",
+      "kind": "episode-still",
+      "width": 600,
+      "height": 338
+    }
+  ],
+  "characters": {
+    "chuck": {
+      "role": "南区检察官",
+      "fact": "寻找栽赃执行者失败，最终公开交出载玻片。",
+      "analysis": "最后一次隐藏动作让“合作”险些再次变成诱捕。"
+    },
+    "axe": {
+      "role": "基金创办人 / 被告",
+      "fact": "拒绝牺牲温迪，开始考虑最少七年的认罪方案。",
+      "analysis": "他愿意为公司精神支柱付代价，也因此被迫看见家庭的代价。"
+    },
+    "wendy": {
+      "role": "教练 / 调查对象",
+      "fact": "做空记录外泄后，召集两名对手共商生存。",
+      "analysis": "她从替别人吸收冲突转成设置谈判条件，但不是因此置身责任之外。"
+    },
+    "taylor": {
+      "role": "CIO",
+      "fact": "面对继任可能，继续改进算法并接受Oscar陪伴。",
+      "analysis": "承认想证明自己与害怕失败并存，是判断的起点。"
+    },
+    "spyros": {
+      "role": "合规主管",
+      "fact": "拒绝栽赃要求，却主动把温迪交易交给Bryan。",
+      "analysis": "归属欲推动他热心立功，错误判断老板允许牺牲谁。"
+    },
+    "bryan": {
+      "role": "东区检察官",
+      "fact": "拿到交易资料后，拒绝继续豁免罗兹夫妇。",
+      "analysis": "坚持让信息走向证据，也面对上司曾控制自己调查的现实。"
+    },
+    "wags": {
+      "role": "阿克斯副手",
+      "fact": "安排圃鹀晚餐，陪阿克斯面对可能入狱。",
+      "analysis": "他的友情能提供仪式与陪伴，不能改变法律处境。"
+    },
+    "lara": {
+      "role": "阿克斯分居妻子",
+      "fact": "得知认罪可能后，提出带孩子搬到加州。",
+      "analysis": "她不愿让另一人的牺牲替自己决定孩子的生活。"
+    }
+  },
+  "phases": [
+    {
+      "id": "week",
+      "name": "第一阶段 · 期限压缩",
+      "note": "三人仍各走各的救命路。",
+      "edges": [
+        "仍在设局",
+        "表面共同应对",
+        "支持未改局",
+        "继任悬念",
+        "讨论直觉"
+      ],
+      "details": {
+        "chuck": "催促放置物证",
+        "axe": "借动议观察检方",
+        "wendy": "辅导泰勒应对变化",
+        "taylor": "想挑战也怕继任",
+        "spyros": "拒绝替查克放物证",
+        "bryan": "得到最后一周",
+        "wags": "支持老板抗辩",
+        "lara": "尚未获知新决定"
+      }
+    },
+    {
+      "id": "short",
+      "name": "第二阶段 · 温迪曝光",
+      "note": "无法再把夫妻与阿克斯案件切开。",
+      "edges": [
+        "牺牲成为选项",
+        "共同被追查",
+        "愿为她认罪",
+        "公司前途未定",
+        "各自受压"
+      ],
+      "details": {
+        "chuck": "想说服Bryan仍只追阿克斯",
+        "axe": "考虑认罪救温迪",
+        "wendy": "不接受律师等于安全",
+        "taylor": "重写算法并获得陪伴",
+        "spyros": "邀功才承认已递出资料",
+        "bryan": "登门提出合作认罪选项",
+        "wags": "为告别安排最后晚餐",
+        "lara": "坚持孩子的环境选择"
+      }
+    },
+    {
+      "id": "weapons",
+      "name": "第三阶段 · 武器上桌",
+      "note": "共同风险暂时取代谁胜谁负。",
+      "edges": [
+        "公开交出物证",
+        "由她重设条件",
+        "由她重设条件",
+        "前途仍待结果",
+        "共担尚未知"
+      ],
+      "details": {
+        "chuck": "取回隐藏载玻片公开交出",
+        "axe": "同意坐下谈共同退路",
+        "wendy": "要求三人停止相互毁灭",
+        "taylor": "仍在公司边工作边等待",
+        "spyros": "错误递交无法撤回",
+        "bryan": "案子方向已转向三人",
+        "wags": "不知道夜间会面将改变什么",
+        "lara": "认罪与搬迁均未最终落实"
+      }
+    }
+  ],
+  "flows": [
+    {
+      "id": "short-path",
+      "title": "一份交易记录，怎样变成三人的共同威胁？",
+      "intro": "位置记录是调查线索，不是共谋结论。",
+      "nodes": [
+        {
+          "name": "Spyros",
+          "role": "查账户与下单位置",
+          "portrait": "spyros",
+          "scene": "spyros-handoff"
+        },
+        {
+          "name": "Bryan",
+          "role": "已获资料并告知Dake",
+          "portrait": "bryan",
+          "scene": "bryan-home"
+        },
+        {
+          "name": "罗兹夫妇",
+          "role": "面对合作或抗辩选项",
+          "portrait": "chuck",
+          "scene": "bryan-home"
+        },
+        {
+          "name": "温迪",
+          "role": "召集共同求生会面",
+          "portrait": "wendy",
+          "scene": "slide-table"
+        }
+      ],
+      "result": "递交没有替阿克斯单独解围，反使三人的法律风险连成一体。"
+    },
+    {
+      "id": "plant-path",
+      "title": "载玻片为什么最终没有留在盥洗包里？",
+      "intro": "同一物件经历了外包、拒绝与公开。",
+      "nodes": [
+        {
+          "name": "查克",
+          "role": "出钱寻找执行者",
+          "portrait": "chuck",
+          "scene": "plant-plan"
+        },
+        {
+          "name": "两次拒绝",
+          "role": "Roland与Spyros均不执行",
+          "portrait": null,
+          "scene": "two-refusals"
+        },
+        {
+          "name": "查克本人",
+          "role": "借进门机会短暂安放",
+          "portrait": "chuck",
+          "scene": "slide-table"
+        },
+        {
+          "name": "三人桌前",
+          "role": "取回物证公开交出",
+          "portrait": null,
+          "scene": "slide-table"
+        }
+      ],
+      "result": "本集结尾终止的是阿克斯住处的这一隐藏企图；未提前呈现下一集的替代安排。"
+    }
+  ],
+  "quotes": [
+    {
+      "en": "I cannot perform miracles.",
+      "zh": "我没法创造奇迹。",
+      "speaker": "Roland → 查克",
+      "context": "一周内无法安全进入阿克斯住处，他退款退出。",
+      "image": "plant",
+      "analysis": "执行者拒绝让权力人物的保证替代自己的风险判断。"
+    },
+    {
+      "en": "Trust me.",
+      "zh": "相信我。",
+      "speaker": "温迪 → 查克与阿克斯",
+      "context": "两人互问凭什么信任对方，她把中介责任放到自己身上。",
+      "image": "arrival",
+      "analysis": "这一句之所以有效，依赖她与两边积累的关系，也让她承担合作失败的私人后果。"
+    },
+    {
+      "en": "Full transparency.",
+      "zh": "完全透明。",
+      "speaker": "阿克斯 → 查克与温迪",
+      "context": "在三人会面结尾承诺将武器放到桌上。",
+      "image": "chuck-table",
+      "analysis": "它立刻遇到载玻片的实物回应：透明不是好听的态度，而是让对方看见自己曾隐藏的优势。"
+    }
+  ],
+  "comparison": {
+    "title": "同样说“我来承担”，为什么温迪仍要改写选项？",
+    "deck": "阿克斯认罪与查克自首，都把未来先替别人安排好了。",
+    "left": {
+      "image": "lara",
+      "caption": "本集街边会谈截图。",
+      "speaker": "阿克斯 → Bach / 劳拉",
+      "title": "用自己的自由换温迪脱险。",
+      "text": "至少七年的刑期会把代价带入家庭；劳拉提醒他，孩子与探望安排不会停在原地。"
+    },
+    "right": {
+      "image": "cake",
+      "caption": "本集厨房夜谈宣传剧照。",
+      "speaker": "查克 → 温迪",
+      "title": "用自首换妻子少受惩罚。",
+      "text": "温迪承认姿态的分量，也明确拒绝接受以丈夫入狱作为唯一救法。"
+    },
+    "rows": [
+      {
+        "label": "主动选择者",
+        "left": "阿克斯考虑认罪",
+        "right": "查克准备自首"
+      },
+      {
+        "label": "被纳入的生活",
+        "left": "劳拉与孩子的环境",
+        "right": "温迪与孩子的未来"
+      },
+      {
+        "label": "听到的回应",
+        "left": "劳拉会另选居住城市",
+        "right": "温迪另设共同会面"
+      }
+    ],
+    "insight": {
+      "kicker": "PERSONAL READING",
+      "title": "牺牲可以真诚，仍不能取消别人的选择。",
+      "text": "温迪的行动不是因为两个男人毫无诚意。恰恰因为他们终于愿意付代价，她才有机会把“谁替谁坐牢”改成“大家先停止互相送进去”。结尾只开启合作，没有清除已有伤害。"
+    }
+  },
+  "motifs": [
+    {
+      "title": "接力棒",
+      "fact": "Spyros用接力比喻向老板报告，却已先把资料交给检方。",
+      "analysis": "他想象的信息可由队长控制，实际却在递交后失去内部撤回的可能。",
+      "steps": [
+        "查出",
+        "先递交",
+        "再邀功"
+      ]
+    },
+    {
+      "title": "餐巾与整只鸟",
+      "fact": "圃鹀整只吃下，用餐者蒙住头。",
+      "analysis": "被保护的感官与被遮蔽的羞耻同时存在；享受不能消灭明天的后果。",
+      "steps": [
+        "盖头",
+        "吞下",
+        "面对告别"
+      ]
+    },
+    {
+      "title": "禅杖与玻璃",
+      "fact": "Foley谈折断强制选项的棍子，查克最终把玻璃放上桌。",
+      "analysis": "改变规则需要有一个可见动作：温迪负责召集，查克必须放弃隐藏优势。",
+      "steps": [
+        "拒绝既定选项",
+        "召集对手",
+        "交出武器"
+      ]
+    }
+  ],
+  "closing": {
+    "image": "chuck-table",
+    "kicker": "ON THE TABLE",
+    "value": "III",
+    "title": "不是先相信。\n是先交出来。",
+    "text": "查克把原本要藏进对手盥洗包的载玻片放到明处，才让共同谈判真正开始。三人尚未解决案件；这一小时的终点，是不再以对方先倒下作为唯一退路。"
+  }
+}
