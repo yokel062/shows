@@ -1,0 +1,149 @@
+{
+  "cover": {
+    "file": "shared/season-one-family.jpg",
+    "kind": "season-promotional",
+    "season": 1,
+    "width": 1366,
+    "height": 1073,
+    "alt": "第一季家族宣传照：洛根居中坐着，肯德尔、罗曼、希芙和康纳围在周围，身后是一幅古典绘画。",
+    "caption": "HBO · 第一季家族宣传照，非正片截图",
+    "sourceUrl": "https://www.espinof.com/criticas/succession-incisivo-divertido-retrato-emporios-familiares",
+    "originalUrl": "https://i.blogs.es/682f27/succession/1366_2000.jpg",
+    "sourceDate": "2018-06-04"
+  },
+  "episodeImages": {
+    "1": "signature",
+    "2": "options",
+    "3": "covenant",
+    "4": "speech",
+    "5": "table",
+    "6": "switch",
+    "7": "confront",
+    "8": "startup",
+    "9": "castle",
+    "10": "offer"
+  },
+  "topics": {
+    "1": [
+      "接班",
+      "信托",
+      "生日"
+    ],
+    "2": [
+      "病床",
+      "授权",
+      "债务"
+    ],
+    "3": [
+      "融资",
+      "旧友",
+      "控制权"
+    ],
+    "4": [
+      "复位",
+      "邮轮",
+      "公关"
+    ],
+    "5": [
+      "家宴",
+      "文件",
+      "忠诚"
+    ],
+    "6": [
+      "拉票",
+      "程序",
+      "恐惧"
+    ],
+    "7": [
+      "治疗",
+      "复吸",
+      "旧伤"
+    ],
+    "8": [
+      "童年",
+      "派对",
+      "收购"
+    ],
+    "9": [
+      "婚约",
+      "政治",
+      "时间"
+    ],
+    "10": [
+      "要约",
+      "事故",
+      "依赖"
+    ]
+  },
+  "chapters": [
+    {
+      "number": "I",
+      "label": "THE VACANCY",
+      "range": "01—03",
+      "episodes": [
+        1,
+        2,
+        3
+      ],
+      "title": "权力留下了空位。",
+      "summary": "身体危机让接班从想象变成争夺；救援资本，也带来新的代价。"
+    },
+    {
+      "number": "II",
+      "label": "THE REBELLION",
+      "range": "04—07",
+      "episodes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "title": "反抗父亲的代价。",
+      "summary": "公开复位、家宴与董事会，把公司分歧推进到家庭旧伤。"
+    },
+    {
+      "number": "III",
+      "label": "THE RETURN",
+      "range": "08—10",
+      "episodes": [
+        8,
+        9,
+        10
+      ],
+      "title": "离开，又回到原点。",
+      "summary": "单身派对与英国婚礼，让收购、亲密关系和秘密正面相撞。"
+    }
+  ],
+  "relationships": [
+    {
+      "people": [
+        "logan",
+        "kendall"
+      ],
+      "label": "父与子 / RECOGNITION",
+      "title": "继承公司，还是得到认可？",
+      "copy": "肯德尔试着用业绩证明自己已经准备好；洛根仍然握着决定何时交接的权力。父亲可以改变考题，儿子却还在等一个及格。",
+      "conflict": "father"
+    },
+    {
+      "people": [
+        "kendall",
+        "shiv"
+      ],
+      "label": "兄与妹 / INDEPENDENCE",
+      "title": "同一场竞争，不同的退路。",
+      "copy": "肯德尔需要接班的兑现，希芙保留家族外的事业。兄妹可以一起试探父亲，却不必为同一个结果下注。",
+      "conflict": "siblings"
+    },
+    {
+      "people": [
+        "tom",
+        "greg"
+      ],
+      "label": "局内与局外 / BELONGING",
+      "title": "进入这个家，先学会看谁的脸色。",
+      "copy": "汤姆想把婚姻与职位都变成归属；格雷格只想得到一份工作。距离权力的远近，也决定了谁能把压力继续传给别人。",
+      "conflict": "outsiders"
+    }
+  ]
+}

@@ -53,10 +53,15 @@ def season_values(data, images, img, photo, e):
 
 
 def build_catalogue(require_complete=False):
+    config = json.loads((SHOW / 'shared/catalogue.json').read_text())
+    cover = config['cover']
+    assert cover['kind'] == 'season-promotional' and cover['season'] == 1
+    assert (SHOW / cover['file']).is_file()
     entries = []
     for directory in sorted(SHOW.glob('s01e??')):
         data = json.loads((directory / 'content.json').read_text())
-        image = next(x for x in data['images'] if x['id'] == data['hero'])
+        image_id = config['episodeImages'].get(str(data['episode']), data['hero'])
+        image = next(x for x in data['images'] if x['id'] == image_id)
         entries.append({'episode': data['episode'], 'title': data['title'],
                         'question': data['question'].replace('|', ''),
                         'summary': data.get('catalogueSummary', data['intro']),
@@ -66,29 +71,39 @@ def build_catalogue(require_complete=False):
     if require_complete:
         assert [e['episode'] for e in entries] == list(range(1, 11)), 'All ten episodes are required'
     e = lambda value: escape(str(value), quote=True)
-    cards = []
+    cards = {}
     for p in entries:
         number = p['episode']
-        featured = ' season-card-featured' if number == 1 else ''
+        featured = ' season-card-featured' if number in {1, 8} else ''
         label = '<p class="featured-label">从这里进入罗伊家 / START HERE</p>' if number == 1 else ''
-        phase = '接班 / ACT I' if number <= 3 else '反击 / ACT II' if number <= 7 else '脱身 / ACT III'
-        cards.append(f'''<article class="season-card{featured}" id="episode-{number:02}"><a class="season-card-image" href="{e(p['url'])}" target="_blank" rel="noopener" aria-label="打开第 {number} 集：{e(p['title'])}"><img src="{e(p['image'])}" alt="{e(p['alt'])}" width="1280" height="720" loading="lazy"><span class="cover-number">{number:02}</span><span class="cover-phase">{phase}</span></a><div class="season-card-copy">{label}<p class="card-index">EPISODE {number:02} / S01E{number:02}</p><p class="card-original" lang="en">{e(p['title'])}</p><h3><a href="{e(p['url'])}" target="_blank" rel="noopener">{e(p['question'])}</a></h3><p class="card-summary">{e(p['summary'])}</p><div class="season-card-meta"><span>{p['sceneCount']} 个节点</span><span>{p['conflictCount']} 组冲突</span><a href="{e(p['url'])}" target="_blank" rel="noopener">阅读本集 ↗</a></div><p class="season-card-credit">{e(p['caption'])}</p></div></article>''')
+        topics = ' / '.join(e(t) for t in config['topics'][str(number)])
+        cards[number] = f'''<article class="season-card{featured}" id="episode-{number:02}"><a class="season-card-image" href="{e(p['url'])}" target="_blank" rel="noopener" aria-label="打开第 {number} 集：{e(p['title'])}"><img src="{e(p['image'])}" alt="{e(p['alt'])}" width="1280" height="720" loading="lazy"><span class="cover-number">{number:02}</span><span class="cover-arrow" aria-hidden="true">↗</span></a><div class="season-card-copy">{label}<p class="card-index">S01E{number:02}<span lang="en">{e(p['title'])}</span></p><h3><a href="{e(p['url'])}" target="_blank" rel="noopener">{e(p['question'])}</a></h3><p class="card-summary">{e(p['summary'])}</p><p class="card-topics">{topics}</p><div class="season-card-meta"><a href="{e(p['url'])}" target="_blank" rel="noopener">阅读本集图解 <span aria-hidden="true">↗</span></a><span>{p['sceneCount']} 个剧情节点 · {p['conflictCount']} 组冲突</span></div><p class="season-card-credit">{e(p['caption'])}</p></div></article>'''
+    chapters = []
+    assert [n for chapter in config['chapters'] for n in chapter['episodes']] == list(range(1, 11))
+    for chapter in config['chapters']:
+        chapters.append(f'''<section class="archive-chapter" aria-labelledby="chapter-{e(chapter['number'])}"><header class="chapter-heading"><span class="chapter-number">{e(chapter['number'])}</span><div><p class="eyebrow">{e(chapter['label'])} / EPISODES {e(chapter['range'])}</p><h2 id="chapter-{e(chapter['number'])}">{e(chapter['title'])}</h2></div><p>{e(chapter['summary'])}</p></header><div class="season-grid">{''.join(cards[n] for n in chapter['episodes'])}</div></section>''')
     pilot = json.loads((SHOW / 's01e01/content.json').read_text())
     people = {p['id']: p for p in pilot['characters']}
     portraits = json.loads((SHOW / 'shared/portraits.json').read_text())['characters']
     family = []
-    for key in ['logan', 'kendall', 'shiv', 'roman']:
-        person, portrait = people[key], portraits[key]
-        family.append(f'''<a class="family-card" href="s01e01/#person-{key}" target="_blank" rel="noopener"><img src="shared/{e(portrait['file'])}" alt="{e(person['name'])}（{e(portrait['actor'])}饰）" width="420" height="420" loading="lazy"><div><small lang="en">{e(person['en'])}</small><h3>{e(person['name'])}<span aria-hidden="true">↗</span></h3><p>{e(person['want'])}</p></div></a>''')
+    assert {r['conflict'] for r in config['relationships']} <= {c['id'] for c in pilot['conflicts']}
+    for relationship in config['relationships']:
+        faces = []
+        for key in relationship['people']:
+            person, portrait = people[key], portraits[key]
+            faces.append(f'<img src="shared/{e(portrait["file"])}" alt="{e(person["name"])}（{e(portrait["actor"])}饰）" width="420" height="420" loading="lazy">')
+        family.append(f'''<article class="relationship-card"><div class="portrait-pair">{faces[0]}<span aria-hidden="true">×</span>{faces[1]}</div><p class="relation-label">{e(relationship['label'])}</p><h3>{e(relationship['title'])}</h3><p>{e(relationship['copy'])}</p><a href="s01e01/#conflict-{e(relationship['conflict'])}" target="_blank" rel="noopener">读这组人物冲突 <span aria-hidden="true">↗</span></a></article>''')
     raw = (SHOW / 'shared/season-catalogue.html').read_text()
     values = {
-        'cards': ''.join(cards), 'count': len(entries), 'people': ''.join(family),
+        'chapters': ''.join(chapters), 'count': len(entries), 'people': ''.join(family),
         'jumps': ''.join(f'<a href="#episode-{p["episode"]:02}" aria-label="跳到第 {p["episode"]} 集">{p["episode"]:02}</a>' for p in entries),
         'scenes': sum(p['sceneCount'] for p in entries),
         'conflicts': sum(p['conflictCount'] for p in entries),
         'images': sum(len(json.loads((SHOW / p['url'] / 'content.json').read_text())['images']) for p in entries),
-        'hero_image': e(entries[0]['image']), 'hero_alt': e(entries[0]['alt']),
-        'hero_caption': e(entries[0]['caption']),
+        'hero_image': e(cover['file']), 'hero_alt': e(cover['alt']),
+        'hero_width': cover['width'], 'hero_height': cover['height'],
+        'hero_caption': e(cover['caption']), 'hero_source': e(cover['sourceUrl']),
+        'hero_original': e(cover['originalUrl']),
     }
     raw = re.sub(r'\{\{([a-z_]+)\}\}', lambda match: str(values[match[1]]), raw)
     assert not re.search(r'\{\{[a-z_]+\}\}', raw)

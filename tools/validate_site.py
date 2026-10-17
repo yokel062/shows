@@ -135,6 +135,13 @@ def main():
     if succession.is_dir():
         season = json.loads((succession / 'season.json').read_text())
         assert season['complete'] and [e['episode'] for e in season['episodes']] == list(range(1, 11))
+        catalogue = json.loads((succession / 'shared/catalogue.json').read_text())
+        cover = catalogue['cover']
+        assert cover['kind'] == 'season-promotional' and cover['season'] == 1
+        assert all(cover[key].startswith('https://') for key in ['sourceUrl', 'originalUrl'])
+        with Image.open(succession / cover['file']) as picture:
+            assert picture.size == (cover['width'], cover['height'])
+        assert cover['file'] in pages[(succession / 'index.html').resolve()].images
         registry = json.loads((succession / 'shared/portraits.json').read_text())['characters']
         for number, entry in enumerate(season['episodes'], 1):
             directory = succession / f's01e{number:02}'
@@ -149,6 +156,10 @@ def main():
             assert payload['images'] == data['images'] and payload['phases'] == data['phases']
             assert entry['title'] == data['title'] and entry['question'] == data['question'].replace('|', '')
             assert entry['sceneCount'] == len(data['scenes']) and entry['conflictCount'] == len(data['conflicts'])
+            image_id = catalogue['episodeImages'].get(str(number), data['hero'])
+            image = next(image for image in data['images'] if image['id'] == image_id)
+            assert entry['image'] == f's01e{number:02}/' + image['file']
+            assert entry['alt'] == image['alt'] and entry['caption'] == image['caption']
             assert html.count('<details class="scene-analysis" open>') == len(data['scenes'])
             assert sum(len(q['en'].split()) for q in data['quotes']) <= 25
             rendered = pages[(directory / 'index.html').resolve()]
