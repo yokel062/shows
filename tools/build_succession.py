@@ -66,9 +66,32 @@ def build_catalogue(require_complete=False):
     if require_complete:
         assert [e['episode'] for e in entries] == list(range(1, 11)), 'All ten episodes are required'
     e = lambda value: escape(str(value), quote=True)
-    cards = ''.join(f'''<article class="season-card"><a class="season-card-image" href="{e(p['url'])}" target="_blank" rel="noopener"><img src="{e(p['image'])}" alt="{e(p['alt'])}" width="1280" height="720" loading="lazy"><span>{p['episode']:02}</span></a><div class="season-card-copy"><p class="eyebrow ink-gold">S01E{p['episode']:02} / {e(p['title'])}</p><h3><a href="{e(p['url'])}" target="_blank" rel="noopener">{e(p['question'])}</a></h3><p>{e(p['summary'])}</p><div class="season-card-meta"><span>{p['sceneCount']} 个节点 · {p['conflictCount']} 组冲突</span><a href="{e(p['url'])}" target="_blank" rel="noopener">打开本集 ↗</a></div><p class="season-card-credit">{e(p['caption'])}</p></div></article>''' for p in entries)
+    cards = []
+    for p in entries:
+        number = p['episode']
+        featured = ' season-card-featured' if number == 1 else ''
+        label = '<p class="featured-label">从这里进入罗伊家 / START HERE</p>' if number == 1 else ''
+        phase = '接班 / ACT I' if number <= 3 else '反击 / ACT II' if number <= 7 else '脱身 / ACT III'
+        cards.append(f'''<article class="season-card{featured}" id="episode-{number:02}"><a class="season-card-image" href="{e(p['url'])}" target="_blank" rel="noopener" aria-label="打开第 {number} 集：{e(p['title'])}"><img src="{e(p['image'])}" alt="{e(p['alt'])}" width="1280" height="720" loading="lazy"><span class="cover-number">{number:02}</span><span class="cover-phase">{phase}</span></a><div class="season-card-copy">{label}<p class="card-index">EPISODE {number:02} / S01E{number:02}</p><p class="card-original" lang="en">{e(p['title'])}</p><h3><a href="{e(p['url'])}" target="_blank" rel="noopener">{e(p['question'])}</a></h3><p class="card-summary">{e(p['summary'])}</p><div class="season-card-meta"><span>{p['sceneCount']} 个节点</span><span>{p['conflictCount']} 组冲突</span><a href="{e(p['url'])}" target="_blank" rel="noopener">阅读本集 ↗</a></div><p class="season-card-credit">{e(p['caption'])}</p></div></article>''')
+    pilot = json.loads((SHOW / 's01e01/content.json').read_text())
+    people = {p['id']: p for p in pilot['characters']}
+    portraits = json.loads((SHOW / 'shared/portraits.json').read_text())['characters']
+    family = []
+    for key in ['logan', 'kendall', 'shiv', 'roman']:
+        person, portrait = people[key], portraits[key]
+        family.append(f'''<a class="family-card" href="s01e01/#person-{key}" target="_blank" rel="noopener"><img src="shared/{e(portrait['file'])}" alt="{e(person['name'])}（{e(portrait['actor'])}饰）" width="420" height="420" loading="lazy"><div><small lang="en">{e(person['en'])}</small><h3>{e(person['name'])}<span aria-hidden="true">↗</span></h3><p>{e(person['want'])}</p></div></a>''')
     raw = (SHOW / 'shared/season-catalogue.html').read_text()
-    raw = raw.replace('{{cards}}', cards).replace('{{count}}', str(len(entries)))
+    values = {
+        'cards': ''.join(cards), 'count': len(entries), 'people': ''.join(family),
+        'jumps': ''.join(f'<a href="#episode-{p["episode"]:02}" aria-label="跳到第 {p["episode"]} 集">{p["episode"]:02}</a>' for p in entries),
+        'scenes': sum(p['sceneCount'] for p in entries),
+        'conflicts': sum(p['conflictCount'] for p in entries),
+        'images': sum(len(json.loads((SHOW / p['url'] / 'content.json').read_text())['images']) for p in entries),
+        'hero_image': e(entries[0]['image']), 'hero_alt': e(entries[0]['alt']),
+        'hero_caption': e(entries[0]['caption']),
+    }
+    raw = re.sub(r'\{\{([a-z_]+)\}\}', lambda match: str(values[match[1]]), raw)
+    assert not re.search(r'\{\{[a-z_]+\}\}', raw)
     (SHOW / 'index.html').write_text(raw)
     (SHOW / 'season.json').write_text(json.dumps({'season': 1, 'complete': len(entries) == 10, 'episodes': entries}, ensure_ascii=False, indent=2) + '\n')
     print(f'Built Succession catalogue: {len(entries)} episodes')
