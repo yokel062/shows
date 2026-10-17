@@ -1,0 +1,671 @@
+{
+  "version": 1,
+  "episode": "S01E06",
+  "title": "Five-O",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-03-09",
+  "writer": "Gordon Smith",
+  "director": "Adam Bernstein",
+  "question": "一个父亲最痛的，|为什么不只是失去儿子？",
+  "deck": "收费亭外的沉默，终于有了来处。|他曾劝儿子妥协，却没能把儿子留下。",
+  "intro": "本集把叙事交给迈克。费城警探的来访，把儿子马蒂之死、两名警察的死亡和一次带伤抵达阿尔伯克基的行程连起来。吉米提供的帮助让调查暂时转向另一条信息路径，迈克面对儿媳时却无法再只用沉默保护自己。他需要说出的，不仅是谁杀了谁，还有自己曾经劝儿子成为怎样的人。",
+  "openingTitle": "当“保住他”的办法，|也成了最深的自责。",
+  "readingKey": "父子之间的信任 / 腐败怎样要求人人参与 / 复仇之后仍剩什么",
+  "storyTitle": "先看见伤口，|最后听见伤口的来处。",
+  "relationTitle": "他可以保持冷静，|却无法把父亲的那一部分藏好。",
+  "conflictTitle": "经验能帮助他活下来。|无法替他救回儿子。",
+  "central": "mike",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第6集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Five-O",
+      "url": "https://en.wikipedia.org/wiki/Five-O_(Better_Call_Saul)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E06 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e06",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Five-O 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=908",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "迈克在后院与斯泰茜谈起家事",
+      "caption": "迈克在后院与斯泰茜谈起家事 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 110,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0110.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "迈克提着行李抵达阿尔伯克基车站",
+      "caption": "迈克提着行李抵达阿尔伯克基车站 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 23,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0023.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "family",
+      "file": "assets/family.jpg",
+      "alt": "斯泰茜在后院面对迈克",
+      "caption": "斯泰茜在后院面对迈克 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 154,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0154.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "caldera",
+      "file": "assets/caldera.jpg",
+      "alt": "兽医卡尔德拉为迈克处理肩伤",
+      "caption": "兽医卡尔德拉为迈克处理肩伤 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 225,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0225.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "questioning",
+      "file": "assets/questioning.jpg",
+      "alt": "迈克与吉米面对费城侦探的询问",
+      "caption": "迈克与吉米面对费城侦探的询问 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 350,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0350.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "coffee",
+      "file": "assets/coffee.jpg",
+      "alt": "迈克与吉米坐在问话桌旁，桌上放着咖啡",
+      "caption": "问话桌上的咖啡 · 对应场景配图，非洒出瞬间",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 402,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0402.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "notebook",
+      "file": "assets/notebook.jpg",
+      "alt": "迈克与吉米在车里查看笔记",
+      "caption": "迈克与吉米在车里查看笔记 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 437,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0437.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "stacey",
+      "file": "assets/stacey.jpg",
+      "alt": "斯泰茜在家中追问丈夫的往事",
+      "caption": "斯泰茜在家中追问丈夫的往事 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 503,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0503.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "car",
+      "file": "assets/car.jpg",
+      "alt": "回忆中迈克在酒吧外准备警车",
+      "caption": "回忆中迈克在酒吧外准备警车 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 546,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0546.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "bar",
+      "file": "assets/bar.jpg",
+      "alt": "迈克在费城酒吧与霍夫曼和芬斯基接触",
+      "caption": "迈克在费城酒吧与霍夫曼和芬斯基接触 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 590,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0590.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "shooting",
+      "file": "assets/shooting.jpg",
+      "alt": "迈克在夜间的车库持枪反击",
+      "caption": "迈克在夜间的车库持枪反击 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 721,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0721.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "confession",
+      "file": "assets/confession.jpg",
+      "alt": "迈克向斯泰茜讲述自己与儿子的往事",
+      "caption": "迈克向斯泰茜讲述自己与儿子的往事 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "frame": 808,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=908",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2006%20Five%20O/BCS_S1_E6_0808.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 带伤到达的那一天",
+    "image": "prologue",
+    "title": "到达一个新地方，身体先带来了旧事。",
+    "fact": "回忆中，迈克乘火车抵达阿尔伯克基，处理肩上的伤口，再与儿媳斯泰茜和孙女见面。",
+    "analysis": "观众先看见伤，而不知道枪声发生在哪一天。车站、行李和重新包扎构成一段克制的迁移：他想抵达家人身边，却不能把身上发生过的事留在车门外。后面才出现的解释，会让这些安静动作重新变重。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "family",
+      "where": "斯泰茜家 / 后院",
+      "title": "他们都在谈马蒂，却没有说出同样的问题。",
+      "image": "family",
+      "fact": "迈克与斯泰茜谈起已故的儿子马蒂。她仍困惑丈夫临死前的变化，两人在亲人离世后的相处里保持着距离。",
+      "analysis": "对迈克，提起儿子会碰到自己不愿讲的选择；对斯泰茜，不知道原因让哀伤里多了一层对丈夫的疑问。沉默可以使一个人暂时撑住，也可能让另一个人独自承担更大的不确定。",
+      "turn": "迈克的身体需要处理，家事也没有因此得到回答。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "caldera",
+      "where": "兽医诊所 / 肩伤",
+      "title": "他把能说的说到最低，把伤口交给另一个人。",
+      "image": "caldera",
+      "fact": "迈克找兽医卡尔德拉处理肩部枪伤。卡尔德拉也让他知道，如果需要，可以接触某些额外工作。",
+      "analysis": "在这里，医疗帮助与不公开的关系网络相接。迈克依靠的是具体人和谨慎交换，而不是把全部经过交给一个正式机构。这个入口先被留下，本集并不需要提前把后来每一份生意都搬到诊所里。",
+      "turn": "故事回到警探来访，伤口开始进入案件的时间线。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "questioning",
+      "where": "警局 / 费城来的两名侦探",
+      "title": "他们调查的死亡，把父亲和警察重新放到同一张桌上。",
+      "image": "questioning",
+      "fact": "桑德斯与阿巴西询问马蒂及其搭档霍夫曼、上司芬斯基的死亡。迈克要求由吉米担任律师，对关键经历保持克制。",
+      "analysis": "吉米第一次面对这个收费员的另一种身份：一个知道警方怎样问话的前警察。桌面上的程序看似清楚，桌下却压着父亲与同僚的旧关系。迈克不只是怕说漏，他也知道哪些信息会让谁被继续追问。",
+      "turn": "他需要知道警探究竟掌握了什么。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "coffee",
+      "where": "询问室 / 被安排的一杯咖啡",
+      "title": "吉米来提供辩护，又被要求做一点额外的事。",
+      "image": "coffee",
+      "fact": "迈克希望吉米把咖啡洒到阿巴西身上，好借清理衣服的机会拿到笔记本。吉米起先反对，最终配合了这个安排。",
+      "analysis": "职业帮助与额外动作之间的线，再次被一个小小的物件穿过。吉米并未亲自经历费城旧事，却为迈克获取信息制造了条件。这个动作也让“只是来当律师”的说法变得不再完整。",
+      "turn": "笔记本到了迈克手里，调查另一端的联系也被看见。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "notebook",
+      "where": "车内 / 读到儿媳的名字",
+      "title": "原来把疑问交给警方的，是家里的人。",
+      "image": "notebook",
+      "fact": "迈克从笔记中得知，斯泰茜发现马蒂藏在行李夹层里的钱，并联系警方，希望查清钱与丈夫死亡的关系。",
+      "analysis": "她的求助并非为了伤害迈克，而是想结束对丈夫的猜测。迈克却需要面对一个事实：自己越少说，别人越会用别的渠道追问。保护家人不能只由他决定哪些事永远不提。",
+      "turn": "他必须回到儿媳面前，回应她真正不安的部分。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "stacey",
+      "where": "斯泰茜家 / 被打断的沉默",
+      "title": "她想知道丈夫是谁，他先替儿子怒了起来。",
+      "image": "stacey",
+      "fact": "斯泰茜追问马蒂去世前的一通深夜电话和那笔钱。迈克激烈否认儿子是腐败警察，坚持维护儿子的品格。",
+      "analysis": "问题表面指向赃钱，迈克听见的却是儿子可能被重新定义。他护住儿子的方式带着愤怒，也暴露这不是一段能够被从容复述的过去。斯泰茜并未背叛逝者，她同样想知道自己所爱的人究竟经历了什么。",
+      "turn": "回答必须退回费城，说明他当时做过的选择。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "car",
+      "where": "费城 / 酒吧外的回忆",
+      "title": "醉态之前，已经有一段清醒的准备。",
+      "image": "car",
+      "fact": "回忆里，迈克在酒吧外对霍夫曼和芬斯基的警车预先做了准备，随后进酒吧，装作喝醉并说出自己知道他们的事。",
+      "analysis": "这一顺序很重要：他没有在一时醉怒中偶然获得反击机会，而是计算过接下来可能发生的事。专业能力让他能够安排危险，却不因此把复仇变成一场没有代价的正义仪式。",
+      "turn": "对方以为他失去警惕，开始按自己的方式处理威胁。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "bar",
+      "where": "费城 / 酒吧与夜间行车",
+      "title": "他们以同僚口吻靠近，也准备除掉另一个知情者。",
+      "image": "bar",
+      "fact": "霍夫曼和芬斯基接近看似醉酒的迈克，送他上车。迈克指出两人杀了马蒂，随后被带往偏僻处。",
+      "analysis": "熟人间的称呼、搭车和搀扶，本应是照顾的动作，却能被用来取得控制。迈克知道这种语言可以怎样掩盖危险，所以也用醉态掩盖自己的清醒。两边共享经验，恰恰使信任难以成立。",
+      "turn": "一次看似收尾的除患，变成了预先准备的反击。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "shooting",
+      "where": "费城 / 偏僻车库",
+      "title": "他活了下来，复仇也没有替儿子回来。",
+      "image": "shooting",
+      "fact": "到达偏僻处后，迈克表明自己没有真的醉倒。交火中，他杀死霍夫曼与芬斯基，自己肩部中弹，随后离开费城。",
+      "analysis": "开场的伤口终于得到来历。事情可以在行动层面结束：威胁者死去，他抵达新城。但家庭层面的损失没有同样的结尾。把这一段只看作老练反杀，就会错过本集把最多时间留给最后谈话的原因。",
+      "turn": "最难承受的解释，不在枪声里，而在之后的屋子里。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "confession",
+      "where": "斯泰茜家 / 关于儿子的真话",
+      "title": "他不是只失去了儿子，也失去了儿子看他的方式。",
+      "image": "confession",
+      "fact": "迈克承认自己参与过收贿，曾劝不愿收钱的马蒂接受，以免被同僚视为可能揭发的人。马蒂妥协了，却仍因迟疑被霍夫曼和芬斯基杀害。",
+      "analysis": "迈克以为这是能让儿子活下来的现实办法，代价是让儿子看见父亲也在他不愿进入的污水里。最痛的因此不只是一条错误建议，而是他亲手伤到了儿子对自己的信任，而换来的安全又没有兑现。他的自责不能当作法院式的全部因果，却是本集终于说出的内心重量。",
+      "turn": "现在斯泰茜知道了更多，也需要自己面对这份知道。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "mike": {
+      "role": "父亲 / 前费城警察 / 带伤来客",
+      "want": "保护留下的家人，也守住儿子的品格。",
+      "leverage": "经验、谨慎与愿意承担危险的行动力。",
+      "fact": "借吉米取得笔记，在回忆中复仇，最后向儿媳承认过去。",
+      "analysis": "能够安排反击，没有让他免于内疚。最深的伤在于，他劝儿子妥协时曾相信自己是在救他。"
+    },
+    "stacey": {
+      "role": "马蒂的妻子 / 想查清真相的家属",
+      "want": "知道丈夫为何死去，理解那笔钱。",
+      "leverage": "自己的发现、联系警方的行动与直接追问。",
+      "fact": "发现行李里的钱，向警方求助，最后听取迈克的解释。",
+      "analysis": "她需要的不只是安慰，而是有权知道自己生活里发生了什么。"
+    },
+    "jimmy": {
+      "role": "辩护律师 / 被请求额外配合的人",
+      "want": "完成委托，又不想卷入未知太深。",
+      "leverage": "辩护身份与制造小插曲的能力。",
+      "fact": "参加问话，并配合洒咖啡让迈克取得笔记。",
+      "analysis": "他提供的帮助超出单纯陪同，不能只用律师身份抹平动作的边界。"
+    },
+    "sanders": {
+      "role": "费城侦探 / 认识迈克的人",
+      "want": "了解几起警察死亡之间的关系。",
+      "leverage": "办案位置与旧日熟悉。",
+      "fact": "与阿巴西一起询问迈克。",
+      "analysis": "熟人关系让询问多了一层社会经验，不等于案件已经被正式结清。"
+    },
+    "abbasi": {
+      "role": "费城侦探 / 持续追问的人",
+      "want": "核实迈克与死亡案件的联系。",
+      "leverage": "调查笔记与提出问题的权力。",
+      "fact": "在问话中被洒咖啡，笔记被迈克拿走。",
+      "analysis": "他掌握的信息成为别人想查看的对象，调查的程序外出现另一条交换路径。"
+    },
+    "caldera": {
+      "role": "兽医 / 非正式帮助的入口",
+      "want": "处理来客的伤口，也提供工作联系。",
+      "leverage": "医疗技能与当地关系。",
+      "fact": "为迈克处理肩伤，提到额外工作机会。",
+      "analysis": "他的出现说明迈克怎样在新城市接上生存网络，不提前说明后续接了哪些工作。"
+    },
+    "hoffman": {
+      "role": "马蒂的搭档 / 回忆中的同僚",
+      "want": "避免不肯同流者带来揭发风险。",
+      "leverage": "警察身份与和芬斯基的合作。",
+      "fact": "卷入收贿，参与杀害马蒂，并与芬斯基准备处置迈克。",
+      "analysis": "同僚关系被腐败变成共同沉默的条件；马蒂的一次犹豫就被看作风险。"
+    },
+    "fensky": {
+      "role": "警察上司 / 回忆中的同谋",
+      "want": "守住参与收贿者共同的安全。",
+      "leverage": "职位、武力与同僚网络。",
+      "fact": "参与马蒂之死，在夜里与霍夫曼带走迈克，最终被杀。",
+      "analysis": "“大家都参与”没有建立真正信任，只让不完全顺从的人更危险。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "mike",
+      "to": "stacey",
+      "kind": "family"
+    },
+    {
+      "from": "mike",
+      "to": "jimmy",
+      "kind": "trust"
+    },
+    {
+      "from": "mike",
+      "to": "sanders",
+      "kind": "institution"
+    },
+    {
+      "from": "mike",
+      "to": "abbasi",
+      "kind": "institution"
+    },
+    {
+      "from": "mike",
+      "to": "caldera",
+      "kind": "institution"
+    },
+    {
+      "from": "mike",
+      "to": "hoffman",
+      "kind": "danger"
+    },
+    {
+      "from": "mike",
+      "to": "fensky",
+      "kind": "danger"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 只看见伤口",
+      "note": "带伤到达的回忆与警探来访并置，枪伤的完整来由尚未交代。",
+      "edges": [
+        "失去亲人后的距离",
+        "请求担任律师",
+        "旧人来访",
+        "调查者的追问",
+        "处理肩伤",
+        "死亡案件的一端",
+        "死亡案件的一端"
+      ],
+      "details": {
+        "mike": "想维持沉默，身体却带着无法完全隐去的过去。",
+        "stacey": "不清楚丈夫死前发生了什么，疑问没有消失。",
+        "jimmy": "只知道需要提供辩护，尚不掌握全部家事。",
+        "sanders": "以费城旧识身份参与问话。",
+        "abbasi": "核实时间与死亡案件之间的联系。",
+        "caldera": "处理伤口，给出一个未立刻接受的工作入口。",
+        "hoffman": "他的死亡正在被调查，尚未由回忆完整解释。",
+        "fensky": "与霍夫曼的死亡一起成为警方来意。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 知道谁在追问",
+      "note": "笔记让迈克看见斯泰茜联系警方，家中的疑问无法再靠沉默处理。",
+      "edges": [
+        "发现她的求助",
+        "程序外的配合",
+        "询问中保留旧识关系",
+        "笔记被拿走",
+        "伤口暂时处理",
+        "回忆开始追溯风险",
+        "回忆开始追溯风险"
+      ],
+      "details": {
+        "mike": "知道儿媳不是猜疑的局外人，而是主动求证的家属。",
+        "stacey": "用自己能找到的渠道查丈夫的钱与死亡。",
+        "jimmy": "配合一次额外动作，获取对调查信息的窥见。",
+        "sanders": "未在此时取得完整坦白。",
+        "abbasi": "咖啡插曲改变了笔记的去向。",
+        "caldera": "不在审问和家庭争执中。",
+        "hoffman": "腐败与马蒂遭害的关系开始被讲述。",
+        "fensky": "同僚式接近隐藏着处置知情者的意图。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 承认父亲的那一份",
+      "note": "费城回忆与最后坦白合在一起；行动上的复仇无法修复父子间已经失去的信任。",
+      "edges": [
+        "讲出过去 / 交还判断",
+        "帮助有边界和后果",
+        "没有正式解决全部案件",
+        "本集未完成司法认定",
+        "仍是当地生活入口",
+        "杀子与复仇被揭示",
+        "杀子与复仇被揭示"
+      ],
+      "details": {
+        "mike": "承认自己的腐败与劝说，不能再把自己留在儿子故事之外。",
+        "stacey": "知道得更多，也必须决定怎样与这些事实一起生活。",
+        "jimmy": "没有参与费城复仇；他提供的是本集询问中的帮助。",
+        "sanders": "警方并未在本集得到迈克对儿媳说的全部内容。",
+        "abbasi": "调查继续存在，不等于迈克已被正式免责。",
+        "caldera": "没有因此变成费城旧案的知情处理者。",
+        "hoffman": "被迈克在回忆中的交火杀死。",
+        "fensky": "被迈克在回忆中的交火杀死。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "father",
+      "label": "迈克 × 自己",
+      "title": "他教儿子活下去，却先打碎了儿子的敬重。",
+      "left": "现实里的保命",
+      "right": "儿子相信的父亲",
+      "image": "confession",
+      "text": "迈克的建议有一种可怕的现实逻辑：不收钱会使马蒂显得不受共同把柄约束，因而可能被视为告密风险。他想用参与来换安全，必须先让儿子知道，自己也早已参与其中。",
+      "second": "结果没有兑现这份安全。马蒂收了钱仍被杀，父亲则不能再假装只是置身事外的哀悼者。迈克的自责不是对所有因果的司法裁决，却准确说明他无法挽回的关系损失：儿子原来仰望的那个人，被他自己拉了下来。",
+      "limit": "事实边界：马蒂因同僚的选择被杀，不把父亲的自责写成单一的全部原因。"
+    },
+    {
+      "id": "family",
+      "label": "迈克 × 斯泰茜",
+      "title": "替她保守的沉默，也可能让她独自怀疑丈夫。",
+      "left": "保护家人的愿望",
+      "right": "知道亲人经历的权利",
+      "image": "stacey",
+      "text": "迈克可以把不说解释为保护，斯泰茜却需要知道丈夫到底是什么样的人。行李里的钱让她无法只凭思念把疑问压下去，联系警方也成为她主动处理生活的一种方式。",
+      "second": "最后的坦白并没有把决定留在迈克一个人手里。她得到了可能更加难受的信息，也终于能自己理解此前看不懂的事情。照顾家人因此不只是替家人屏蔽痛苦，有时需要承认别人同样有权面对真相。",
+      "limit": "事实边界：本集没有替斯泰茜作出关于未来的所有选择。"
+    },
+    {
+      "id": "system",
+      "label": "迈克 × 腐败同僚",
+      "title": "当人人有把柄，正直反而会被当成威胁。",
+      "left": "参与以换安全",
+      "right": "怀疑永远无法消除",
+      "image": "bar",
+      "text": "收钱在这个小圈子里不仅是获利，也是一种互相牵制的凭据。马蒂不愿参与，便使其他人担心他可能说出去。所谓“跟大家一样”，因此是一种带着强迫性的归属条件。",
+      "second": "但已经参与也没能让怀疑消失。剧集没有把妥协拍成可靠的生存法则，反而展示它怎样同时侵蚀品格与安全。这里说的是虚构剧情中的具体圈子，不能扩写成所有现实警察的共同事实。",
+      "limit": "阅读范围：只讨论本集呈现的费城人物网络。"
+    },
+    {
+      "id": "help",
+      "label": "迈克 × 吉米",
+      "title": "他找来一个律师，又借走了律师之外的本领。",
+      "left": "正式辩护",
+      "right": "取得调查信息",
+      "image": "coffee",
+      "text": "吉米的身份让他可以坐进房间，迈克却进一步要求他制造意外。咖啡杯把合法陪同与额外配合连在一起，正好说明职业名称不能单独概括行为。",
+      "second": "两人开始互相有用，不等于已经完全信任，更不等于吉米知道费城全部经过。保留这种知识差距，才能理解他为什么既抱怨，又最终配合；也才能避免把后来搭档的默契提前搬进这场会面。",
+      "limit": "事实边界：吉米没有参与本集中回忆里的杀人行动。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "迈克 → 斯泰茜",
+      "en": "My son wasn't dirty!",
+      "zh": "我儿子没有同流合污！",
+      "image": "stacey",
+      "context": "儿媳追问深夜电话与那笔钱时，他先激烈维护儿子的品格。",
+      "analysis": "他守住的不只是儿子声誉，也是一个正直的人不应因被迫妥协就被抹去的全部人生。"
+    },
+    {
+      "speaker": "迈克 → 斯泰茜",
+      "en": "I broke my boy.",
+      "zh": "我把我的孩子击垮了。",
+      "image": "confession",
+      "context": "迈克讲到自己让儿子看见父亲也参与腐败。",
+      "analysis": "破碎首先发生在信任里。父亲原本以为自己能用现实经验保护他。"
+    },
+    {
+      "speaker": "迈克 → 斯泰茜",
+      "en": "I made him lesser.",
+      "zh": "我让他折损了自己。",
+      "image": "confession",
+      "context": "他承认自己劝马蒂接受了原本不愿做的事。",
+      "analysis": "这不是对儿子价值的最终判词，而是父亲怎样理解自己的那一份伤害。"
+    }
+  ],
+  "feature": {
+    "title": "伤口可以包扎，|自责不能靠一次反击结束。",
+    "intro": "把本集揭示的三种伤害分开，才能看清最后独白为何比枪声更重。",
+    "steps": [
+      {
+        "scene": "caldera",
+        "title": "身体上的伤",
+        "text": "肩部中弹，能交给别人处理。"
+      },
+      {
+        "scene": "shooting",
+        "title": "暴力里的失去",
+        "text": "复仇结束了对手的生命，没有带回儿子。"
+      },
+      {
+        "scene": "confession",
+        "title": "关系里的伤",
+        "text": "父亲承认曾以保命为理由，让儿子折损自己的原则。"
+      }
+    ],
+    "pair": [
+      "caldera",
+      "confession"
+    ],
+    "analysis": "开场的克制使迈克显得极能掌握自己，结尾的崩溃则让这种掌握有了边界。他能处理伤口、计划行动、读懂警探，却无法通过熟练完成一次任务，就让自己重新成为儿子曾经相信的父亲。"
+  },
+  "motifs": [
+    {
+      "title": "肩伤是时间线里的一条接缝。",
+      "text": "身体先出现，枪声后出现。重回开场，就会看见一次到达怎样背着尚未说出的过去。",
+      "link": "caldera",
+      "number": "01"
+    },
+    {
+      "title": "咖啡杯，把名义与行动分开。",
+      "text": "律师出席是一个身份，配合拿笔记是另一个动作。本集让两者在同一张桌边发生。",
+      "link": "coffee",
+      "number": "02"
+    },
+    {
+      "title": "父亲的称呼，终于穿过沉默。",
+      "text": "最后反复说到儿子时，迈克不再只扮演冷静的前警察。角色最有重量的一部分，来自他无法再控制的表达。",
+      "link": "confession",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "复仇有了终点。|做父亲的痛，没有。",
+    "copy": "斯泰茜知道了钱和死亡的来历。|迈克说出了自己最不愿承认的那一份，|却无法让这份承认改变已经发生的事。",
+    "known": "迈克曾参与腐败、劝马蒂接受钱；霍夫曼和芬斯基仍杀了马蒂，后来被迈克杀死。",
+    "unknown": "警方接下来如何处理、留下的家人怎样生活，本集没有给出全部答案。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "来访",
+      "deck": "伤口、家人和警探，把沉默围住。",
+      "summary": "迈克需要辩护，也需要知道谁掌握了什么。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "回忆",
+      "deck": "看清父亲不愿说出的那段过去。",
+      "summary": "求证与反击都无法让失去变得简单。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "承认",
+      "deck": "终于把自己放回儿子的故事里。",
+      "summary": "行动的熟练留不住儿子，坦白只让家人开始知道。",
+      "range": "08—10"
+    }
+  ]
+}

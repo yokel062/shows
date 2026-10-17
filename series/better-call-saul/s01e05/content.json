@@ -1,0 +1,657 @@
+{
+  "version": 1,
+  "episode": "S01E05",
+  "title": "Alpine Shepherd Boy",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-03-02",
+  "writer": "Bradley Paul",
+  "director": "Nicole Kassell",
+  "question": "别人需要的律师，|一定要像他想象中那样成功吗？",
+  "deck": "广告带来陌生来电，认真倾听带来真正委托。|另一边，哥哥需要的帮助也变得更难判断。",
+  "intro": "成为新闻里的英雄之后，吉米终于接到更多电话，却很快发现关注不等于适合自己的业务。一次遗嘱委托让他接触到另一种工作节奏：耐心听完小物件背后的人情。与此同时，查克住院，使照顾、尊重和现实判断撞在一起。一个人怎样被认真对待，成了两条线共同的问题。",
+  "openingTitle": "从被许多人看见，|到被一个人真正需要。",
+  "readingKey": "关注如何变成委托 / 照顾与尊重 / 谁能定义帮助",
+  "storyTitle": "客户找上门之后，|他开始学着听。",
+  "relationTitle": "有人需要耐心，|有人需要被相信的痛苦。",
+  "conflictTitle": "想帮一个人，|也可能不知道该替他决定多少。",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第5集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Alpine Shepherd Boy",
+      "url": "https://en.wikipedia.org/wiki/Alpine_Shepherd_Boy",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E05 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e05",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Alpine Shepherd Boy 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=907",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "吉米穿着浅色西装，在养老机构接触老人",
+      "caption": "吉米穿着浅色西装，在养老机构接触老人 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 796,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0796.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "警察来到查克家中调查邻居报案",
+      "caption": "警察来到查克家中调查邻居报案 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 69,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0069.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "sipes",
+      "file": "assets/sipes.jpg",
+      "alt": "理查德·赛普斯向吉米展示自己的设想",
+      "caption": "理查德·赛普斯向吉米展示自己的设想 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 160,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0160.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "invention",
+      "file": "assets/invention.jpg",
+      "alt": "吉米与发明者罗兰讨论会说话的马桶",
+      "caption": "吉米与发明者罗兰讨论会说话的马桶 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 251,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0251.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "strauss",
+      "file": "assets/strauss.jpg",
+      "alt": "施特劳斯太太坐在摆满瓷偶的家中",
+      "caption": "施特劳斯太太坐在摆满瓷偶的家中 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 364,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0364.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "kim",
+      "file": "assets/kim.jpg",
+      "alt": "金在美甲店后屋与吉米谈话",
+      "caption": "金在美甲店后屋与吉米谈话 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 387,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0387.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hospital",
+      "file": "assets/hospital.jpg",
+      "alt": "克鲁兹医生在病房里与兄弟交谈",
+      "caption": "克鲁兹医生在病房里与兄弟交谈 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 478,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0478.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "bed",
+      "file": "assets/bed.jpg",
+      "alt": "查克躺在医院的病床上",
+      "caption": "查克躺在医院的病床上 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 501,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0501.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "howard",
+      "file": "assets/howard.jpg",
+      "alt": "查克病房中的医生、金与来访者",
+      "caption": "查克病房中的来访者 · 本集医院场景配图，非霍华德发言瞬间",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 546,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0546.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "home",
+      "file": "assets/home.jpg",
+      "alt": "吉米带查克回家后继续讨论",
+      "caption": "吉米带查克回家后继续讨论 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 728,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0728.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "elders",
+      "file": "assets/elders.jpg",
+      "alt": "养老机构的老人查看印有律师广告的果冻盖",
+      "caption": "养老机构的老人查看印有律师广告的果冻盖 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 773,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0773.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "mike",
+      "file": "assets/mike.jpg",
+      "alt": "警察来到迈克家门口",
+      "caption": "警察来到迈克家门口 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "frame": 932,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=907",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2005%20Alpine%20Shephard%20Boy/BCS_S1_E5_0932.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 邻居报案之后",
+    "image": "prologue",
+    "title": "一份报纸，把查克的私人生活交到陌生目光里。",
+    "fact": "警察因邻居的报案来到查克家。查克的应对与居住环境使局面升级，警察破门并用电击器制住他。",
+    "analysis": "此前被哥哥以规则保护的生活，被外部力量迅速误读和打断。观众知道取报的来由，警察看到的却是眼前的不合作与异常环境。信息落差让这场强制介入显得刺痛，也把“别人替我判断什么对我好”带进本集。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "sipes",
+      "where": "郊外住宅 / 一个宏大的委托",
+      "title": "最像大客户的那个人，拿不出可用的报酬。",
+      "image": "sipes",
+      "fact": "赛普斯邀吉米谈宏大的政治法律设想，承诺丰厚报酬，却展示自己印制的货币。吉米发现这并非现实可行的生意。",
+      "analysis": "新闻带来了辨识度，却没有替他筛选需求。对方认可的是敢公开反抗大机构的形象，继而把自己的幻想投射到他身上。吉米想赚的是真能付账的钱，听到的却是一套无法连接现实的价值系统。",
+      "turn": "来电变多，并不保证谋生问题随之解决。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "invention",
+      "where": "发明者家 / 会说话的马桶",
+      "title": "另一个新机会，也很快露出不合适的部分。",
+      "image": "invention",
+      "fact": "发明者向吉米展示语音马桶，希望处理专利相关事务。装置说出的内容与家庭用途形成尴尬反差，吉米没有得到理想业务。",
+      "analysis": "这段喜剧并不只是嘲笑奇怪客户。它让观众看见，英雄广告吸引来的注意与吉米真正能开展的工作并不匹配。他越努力显得无所不能，越可能被任何想法找上门；职业方向需要比声量更具体的选择。",
+      "turn": "下一份委托安静得多，却终于能正常完成。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "strauss",
+      "where": "施特劳斯太太家 / 瓷偶与遗嘱",
+      "title": "他放慢节奏，一位老人就愿意把事情交给他。",
+      "image": "strauss",
+      "fact": "施特劳斯太太请吉米拟遗嘱，逐一说明瓷偶与亲友的安排。她重视其中的阿尔卑斯牧童瓷偶，并信任他的耐心，直接付清费用。",
+      "analysis": "看似琐碎的物品分配，实则是她怎样记住亲友、怎样安排自己离开之后的关系。吉米没有用宏大案件的尺度嘲笑它，而是愿意一件件听。这份适应人的能力，不需要制造危机也能成为职业价值。",
+      "turn": "他真正得到的认可，来自愿意把小事认真做完。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "kim",
+      "where": "美甲店后屋 / 关于业务方向的谈话",
+      "title": "金从这件“小案子”里看见一条路。",
+      "image": "kim",
+      "fact": "金听到吉米与老年客户相处的情况，建议他考虑老年法律业务。两人随后得知查克被送进医院。",
+      "analysis": "她的建议依据一次实际完成的工作，没有要求他再借别人的西装证明自己。方向来自能力与具体需求的相遇。医院电话立刻打断这种可能的轻松，也让“照顾老人”之外，另一个需要帮助的人回到生活中央。",
+      "turn": "怎样帮助哥哥，变成眼下更难的问题。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "hospital",
+      "where": "医院病房 / 克鲁兹医生的询问",
+      "title": "痛苦是真的，关于痛苦的解释仍要检验。",
+      "image": "hospital",
+      "fact": "医生询问查克的避电经历和症状。吉米与金在旁听取意见，查克坚持自己的痛苦与电磁暴露相关。",
+      "analysis": "病房没有把照顾简化成一句相信或不相信。一个人确实受苦，与他对原因的判断完全准确，是两个问题。吉米熟悉哥哥的生活，却没有因此自动拥有全部解释；认真对待痛苦，也需要允许外部观察进入。",
+      "turn": "医生安排的一次小测试，显出主观感受与环境之间的缝隙。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "bed",
+      "where": "医院病房 / 电动病床的开关",
+      "title": "一个没被注意到的开关，改变了房间里的判断。",
+      "image": "bed",
+      "fact": "医生在查克未察觉时开启病床的电动控制部分，查克没有出现与其预期相同的即时反应。医生据此提出进一步治疗意见。",
+      "analysis": "这个画面可以说明他的解释受到挑战，不能被缩写成“病都是装的”。病床测试并未取消他此前的疼痛，也没有替所有相似症状给出结论。戏剧真正逼问家人的，是如何把尊重与继续求助放到一起。",
+      "turn": "是否让查克接受进一步照护，成为现实选择。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "howard",
+      "where": "病房与走廊 / 霍华德到来",
+      "title": "“替他着想”，在不同人嘴里有不同后果。",
+      "image": "howard",
+      "fact": "霍华德来到医院。吉米一度用可能让查克接受强制照护、影响合伙安排的说法试探他，随后向金说明自己是在吓唬霍华德。",
+      "analysis": "讨论本来围绕查克的健康，吉米却又把律所权益拉进来。霍华德的反应也让职业利益进入照顾现场。这里不能把任何一句“我是为他好”当成动机已经透明的证明；更不能把吉米说来刺激对方的话，写成已经执行的决定。",
+      "turn": "吉米最后带哥哥回家，没有用威胁换取权益。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "home",
+      "where": "查克家 / 新闻报道已被看见",
+      "title": "他承诺走正路，哥哥仍想确认来路。",
+      "image": "home",
+      "fact": "吉米带查克回家后，发现哥哥已经知道广告牌救援。面对怀疑，吉米表示今后会按规则做事。",
+      "analysis": "查克需要的不是新的英雄标题，而是对手段的说明。吉米希望照顾和重新工作能表明改变，却无法要求哥哥立刻消除疑虑。两人的关系仍被一种熟悉的错位拉扯：弟弟在提供生活支持，哥哥仍掌握对职业正当性的评价。",
+      "turn": "这句承诺需要接下来的具体工作来支撑。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "elders",
+      "where": "养老机构 / 新的穿着与宣传",
+      "title": "他终于把表演用在一种合适的服务上。",
+      "image": "elders",
+      "fact": "吉米采用老年观众熟悉的律师形象，在养老机构接触潜在客户，并把宣传放在果冻盖等日常物件上，开始明确推广老年法律业务。",
+      "analysis": "他仍会包装，也仍需要让别人记住名字；区别在于，这次形象后面有刚刚展示过的耐心与工作。使用表演能力不必然等于骗人，关键是宣传是否接上能够实际提供的服务。台词里好记的押韵，终于对应一种清晰需求。",
+      "turn": "职业方向开始具体，迈克的生活却出现了新的来客。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "mike",
+      "where": "住宅街道 / 迈克家门口",
+      "title": "他一直很少说话，现在有人从过去找来。",
+      "image": "mike",
+      "fact": "迈克在一处住宅外看着一名女子出门。后来，有警察来到他家，其中有人与他的费城经历有关。",
+      "analysis": "本集先给出目光和陌生来客，不立刻解释全部关系。与吉米到处自我介绍相反，迈克的故事靠沉默和旧人进入。不要因为后面一集会揭晓往事，就把这名女子、伤口与案件的完整解释提前说完。",
+      "turn": "下一段叙事将把镜头交给这个守着栏杆的人。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 开始找到老年法律方向",
+      "want": "让关注变成可持续工作，也照顾查克。",
+      "leverage": "耐心、亲和力与让人记住的表达。",
+      "fact": "接触怪客户、拟遗嘱、处理哥哥住院并推广新业务。",
+      "analysis": "真正适合他的机会来自认真听人的小事，而非新闻英雄的想象。"
+    },
+    "chuck": {
+      "role": "哥哥 / 住院后的被照顾者",
+      "want": "保留自主，回到熟悉且自认安全的家。",
+      "leverage": "表达自身痛苦的能力与弟弟的照顾。",
+      "fact": "解释症状，面对病床测试和医生意见，最后回家。",
+      "analysis": "他的原因解释受到质疑，不等于痛苦被取消。本页不替角色作医学诊断。"
+    },
+    "kim": {
+      "role": "朋友 / 看见实际能力的人",
+      "want": "帮吉米找到方向，也应对查克的现实处境。",
+      "leverage": "对两人的了解与职业判断。",
+      "fact": "建议老年法律方向，在医院参与讨论。",
+      "analysis": "她把建议建立在已完成的服务上，而不是要求吉米借更大的声量证明自己。"
+    },
+    "howard": {
+      "role": "HHM 合伙人 / 医院来客",
+      "want": "关心查克，也维持律所的关系与运转。",
+      "leverage": "机构位置与对合伙安排的影响。",
+      "fact": "赶到医院，对有关进一步照护与权益的说法作回应。",
+      "analysis": "照顾与职业利益可能重叠，但本集不足以替他写出全部隐藏动机。"
+    },
+    "strauss": {
+      "role": "遗嘱客户 / 瓷偶收藏者",
+      "want": "让物品和亲友在自己离开后仍被妥善安排。",
+      "leverage": "一份真实、具体且可以支付的需求。",
+      "fact": "讲述瓷偶归属，信任吉米并支付费用。",
+      "analysis": "她的委托在金额和规模上不宏大，在个人生活里却足够重要。"
+    },
+    "cruz": {
+      "role": "医院医生 / 引入外部观察的人",
+      "want": "判断查克需要怎样的进一步照护。",
+      "leverage": "专业询问与病房里的观察。",
+      "fact": "问诊、开启病床控制部分，并提出治疗意见。",
+      "analysis": "她挑战的是查克的解释，并没有用一个开关宣布此人不再受苦。"
+    },
+    "mike": {
+      "role": "停车场收费员 / 被旧人找到的人",
+      "want": "维持眼前生活，关注住宅里的女子。",
+      "leverage": "谨慎、沉默和未充分解释的过去。",
+      "fact": "收到吉米名片，探望街道上的住宅，随后见到警察。",
+      "analysis": "本集只留下关系与悬念，不提前讲述下一集的全部案件。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    },
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "howard",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "strauss",
+      "kind": "client"
+    },
+    {
+      "from": "chuck",
+      "to": "cruz",
+      "kind": "institution",
+      "labelShift": [
+        0,
+        15
+      ]
+    },
+    {
+      "from": "jimmy",
+      "to": "mike",
+      "kind": "institution"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 辨认真实需求",
+      "note": "宣传带来来电，真正可完成的服务在施特劳斯太太家出现。",
+      "edges": [
+        "日常照顾仍在",
+        "发现他的服务长处",
+        "新闻之后的机构距离",
+        "耐心换取信任",
+        "尚未完成医疗评估",
+        "仍是停车接触"
+      ],
+      "details": {
+        "jimmy": "发现不是每份热情邀请都能成为业务。",
+        "chuck": "警方介入后的健康问题即将进入家人视线。",
+        "kim": "从老年委托看出适合吉米的方向。",
+        "howard": "仍与查克的职业身份和照护有关。",
+        "strauss": "把物品背后的人情交给愿意听完的人。",
+        "cruz": "尚未在吉米眼前完成问诊和测试。",
+        "mike": "没有参与客户筛选与医院讨论。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 判断怎样帮助",
+      "note": "病房中的观察挑战了查克的解释，照护与自主之间出现难题。",
+      "edges": [
+        "支持回家 / 面对疑虑",
+        "共同照看与判断",
+        "照护话题牵动权益",
+        "刚完成的真实服务",
+        "原因解释受到挑战",
+        "未参与医院选择"
+      ],
+      "details": {
+        "jimmy": "看见测试，也不愿直接剥夺哥哥的选择。",
+        "chuck": "认为痛苦来自电磁暴露，坚持回家。",
+        "kim": "在两兄弟与医院意见之间保持观察。",
+        "howard": "到院回应，职业关系也进入病房。",
+        "strauss": "不在病房，她的委托构成另一种被认真对待的需要。",
+        "cruz": "提出进一步照护意见，未由此解决全部家庭选择。",
+        "mike": "这条线尚未向其他人展示自己的过去。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 把能力接上生活",
+      "note": "查克回家，吉米明确推广老年业务；迈克家门口出现来自过去的人。",
+      "edges": [
+        "照顾继续 / 需要守约",
+        "建议成为实际方向",
+        "威胁并未成为决定",
+        "从一次服务到职业方向",
+        "建议未等于最终安排",
+        "名片之外仍有秘密"
+      ],
+      "details": {
+        "jimmy": "把表演与可以实际提供的服务接起来。",
+        "chuck": "知道了广告牌新闻，听到弟弟按规则工作的承诺。",
+        "kim": "帮助吉米看见自身本领，不替他承诺全部未来。",
+        "howard": "医院来访没有换来查克退出律所。",
+        "strauss": "成为吉米辨认职业方向的具体经验。",
+        "cruz": "本集没有展示她的意见已被完整执行。",
+        "mike": "旧识警察来访；原因留给后面的叙事。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "clients",
+      "label": "吉米 × 客户想象",
+      "title": "被认真需要，比被夸成英雄更具体。",
+      "left": "理想的大案",
+      "right": "可完成的小事",
+      "image": "strauss",
+      "text": "广告把吉米塑造成敢向强者叫板的人，于是奇怪愿望也带着期待找来。对方未必想骗他，却可能只想雇一个能够替幻想赋予合法外观的角色。声名与工作能力并不总对准同一种需要。",
+      "second": "施特劳斯太太的遗嘱提供了另一种认可：不必先成为什么传奇人物，只要愿意听完她如何记住亲友。对她重要的东西被认真处理，律师的价值就已经发生。",
+      "limit": "阅读判断：业务规模不决定一个人的生活需求是否值得认真处理。"
+    },
+    {
+      "id": "care",
+      "label": "吉米 × 查克",
+      "title": "相信痛苦，与接受全部解释，是两种责任。",
+      "left": "保护哥哥的自主",
+      "right": "继续寻找有效帮助",
+      "image": "bed",
+      "text": "吉米知道哥哥真的不舒服，却看见了与解释不一致的反应。若只剩“你装病”或“你说什么都对”两条路，亲属就无法同时表达尊重和疑问。本集让照顾停在这种不舒服的中间位置。",
+      "second": "带查克回家是当下的选择，并不是所有问题已经解决。之后的换冰、报纸与承诺仍要继续。照顾一个人有具体劳动，也包含不确定性，不能被写成一次判断就永远正确的道德姿态。",
+      "limit": "事实边界：本页描述剧中测试和医嘱，不给现实症状作医学结论。"
+    },
+    {
+      "id": "interests",
+      "label": "吉米 × 霍华德",
+      "title": "健康的讨论，很容易又变成律所的较量。",
+      "left": "追问权益的冲动",
+      "right": "维持合伙关系",
+      "image": "howard",
+      "text": "吉米拿可能的照护安排刺激霍华德，显示他即使担心哥哥，也没放下有关律所的怒气。一个人的健康因此险些成为争执里的杠杆。霍华德也不可能在这间病房里彻底摆脱自己的职业位置。",
+      "second": "吉米随后向金承认是在吓唬对方，值得与威胁原话一起保留：他说过，不等于做了。评价人物不能只挑最刺耳的一句当全部事实，也不能借没有执行就当作从未把哥哥的处境拿来施压。",
+      "limit": "事实边界：没有发生因该威胁而强制兑现查克权益的结果。"
+    },
+    {
+      "id": "guidance",
+      "label": "吉米 × 金",
+      "title": "她指出一条路，没有替他借一个身份。",
+      "left": "证明自己够大",
+      "right": "从真实长处出发",
+      "image": "kim",
+      "text": "前几集吉米常借助模仿与冲突取得存在感，金的建议却很朴素：既然能和老年客户相处，为什么不把这种能力当成工作？她没有贬低野心，只是把野心接回已经做过的事。",
+      "second": "后来换上熟悉的律师装束仍是表演，但它有了新的依据。宣传与虚构不是同一件事，只要后面接着真正能完成的服务。这个可能性比一句“不要走捷径”更可操作，也给未来保留了另一种方向。",
+      "limit": "事实边界：开始推广不等于已经建立稳定事业。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "吉米 → 新客户",
+      "en": "Guy needed help, that's all.",
+      "zh": "那个人需要帮忙，仅此而已。",
+      "image": "sipes",
+      "context": "他谈起广告牌救援，用一句简短理由淡化复杂来路。",
+      "analysis": "同一句朴素的善意也能成为修饰形象的说法，读者需要记得上一集已经看见的前因。"
+    },
+    {
+      "speaker": "霍华德 → 病房中的人",
+      "en": "Chuck is of sound mind.",
+      "zh": "查克的心智能力没有问题。",
+      "image": "howard",
+      "context": "病房里讨论是否需要进一步照护，霍华德强调查克可以作决定。",
+      "analysis": "这是一名角色的判断，不是页面的医学结论；它也处在合伙权益会受影响的语境里。"
+    },
+    {
+      "speaker": "吉米 → 迈克",
+      "en": "Need a will? Call McGill!",
+      "zh": "要立遗嘱？找麦吉尔！",
+      "image": "elders",
+      "context": "吉米推广自己新的业务方向，给迈克留下一张名片。",
+      "analysis": "好记的口号终于对应具体服务，表演能力开始与实际需求合作。"
+    }
+  ],
+  "feature": {
+    "title": "钱的大小，|与事情的重要，未必成正比。",
+    "intro": "三次会面展示不同的客户需要；这是剧情中的职业方向选择，非现实法律服务指南。",
+    "steps": [
+      {
+        "scene": "sipes",
+        "title": "宏大许诺",
+        "text": "巨额数字背后，是无法兑现的货币。"
+      },
+      {
+        "scene": "invention",
+        "title": "不合适的期待",
+        "text": "新发明不一定是一份可开展的业务。"
+      },
+      {
+        "scene": "strauss",
+        "title": "可以认真完成的小事",
+        "text": "遗嘱中的物品，连接着一个人的亲友生活。"
+      }
+    ],
+    "pair": [
+      "sipes",
+      "strauss"
+    ],
+    "analysis": "两位客户都认为自己的事情很重要。区别在于，吉米能否理解需求并提供实际服务。真正的职业转机从愿意耐心听完开始，比被新闻夸奖更慢，也更可能持续。"
+  },
+  "motifs": [
+    {
+      "title": "瓷偶不是小事的装饰。",
+      "text": "物件的名字与去向保存着亲友关系。愿意辨认这些区别，是吉米服务能力的一部分。",
+      "link": "strauss",
+      "number": "01"
+    },
+    {
+      "title": "病床开关，不能取消人的疼痛。",
+      "text": "画面挑战角色对原因的确信，也保留他确实需要帮助的现实。",
+      "link": "bed",
+      "number": "02"
+    },
+    {
+      "title": "名字终于与一种服务押韵。",
+      "text": "麦吉尔被放到果冻盖和名片上，目的从模仿别人转向让真正有需求的人记住自己。",
+      "link": "elders",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "一条路开始清楚。|另一段过去，敲了门。",
+    "copy": "吉米找到可以发挥耐心与亲和力的地方。|迈克仍坐在自己的沉默里，|但过去已经来到家门口。",
+    "known": "查克回家，吉米开始推广老年法律业务；警察登门找迈克。",
+    "unknown": "迈克的完整家事与警方来意，本集尚未说清；吉米的新方向能否持续也仍待行动。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "筛选",
+      "deck": "热闹之后，辨认什么是真正的委托。",
+      "summary": "关注有了，职业价值仍要由具体服务建立。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "照顾",
+      "deck": "面对哥哥，不只需要一句相信。",
+      "summary": "医嘱、选择和合伙关系，使帮助变得复杂。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "落地",
+      "deck": "在可以实际完成的工作中重来。",
+      "summary": "新方向出现，旧生活仍未卸下全部重量。",
+      "range": "08—10"
+    }
+  ]
+}

@@ -12,6 +12,7 @@
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
 | 亿万 · Billions | 第一至第三季，各十二集 | 单集包含截至该集的剧情 | [季度目录](https://yokel062.github.io/shows/series/billions/) |
 | 白莲花 · The White Lotus | 第一季第一集 · Arrivals | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/) |
+| 风骚律师 · Better Call Saul | 第一季完整十集 | 各篇仅剧透截至当集，含当集结尾 | [第一季目录](https://yokel062.github.io/shows/series/better-call-saul/) |
 | 继承之战 · Succession | 第一季完整十集 | 单集包含截至该集的剧情，不涉及第二季 | [十集目录](https://yokel062.github.io/shows/series/succession/) |
 
 ## 兄弟连十集目录
@@ -131,6 +132,36 @@ python tools/build_white_lotus.py
 ```
 
 单集与目录模板、CSS、JS 均在 `series/the-white-lotus/shared/`。构建后得到完整静态 HTML，无需线上构建，也不依赖运行时请求 JSON；关闭 JavaScript 仍可阅读所有剧情与冲突关系。
+
+## 风骚律师第一季十集档案
+
+**[第一季十集目录](https://yokel062.github.io/shows/series/better-call-saul/)** · **[GitHub 内容目录](https://github.com/yokel062/shows/tree/main/series/better-call-saul)**
+
+沙漠黄、暗红与纸张色的桌面阅读页面，十集共 104 个剧情节点、40 组人物冲突、23 位统一角色照。每集有三幕剧情、三阶段关系图、带上下文的短台词、选择路径与画面对照。第六集围绕迈克的家庭往事，第八、九集分别展开沙鹬案的合作与兄弟冲突，季终保留吉米职业选择的不确定性。
+
+全部十集配图与导读默认展示，入口在新标签页打开。单集仅使用截至该集的信息，不借后季或《绝命毒师》的结果解释人物。事实与个人解读、宣传剧照与播出版截图分别标注；逐张图像、演员与台词来源列在篇末。场景分析默认展开，关闭 JavaScript 仍可阅读全部剧情、人物档案、冲突及台词。
+
+| 集数 | 标题 | 阅读 |
+| --- | --- | --- |
+| S01E01 | Uno | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e01/) |
+| S01E02 | Mijo | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e02/) |
+| S01E03 | Nacho | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e03/) |
+| S01E04 | Hero | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e04/) |
+| S01E05 | Alpine Shepherd Boy | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e05/) |
+| S01E06 | Five-O | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e06/) |
+| S01E07 | Bingo | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e07/) |
+| S01E08 | RICO | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e08/) |
+| S01E09 | Pimento | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e09/) |
+| S01E10 | Marco | [图文解读](https://yokel062.github.io/shows/series/better-call-saul/s01e10/) |
+
+编辑源为各集 `s01eXX/content.json`；人物照登记在 `shared/portraits.json`。修改后运行：
+
+```bash
+python tools/build_better_call_saul.py --complete
+python tools/validate_site.py
+```
+
+只生成一集可使用 `--episode 6`。首集保留独立模板 `shared/episode.html`，第 2—10 集使用 `shared/season-episode.html`；共用 `episode.css`、`episode.js`。构建同时生成十集目录与 `season.json`，静态 HTML 直接供 GitHub Pages 使用，无需线上构建或运行时拉取 JSON。
 
 ## 继承之战第一季十集档案
 

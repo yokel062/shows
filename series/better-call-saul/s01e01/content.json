@@ -1,0 +1,714 @@
+{
+  "version": 1,
+  "episode": "S01E01",
+  "title": "Uno",
+  "chineseTitle": "风骚律师",
+  "question": "一个好律师，为什么开始走捷径？",
+  "spoiler": "仅第一季第一集，包含黑白开场与本集结尾；不涉及后续集数或《绝命毒师》的具体剧情。",
+  "intro": "他有执照，会辩护，也照顾着哥哥。可在法庭之外，吉米·麦吉尔的生活几乎处处碰壁：报酬不够，客户迟疑，大律所不肯按他的要求办事，连停车出口都不能靠几句漂亮话通过。首集把这些小挫折慢慢叠起来，直到他决定：既然别人看不见我的价值，就安排一场戏，让他们不得不看见。",
+  "hero": "jimmy-car",
+  "prologue": {
+    "image": "gene",
+    "title": "故事先给了我们，一个不敢被认出来的人。",
+    "fact": "黑白画面里，名牌写着 Gene 的男人在商场肉桂卷店工作。他因陌生人的目光而紧张，晚上独自在家重看自己的律师广告录像。随后，故事切回 2002 年的吉米。",
+    "analysis": "我们先看到一个人把存在感缩到最小，才看到年轻一些的他努力让所有人注意。这样一来，接下来的笑话都有了余味：嘴才是吉米谋生的工具，可开场的他几乎不说话；他曾把名字做成广告，如今却小心藏住自己。首集只让我们看见这个落差，没有交代它如何发生。",
+    "source": "xfiles"
+  },
+  "acts": [
+    {
+      "id": "earn",
+      "number": "I",
+      "title": "谋生：他能说服谁？",
+      "deck": "法庭、停车亭、咖啡馆。每一次开口，都在争取一点生存空间。",
+      "summary": "吉米有口才、有工作，也认得骗局；他缺的是能把能力换成稳定收入的机会。",
+      "range": "01—04"
+    },
+    {
+      "id": "belong",
+      "number": "II",
+      "title": "体面：谁承认他的价值？",
+      "deck": "一张支票，一个姓氏，一根香烟。钱的问题，逐渐变成身份的问题。",
+      "summary": "替哥哥争权益、被客户放弃、向朋友求助，最终汇成一个更痛的问题：我凭什么连自己的名字都要让出来？",
+      "range": "05—08"
+    },
+    {
+      "id": "shortcut",
+      "number": "III",
+      "title": "捷径：他开始安排现实。",
+      "deck": "把旧本领用在新职业上。他编好了剧本，却没有掌握全部变量。",
+      "summary": "吉米主动制造了本不存在的危机，想以解决危机赢得委托；认错车与失控的同伙，把骗局带到一扇持枪的门前。",
+      "range": "09—12"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "court",
+      "act": "earn",
+      "where": "法院 / 洗手间 → 庭审",
+      "title": "他把糟糕的案子，讲成一次青春犯错。",
+      "image": "court",
+      "fact": "吉米在洗手间排练，再为三名年轻被告向陪审团辩护。他试图把行为解释为青春期的愚蠢；检方随后播放被告拍下的侮辱遗体录像，击穿了这套淡化叙述。",
+      "analysis": "先听辩护，再看证据，观众也短暂经历了一次被说服。吉米的本领是真实的：他能把一件事重新放进容易同情的故事。但画面提醒我们，叙述能力不能取消事实。他此刻仍在做辩护律师的工作，还没有伪造事件；这一点与结尾的骗局形成了必须保留的区别。",
+      "turn": "口才有用，但不能保证胜利，也不能保证收入。",
+      "sources": [
+        "cdl"
+      ]
+    },
+    {
+      "id": "gate",
+      "act": "earn",
+      "where": "报酬窗口 / 法院停车出口",
+      "title": "700 美元拿到了，3 美元又把他拦下。",
+      "image": "mike-gate",
+      "fact": "三名被告合并审理，吉米只领到一笔 700 美元报酬。离开停车场时，迈克要求他补足停车验证贴纸，或支付 3 美元；吉米争辩无效，只能折返。",
+      "analysis": "前一场他诉诸理解，这一场对方只核对条件。迈克没有兴趣判断他今天多辛苦，缺一张贴纸就是缺一张。喜剧来自一位律师被微小程序堵在门口，也建立了两种行动方式：吉米试着让规则接受例外，迈克坚持先把规则要求的东西交齐。此时两人只是互相嫌烦，尚未成为搭档。",
+      "turn": "他需要一个收入更可观的私人委托。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ]
+    },
+    {
+      "id": "client",
+      "act": "earn",
+      "where": "Loyola’s 咖啡馆 / 凯特曼夫妇",
+      "title": "合同差一点签下，贝茜按住了那支笔。",
+      "image": "kettlemans",
+      "fact": "县财务人员克雷格·凯特曼因公款失踪受到调查。吉米劝他及妻子贝茜尽早聘请律师；克雷格准备签约时，贝茜提出再考虑一晚，委托没有落定。",
+      "analysis": "吉米卖的是提前准备的必要，贝茜却担心聘请刑事律师会让一家人显得有罪。两人在谈同一份合同，维护的却是不同东西：他要工作，她要体面。克雷格悬着的笔把权力关系变成一个小动作——愿意签的人，不是最终决定的人。后面吉米的计划，正是针对这个决策者设计。",
+      "turn": "他没能靠正常推销跨过客户的疑虑。",
+      "sources": [
+        "cdl",
+        "wiki"
+      ]
+    },
+    {
+      "id": "collision",
+      "act": "earn",
+      "where": "街头 / 破旧的黄色 Suzuki",
+      "title": "骗子找上他，却找到了同行。",
+      "image": "first-scam",
+      "fact": "吉米驾车时遇到一场假碰撞：一名滑板青年装作受伤，孪生兄弟用录像和报警相威胁，索要赔偿。吉米识破两人的配合，拒绝付钱。",
+      "analysis": "这场戏先让他显得倒霉，再突然让他恢复控制。只要对方使用熟悉的套路，窘迫的律师就变成了更有经验的人。首集没有把越界能力凭空塞给他，而是先让观众看到一种早已存在的熟练。这里埋下的危险不是他会被骗，而是这份本领给了他一个看似可行的新办法。",
+      "turn": "两个被识破的青年，很快会变成他的执行者。",
+      "sources": [
+        "wiki",
+        "xfiles"
+      ]
+    },
+    {
+      "id": "office",
+      "act": "belong",
+      "where": "美甲店 / 后屋办公室",
+      "title": "一间后屋，撑着“大律师”的门面。",
+      "image": "office",
+      "fact": "吉米的办公室设在美甲店后方。他面对没有新留言的电话与逾期账单，拆到 HHM 寄给哥哥查克的 26,000 美元支票，并将它撕碎。",
+      "analysis": "“办公室”的揭晓，使他先前假扮接线人员、借口油漆味约客户外出变得可理解：他在修补别人看他的第一眼。撕支票又与缺钱形成矛盾。他不要一笔按对方方式给的钱，而想要求哥哥应得的份额；但这笔钱同样关系着他的生活。愤怒、照顾与自己的需要，此刻混在一起，不能只取其中一种解释。",
+      "turn": "他把这份混合的诉求，带进 HHM 的会议室。",
+      "sources": [
+        "xfiles",
+        "cdl"
+      ]
+    },
+    {
+      "id": "hhm",
+      "act": "belong",
+      "where": "Hamlin, Hamlin & McGill / 合伙人会议",
+      "title": "同一个 McGill，在这里意味着另一种分量。",
+      "image": "hhm",
+      "fact": "吉米要求 HHM 兑现查克的合伙权益，提出约 1,700 万美元的估算。霍华德追问这是否是查克本人的意思，并表示律所仍为他保留位置。离开时，吉米看见凯特曼夫妇来见霍华德。",
+      "analysis": "高挑大厅、会议桌和整齐的团队，与美甲店后屋形成直接对照。吉米的夸张登场，是弱势者把自己临时放大的办法；霍华德则以查克的意愿和机构程序回应。随后出现的客户，把两场竞争合到一起：他既没取得哥哥权益的处置权，也没守住自己的委托。首集让我们贴近他的受辱感，却没有证明霍华德侵吞财产或暗中操纵一切。",
+      "turn": "职业挫折开始被他理解成对自己的排斥。",
+      "sources": [
+        "cdl",
+        "xfiles"
+      ]
+    },
+    {
+      "id": "kim",
+      "act": "belong",
+      "where": "HHM 停车区 / 一根香烟",
+      "title": "金懂他的难堪，却没有替他站队。",
+      "image": "kim-smoke",
+      "fact": "吉米踢垃圾桶发泄后，与在停车区抽烟的金·韦克斯勒短暂相处。他借她的烟吸了一口；她表示无法做他希望的事，离开时扶正了垃圾桶。",
+      "analysis": "镜头不急着解释两人的过去，身体距离与借烟动作已经说明熟悉。金既没有附和他的怒气，也没有把他推开。她扶正垃圾桶，是一个很小却具体的收尾：能接住一个人的情绪，不等于答应替他改变工作中的立场。把这场安静的戏保留下来，吉米就不只是一个被所有人拒绝的失败者。",
+      "turn": "他得到片刻陪伴，问题仍然要自己处理。",
+      "sources": [
+        "cdl",
+        "chrys"
+      ]
+    },
+    {
+      "id": "chuck",
+      "act": "belong",
+      "where": "查克家 / 灯笼、冰块与火柴册",
+      "title": "哥哥谈原则，弟弟问的是怎么活下去。",
+      "image": "chuck-room",
+      "fact": "吉米为避用电器的查克送来生活用品，劝他退出 HHM；查克坚持会康复，并用每周补助缓解经济争论。他又转述霍华德对律师业务名称的顾虑，建议吉米改用别的名字。",
+      "analysis": "照顾发生在劝说之前：吉米不是只来要钱，他先换冰、放食物。查克维护的是未来重返工作的身份，也提醒弟弟认真做辩护、不要走捷径；吉米承担的是今天的开销和疲惫。谈到名字时，两人更深地错开：哥哥说建立自己的身份，弟弟听成连出生时就有的姓也不配用。关心确实存在，伤害也确实发生，二者没有互相抵消。",
+      "turn": "吉米离开时，把怒气投向了霍华德。",
+      "sources": [
+        "transcript",
+        "xfiles",
+        "wiki"
+      ]
+    },
+    {
+      "id": "recruit",
+      "act": "shortcut",
+      "where": "滑板场 / 吉米的旧本领",
+      "title": "他不再只是识破骗局，而开始召集同伙。",
+      "image": "skatepark",
+      "fact": "吉米找到滑板兄弟，讲起自己年轻时靠假摔索赔的经历，提出让两人配合一次针对贝茜的假车祸，并以报酬吸引他们。",
+      "analysis": "转折就在主动性上。第一幕他拒绝别人的骗局，此刻却把同一套技术收编为自己的方案。讲述旧日名声，也在给他恢复自信：在正规的职业竞争里，他觉得自己不够分量；在这个场地，他能当老师、开价、发指令。屡次受挫解释了诱惑为何出现，接下来的选择仍是他亲手作出的。",
+      "turn": "获得客户的路径，从展示能力变成制造需求。",
+      "sources": [
+        "wiki",
+        "chrys"
+      ]
+    },
+    {
+      "id": "plan",
+      "act": "shortcut",
+      "where": "凯特曼家附近 / 路口排演",
+      "title": "先制造麻烦，再扮演解决麻烦的人。",
+      "image": "plan",
+      "fact": "吉米交代目标车辆与出行路线：一人装受伤，另一人向贝茜施压；他们再打电话叫他来，由他出面“摆平”局面，重新争取凯特曼家的委托。",
+      "analysis": "这比夸大自己的门面更进一步。客户本来可以拒绝，他却计划先制造一场虚假的危机，再把自己放在救援的位置。看似仍在出售律师服务，取得信任的依据却已由他伪造。计划精准抓住了贝茜对家庭体面的保护：她越急于结束难堪，他越有机会成为那个不可或缺的人。",
+      "turn": "他写好了每个人的角色，却把合作当成服从。",
+      "sources": [
+        "cdl",
+        "wiki"
+      ]
+    },
+    {
+      "id": "wrong-car",
+      "act": "shortcut",
+      "where": "路口 → 陌生住宅 / 认错的旅行车",
+      "title": "车认错了，同伙也不肯按剧本走。",
+      "image": "wrong-car",
+      "fact": "滑板兄弟撞上了错误的车辆，驾驶者没有停车。他们追到住宅，发现对方是一位说西班牙语的老妇人，仍继续索钱并跟进屋内；吉米的电话劝阻没能让他们停下。",
+      "analysis": "骗局出错有两层：他们辨错了目标，也在追逐中发现了自认为更大的获利机会。吉米以为报酬能买到执行，对方却会临时重新计算自己的利益。这让失控不是单纯的运气差——一个依赖他人贪念启动的计划，同样可能被他人的贪念带离路线。熟悉骗术，并不等于掌握现实。",
+      "turn": "追查失控的同伙，把他带到陌生人的门口。",
+      "sources": [
+        "wiki",
+        "xfiles"
+      ]
+    },
+    {
+      "id": "door",
+      "act": "shortcut",
+      "where": "住宅门口 / 本集最后一刻",
+      "title": "门打开了，他的“专业身份”没有挡住枪。",
+      "image": "door",
+      "fact": "吉米循着车辆找到住宅，以法律身份要求开门。门后出现的图科将枪指向他，把他拉进屋内。第一集到此结束。",
+      "analysis": "首集一直让他靠说话争取空间，最后忽然换了一种决定权。律师头衔在这里不能自动产生保护，事先编好的台词也不再决定场面。这个结尾的作用，是让前面的越界立刻遇到吉米未曾计算的风险。我们可以问他接下来怎样应对，不能把第二集的谈判、惩罚或结局搬过来，替这一刻补完。",
+      "turn": "他想成为拯救客户的人，先成了需要脱身的人。",
+      "sources": [
+        "wiki",
+        "xfiles"
+      ]
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "独立执业律师 / 想谋生，也想被承认",
+      "want": "一份像样的委托，一种不必装出来的尊重。",
+      "leverage": "口才、读人的能力，以及熟悉骗术的旧经验。",
+      "fact": "做委派辩护、推销服务、照顾查克，随后策划假车祸。",
+      "analysis": "首集最令人不安的地方，是合法工作与骗局调用了相近的才能：理解别人害怕什么，再讲出让对方接受的故事。分界在于，他是在解释已有事实，还是创造虚假的事实。"
+    },
+    "chuck": {
+      "role": "哥哥 / HHM 合伙人 / 暂时居家",
+      "want": "恢复健康，回到自己原来的职业位置。",
+      "leverage": "资历、专业原则，以及对弟弟有分量的评价。",
+      "fact": "拒绝退出 HHM，劝吉米耐心执业，并转述业务名称的顾虑。",
+      "analysis": "他确实看重法律工作，也确实对弟弟形成压力。首集可讨论原则怎样在关系中伤人，尚不能用后续信息宣判他此刻隐藏的全部动机。他的避电生活是剧中呈现与自述，页面不替他作医学诊断。"
+    },
+    "kim": {
+      "role": "HHM 律师 / 吉米熟悉的人",
+      "want": "保留自己的工作立场，也保留与吉米的连接。",
+      "leverage": "专业位置与一种无需长篇解释的熟悉。",
+      "fact": "出现在会议中；在停车区与吉米共处，却拒绝他的请求。",
+      "analysis": "她给出的不是无条件联盟，而是有边界的亲近。首集对她着墨很少；借烟和扶桶足以让我们读到温度，不足以替两人的关系贴上所有后来的标签。"
+    },
+    "howard": {
+      "role": "HHM 合伙人 / 机构的门面",
+      "want": "维持律所运转与查克的合伙关系。",
+      "leverage": "机构资源、体面形象与客户信任。",
+      "fact": "回应吉米的兑现要求，接待凯特曼夫妇，保留查克的办公室。",
+      "analysis": "他是吉米此刻看得到的阻力，所以容易成为怒气的焦点。镜头让我们体验这种距离，但首集没有完成关于他的道德判决。追问查克是否本人愿意退出，也不能直接等同于恶意。"
+    },
+    "mike": {
+      "role": "停车场收费员 / 程序的守门人",
+      "want": "按停车规则收费、核验贴纸。",
+      "leverage": "一道不开的栏杆。",
+      "fact": "拒绝接受吉米的辩解，要求付款或补足验证。",
+      "analysis": "他让吉米第一次遇到一个不愿进入叙事的人。此时仅从收费亭的互动认识他；后来的职业经历、合作关系与能力，不提前写进这一集。"
+    },
+    "betsy": {
+      "role": "凯特曼夫人 / 委托的决策者",
+      "want": "维护家庭的清白形象，选择她认为可信的律师。",
+      "leverage": "可以签约，也可以拒绝。",
+      "fact": "阻止丈夫立即签约，随后同他前往 HHM。",
+      "analysis": "她并非只是一道被动障碍。对体面的坚持，让吉米的理性劝说失效，也让她成为骗局的目标。警方正在调查，与犯罪已经被证明，是不同层次的事实。"
+    },
+    "craig": {
+      "role": "县财务人员 / 被调查者",
+      "want": "避免刑事风险，也避免显得有罪。",
+      "leverage": "他的案件，可能带来一份私人委托。",
+      "fact": "同贝茜见吉米，准备签字但被妻子叫停，后来前往 HHM。",
+      "analysis": "他在首集的存在感经常被妻子的决定覆盖。签约前的一次停顿，把家庭决策方式展示得很清楚；本集不据此替整个案件下定论。"
+    },
+    "tuco": {
+      "role": "结尾出现的持枪者 / 未知风险",
+      "want": "首集尚未充分交代。",
+      "leverage": "枪与屋内空间的控制。",
+      "fact": "在住宅门口持枪制住吉米，将他拉入屋内。",
+      "analysis": "此刻他首先改变的是场景里的力量分配。即使没有看过关联剧集，也能理解吉米遇到了危险；身份背景和后续处置，留给后面的故事。"
+    }
+  },
+  "phases": [
+    {
+      "id": "work",
+      "name": "01 · 正常谋生",
+      "note": "阅读位置：咖啡馆谈委托之后。吉米仍靠已有案件和正常推销寻找收入。关系线为剧情关系的阅读归纳。",
+      "edges": [
+        "照顾 / 期待认可",
+        "熟悉 / 尚未求助",
+        "谋求私人委托",
+        "律所的机构距离"
+      ],
+      "details": {
+        "jimmy": "客户还没有签字；急需收入，但尚未策划那场假车祸。",
+        "chuck": "是吉米照料的哥哥，也是他心中有分量的专业坐标。",
+        "kim": "后面的停车区互动，才进一步展示两人的熟悉。",
+        "howard": "代表拥有规模与声誉的 HHM；吉米尚未在本集正式当面交锋。",
+        "mike": "只核验贴纸，没有接受吉米诉诸辛苦的解释。",
+        "betsy": "叫停签约，控制了这份委托是否成立。",
+        "craig": "准备签字，却跟随妻子的决定暂缓。",
+        "tuco": "尚未出场，也尚未与吉米产生本集联系。"
+      }
+    },
+    {
+      "id": "bruise",
+      "name": "02 · 身份受挫",
+      "note": "阅读位置：查克家的谈话之后。兄弟之间仍有照顾，但金钱、职业身份与姓氏的争论让吉米更加受伤。",
+      "edges": [
+        "生计 / 原则错位",
+        "亲近 / 拒绝站队",
+        "委托转向 HHM",
+        "要求 / 愤怒加深"
+      ],
+      "details": {
+        "jimmy": "既没守住客户，也没说服哥哥退出律所；把改名建议读成拒绝承认。",
+        "chuck": "坚持康复后回归，建议建立独立业务身份；两人对这句话的理解相反。",
+        "kim": "容许亲近，也明确自己做不了他希望的事。",
+        "howard": "成为吉米眼中排斥自己的机构面孔；这是一种人物视角。",
+        "mike": "停车冲突仍是程序上的争执，没有升级成其他合作。",
+        "betsy": "已同丈夫去见 HHM，吉米失去了正常签约的机会。",
+        "craig": "跟随家庭的选择前往 HHM。",
+        "tuco": "仍未出场。不要把后面的危险提前画成已知敌意。"
+      }
+    },
+    {
+      "id": "risk",
+      "name": "03 · 主动越界",
+      "note": "阅读位置：本集结尾。吉米制造危机的计划失败，图科进入他的现实；其他人物并未因此在首集得知或参与骗局。",
+      "edges": [
+        "期待仍在 / 方法越界",
+        "未参与这场骗局",
+        "制造危机以获信任",
+        "怒气成了行动燃料"
+      ],
+      "details": {
+        "jimmy": "用假车祸重新争取客户，随后因目标错误与同伙失控走进危险。",
+        "chuck": "对捷径的警告与弟弟的选择形成呼应；首集没让他参与骗局。",
+        "kim": "没有被展示为计划的知情者或同谋。",
+        "howard": "吉米对他的怒气推动了行动，但他没有指挥这场骗局。",
+        "mike": "与骗局无关；首集也没有帮吉米处理图科。",
+        "betsy": "是原定目标；实际遭遇假碰撞的另有其人。",
+        "craig": "他的委托是吉米想获取的收益，并未在这次骗局中落定。",
+        "tuco": "在最后一刻持枪控制吉米，打破了他的救场安排。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "brothers",
+      "label": "吉米 × 查克",
+      "title": "被照顾的人，仍拥有评价照顾者的权力。",
+      "left": "弟弟的现实",
+      "right": "哥哥的原则",
+      "image": "chuck-room",
+      "text": "查克离不开吉米的日常帮助，吉米却仍需要查克认可自己是个合格律师。生活上的依赖和精神上的权威，朝着相反方向流动。因此，两人的争吵不能被简化为谁更需要谁：弟弟负责让今天过下去，哥哥掌握“什么才算正当”的语言。",
+      "second": "耐心执业是一条有价值的建议，可说出它的人与承受它的人没有同样的现金压力。吉米想兑现合伙权益，也不仅是无私救兄；查克拒绝退出，也不仅是在刁难弟弟。这场冲突的厚度，来自双方理由都能成立，却无法解决对方正在面对的问题。",
+      "limit": "事实边界：本集只展示谈话与生活照顾，不推断后续揭示的隐藏安排。"
+    },
+    {
+      "id": "institution",
+      "label": "吉米 × 霍华德 / HHM",
+      "title": "他要被当成同行，对方先要求他证明授权。",
+      "left": "一个人的登场",
+      "right": "一套机构的位置",
+      "image": "hhm-wide",
+      "text": "吉米用电影式的演说冲进会议，把自己的情绪做得足够大；霍华德问的却是查克是否愿意兑现权益。两种语言没有接上：前者索取承认，后者处理一个涉及合伙人本人的决定。凯特曼夫妇在大厅出现，再把这种职业距离变成一笔看得见的失去。",
+      "second": "HHM 的空间能替律师提前获得信任，吉米却得用口音、电话和借口先制造一间像样的办公室。这里可以读到资源差距，不能直接推出大机构里每个人都在作恶。吉米把不满集中到霍华德身上，是本集的心理推进，也需要读者保持一点距离。",
+      "limit": "事实边界：1,700 万美元是吉米的估算与要求，不是经核定的清算结果。"
+    },
+    {
+      "id": "intimacy",
+      "label": "吉米 × 金",
+      "title": "理解你的处境，不等于答应替你出头。",
+      "left": "情绪上的靠近",
+      "right": "工作中的边界",
+      "image": "kim-smoke",
+      "text": "这是一场台词很少的戏。金没有要求吉米先恢复体面才接近他，吉米也不必向她重讲整场失败；他们之间的熟悉被一个借烟动作带出来。可她仍明确拒绝了请求。亲近没有变成可以任意提取的职业支持。",
+      "second": "金把倒下的垃圾桶扶正，既收拾了吉米留下的狼狈，也没有替他解决全部矛盾。这个动作适合与哥哥家的争论并读：一种关系给建议，却伤到了人；另一种关系拒绝请求，却保留了温度。首集借她给吉米留出一个可以短暂不表演的角落。",
+      "limit": "事实边界：不提前规定两人的关系状态，也不让金背负她未参与的骗局。"
+    },
+    {
+      "id": "self",
+      "label": "吉米 × 自己",
+      "title": "解释事实，与编造事实，隔着一道线。",
+      "left": "律师的辩护",
+      "right": "骗子的导演",
+      "image": "skatepark",
+      "text": "法庭上，他为确实发生的行为争取一种解释；路口计划里，他要让本不存在的事故发生。前者可能令人反感，却仍属于辩护工作的核心；后者让客户在被欺骗的条件下作决定。首集把两者都拍得有表演性，正好让我们看清：同一种才华，不会自动使所有用法都正当。",
+      "second": "吉米相信自己能把骗局控制在一个小范围，换来的仍是一份真正的律师工作。这种自我解释，比“我要做坏人”更可信，也更危险。认错车不是他的全部责任来源：在错误出现前，他已经决定操纵客户的处境。最后的枪把可控的想象打断了。",
+      "limit": "阅读判断：困境解释了诱惑，没有替他的选择免责。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "吉米 → 查克",
+      "en": "Money is the point.",
+      "zh": "钱就是问题的关键。",
+      "image": "chuck-room",
+      "context": "查克说辩护工作的价值不在钱上；吉米把话题拉回两人的生计。",
+      "analysis": "这里的“钱”同时指收入、生活支出和持续照顾的能力。他没有回答法律工作的理想价值，而是在追问：如果理想无法支付账单，这条路怎样继续走？"
+    },
+    {
+      "speaker": "查克 → 吉米",
+      "en": "There are no shortcuts.",
+      "zh": "这条路没有捷径。",
+      "image": "chuck-portrait",
+      "context": "查克劝弟弟耐心工作，相信认真做事会带来客户。",
+      "analysis": "它在当时是一种职业原则，到了下一幕变成结构上的反问：吉米究竟会怎样回应？不是这句话施了魔法，而是劝告与他承受的生活压力没有得到协调。"
+    },
+    {
+      "speaker": "吉米 → 查克",
+      "en": "Chuck, whose side are you on?",
+      "zh": "查克，你到底站在哪一边？",
+      "image": "chuck-room",
+      "context": "查克转述对业务名称的顾虑，吉米感到哥哥在替霍华德说话。",
+      "analysis": "一个职业命名的问题，被他听成了关系中的忠诚测试。他想确认的不是哪条程序正确，而是哥哥会不会在他受排斥时首先承认他。"
+    },
+    {
+      "speaker": "查克 → 吉米",
+      "en": "Wouldn't you rather build your own identity?",
+      "zh": "你难道不更想建立自己的身份吗？",
+      "image": "chuck-portrait",
+      "context": "查克回应弟弟的站队追问，建议他不借用他人的名望。",
+      "analysis": "对哥哥，这是独立的邀请；对弟弟，却像取消了他原有的身份。两人没有争论同一个问题。这句台词让全剧关于“名字”的大问题，在首集先落到一盒火柴和一场兄弟争执上。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "录像，既保存身份，也戳破表演。",
+      "text": "Gene 的旧广告保存着曾经能被看见的自己；庭审录像拆穿了吉米的淡化叙述；滑板兄弟又把摄影机用来威胁索赔。相同媒介在三处承担不同作用：怀念、证据、操纵。",
+      "link": "court"
+    },
+    {
+      "number": "02",
+      "title": "门与出口，总有人握着开关。",
+      "text": "停车栏杆要求贴纸，HHM 的会议室要求合伙人的意愿，结尾的住宅门后出现枪。空间里的阻挡逐渐升级：他能讲出理由，却不是每一次都能决定自己何时通过。",
+      "link": "gate"
+    },
+    {
+      "number": "03",
+      "title": "姓氏，让“谋生”变成“我是谁”。",
+      "text": "HHM 门面上的 McGill、吉米火柴册上的 McGill、旧广告里的 Saul，再加上开场名牌上的 Gene：首集已经摆出几种名字。先看它们各自在怎样的场合被使用，不急着把整个人生补到空白里。",
+      "link": "chuck"
+    }
+  ],
+  "sources": [
+    {
+      "id": "apple",
+      "title": "Apple TV · Uno / S1 E1",
+      "url": "https://tv.apple.com/us/episode/uno/umc.cmc.7ha901mh8lh5tnz62f5ocrdp5?showId=umc.cmc.z783dda5nkr23g1jj2kn8x22",
+      "note": "发行平台分集条目：标题、首播日期与简介。首播 2015-02-08；不同版本时长不作为场景定位依据。"
+    },
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Uno (Better Call Saul)",
+      "url": "https://en.wikipedia.org/wiki/Uno_(Better_Call_Saul)",
+      "note": "核对分集顺序、创作署名与主要剧情节点；分析独立撰写。条目其他部分与链接可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Forever Dreaming · 01x01 — Uno",
+      "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=16454",
+      "note": "非官方对白转录：核对四句英文短台词、报酬与停车争执、查克家的谈话。不把转录视作官方剧本；中文均为本页自译。四句合计 21 个英文词。"
+    },
+    {
+      "id": "xfiles",
+      "title": "X-Files News · Review: Better Call Saul — Uno",
+      "url": "https://www.xfiles.news/index.php/news/reviews/review-better-call-saul-uno",
+      "note": "2015-02-10 分集回顾：核对开场、办公室、家庭谈话与尾声。文中评论和对疾病的措辞不作为本页事实依据。"
+    },
+    {
+      "id": "cdl",
+      "title": "Celeb Dirty Laundry · S01E01 Uno 分集回顾",
+      "url": "https://www.celebdirtylaundry.com/2015/better-call-saul-recap-2815-season-1-episode-1-premiere-uno/",
+      "note": "2015-02-08 回顾：交叉核对合同签字、停车区、照顾哥哥与骗局步骤。原文有将委派辩护写成无偿辩护等不严谨措辞，本页不沿用。"
+    },
+    {
+      "id": "chrys",
+      "title": "Chrys Buckley · Better Call Saul Episode 101 Uno",
+      "url": "https://chrysbuckley.com/2020/08/30/better-call-saul-episode-101-uno/",
+      "note": "交叉核对人物出场与首集场景。回看文章含系列层面的观点；本页只使用首集可见信息。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Episode 01: Uno 截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=903",
+      "note": "正文播出版截图来源；按图库逐帧编号登记。图像原权利人包括 AMC / Sony Pictures Television 及相关制作方。"
+    },
+    {
+      "id": "edna",
+      "title": "Edna · S01E01 Uno 分集宣传剧照",
+      "url": "https://www.edna.cz/volejte-saulovi/epizody/s01e01-uno/",
+      "note": "封面与部分人物辨认图来源，标为首集宣传剧照；不冒充播出版对应瞬间的截图。"
+    },
+    {
+      "id": "courts",
+      "title": "United States Courts · Criminal Cases",
+      "url": "https://www.uscourts.gov/about-federal-courts/types-cases/criminal-cases",
+      "note": "仅用于基本制度词义：无法负担律师的刑事被告，可依法获得指定辩护。该页讲联邦程序，不能据此推出剧中新墨西哥地方案件的具体报酬标准。"
+    }
+  ],
+  "images": [
+    {
+      "id": "jimmy-car",
+      "file": "assets/jimmy-car.jpg",
+      "alt": "吉米穿着西装站在黄色 Suzuki 汽车旁接电话",
+      "caption": "吉米与黄色 Suzuki · 首集宣传剧照，非播出版逐帧截图",
+      "kind": "episode-production-still",
+      "sourceUrl": "https://www.edna.cz/volejte-saulovi/epizody/s01e01-uno/",
+      "originalUrl": "https://www.edna.cz/runtime/cache/images/full/series/better-call-saul/better-call-saul-episode-101-jimmy-odenkirk-935-f7042a2062f01695cd8cbf514b9babb0.jpg",
+      "width": 800,
+      "height": 563,
+      "episode": "S01E01"
+    },
+    {
+      "id": "gene",
+      "file": "assets/gene.jpg",
+      "alt": "Gene 在家看旧广告，眼镜反射出电视的光",
+      "caption": "黑白序幕 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0105.jpg",
+      "frame": 105,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "court",
+      "file": "assets/court.jpg",
+      "alt": "吉米在法庭上面向陪审团辩护",
+      "caption": "庭审辩护 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=2",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0164.jpg",
+      "frame": 164,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "mike-gate",
+      "file": "assets/mike-gate.jpg",
+      "alt": "迈克在法院停车收费亭内回应吉米",
+      "caption": "迈克与停车验证 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0242.jpg",
+      "frame": 242,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "kettlemans",
+      "file": "assets/kettlemans.jpg",
+      "alt": "凯特曼夫妇坐在咖啡馆与吉米谈聘请律师",
+      "caption": "咖啡馆会面 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=3",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0256.jpg",
+      "frame": 256,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "first-scam",
+      "file": "assets/first-scam.jpg",
+      "alt": "滑板兄弟站在车前，其中一人倒在地上假装受伤",
+      "caption": "第一次假碰撞 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0330.jpg",
+      "frame": 330,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "office",
+      "file": "assets/office.jpg",
+      "alt": "吉米坐在美甲店后屋，面前是电话和杂物",
+      "caption": "美甲店后屋办公室 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0379.jpg",
+      "frame": 379,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "office-wide",
+      "file": "assets/office-wide.jpg",
+      "alt": "吉米站在狭小的后屋办公室内",
+      "caption": "吉米的工作空间 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=4",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0371.jpg",
+      "frame": 371,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "hhm",
+      "file": "assets/hhm.jpg",
+      "alt": "吉米面对 HHM 会议桌后的霍华德与金",
+      "caption": "HHM 合伙人会议 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0429.jpg",
+      "frame": 429,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "hhm-wide",
+      "file": "assets/hhm-wide.jpg",
+      "alt": "HHM 明亮开阔的会议室与整齐的长桌",
+      "caption": "HHM 的工作空间 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=5",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0440.jpg",
+      "frame": 440,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "kim-smoke",
+      "file": "assets/kim-smoke.jpg",
+      "alt": "吉米和金在昏暗的停车区并肩站着",
+      "caption": "停车区的一根香烟 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0509.jpg",
+      "frame": 509,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "chuck-room",
+      "file": "assets/chuck-room.jpg",
+      "alt": "吉米与查克隔着桌子在灯笼照亮的房间里谈话",
+      "caption": "兄弟的夜间谈话 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=6",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0595.jpg",
+      "frame": 595,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "skatepark",
+      "file": "assets/skatepark.jpg",
+      "alt": "吉米蹲在滑板场与滑板兄弟谈合作",
+      "caption": "招募滑板兄弟 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0703.jpg",
+      "frame": 703,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "plan",
+      "file": "assets/plan.jpg",
+      "alt": "吉米站在滑板兄弟面前交代计划",
+      "caption": "假车祸计划的交代 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=8",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0758.jpg",
+      "frame": 758,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "wrong-car",
+      "file": "assets/wrong-car.jpg",
+      "alt": "老妇人站在家门附近，面对追来的滑板兄弟",
+      "caption": "认错目标后的索钱 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=9",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0866.jpg",
+      "frame": 866,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "door",
+      "file": "assets/door.jpg",
+      "alt": "低角度镜头：门内伸出的枪指向吉米，他抬头望向持枪者",
+      "caption": "门打开后的枪口 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=10",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0906.jpg",
+      "frame": 906,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    },
+    {
+      "id": "chuck-portrait",
+      "file": "assets/chuck-portrait.jpg",
+      "alt": "查克在家中谈话的近景",
+      "caption": "查克的谈话近景 · 播出版截图",
+      "kind": "episode-still",
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=903&page=7",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2001%20Uno/BCS_S1_E1_0660.jpg",
+      "frame": 660,
+      "width": 1280,
+      "height": 720,
+      "episode": "S01E01"
+    }
+  ]
+}

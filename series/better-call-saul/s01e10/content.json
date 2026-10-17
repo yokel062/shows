@@ -1,0 +1,635 @@
+{
+  "version": 1,
+  "episode": "S01E10",
+  "title": "Marco",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-04-06",
+  "writer": "Peter Gould",
+  "director": "Peter Gould",
+  "question": "回到最懂自己的人身边，|就能找回想成为的自己吗？",
+  "deck": "他离开一扇拒绝自己的门，回到一间欢迎旧名字的酒吧。|一周之后，带回的却不只是放松。",
+  "intro": "知道查克一直阻止自己后，吉米把沙鹬案交给 HHM，也停止亲自维持哥哥的日常。他回到西塞罗，与旧友马可重新做局。在那里，机灵与骗术不需要向谁解释，仿佛终于得到无条件的欣赏。可一段重逢并不能替他决定将来：朋友想再来一次，他仍有另一座城市的客户等着。季终就在这种拉扯中收束。",
+  "openingTitle": "别人最喜欢的那个你，|是不是你想继续成为的人？",
+  "readingKey": "交接与告别 / 旧友的认可 / 新机会前的转身",
+  "storyTitle": "从一次告别，|走到另一次无法重来的告别。",
+  "relationTitle": "一边给他熟悉的认可，|一边等着他真正做过的工作。",
+  "conflictTitle": "谁能接住受伤的人？|谁又能替他决定明天？",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第10集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Marco",
+      "url": "https://en.wikipedia.org/wiki/Marco_(Better_Call_Saul)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E10 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e10",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Marco 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=912",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "吉米驾驶黄色 Suzuki 离开法院停车场",
+      "caption": "吉米驾驶黄色 Suzuki 离开法院停车场 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 966,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0966.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "回忆中吉米在酒吧向旧友告别",
+      "caption": "回忆中吉米在酒吧向旧友告别 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 48,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0048.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "handoff",
+      "file": "assets/handoff.jpg",
+      "alt": "吉米在 HHM 与霍华德完成案件交接",
+      "caption": "吉米在 HHM 与霍华德完成案件交接 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 119,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0119.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "bingo",
+      "file": "assets/bingo.jpg",
+      "alt": "吉米在养老机构主持宾果游戏时情绪失控",
+      "caption": "吉米在养老机构主持宾果游戏时情绪失控 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 236,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0236.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "return",
+      "file": "assets/return.jpg",
+      "alt": "吉米回到西塞罗，与马可重逢",
+      "caption": "吉米回到西塞罗，与马可重逢 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 354,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0354.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "scams",
+      "file": "assets/scams.jpg",
+      "alt": "吉米在酒吧里与旧友重新做局",
+      "caption": "吉米在酒吧里与旧友重新做局 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 448,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0448.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "identity",
+      "file": "assets/identity.jpg",
+      "alt": "吉米的西塞罗之行，电话仍连着律师生活",
+      "caption": "吉米的西塞罗之行，电话仍连着律师生活 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 613,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0613.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "last-con",
+      "file": "assets/last-con.jpg",
+      "alt": "两人在夜间开始最后一次巷道骗局",
+      "caption": "两人在夜间开始最后一次巷道骗局 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 731,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0731.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "collapse",
+      "file": "assets/collapse.jpg",
+      "alt": "马可在夜间骗局中突然倒下",
+      "caption": "马可在夜间骗局中突然倒下 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 778,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0778.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "ring",
+      "file": "assets/ring.jpg",
+      "alt": "葬礼后，吉米独自站在旧日街区",
+      "caption": "葬礼后，吉米独自站在旧日街区 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 825,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0825.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "offer",
+      "file": "assets/offer.jpg",
+      "alt": "金通过电话把新的职业机会告诉吉米",
+      "caption": "金通过电话把新的职业机会告诉吉米 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 848,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0848.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "turn",
+      "file": "assets/turn.jpg",
+      "alt": "法院出口的迈克与吉米谈起没有拿走的钱",
+      "caption": "法院出口的迈克与吉米谈起没有拿走的钱 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E10",
+      "frame": 941,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=912",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Epsiode%2010%20Marco/BCS_S1_E10_0941.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 1992 年离开西塞罗之前",
+    "image": "prologue",
+    "title": "一次重来的起点，也曾是朋友眼里的一次离开。",
+    "fact": "回忆中，获查克帮助后准备去阿尔伯克基重新生活的吉米，到熟悉酒吧向马可告别。马可不愿他离开旧日的合作。",
+    "analysis": "兄弟的帮助与朋友的失落，在这里属于同一段过去。吉米以为自己终于能离开骗局，马可看见的却是最熟悉的搭档走了。两种期待都在呼唤他，但没有哪一种替他完成了关于自己想怎样生活的选择。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "handoff",
+      "where": "HHM / 交接沙鹬案",
+      "title": "他终于收下条件，也交还每天照顾哥哥的位置。",
+      "image": "handoff",
+      "fact": "吉米接受 HHM 接手案件的安排，取得约定费用，并向霍华德说明自己已知道查克阻止聘用。他要求律所接手查克的日常照护。",
+      "analysis": "这不是原来那个靠得到职位证明自己的入口。他把工作交出去，也把持续送到家里的自己撤出来。请求别人接手照顾，说明愤怒没有被简单写成任由哥哥失去生活支持；边界是在关系受伤之后重新安排劳动。",
+      "turn": "案件有了接手者，他自己的情绪却还无处安放。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "bingo",
+      "where": "养老机构 / 宾果游戏",
+      "title": "他本来只报数字，话却一路滑向了自己的旧事。",
+      "image": "bingo",
+      "fact": "主持宾果时，吉米被连续的字母与数字勾起情绪，转而讲起曾向他人汽车天窗内排便报复、未注意后座有孩子的往事，以及查克后来帮他处理危机。",
+      "analysis": "他在一个本该让老人轻松参与的场合，突然说出不能继续压住的委屈。故事解释第三集牢房里那份严重风险的来历，也让我们看见：早年的感激与如今的怨恨并不排斥，它们挤在同一段兄弟关系里。",
+      "turn": "不能继续维持平静的他，决定回到旧日认识自己的人那里。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "return",
+      "where": "西塞罗酒吧 / 与马可重逢",
+      "title": "这里有人记得他的本事，不要求他先证明。",
+      "image": "return",
+      "fact": "吉米返回西塞罗，与多年不见的马可重逢。马可以为成为律师意味着富裕成功，吉米说明自己并非那样。",
+      "analysis": "朋友的欢迎填补了哥哥拒绝留下的空。可马可同样有一套关于他应该是谁的想象：机灵、受欢迎、擅长把局面变成钱。被热情认识并不总等于被完整理解，旧友也可能只爱一个人最熟悉的那一面。",
+      "turn": "这份熟悉，很快转成重新搭档的邀请。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "scams",
+      "where": "酒吧与街头 / 一周旧套路",
+      "title": "他不用再解释，别人就知道什么时候接话。",
+      "image": "scams",
+      "fact": "吉米与马可重做旧日骗局，数天里反复配合，享受重新找回默契的兴奋。旁人则在他们安排的故事里受骗。",
+      "analysis": "与律师工作中的重重证明相比，这里几乎没有磨合成本。认可来得快，钱与笑声也来得快。剧集让这种吸引力足够真实，同时保留代价：他们并非只是在朋友之间玩无害游戏，还有被当成目标的其他人。",
+      "turn": "默契可以唤回一个旧名字，仍不能取消另一座城市的生活。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "identity",
+      "where": "西塞罗 / 临时生活与电话",
+      "title": "还有人需要的，是他认真做过的律师工作。",
+      "image": "identity",
+      "fact": "吉米收到阿尔伯克基生活与工作的联系，也告诉马可自己得回去处理客户事务。马可难理解为何他要离开这段重新快乐的生活。",
+      "analysis": "这是两种认可最明确的分歧。马可欣赏他能导演一场骗局，客户依赖他已经处理过的具体事务。吉米并不是只有被哥哥否定的身份，他同样在别人的日常里留下了可以被需要的位置；只是这种认可没有酒吧里的掌声那么响。",
+      "turn": "朋友要求最后一次，把普通的返程变成又一段拖延。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "last-con",
+      "where": "夜间巷道 / 再做最后一把",
+      "title": "“最后一次”让重逢看起来还能多留一会。",
+      "image": "last-con",
+      "fact": "马可请求离开前再完成一次惯用的名表骗局。吉米答应，两人再次进入熟悉分工。",
+      "analysis": "这个要求既关于钱，也关于不想让一周结束。对马可而言，朋友回来使日常重新鲜活，承认对方还有别的生活意味着再一次失去。没有必要把他的留恋推断成精心算计，悲剧正来自普通愿望与无法安排的身体偶然碰在一起。",
+      "turn": "这次本来应该装作倒下的人，真的倒下了。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "collapse",
+      "where": "巷道 / 假装停止的那一刻",
+      "title": "演了无数次的虚弱，突然不再是表演。",
+      "image": "collapse",
+      "fact": "骗局进行中，马可突发状况。吉米意识到不是按约表演，试图求救；马可在对话后去世。",
+      "analysis": "最熟悉的一套动作失去了可以重来的前提。先前的经验反而使吉米一度需要分辨真假；一旦确认，他又没有能靠口才扭转的听者。朋友表达这一周的快乐，不能补偿死亡，也让离开的代价变得格外私人。",
+      "turn": "这一次的告别，没有下一次搭档可以冲淡。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "ring",
+      "where": "葬礼与街区 / 朋友留下的戒指",
+      "title": "旧生活没有跟他回来，留下了一件可以随身带走的东西。",
+      "image": "ring",
+      "fact": "葬礼后，吉米得到马可的小指戒指并开始佩戴。他独自在旧日街区停留，准备返回阿尔伯克基。",
+      "analysis": "戒指使哀伤不再只存在于回忆里。它可以纪念友谊，也可以把被欣赏的旧身份贴在每天看得见的手上。本集没有替这件物品规定唯一含义，更不等于朋友的死已经决定他的全部未来。",
+      "turn": "回去的电话带来的，不只有旧事，也有新的职业机会。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "offer",
+      "where": "电话 / 金带来的消息",
+      "title": "他以为那扇门代表全部世界，外面却还有另一家律所。",
+      "image": "offer",
+      "fact": "金告诉吉米，沙鹬案需要 HHM 与 Davis & Main 合作，对方看重他与住户的联系，愿意进一步谈聘用。他安排去见对方。",
+      "analysis": "这份机会建立在他真正做过的工作上，而不是广告或哥哥的担保。案件交出之后，他的贡献仍能被别人认出来。它使“只有哥哥承认我才算律师”的世界出现出口，却不能保证受伤的人能够立即平静接受。",
+      "turn": "机会已经来到，决定怎样走进去仍属于他。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "turn",
+      "where": "法院停车出口 / 与迈克短谈",
+      "title": "到门前，他却先问起了那笔没有留下的钱。",
+      "image": "turn",
+      "fact": "吉米到法院附近准备见 Davis & Main，随后转身离开，问迈克当初为什么没留下凯特曼家的钱。迈克说自己只完成受托的工作；吉米表示某种阻止自己的东西不会再挡住他，并开车离去。",
+      "analysis": "他在职业机会前重谈旧钱，显示这不是一次简单的面试安排。正确选择曾让他付出办公室，真正工作也没换来哥哥接纳，马可却珍惜与他做局的一周。他的宣言把伤痛变成新的姿态；本集尚未展示这份姿态会怎样落实，不能据此写成永远放弃合法事业。",
+      "turn": "季终留下一次转身，也留下一份尚待验证的自我宣言。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 回到旧友身边的受伤者",
+      "want": "摆脱哥哥的否定，找回被欣赏的感觉。",
+      "leverage": "真正的工作贡献、旧日骗术与仍在联系他的客户。",
+      "fact": "交接案件、重返西塞罗、经历马可之死，最后在新机会前转身。",
+      "analysis": "他拥有不只一种被承认的可能，也可能在伤痛中把旧的快乐当成唯一理解。季终没有替未来一次性定案。"
+    },
+    "marco": {
+      "role": "旧友 / 骗局搭档",
+      "want": "留住与吉米配合时鲜活的生活。",
+      "leverage": "无需解释就能接上的默契与热情。",
+      "fact": "欢迎吉米、与他做局、请求最后一回，随后去世。",
+      "analysis": "他的认可温暖又有范围：最熟悉的是旧日吉米，而未必完全理解另一座城市里的律师工作。"
+    },
+    "kim": {
+      "role": "朋友 / 带来新机会的人",
+      "want": "让吉米知道真实贡献已被别处看见。",
+      "leverage": "与案件推进有关的职业联系。",
+      "fact": "告知 Davis & Main 的意向，促成面谈安排。",
+      "analysis": "她没有要求吉米必须通过哥哥的门，新的入口来自他实际做成的事。"
+    },
+    "howard": {
+      "role": "HHM 合伙人 / 接手案件与照护",
+      "want": "完成案件交接，并接下查克的生活安排。",
+      "leverage": "机构资源与实际支付的费用。",
+      "fact": "与吉米谈清接手，听到他已知道真相。",
+      "analysis": "他的形象在揭示之后变得更具体：仍是机构的人，也能够为替别人出面表示歉意。"
+    },
+    "chuck": {
+      "role": "哥哥 / 不再由弟弟亲自每日照顾的人",
+      "want": "维持日常与自己对职业原则的判断。",
+      "leverage": "律所关系，以及仍由他人接续的帮助。",
+      "fact": "不再像从前那样由吉米亲自照料；他的旧日帮助在回忆和讲述中被重提。",
+      "analysis": "他的照顾曾真实发生，他的排除也真实发生；季终把两者放在同一个人的影响里，而非择一抹去。"
+    },
+    "mike": {
+      "role": "停车场收费员 / 以约定解释自己的人",
+      "want": "按受托任务行动，维持自己的尺度。",
+      "leverage": "已经完成的找钱任务与经验。",
+      "fact": "回答吉米为何没有留下现金。",
+      "analysis": "他给出的是自己的理由，不替吉米定义那句“不会再阻止我”究竟意味着什么。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "marco",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "howard",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    },
+    {
+      "from": "jimmy",
+      "to": "mike",
+      "kind": "institution"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 交接与离开",
+      "note": "沙鹬案交给律所，照护也重新安排；吉米不能再按原来的日常生活。",
+      "edges": [
+        "回忆里的告别",
+        "仍有职业联系",
+        "案件与照护交接",
+        "撤回亲自照料",
+        "曾经归还现金的关系"
+      ],
+      "details": {
+        "jimmy": "接受费用，却没解决失去哥哥认可后的受伤。",
+        "marco": "回忆里不舍搭档离开，尚未与当下的吉米重逢。",
+        "kim": "没有断开联系，也未替吉米决定何时恢复。",
+        "howard": "接手案件，并知道吉米已识破拒聘来由。",
+        "chuck": "照护仍会接续，弟弟却不再每天亲自到来。",
+        "mike": "不在西塞罗之行里，保留此前任务关系。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 被旧名字欢迎",
+      "note": "西塞罗的一周带回默契与欣赏，也显出马可不愿再次告别。",
+      "edges": [
+        "重做旧局 / 不愿再别",
+        "电话那端仍有生活",
+        "交接继续生效",
+        "旧帮助与新怨恨并存",
+        "此时未参与重逢"
+      ],
+      "details": {
+        "jimmy": "得到热情认可，却仍有律师客户需要回去。",
+        "marco": "把重逢视为生活重新鲜活，想留住最后一次。",
+        "kim": "另一座城市的职业联系仍在继续。",
+        "howard": "案件没有因为吉米暂时离开就停止推进。",
+        "chuck": "成为宾果失控讲述里无法绕开的关系。",
+        "mike": "没有参与酒吧骗局，也不知道全部私人伤痛。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 戒指与新的门",
+      "note": "马可去世，工作贡献引来另一家律所的机会；季终只展示一次转身，不替后续定案。",
+      "edges": [
+        "失去旧友 / 带回戒指",
+        "带来不同的职业入口",
+        "机构交接之外仍有机会",
+        "伤口未因离开消失",
+        "问旧钱 / 说出宣言"
+      ],
+      "details": {
+        "jimmy": "在伤痛与新机会之间行动，去向仍需后续具体选择验证。",
+        "marco": "突然去世，不能被写成有意用死亡安排朋友未来。",
+        "kim": "转达看重吉米实际贡献的聘用意向。",
+        "howard": "不再是吉米职业世界唯一的一扇门。",
+        "chuck": "他的拒绝影响很大，却没有决定所有其他人的评价。",
+        "mike": "只用受托工作的理由解释自己，没有给出普遍道德裁判。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "oldfriend",
+      "label": "吉米 × 马可",
+      "title": "最熟悉你的那个人，也可能只想要熟悉的那一面。",
+      "left": "毫不费力的默契",
+      "right": "已经开始的另一种生活",
+      "image": "return",
+      "text": "马可的欢迎很难得：吉米不必先交出证据、成绩和履历，便知道有人欣赏自己。这份热情填补了哥哥拒绝留下的空，却也带着期待——他最好仍是那个可以一直一起做局的搭档。",
+      "second": "吉米说还有客户要处理，显示自己并非只有那一个旧身份。朋友无法完全理解，并不代表友谊虚假；理解有范围，也可以和真实温暖同时存在。最后一次的请求，正来自一个普通人不愿好日子结束的留恋。",
+      "limit": "事实边界：不推断马可预知死亡，更不写成他有意安排吉米的一生。"
+    },
+    {
+      "id": "brother",
+      "label": "吉米 × 查克留下的影响",
+      "title": "感谢一次救助，不能使后来所有伤害失去名字。",
+      "left": "曾经被救的感激",
+      "right": "后来被阻止的愤怒",
+      "image": "bingo",
+      "text": "宾果游戏里的失控，把早年获救与如今受排斥放在一起。吉米无法简单说哥哥从没爱过自己，也无法再用旧恩情解释为什么自己的改变永远不够。",
+      "second": "重新安排照护，是他试着把劳动与情感位置分开。他没有要求世界立即裁定谁是纯粹好人，只先承认自己不能继续按原样每天到来。边界因此成为一种实际动作，不是一句漂亮的断绝宣言。",
+      "limit": "事实边界：查克的帮助与排除均已展示，不用一者取消另一者。"
+    },
+    {
+      "id": "recognition",
+      "label": "吉米 × 职业机会",
+      "title": "另一家律所看见的，是他真正完成过的工作。",
+      "left": "必须被哥哥接纳",
+      "right": "可以由别人理解的贡献",
+      "image": "offer",
+      "text": "Davis & Main 的意向并不靠吉米重新包装一次英雄形象，而建立在他与住户的联系及沙鹬案的实际推进上。它让拒聘不再等于整个职业世界的终审：哥哥不认可，并不意味着贡献不存在。",
+      "second": "但机会到来不会自动修复关系创伤。吉米在门前转身，使读者看到人可能在最需要一条新路时，又难以不把旧伤带到新门口。季终把张力留给未来，不替后面是否接受、如何工作预写答案。",
+      "limit": "事实边界：本集没有展示正式就职，也不足以断言他永远拒绝正规工作。"
+    },
+    {
+      "id": "meaning",
+      "label": "吉米 × 迈克",
+      "title": "同一笔没拿的钱，两个人给出不同的理由。",
+      "left": "结果之后的失衡",
+      "right": "受托工作的约定",
+      "image": "turn",
+      "text": "吉米记起自己当初归还钱所付出的代价，问题因此更像是在问：那些阻止自己的东西究竟值不值？迈克的回答没有进入这场私人愤怒，他只说明当时收了委托，就完成委托。",
+      "second": "两人的尺度没有合成一个答案。吉米最后那句不再被阻止，是受伤者在当下建立的新姿态；迈克并没有替他说明“阻止”究竟是规则、良心还是求认可。保留这个开放性，才能不把季终拍板成后面所有故事的单一原因。",
+      "limit": "阅读判断：一句宣言还需要后来的行动验证，本页在第一季边界停下。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "马可 → 吉米",
+      "en": "This was the greatest week of my life.",
+      "zh": "这是我人生中最棒的一周。",
+      "image": "collapse",
+      "context": "最后一次骗局失去控制后，马可对吉米说出自己的感受。",
+      "analysis": "同一周对朋友有不同分量：吉米以为是暂时回来，马可却把它视为生命重新鲜活的顶点。"
+    },
+    {
+      "speaker": "迈克 → 吉米",
+      "en": "I was hired to do a job.",
+      "zh": "有人雇我做一件事。",
+      "image": "turn",
+      "context": "吉米问为何没有拿走凯特曼家的钱，他解释自己当时的决定。",
+      "analysis": "他诉诸约定与任务，而没有替吉米评判那段复杂的自我失衡。"
+    },
+    {
+      "speaker": "吉米 → 迈克",
+      "en": "It's never stopping me again.",
+      "zh": "它再也不会拦住我了。",
+      "image": "turn",
+      "context": "他回想过去没有留下钱的原因，随后开车离去。",
+      "analysis": "语气很坚决，含义却没有被完全锁死。不要把当下的伤痛宣言，写成所有后续行为已经发生。"
+    }
+  ],
+  "feature": {
+    "title": "两种被需要，|在这一周里来回拉扯。",
+    "intro": "朋友的欢迎与客户、职业机会的联系并置，解释为什么回乡不能一次解决身份。",
+    "steps": [
+      {
+        "scene": "return",
+        "title": "在旧友那里被立刻认出",
+        "text": "不必证明，默契已经等着。"
+      },
+      {
+        "scene": "identity",
+        "title": "另一座城市仍有人需要他",
+        "text": "认真做过的律师工作留下真实联系。"
+      },
+      {
+        "scene": "offer",
+        "title": "一扇不同的职业门出现",
+        "text": "贡献被另一家机构注意，不再只绕着哥哥。"
+      }
+    ],
+    "pair": [
+      "return",
+      "offer"
+    ],
+    "analysis": "马可和金都把吉米带向一种可能，但没有人能替他过明天。亲近可以提供温度，工作可以提供不同的认可；真正困难的是，不把别人最熟悉的自己误当成自己唯一能够成为的人。"
+  },
+  "motifs": [
+    {
+      "title": "宾果的重复，让被压住的话冲出日常。",
+      "text": "一个轻松场合被私人往事占据，显示他暂时没有能力继续隔开工作与伤痛。",
+      "link": "bingo",
+      "number": "01"
+    },
+    {
+      "title": "装醉的身体，突然不再配合剧本。",
+      "text": "名表骗局需要可控制的虚弱，朋友真实倒下时，旧本领失去了可以扭转的对象。",
+      "link": "collapse",
+      "number": "02"
+    },
+    {
+      "title": "黄色汽车，把季终接回首集。",
+      "text": "这辆车仍不体面，却一直承载他离开和返回。外观没有巨大改变，车里的人已经多知道了许多事。",
+      "link": "turn",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "第一季结束。|名字还在，答案还没有。",
+    "copy": "他带着戒指回到车里，留下一个坚决的句子。|哥哥的否定、朋友的认可、真正做成的大案，|都不会替他完成下一次选择。",
+    "known": "沙鹬案已交接，马可去世；Davis & Main 表达进一步谈聘用的意向，吉米在法院前转身离去。",
+    "unknown": "他如何落实这句宣言、怎样回应新工作与亲人关系，不在第一季页面里提前回答。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "离开",
+      "deck": "工作有了交接，情绪却无法按程序收尾。",
+      "summary": "旧友的欢迎，给被拒绝的人一个熟悉出口。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "重逢",
+      "deck": "默契回来，也带回不愿结束的一周。",
+      "summary": "另一种生活仍在呼唤，最后一次却变成真正的告别。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "回去",
+      "deck": "一件纪念物，一扇新的门，一次转身。",
+      "summary": "机会没有消失，受伤的人还要决定怎样面对它。",
+      "range": "08—10"
+    }
+  ]
+}

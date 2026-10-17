@@ -1,0 +1,675 @@
+{
+  "version": 1,
+  "episode": "S01E08",
+  "title": "RICO",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-03-23",
+  "writer": "Gordon Smith",
+  "director": "Colin Bucksey",
+  "question": "真正做成一件大事，|就能站到哥哥身边吗？",
+  "deck": "一张小账单，一箱碎纸。|他终于找到值得认真做的大案，也找回兄弟并肩的样子。",
+  "intro": "给老人拟遗嘱的工作，意外把吉米带到一套收费系统面前。他先听到生活上的困惑，再从账单里看见可以追问的问题。这一集的推进靠的是耐心、实际劳动与专业合作：去问、去找、去拼。查克不再只是评价弟弟的人，而是真正加入了工作。与此同时，开场那次没有成功的求职，仍在这份温暖旁边留下一个未解的问题。",
+  "openingTitle": "什么样的认可，|值得他花那么久去争？",
+  "readingKey": "从生活细节进入案件 / 碎纸怎样变成证据 / 兄弟怎样一起工作",
+  "storyTitle": "先把小事认真听完，|大案才有了来处。",
+  "relationTitle": "共同工作的亲近，|并不自动回答机构里的位置。",
+  "conflictTitle": "他想被当成律师。|这次，他用工作说了话。",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第8集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · RICO",
+      "url": "https://en.wikipedia.org/wiki/RICO_(Better_Call_Saul)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E08 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e08",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · RICO 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=910",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "查克家中的书房，工作把兄弟重新聚到一起",
+      "caption": "查克家中的书房，工作把兄弟重新聚到一起 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 896,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0896.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "回忆中霍华德与刚通过考试的吉米谈话",
+      "caption": "回忆中霍华德与刚通过考试的吉米谈话 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 135,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0135.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "irene",
+      "file": "assets/irene.jpg",
+      "alt": "吉米在沙鹬养老院与艾琳谈账单",
+      "caption": "吉米在沙鹬养老院与艾琳谈账单 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 202,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0202.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "pattern",
+      "file": "assets/pattern.jpg",
+      "alt": "查克在家与吉米研究资料",
+      "caption": "查克在家与吉米研究资料 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 247,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0247.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "barred",
+      "file": "assets/barred.jpg",
+      "alt": "沙鹬工作人员阻止吉米进入",
+      "caption": "沙鹬工作人员阻止吉米进入 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 292,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0292.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "letter",
+      "file": "assets/letter.jpg",
+      "alt": "吉米在洗手间起草紧急信件",
+      "caption": "吉米在洗手间起草紧急信件 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 314,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0314.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "dumpster",
+      "file": "assets/dumpster.jpg",
+      "alt": "吉米在垃圾箱中寻找被碎掉的文件",
+      "caption": "吉米在垃圾箱中寻找被碎掉的文件 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 448,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0448.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "rebuild",
+      "file": "assets/rebuild.jpg",
+      "alt": "吉米暂睡，查克继续整理纸屑",
+      "caption": "吉米暂睡，查克继续整理纸屑 · 本集画面",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 560,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0560.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "stacey",
+      "file": "assets/stacey.jpg",
+      "alt": "斯泰茜与迈克谈钱和家庭开销",
+      "caption": "斯泰茜与迈克谈钱和家庭开销 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 672,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0672.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "meeting",
+      "file": "assets/meeting.jpg",
+      "alt": "吉米与查克一起面对沙鹬方面的律师",
+      "caption": "吉米与查克一起面对沙鹬方面的律师 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 739,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0739.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "caldera",
+      "file": "assets/caldera.jpg",
+      "alt": "迈克再次拜访兽医卡尔德拉",
+      "caption": "迈克再次拜访兽医卡尔德拉 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 851,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0851.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "outside",
+      "file": "assets/outside.jpg",
+      "alt": "查克站在屋外，意识到自己离开了房子",
+      "caption": "查克意识到自己已经走出屋外 · 本集截图",
+      "kind": "episode-still",
+      "episode": "S01E08",
+      "frame": 914,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=910",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2008%20Rico/BCS_S1_E8_0914.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 通过律师资格考试的那一天",
+    "image": "prologue",
+    "title": "资格到手之后，他还需要哥哥的一句肯定。",
+    "fact": "回忆中，吉米在 HHM 邮件室工作时考过律师资格考试，向查克报喜并希望被聘为律师。后来由霍华德出面拒绝聘用。",
+    "analysis": "考试的难度和长期努力，让这个愿望显得具体。他不是仅想借姓氏站进办公室，也曾独自把资格拿到手。但资格、亲人的承认与机构的聘任并非同一件事；本集此时只给出拒绝的表面，不提前回答谁在背后决定。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "irene",
+      "where": "沙鹬养老院 / 艾琳的账单",
+      "title": "老人以为自己不懂钱，他先问是谁在控制账单。",
+      "image": "irene",
+      "fact": "艾琳谈到养老机构统一收取收入、支付费用后给生活零用钱的方式。吉米查看账单，注意到日常用品的收费不合理。",
+      "analysis": "这里的入口不是天降内幕，而是一个人解释不清自己的钱。吉米没有把它当成老人记性不好就略过，而是追问费用怎样形成。老年法律业务因而显出深一层价值：帮助人在不对称的系统面前，重新看懂自己的生活。",
+      "turn": "一次疑问，需要与别人的账单相互核对。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "pattern",
+      "where": "查克家 / 账单之间的比较",
+      "title": "他把小疑点带回来，哥哥看见了可继续追的结构。",
+      "image": "pattern",
+      "fact": "吉米收集更多住户账单，与查克讨论重复出现的收费问题。两人认为可能存在系统性多收费用，值得进一步调查。",
+      "analysis": "零散的不满开始变成可以比较的材料。查克的价值在于把线索放进法律结构，吉米的价值则在于先获得住户的信任和细节。谁更像真正律师的问题，暂时被怎样把工作做下去取代。",
+      "turn": "继续进入机构时，他遇到了第一道实际阻拦。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "barred",
+      "where": "沙鹬前台 / 看不见的后台",
+      "title": "当机构不让他进去，碎纸声替另一种答案出声。",
+      "image": "barred",
+      "fact": "吉米再去见住户时被前台阻止。他注意到机构内正在碎纸，担心与调查相关的资料被销毁。",
+      "analysis": "阻挡改变了他的行动条件，也让时间变得紧迫。没有正式判决先替他确认全部怀疑，他必须在不确定中判断是否继续。读者可以看到风险迹象，却不能把人物的推测直接升级为已经完成的法律认定。",
+      "turn": "他需要先让对方收到保存资料的明确要求。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "letter",
+      "where": "养老院洗手间 / 临时写出的信",
+      "title": "没有像样的桌面，也要先把要求写下来。",
+      "image": "letter",
+      "fact": "吉米借洗手间停留，用手边的纸临时写出停止销毁资料的要求，交给机构工作人员后被带离。",
+      "analysis": "第一集他用办公室门面掩盖窘迫，这里却不再需要先把环境打扮体面。纸不正式，目的很清楚：让已经观察到的风险进入可以追问的记录。专业性开始从外观转向行动是否对问题有用。",
+      "turn": "资料可能已进垃圾箱，他决定自己去找。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "dumpster",
+      "where": "养老院后方 / 夜里的垃圾箱",
+      "title": "真正的大案，也会让人先爬进垃圾里。",
+      "image": "dumpster",
+      "fact": "吉米夜间翻找养老院垃圾，找到被碎掉的文件，并在疲惫中联系对方律师，继续说明自己会追究问题。",
+      "analysis": "这是本集对英雄广告最清楚的对照：没有被安排的观众，没有让新闻好看的构图，只有需要找出的纸。嘴上说自己认真工作，与把时间和身体真的花在材料上，在这里合到了一起。",
+      "turn": "碎纸找到了，但要先重新变成能读的东西。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "rebuild",
+      "where": "查克家 / 纸屑铺开的工作现场",
+      "title": "他累得睡下，哥哥把那份工作接了过去。",
+      "image": "rebuild",
+      "fact": "吉米把碎纸带回。查克与他整理拼接，逐步恢复有用文件，并正式加入案件工作。",
+      "analysis": "共同劳动让兄弟的亲近不再只依赖弟弟提供生活照顾。哥哥也可以接过他做不完的事，帮助他完成自己先发现的案子。这份互补是真的，需要被完整保留；不能因为后面还会有冲突，就否认此刻确实发生的合作。",
+      "turn": "能支撑主张的文件，使两人坐到了对方律师面前。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "stacey",
+      "where": "斯泰茜家 / 钱的用途与生活开销",
+      "title": "过去留下的钱，仍不能独自撑住未来。",
+      "image": "stacey",
+      "fact": "斯泰茜问迈克怎样处理丈夫留下的钱。迈克劝她用来为自己和女儿做些好事，她仍为持续的生活开销发愁。",
+      "analysis": "这一段把第六集的坦白带回日常。知道了钱的来路，不会让照顾孩子的现实自动消失。迈克想把罪疚转换成能给予家人的东西，却仍得面对持续的资金需要；生活不按一段独白的结尾停止。",
+      "turn": "他稍后回到兽医那里，重新考虑额外工作。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "meeting",
+      "where": "查克家 / 沙鹬方面律师到访",
+      "title": "弟弟拿来材料，哥哥报出了另一种规模。",
+      "image": "meeting",
+      "fact": "沙鹬律师施韦卡特等人与兄弟会谈，提出较小金额的解决方案。兄弟指出跨州交易等材料可能使案件扩大，查克提出两千万美元的和解要求，对方未接受。",
+      "analysis": "这场戏让专业合作变成能被看见的分工。吉米找来事实，查克把事实的可能后果说得更大。数额不是胜诉结果，而是谈判中的主张；真正改变的位置，是对方不能再把他们当成可以轻易打发的零散投诉。",
+      "turn": "案子获得更大的可能，也需要更多后续劳动。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "caldera",
+      "where": "兽医诊所 / 迈克重新询问工作",
+      "title": "他没有停在拒绝里，而是回头问起机会。",
+      "image": "caldera",
+      "fact": "考虑家人的开销后，迈克再次拜访卡尔德拉，询问此前提到的额外工作。具体任务留待后面展开。",
+      "analysis": "与吉米通过材料找出合法大案并置，迈克的选择更安静。两个人都希望以本领换取能照顾人的收入，正在进入的道路却不一样。相似的需要并不能保证相同的方法，也不能提前替后面的工作定性。",
+      "turn": "另一种职业接触开始，镜头仍回到兄弟的工作。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "outside",
+      "where": "查克家与门外 / 忘记防备的一刻",
+      "title": "工作太投入，他已经走出了自己划定的边界。",
+      "image": "outside",
+      "fact": "专注准备案件的查克去吉米车里取文件，没有按平时的避电习惯做防护。吉米提醒后，他才意识到自己已站到屋外。",
+      "analysis": "这个动作没有证明他的痛苦是装的，也没有宣告从此康复。它显示注意力和投入能够怎样暂时改变他对环境的体验。对吉米，那一刻也像另一种希望：哥哥回到工作里，似乎两人都可以重新回到原来的生活。",
+      "turn": "本集停在发现边界被越过的瞬间，问题没有自动解决。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 先发现收费问题的人",
+      "want": "为住户追出事实，也与哥哥真正并肩。",
+      "leverage": "老年客户的信任、耐心和愿意实际寻找的行动。",
+      "fact": "核对账单、翻垃圾、寻找碎纸，与查克共办案件。",
+      "analysis": "这次的能力不依赖制造危机，而在于把已存在的问题听出来、找下去。"
+    },
+    "chuck": {
+      "role": "律师 / 加入案件的哥哥",
+      "want": "回到专业工作，处理值得认真追的案件。",
+      "leverage": "法律经验、证据分析与谈判判断。",
+      "fact": "与吉米拼接材料、共同会谈，投入时无防护走到屋外。",
+      "analysis": "他在本集提供的帮助是真实工作，不因后续关系变化就被取消。身体与注意的关系仍未有最终答案。"
+    },
+    "kim": {
+      "role": "律师 / 吉米的职业参照与知情朋友",
+      "want": "理解案情进展，保留自己的职业位置。",
+      "leverage": "法律训练和与吉米的持续通话。",
+      "fact": "出现在考试回忆中，也听吉米谈到正在增长的案子。",
+      "analysis": "她曾让吉米相信自己也可以取得资格；本集不让她提前知道尚未揭晓的拒聘来由。"
+    },
+    "howard": {
+      "role": "HHM 合伙人 / 回忆中出面拒聘的人",
+      "want": "代表律所回应聘用问题。",
+      "leverage": "机构的聘任决定与公开门面。",
+      "fact": "回忆中祝贺吉米，又单独告知不能聘他。",
+      "analysis": "观众此时只看见出面的人，不应把第九集的揭示提前填成已知事实。"
+    },
+    "irene": {
+      "role": "沙鹬住户 / 委托与账单的入口",
+      "want": "安排自己的日常与身后事，也看懂费用。",
+      "leverage": "愿意向吉米敞开的生活细节。",
+      "fact": "说明机构收款方式，并让吉米看到账单。",
+      "analysis": "大案从她具体的困惑长出，她并非只为律师提供一份“好材料”的工具。"
+    },
+    "schweikart": {
+      "role": "沙鹬方面律师 / 会谈中的对手",
+      "want": "控制机构面对的调查与索赔风险。",
+      "leverage": "资源、程序经验与谈判条件。",
+      "fact": "回应吉米的要求，与兄弟会谈并拒绝巨额报价。",
+      "analysis": "他代表有资源的一方，但本集不需要把专业对手夸成能操纵所有事实的人。"
+    },
+    "mike": {
+      "role": "前警察 / 需要持续照顾家人的人",
+      "want": "让儿媳和孙女的生活更安稳。",
+      "leverage": "经验、谨慎与兽医提供的关系入口。",
+      "fact": "谈到那笔钱的用途，随后询问额外工作。",
+      "analysis": "对家人的需要可以被理解，道路仍要按接下来具体做什么评价。"
+    },
+    "stacey": {
+      "role": "母亲 / 继续面对开销的人",
+      "want": "把孩子与自己的生活继续维持下去。",
+      "leverage": "对收入缺口的直接说明。",
+      "fact": "问起丈夫留下的钱，也说明持续支出仍有压力。",
+      "analysis": "获知真相不替她解决账单，本集把哀伤与谋生放在同一天里。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    },
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "howard",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "irene",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "schweikart",
+      "kind": "institution"
+    },
+    {
+      "from": "mike",
+      "to": "stacey",
+      "kind": "family",
+      "labelShift": [
+        0,
+        12
+      ]
+    },
+    {
+      "from": "jimmy",
+      "to": "mike",
+      "kind": "institution"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 小账单的疑问",
+      "note": "考试回忆给出曾经的拒绝；当下，吉米从住户的困惑进入收费问题。",
+      "edges": [
+        "带来线索 / 寻求判断",
+        "朋友与职业参照",
+        "回忆中的拒聘",
+        "耐心赢得材料",
+        "尚未坐下会谈",
+        "讨论留下的钱",
+        "各自寻找谋生方式"
+      ],
+      "details": {
+        "jimmy": "从艾琳的生活细节发现疑点。",
+        "chuck": "从弟弟带来的材料里看到可能值得追的结构。",
+        "kim": "曾示范努力取得资格的路径，此刻仍保持联系。",
+        "howard": "回忆里出面拒聘，背后理由尚未完整说明。",
+        "irene": "想处理自己的事务，并不知道会带出怎样的大案。",
+        "schweikart": "机构方面的专业应对尚未充分展开。",
+        "mike": "担心家人长久的生活开销。",
+        "stacey": "不知道一笔钱怎么成为足够持续的生活支持。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 把怀疑查成材料",
+      "note": "前台阻拦、碎纸与实际寻找，将怀疑推进成可以谈判的证据。",
+      "edges": [
+        "互补劳动 / 一起拼接",
+        "分享案件进展",
+        "未解决的职业位置",
+        "从个体生活到系统疑点",
+        "阻拦之后的专业交锋",
+        "需要持续收入",
+        "两条线此刻未合并"
+      ],
+      "details": {
+        "jimmy": "写信、翻垃圾，付出不供新闻观看的劳动。",
+        "chuck": "接过整理工作，开始作为共同律师参与。",
+        "kim": "听取案情，并不因此知道机构拒聘的全部真相。",
+        "howard": "没有被展示指挥沙鹬一方的行动。",
+        "irene": "账单被与其他住户材料比较，个人疑问获得结构。",
+        "schweikart": "不能再把对方只当作一句不满。",
+        "mike": "知道一次解释无法支付未来的开销。",
+        "stacey": "表达需要，没有替迈克指定后续工作。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 共同工作的希望",
+      "note": "兄弟提出更大的法律主张，查克投入时走出屋外；迈克重新询问工作。",
+      "edges": [
+        "真正并肩 / 出现新希望",
+        "理解案子在增长",
+        "是否被接纳仍未回答",
+        "开始被认真代理",
+        "报价被拒 / 案件继续",
+        "说明需要 / 引发行动",
+        "相似需要 / 不同道路"
+      ],
+      "details": {
+        "jimmy": "得到专业合作的亲近，尚未得到机构内的位置。",
+        "chuck": "投入工作时忘记防护；本集未因此宣布康复。",
+        "kim": "对吉米能力的认知继续增长。",
+        "howard": "回忆中的拒绝，仍是尚未回答的问题。",
+        "irene": "她的日常困惑成为更大调查的一部分。",
+        "schweikart": "拒绝两千万美元要求，双方争议仍未解决。",
+        "mike": "再次到兽医处询问此前的额外工作。",
+        "stacey": "本集没有让她得知或批准一份尚未说明的具体任务。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "recognition",
+      "label": "吉米 × 查克",
+      "title": "这一回，弟弟拿来的不是请求，是值得做的事。",
+      "left": "想被当成同行",
+      "right": "能够一起完成的工作",
+      "image": "rebuild",
+      "text": "前几集吉米常需要哥哥评价自己是否在正路上，这次他带来的事实先有了说服力。查克的参与不是单纯给弟弟一份安慰，而是一个专业人确实看见有价值的案子。",
+      "second": "纸屑需要两个人做完，亲近因此从谁照顾谁，转为谁能接过谁尚未完成的部分。这种合作的温度必须被当真：如果读者只等下一集揭晓冲突，就会错过人物关系里真实存在、也正因真实才会令人失落的东西。",
+      "limit": "事实边界：截至本集，拒聘背后的全部来由尚未揭示。"
+    },
+    {
+      "id": "residents",
+      "label": "吉米 × 沙鹬机构",
+      "title": "把老人当作生活中的人，还是收费系统里的账户？",
+      "left": "听见具体困惑",
+      "right": "统一管理与不透明账单",
+      "image": "irene",
+      "text": "艾琳并不带着法律术语提出举报，她只是解释自己的零用钱。吉米愿意多问一步，才让收费方式从习惯变成可核对的问题。信任在这里不是律师套出的资源，而是对具体人的需要认真回应。",
+      "second": "被前台挡住和听见碎纸声，进一步改变了双方的位置。但本集仍处在调查与提出主张阶段，不能把所有怀疑都写成法院已经认定的结论。尊重住户的经验，也包括把材料一步步做实。",
+      "limit": "事实边界：这是剧情里的证据与诉讼主张，不是已经生效的判决。"
+    },
+    {
+      "id": "profession",
+      "label": "兄弟 × 施韦卡特",
+      "title": "对方真正开始认真听，是因为材料和判断接上了。",
+      "left": "从现场带来的证据",
+      "right": "可以控制的和解范围",
+      "image": "meeting",
+      "text": "吉米的发现与查克的经验缺一不可。没有碎纸、账单和交易细节，专业术语容易变成声量；没有对可能法律后果的理解，线索又容易被对方缩成几个偶然差错。",
+      "second": "两千万美元的要求显示他们对案件规模的判断，并不是已经拿到的收入。会谈之后还需要认证、调查与诉讼工作。把报价写成胜利，会把本集真正有价值的劳动变成一个数字的装饰。",
+      "limit": "事实边界：RICO 与集体诉讼是角色提出的潜在路径，成立与赔付均未被确认。"
+    },
+    {
+      "id": "support",
+      "label": "迈克 × 家庭开销",
+      "title": "知道过去的钱从哪来，还得决定未来的钱从哪来。",
+      "left": "照顾家人的愿望",
+      "right": "持续存在的生活需要",
+      "image": "stacey",
+      "text": "斯泰茜不再只是丈夫往事的听者，她正在养育孩子，支出每天都在继续。迈克希望把留下的钱转成好东西，却发现一笔存量不能替代长期收入。",
+      "second": "他回到兽医那里询问工作，与吉米真正找到大案并置，说明同样的需要可以把人送到不同入口。想照顾家人不是对所有方法的通行证；本集只展示开始回头询问，不预先替具体工作结论。",
+      "limit": "事实边界：下一集的药品交易尚未发生，不提前交代给斯泰茜。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "吉米 → 查克",
+      "en": "Are you proud of me?",
+      "zh": "你为我骄傲吗？",
+      "image": "prologue",
+      "context": "通过资格考试之后，他直接向哥哥索取肯定。",
+      "analysis": "证书已经给出资格，他仍希望最在意的人承认这份努力。"
+    },
+    {
+      "speaker": "查克 → 吉米",
+      "en": "It's not my decision alone.",
+      "zh": "这不是我一个人能决定的。",
+      "image": "prologue",
+      "context": "吉米问能否被 HHM 聘用，查克提到其他合伙人。",
+      "analysis": "截至本集，这句话仍只按表面的机构说法存在，不能用后面的揭示提前改写。"
+    },
+    {
+      "speaker": "查克 → 对方律师",
+      "en": "$20 million.",
+      "zh": "两千万美元。",
+      "image": "meeting",
+      "context": "他把案件的和解要求提高到与对方想象不同的数量级。",
+      "analysis": "分量来自材料与潜在后果的判断，不是喊出更大数字就已经获胜。"
+    }
+  ],
+  "feature": {
+    "title": "从一张账单，|走到一张真正的谈判桌。",
+    "intro": "按剧情梳理证据怎样增长；不把角色的法律主张误写成已获得的裁判结果。",
+    "steps": [
+      {
+        "scene": "irene",
+        "title": "把生活疑问写成可比较的账目",
+        "text": "不是先找大案，而是先听懂一个人的费用。"
+      },
+      {
+        "scene": "dumpster",
+        "title": "把纸屑找回来",
+        "text": "在没有观众的地方，完成实际调查劳动。"
+      },
+      {
+        "scene": "meeting",
+        "title": "让事实与专业判断相接",
+        "text": "兄弟共同说明案件为何可能更大。"
+      }
+    ],
+    "pair": [
+      "dumpster",
+      "meeting"
+    ],
+    "analysis": "第一幅画面里，律师不体面地躺在垃圾中；第二幅里，他与哥哥一起面对对方律师。真正使位置改变的，不是换一套衣服，而是让线索经得起阅读，并找到能解释其意义的合作者。"
+  },
+  "motifs": [
+    {
+      "title": "临时纸张，承载真正的专业动作。",
+      "text": "手边的纸并不好看，却记录了及时提出的要求。环境的窘迫没有取消工作本身的价值。",
+      "link": "letter",
+      "number": "01"
+    },
+    {
+      "title": "拼碎纸，是兄弟关系的一种修补。",
+      "text": "共同劳动让两人有机会越过照顾与被评价的单向位置，但不能保证此后不再破裂。",
+      "link": "rebuild",
+      "number": "02"
+    },
+    {
+      "title": "门外的一步，比一句康复宣言更复杂。",
+      "text": "投入工作暂时改变了查克对环境的注意，提醒之后的惊觉又把不确定留下。",
+      "link": "outside",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "工作把他们带近。|一道门，还没有答案。",
+    "copy": "吉米找到了可以认真做的大案。|哥哥也站回了律师的位置。|这份并肩，是否能延伸成真正的职业接纳？",
+    "known": "兄弟共同推进沙鹬案，提出两千万美元要求但未达成协议；查克无防护走到屋外。",
+    "unknown": "案件需要怎样的资源、吉米能否进入他期待的机构，尚未在本集得到回答。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "听懂",
+      "deck": "大问题，先藏在一件日常小事里。",
+      "summary": "客户的信任让疑点出现，兄弟开始共同判断。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "找实",
+      "deck": "把怀疑变成别人必须回应的材料。",
+      "summary": "实际劳动与家庭现实，并没有因为希望出现就消失。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "并肩",
+      "deck": "真正的案子，让兄弟共同开口。",
+      "summary": "报价没有成为判决，屋外的一步也没有成为终局。",
+      "range": "08—10"
+    }
+  ]
+}

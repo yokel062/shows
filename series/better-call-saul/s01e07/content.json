@@ -1,0 +1,657 @@
+{
+  "version": 1,
+  "episode": "S01E07",
+  "title": "Bingo",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-03-16",
+  "writer": "Gennifer Hutchison",
+  "director": "Larysa Kondracki",
+  "question": "做了对的事，|为什么反而失去那间办公室？",
+  "deck": "一笔不愿承认存在的钱，一间还没租下的房。|他想替金解围，也得交还自己的那一份。",
+  "intro": "吉米开始想象稳定事业的样子：宽敞的办公室，窗边的位置，身边可以合作的人。凯特曼夫妇却带着旧钱回来，要求他解决不能被解决的清白幻想。金因失去客户受到牵连，吉米便需要决定，要保住那笔能让自己往前走的钱，还是让整件事真正回到可以处理的轨道。",
+  "openingTitle": "想把一个人留在身边，|与替她守住选择之间。",
+  "readingKey": "认罪协议与自我叙述 / 金的工作位置 / 归还钱的代价",
+  "storyTitle": "先看见一间未来的房，|再看钱怎样把它拿走。",
+  "relationTitle": "他想让金成为合伙人，|她先要决定自己的职业路。",
+  "conflictTitle": "帮她解围，|也意味着放下自己的一部分想象。",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第7集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Bingo",
+      "url": "https://en.wikipedia.org/wiki/Bingo_(Better_Call_Saul)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E07 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e07",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Bingo 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=909",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "吉米带金参观空办公室，窗外光线明亮",
+      "caption": "吉米带金参观空办公室，窗外光线明亮 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 268,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0268.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "吉米和迈克在警局归还笔记本",
+      "caption": "吉米和迈克在警局归还笔记本 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 68,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0068.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "notebook",
+      "file": "assets/notebook.jpg",
+      "alt": "迈克与桑德斯在警局私下交谈",
+      "caption": "迈克与桑德斯在警局私下交谈 · 本集截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 90,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0090.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "files",
+      "file": "assets/files.jpg",
+      "alt": "吉米把案件资料带进查克家",
+      "caption": "吉米把案件资料带进查克家 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 201,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0201.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "office",
+      "file": "assets/office.jpg",
+      "alt": "吉米与金站在空办公室里",
+      "caption": "吉米与金站在空办公室里 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 290,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0290.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "plea",
+      "file": "assets/plea.jpg",
+      "alt": "金在办公室向凯特曼夫妇解释认罪协议",
+      "caption": "金在办公室向凯特曼夫妇解释认罪协议 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 333,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0333.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "pressure",
+      "file": "assets/pressure.jpg",
+      "alt": "凯特曼夫妇在咖啡馆与吉米谈话",
+      "caption": "凯特曼夫妇在咖啡馆与吉米谈话 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 490,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0490.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "kim",
+      "file": "assets/kim.jpg",
+      "alt": "吉米在 HHM 的门口看见金工作的位置",
+      "caption": "吉米在 HHM 的门口看见金工作的位置 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 556,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0556.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "mike",
+      "file": "assets/mike.jpg",
+      "alt": "吉米在夜间请迈克帮忙",
+      "caption": "吉米在夜间请迈克帮忙 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 601,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0601.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "money",
+      "file": "assets/money.jpg",
+      "alt": "紫外线照明下，迈克在住宅寻找现金痕迹",
+      "caption": "紫外线照明下，迈克在住宅寻找现金痕迹 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 734,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0734.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "choice",
+      "file": "assets/choice.jpg",
+      "alt": "吉米向凯特曼夫妇说明钱已被归还",
+      "caption": "吉米向凯特曼夫妇说明钱已被归还 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 801,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0801.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "empty",
+      "file": "assets/empty.jpg",
+      "alt": "吉米独自站在已经无法租下的空办公室",
+      "caption": "吉米独自站在已经无法租下的空办公室 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "frame": 890,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=909",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2007%20Bingo/BCS_S1_E7_0890.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "OPENING / 被送回的笔记本",
+    "image": "prologue",
+    "title": "上一次帮忙的后果，先在警局收尾。",
+    "fact": "吉米与迈克把阿巴西的笔记本送回警方，声称是在停车场捡到的。迈克也与旧识桑德斯单独交谈。",
+    "analysis": "本集没有把取走笔记这件事当成无痕的巧思，先让人看见它需要怎样收尾。两人之间的帮助留下了一笔人情；随后新的请求也会从这段关系长出来。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "notebook",
+      "where": "警局 / 归还笔记本之后",
+      "title": "有人仍怀疑，有人选择不再继续追问。",
+      "image": "notebook",
+      "fact": "阿巴西质疑笔记本的来历，桑德斯与迈克的私下谈话则缓和了眼前压力。笔记被归还，不等于此前的动作从未发生。",
+      "analysis": "正式物品回到原位，知识已经被别人看过。吉米与迈克的合作因此有了明确后果：不是一次只存在于笑话里的咖啡意外，而是让信息沿程序外的路走了一圈。",
+      "turn": "旧事暂时收尾，吉米想把精力放回事业。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "files",
+      "where": "查克家 / 一箱箱案件资料",
+      "title": "他想唤回哥哥，也需要哥哥看见自己的工作。",
+      "image": "files",
+      "fact": "吉米把案件文件放到查克家，希望让哥哥重新接触法律工作。查克开始尝试短暂走到屋外，认为可以逐步增强耐受。",
+      "analysis": "文件既是占地方的物件，也是一份邀请：你仍然可以在工作里有位置。吉米提供帮助时，也可能期待这段共同语言让兄弟更接近。两人的改善来自日常小动作，本集并没有宣布病情已被完全治好。",
+      "turn": "哥哥家里的空间被工作填起，外面的新办公室也开始进入想象。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "office",
+      "where": "待租办公室 / 吉米带金参观",
+      "title": "他把最好的一间，先替一个人留着。",
+      "image": "office",
+      "fact": "吉米带金看一处准备租用的办公室，邀请她与自己合伙。金欣赏空间，却因自己的职业考虑拒绝离开 HHM。",
+      "analysis": "房间不是单纯的成功符号，它装着吉米希望共享的生活方式。他说留给合伙人的角落，其实在等一个具体的人。金的拒绝因此会痛，却不能被写成不在乎他：她同样有权判断自己需要怎样的工作。",
+      "turn": "两个人想象的未来，没有在这次参观中合到一起。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "plea",
+      "where": "HHM / 金与凯特曼夫妇",
+      "title": "她给出一条现实出路，他们先否认出路的前提。",
+      "image": "plea",
+      "fact": "金提出归还公款并让克雷格服刑十六个月的协议，说明继续抗辩可能面临更重结果。贝茜坚持没有钱可还，拒绝认罪并解除代理。",
+      "analysis": "金谈的是风险与可争取的结果，夫妇谈的是他们希望成为怎样的人。只要必须先承认拿了钱，这份协议在他们看来就已经失败。律师的工作此刻不能只靠争取更好数字，还要面对客户不接受现实的自我叙述。",
+      "turn": "失去客户的金，随后在 HHM 承担了代价。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "pressure",
+      "where": "咖啡馆 / 凯特曼夫妇找回吉米",
+      "title": "先前那笔“预付费”，现在成了反过来的绳子。",
+      "image": "pressure",
+      "fact": "夫妇找吉米接手，要求一种不需要认罪的解决办法。吉米建议接受协议，贝茜便以他曾收钱为由施压，表示可以把他一起拖进来。",
+      "analysis": "当初改名称留下的裂缝在这里返回。吉米无法只说自己是提供意见的外人，因为他确实收过一笔与保密相关的钱。那份想象中的职业独立，被一段他以为已经处理好的交易重新拉住。",
+      "turn": "他去取文件，才看见金也被这场拒绝牵连。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "kim",
+      "where": "HHM / 文件审查的房间",
+      "title": "她没有离开律所，却失去了原来的工作位置。",
+      "image": "kim",
+      "fact": "吉米去 HHM 取案件材料，发现失去凯特曼客户使金被安排做文件审查。他更明确地想让事情回到金能完成的协议上。",
+      "analysis": "这让善意与私人情感很难拆开。吉米希望案件得到合理处理，也不愿看金因不肯配合客户幻想而受罚。她的处境不是他可以用一间新办公室直接解决的：她已经表达过自己想留在 HHM 的选择。",
+      "turn": "帮助她，意味着回到那笔钱本身。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "mike",
+      "where": "夜间 / 吉米请迈克帮忙",
+      "title": "这一次的人情，要用来结束旧交易。",
+      "image": "mike",
+      "fact": "吉米请迈克找回凯特曼家藏着的钱。迈克接受，以此回报吉米在笔记本一事上的配合。",
+      "analysis": "两人的默契开始形成，但任务的目的与前一次不同。先前他们拿走警方的信息，眼下则要让藏着的钱回到能够进入案件处理的位置。相同的边缘技能可以服务不同结果，评价仍须落在具体动作和代价。",
+      "turn": "找到现金之后，吉米还得把自己收下的部分补回去。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "money",
+      "where": "凯特曼住宅 / 夜间追踪",
+      "title": "没有钱的说法，遇到了能被拿走的现金。",
+      "image": "money",
+      "fact": "迈克利用荧光痕迹找到藏钱处并取走现金。吉米补回自己先前收下的那部分，再让钱被交还给检方。",
+      "analysis": "这是让否认失去支撑的办法，也是吉米必须付出的真实代价。他不能让所有人归还自己不愿承认拥有的东西，却把自己留在例外里。补齐那一份，使“帮助金”同时成为对自己原先选择的纠正。",
+      "turn": "现金被交还，下一场谈话不再围绕如何藏住它。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "choice",
+      "where": "凯特曼家 / 次日的交代",
+      "title": "他终于要求他们看见孩子也在这件事里面。",
+      "image": "choice",
+      "fact": "吉米告知钱已不在家中。面对再次威胁，他指出把收钱一事说出去也可能使贝茜承担责任，最终说服夫妇回到金的协议。",
+      "analysis": "她原先用一家人的清白形象拒绝承认现实，吉米则把真正的家庭后果摆回来：若两名家长都陷入更深问题，孩子由谁照顾？这份说服仍带着压力，但目标从共同维持幻想，转向让客户面对可处理的结果。",
+      "turn": "协议重新有了机会，办公室的首付款却不再属于他。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "empty",
+      "where": "待租办公室 / 独自回来的人",
+      "title": "他帮事情回到正轨，房间却空了下来。",
+      "image": "empty",
+      "fact": "吉米知道自己补回钱后无力负担新办公室，独自返回那处空间，发泄沮丧。此前为合伙人保留的角落仍在。",
+      "analysis": "本集没有用一场表扬补偿好选择。金的代理得到挽回，客户面对现实，吉米却失去可以触摸的未来。这让道德代价不只是放弃坏处：有时做对的事，也要让自己本来真心想要的东西暂时离开。",
+      "turn": "房间还没有属于他，选择的后果已经留下。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 想建立自己的事务所",
+      "want": "获得稳定工作、与金合作，并结束不清楚的钱。",
+      "leverage": "与客户的联系、曾收的钱和迈克的人情。",
+      "fact": "邀请金、受夫妇施压、补回钱并促成回到协议。",
+      "analysis": "本集的纠正有真实私人代价；帮助金与为自己的旧选择善后同时发生。"
+    },
+    "kim": {
+      "role": "HHM 律师 / 被客户拒绝的专业人",
+      "want": "在自己的职业方向里把案件处理好。",
+      "leverage": "可争取的协议与专业判断。",
+      "fact": "拒绝合伙邀请，提出协议，被撤代理并调去文件审查。",
+      "analysis": "她有选择权，也会因坚持现实而付代价，不能只作为吉米梦想里的合伙人出现。"
+    },
+    "mike": {
+      "role": "受托帮手 / 还人情的人",
+      "want": "完成约定，让双方的人情收尾。",
+      "leverage": "调查与追踪能力。",
+      "fact": "接受委托，找回现金，协助将钱归还。",
+      "analysis": "完成任务并非自动赞同所有人的动机；他的约定意识在具体工作里开始清楚。"
+    },
+    "chuck": {
+      "role": "哥哥 / 重新接触工作的居家者",
+      "want": "重建工作节奏与对外界的适应。",
+      "leverage": "法律经验与被送来的文件。",
+      "fact": "尝试出门，也接触吉米的案件资料。",
+      "analysis": "弟弟希望工作能带他回来，本集没有把这份希望当成已证实的完全康复。"
+    },
+    "betsy": {
+      "role": "客户决策者 / 不接受认罪前提的人",
+      "want": "保住家庭清白的叙述，也保住钱。",
+      "leverage": "是否换律师与揭露付款的威胁。",
+      "fact": "拒绝金的协议，对吉米施压，最后被迫面对后果。",
+      "analysis": "她的家庭话语在现金被拿走后受到检验：究竟维护形象，还是减轻家人实际承担的风险。"
+    },
+    "craig": {
+      "role": "案件当事人 / 需要作现实决定的父亲",
+      "want": "避免更重后果，又难以离开妻子的叙述。",
+      "leverage": "接受协议的可能与家人的共同选择。",
+      "fact": "随贝茜找吉米，最后回到认罪协议。",
+      "analysis": "他不是妻子身后的空白；钱与孩子的现实，同样需要由他面对。"
+    },
+    "howard": {
+      "role": "律所合伙人 / 决定工作位置的人",
+      "want": "维护客户关系及律所运转。",
+      "leverage": "对人员安排的控制。",
+      "fact": "失去客户之后，金被置于文件审查工作。",
+      "analysis": "本集展示机构压力如何进入个人事业，不提前用后面的兄弟真相解释他的全部行为。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "mike",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    },
+    {
+      "from": "jimmy",
+      "to": "betsy",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "craig",
+      "kind": "client"
+    },
+    {
+      "from": "kim",
+      "to": "howard",
+      "kind": "institution",
+      "labelShift": [
+        0,
+        13
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 预想共同的事业",
+      "note": "吉米带金看办公室，也把文件带到哥哥身边；事业与关系的希望暂时重合。",
+      "edges": [
+        "邀请合伙 / 她有自己的路",
+        "归还笔记的人情",
+        "用工作邀请哥哥回来",
+        "原来客户关系未解",
+        "案件仍在 HHM",
+        "仍在机构内工作"
+      ],
+      "details": {
+        "jimmy": "把稳定事业与和金合作放进同一间办公室。",
+        "kim": "欣赏邀请，但不愿放弃自己在 HHM 的位置。",
+        "mike": "帮助归还笔记后，两人之间仍有人情待结。",
+        "chuck": "尝试恢复活动，接触法律资料。",
+        "betsy": "没有接受原案中需要承认事实的前提。",
+        "craig": "仍然面对调查与家庭压力。",
+        "howard": "作为机构位置存在，尚未用后续揭示解释他。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 旧钱重新勒紧",
+      "note": "夫妇拒绝协议并找回吉米，金受到工作上的牵连。",
+      "edges": [
+        "想解围 / 不能替她选路",
+        "请求归还旧人情",
+        "照顾与工作继续",
+        "付款成为施压筹码",
+        "要求不可能的清白结果",
+        "失去客户后的代价"
+      ],
+      "details": {
+        "jimmy": "发现当初收钱的名称不能保护自己。",
+        "kim": "因客户不接受现实失去代理，也失去原工作位置。",
+        "mike": "接到找回现金的请求。",
+        "chuck": "不在现金方案中，仍与弟弟分享法律资料。",
+        "betsy": "想保住钱，又要律师给出不认罪的结果。",
+        "craig": "需要承担后果，却继续追随家庭的否认。",
+        "howard": "人员安排让客户流失的压力落到金身上。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 钱回去，房间留下",
+      "note": "吉米补回自己的一份，促成回到协议，同时失去新办公室。",
+      "edges": [
+        "为她解围 / 尊重其去留",
+        "完成任务 / 人情结清",
+        "工作邀请仍有可能",
+        "对方必须面对现实",
+        "协议重新成为出路",
+        "金的职业路径被保留"
+      ],
+      "details": {
+        "jimmy": "正确的选择没有得到即时物质奖励，反而有具体损失。",
+        "kim": "案件重新回到她能够执行的方案。",
+        "mike": "现金被归还，任务与约定完成。",
+        "chuck": "家庭里的法律合作没有因办公室失去就结束。",
+        "betsy": "钱被交还后，必须考虑孩子的实际未来。",
+        "craig": "接受减轻后果的现实路径。",
+        "howard": "本集没有解决全部机构关系，只挽回眼前案件。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "partner",
+      "label": "吉米 × 金",
+      "title": "留给她的房间，不能替她决定未来。",
+      "left": "共同事业的愿望",
+      "right": "独立的职业选择",
+      "image": "office",
+      "text": "吉米给办公室安排得最动人的一笔，是替一个尚未答应的人留出角落。空间足够具体，所以邀请不只是空谈；也正因此，金的拒绝会让这份想象立刻感到失重。",
+      "second": "金有理由珍惜自己的工作，她并不需要为了证明亲近就离职。后来吉米替她解围，最有分量的地方不是逼她换阵营，而是把她能够继续完成的案件还回去。帮助与占有在这里需要被分开。",
+      "limit": "事实边界：金没有在本集同意成为合伙人。"
+    },
+    {
+      "id": "money",
+      "label": "吉米 × 凯特曼夫妇",
+      "title": "一笔改过名字的钱，仍然可以回来追问你。",
+      "left": "想成为独立律师",
+      "right": "无法说清的共同付款",
+      "image": "pressure",
+      "text": "吉米曾用预付费解释收钱，可夫妇需要的主要是保密。双方没有解决的真实条件，在需要互相威胁时变得格外清楚。名称短暂让他好受，并没有使自己完全站到事情之外。",
+      "second": "他最后把自己的一份补回，才有资格要求别人也停止否认。这个动作没有自动使此前的收钱变得无事发生，但让纠正从说教变成个人承担。",
+      "limit": "事实边界：补回款项是剧情动作，不概括为真实案件中可以免责的规则。"
+    },
+    {
+      "id": "reality",
+      "label": "金 × 贝茜",
+      "title": "一个人在计算后果，一个人在拒绝前提。",
+      "left": "可争取的协议",
+      "right": "必须保持清白的自我形象",
+      "image": "plea",
+      "text": "金的方案要先承认拿过钱，再讨论怎样减少伤害。贝茜却认为，只要还坚持没有钱、没有罪，就不能进入这份方案。两人不是在相同事实基础上争更好条件。",
+      "second": "客户有选择律师的权利，也必须承担不接受现实的后果。吉米最后谈到孩子，使“保护家庭”不再只意味着维持外观，而要落实为谁会留下照顾他们。",
+      "limit": "事实边界：十六个月与更重风险属于剧中方案，不是普遍法律承诺。"
+    },
+    {
+      "id": "cost",
+      "label": "吉米 × 自己",
+      "title": "善后的账，最后从他的未来里付出去。",
+      "left": "新办公室",
+      "right": "把自己那份也归还",
+      "image": "empty",
+      "text": "他可以让钱继续藏着，也可以把自己的部分留在例外里。但若那样做，给金和客户的帮助就仍建立在共同掩盖之上。归还使他必须放下已经看见的房间。",
+      "second": "本集保留了沮丧，没让一次好选择立刻变成励志奖励。空房间因此像一张看得见的账单：做对的事并不总带来及时成功，这种代价才使之后每次选择更值得细看。",
+      "limit": "阅读判断：动机里有对金的情感，不抹去纠正本身的真实代价。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "吉米 → 金",
+      "en": "I was saving it for someone.",
+      "zh": "我本来是替一个人留着的。",
+      "image": "office",
+      "context": "他解释为什么一直没有决定那间角落办公室的用途。",
+      "analysis": "说的是房间，也是在试探自己想象中的共同生活。"
+    },
+    {
+      "speaker": "贝茜 → 律师",
+      "en": "There is no money.",
+      "zh": "根本就没有那笔钱。",
+      "image": "plea",
+      "context": "她拒绝以归还公款为前提讨论协议。",
+      "analysis": "否认在这里不只是辩护策略，也在维持一家人关于自己的故事。"
+    },
+    {
+      "speaker": "吉米 → 凯特曼夫妇",
+      "en": "Criminals have no recourse.",
+      "zh": "罪犯没有申诉的余地。",
+      "image": "choice",
+      "context": "贝茜用先前付款威胁他，他指出共同付款本身的问题。",
+      "analysis": "这是角色在争执中的说法，不是对所有真实诉权的法律结论；潜台词是对方也无法置身事外。"
+    }
+  ],
+  "feature": {
+    "title": "一笔钱，|怎样穿过三个人的未来？",
+    "intro": "将这次纠正按剧情归纳：客户面对现实，金取回能做的工作，吉米承担自己的一份。",
+    "steps": [
+      {
+        "scene": "plea",
+        "title": "专业方案被拒绝",
+        "text": "客户不愿承认钱，使协议无法执行。"
+      },
+      {
+        "scene": "money",
+        "title": "吉米补回自己的一份",
+        "text": "让现金回到案件中，也放下新办公室的资金。"
+      },
+      {
+        "scene": "choice",
+        "title": "重新面对现实结果",
+        "text": "夫妇回到金的方案，事情得以继续。"
+      }
+    ],
+    "pair": [
+      "office",
+      "empty"
+    ],
+    "analysis": "同一间办公室，第一次装着合伙的邀请，第二次只装着一个人的失落。两幅画面之间没有建筑变化，改变的是钱的去向，以及吉米是否愿意把自己留在责任的例外里。"
+  },
+  "motifs": [
+    {
+      "title": "角落办公室，把愿望画成空间。",
+      "text": "当金拒绝时，失去的不是一张抽象名片，而是吉米已经替两人排好的位置。",
+      "link": "office",
+      "number": "01"
+    },
+    {
+      "title": "果冻与宾果，是他真实接触客户的地方。",
+      "text": "热闹的宣传之后，老人们的日常活动仍是谋生的具体场景，现金危机也在这里打断他。",
+      "link": "pressure",
+      "number": "02"
+    },
+    {
+      "title": "同一片窗景，承载两种心情。",
+      "text": "办公室没有因为他做了对的事就属于他。空着的光线把代价留给读者。",
+      "link": "empty",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "事情回到了正轨。|他还没有自己的房间。",
+    "copy": "金可以继续处理案件，客户终于面对现实。|吉米却独自站回窗前，|承担把钱交还出去之后的那一份空。",
+    "known": "被藏的钱连同吉米补回的部分被归还，凯特曼夫妇回到金的协议；新办公室暂时负担不起。",
+    "unknown": "吉米的新业务怎样成长、兄弟共同接触法律会带来什么，都尚未展开。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "预留",
+      "deck": "他开始想象一间可以共同工作的办公室。",
+      "summary": "邀请真实，金也保留自己的去留。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "勒紧",
+      "deck": "一笔旧钱，让委托和情感都受到牵连。",
+      "summary": "帮助金，必须先面对自己收下的那部分。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "归还",
+      "deck": "结果往前走，个人愿望往后退。",
+      "summary": "纠正有了现实代价，空房间替他记下。",
+      "range": "08—10"
+    }
+  ]
+}

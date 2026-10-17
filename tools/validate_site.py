@@ -209,6 +209,40 @@ def main():
                 with Image.open(directory / item['file']) as picture:
                     assert picture.size == (item['width'], item['height'])
         print('Breaking Bad: all seven episodes match source, catalogue, expanded analyses and registered portraits')
+    saul = ROOT / 'series' / 'better-call-saul'
+    if saul.is_dir():
+        from build_better_call_saul import validate as validate_saul
+        metadata = json.loads((saul / 'season.json').read_text())
+        assert metadata['season'] == 1 and metadata['complete'] and metadata['episodeCount'] == 10
+        assert [entry['number'] for entry in metadata['episodes']] == list(range(1, 11))
+        registry = json.loads((saul / 'shared/portraits.json').read_text())['characters']
+        catalogue = (saul / 'index.html').read_text()
+        for number, entry in enumerate(metadata['episodes'], 1):
+            directory = saul / f's01e{number:02}'
+            source = directory / 'content.json'
+            data = json.loads(source.read_text())
+            validate_saul(data, directory, registry)
+            html = (directory / 'index.html').read_text()
+            payload = json.loads(re.search(r'<script type="application/json" id="episode-data">(.*?)</script>', html, re.DOTALL)[1])
+            assert payload['sourceHash'] == hashlib.sha256(source.read_bytes()).hexdigest(), f'{directory}: stale editorial source'
+            assert all(payload[key] == value for key, value in data.items()), f'{directory}: stale rendered field'
+            assert payload['portraits'] == {key: registry[key] for key in data['characters']}
+            assert len(data['scenes']) == html.count('<details class="scene-analysis" open>')
+            assert entry['title'] == data['title'] and entry['question'] == data['question'].replace('|', '')
+            assert entry['sceneCount'] == len(data['scenes']) and entry['conflictCount'] == len(data['conflicts'])
+            assert entry['characterCount'] == len(data['characters'])
+            hero = next(image for image in data['images'] if image['id'] == data['hero'])
+            assert entry['hero'] == f's01e{number:02}/' + hero['file'] and entry['heroAlt'] == hero['alt']
+            assert f'href="{entry["href"]}" target="_blank" rel="noopener"' in catalogue
+            rendered = pages[(directory / 'index.html').resolve()]
+            for scene in data['scenes']:
+                assert 'scene-' + scene['id'] in rendered.ids
+            for key in data['characters']:
+                assert '../shared/' + registry[key]['file'] in rendered.images
+            if number > 1:
+                assert all('scene-' + step['scene'] in rendered.ids for step in data['feature']['steps'])
+                assert set(data['feature']['pair']) <= {image['id'] for image in data['images']}
+        print('Better Call Saul: all ten episodes match editorial sources, catalogue, expanded analyses and registered portraits')
     images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
     images += list(billions.glob('s??e??/assets/*')) + list((billions / 'shared' / 'portraits').glob('*'))
     raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]

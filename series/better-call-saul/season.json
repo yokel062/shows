@@ -1,0 +1,127 @@
+{
+  "season": 1,
+  "complete": true,
+  "episodeCount": 10,
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Uno",
+      "question": "一个好律师，为什么开始走捷径？",
+      "intro": "他有执照，会辩护，也照顾着哥哥。可在法庭之外，吉米·麦吉尔的生活几乎处处碰壁：报酬不够，客户迟疑，大律所不肯按他的要求办事，连停车出口都不能靠几句漂亮话通过。首集把这些小挫折慢慢叠起来，直到他决定：既然别人看不见我的价值，就安排一场戏，让他们不得不看见。",
+      "hero": "s01e01/assets/jimmy-car.jpg",
+      "heroAlt": "吉米穿着西装站在黄色 Suzuki 汽车旁接电话",
+      "sceneCount": 12,
+      "conflictCount": 4,
+      "characterCount": 8,
+      "href": "s01e01/"
+    },
+    {
+      "number": 2,
+      "title": "Mijo",
+      "question": "救下一个人，能把自己带回正路吗？",
+      "intro": "一次设局，撞进真正的暴力。一场谈判，留下无法轻易摆脱的代价。",
+      "hero": "s01e02/assets/hero.jpg",
+      "heroAlt": "沙漠里，图科一伙围住吉米与滑板兄弟",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 5,
+      "href": "s01e02/"
+    },
+    {
+      "number": 3,
+      "title": "Nacho",
+      "question": "想保护一个家庭，为什么先把自己逼进死角？",
+      "intro": "一个没有署名的警告。一场不像绑架的失踪。",
+      "hero": "s01e03/assets/hero.jpg",
+      "heroAlt": "住宅附近的荒地与山坡，吉米在这里搜索",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 7,
+      "href": "s01e03/"
+    },
+    {
+      "number": 4,
+      "title": "Hero",
+      "question": "做一次“英雄”，就能换来真正的尊重吗？",
+      "intro": "钱换了名字，骗局换了舞台。一个被嘲笑的律师，把自己推上新闻。",
+      "hero": "s01e04/assets/hero.jpg",
+      "heroAlt": "吉米爬上广告牌，接近悬挂的工人",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 7,
+      "href": "s01e04/"
+    },
+    {
+      "number": 5,
+      "title": "Alpine Shepherd Boy",
+      "question": "别人需要的律师，一定要像他想象中那样成功吗？",
+      "intro": "广告带来陌生来电，认真倾听带来真正委托。另一边，哥哥需要的帮助也变得更难判断。",
+      "hero": "s01e05/assets/hero.jpg",
+      "heroAlt": "吉米穿着浅色西装，在养老机构接触老人",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 7,
+      "href": "s01e05/"
+    },
+    {
+      "number": 6,
+      "title": "Five-O",
+      "question": "一个父亲最痛的，为什么不只是失去儿子？",
+      "intro": "收费亭外的沉默，终于有了来处。他曾劝儿子妥协，却没能把儿子留下。",
+      "hero": "s01e06/assets/hero.jpg",
+      "heroAlt": "迈克在后院与斯泰茜谈起家事",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 8,
+      "href": "s01e06/"
+    },
+    {
+      "number": 7,
+      "title": "Bingo",
+      "question": "做了对的事，为什么反而失去那间办公室？",
+      "intro": "一笔不愿承认存在的钱，一间还没租下的房。他想替金解围，也得交还自己的那一份。",
+      "hero": "s01e07/assets/hero.jpg",
+      "heroAlt": "吉米带金参观空办公室，窗外光线明亮",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 7,
+      "href": "s01e07/"
+    },
+    {
+      "number": 8,
+      "title": "RICO",
+      "question": "真正做成一件大事，就能站到哥哥身边吗？",
+      "intro": "一张小账单，一箱碎纸。他终于找到值得认真做的大案，也找回兄弟并肩的样子。",
+      "hero": "s01e08/assets/hero.jpg",
+      "heroAlt": "查克家中的书房，工作把兄弟重新聚到一起",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 8,
+      "href": "s01e08/"
+    },
+    {
+      "number": 9,
+      "title": "Pimento",
+      "question": "最想得到的认可，为什么恰恰来自最难跨过的门？",
+      "intro": "他把真正的大案带到律所门前。门打开了，接纳的却只有案子。",
+      "hero": "s01e09/assets/hero.jpg",
+      "heroAlt": "查克在家中向吉米说出不肯接纳他的理由",
+      "sceneCount": 12,
+      "conflictCount": 4,
+      "characterCount": 8,
+      "href": "s01e09/"
+    },
+    {
+      "number": 10,
+      "title": "Marco",
+      "question": "回到最懂自己的人身边，就能找回想成为的自己吗？",
+      "intro": "他离开一扇拒绝自己的门，回到一间欢迎旧名字的酒吧。一周之后，带回的却不只是放松。",
+      "hero": "s01e10/assets/hero.jpg",
+      "heroAlt": "吉米驾驶黄色 Suzuki 离开法院停车场",
+      "sceneCount": 10,
+      "conflictCount": 4,
+      "characterCount": 6,
+      "href": "s01e10/"
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "episode": "S01E04",
+  "title": "Hero",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-02-23",
+  "writer": "Gennifer Hutchison",
+  "director": "Colin Bucksey",
+  "question": "做一次“英雄”，|就能换来真正的尊重吗？",
+  "deck": "钱换了名字，骗局换了舞台。|一个被嘲笑的律师，把自己推上新闻。",
+  "intro": "找到凯特曼家的钱以后，吉米仍没得到想要的委托。对方愿意付钱让他保密，却嫌他像专为有罪者服务的律师。他把这份羞辱和这笔钱一起带回城里，开始借用大律所的门面制造自己的机会。本集围绕一个问题不断变形：别人相信的形象，究竟由什么支撑？",
+  "openingTitle": "当“看起来像”，|开始代替“实际上是”。",
+  "readingKey": "钱的名称 / 借来的形象 / 救人镜头的来历",
+  "storyTitle": "从一只假名表，|到一场被看见的救援。",
+  "relationTitle": "他们争的不只是谁更像，|还有谁能定义这个名字。",
+  "conflictTitle": "承认、模仿与欺骗，|在一张广告牌上碰面。",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第4集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Hero",
+      "url": "https://en.wikipedia.org/wiki/Hero_(Better_Call_Saul)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E04 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e04",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Hero 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=906",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "吉米爬上广告牌，接近悬挂的工人",
+      "caption": "吉米爬上广告牌，接近悬挂的工人 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 704,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0704.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "旧日骗局中，一名装醉的男子躺在巷道",
+      "caption": "旧日骗局中，一名装醉的男子躺在巷道 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 50,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0050.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "retainer",
+      "file": "assets/retainer.jpg",
+      "alt": "贝茜在营地与吉米讨论付款和保密",
+      "caption": "贝茜在营地与吉米讨论付款和保密 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 177,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0177.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "nacho",
+      "file": "assets/nacho.jpg",
+      "alt": "获释的纳乔在法院走廊与吉米见面",
+      "caption": "获释的纳乔在法院走廊与吉米见面 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 245,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0245.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "makeover",
+      "file": "assets/makeover.jpg",
+      "alt": "吉米在形象改造中整理西装",
+      "caption": "吉米在形象改造中整理西装 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 353,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0353.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "billboard",
+      "file": "assets/billboard.jpg",
+      "alt": "金与霍华德抬头查看广告牌",
+      "caption": "金与霍华德查看吉米的广告牌 · 对应场景画面，未含广告全貌",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 444,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0444.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "kim",
+      "file": "assets/kim.jpg",
+      "alt": "夜间，金私下与吉米谈话",
+      "caption": "金私下劝吉米撤掉广告 · 本集截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 528,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0528.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "order",
+      "file": "assets/order.jpg",
+      "alt": "关于广告的程序会面",
+      "caption": "关于广告的程序会面 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 572,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0572.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "appeal",
+      "file": "assets/appeal.jpg",
+      "alt": "吉米在广告牌前对着镜头讲话",
+      "caption": "吉米在广告牌前对着镜头讲话 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 660,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0660.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "rescue",
+      "file": "assets/rescue.jpg",
+      "alt": "工人悬在广告牌下方，吉米在高处救援",
+      "caption": "工人悬在广告牌下方，吉米在高处救援 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 726,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0726.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "news",
+      "file": "assets/news.jpg",
+      "alt": "电视播出的吉米救援新闻",
+      "caption": "电视播出的吉米救援新闻 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 748,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0748.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "paper",
+      "file": "assets/paper.jpg",
+      "alt": "查克披着隔热毯外出取报",
+      "caption": "查克披着隔热毯外出取报 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E04",
+      "frame": 880,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=906",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2004%20Hero/BCS_S1_E4_0880.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 旧日街头的名表骗局",
+    "image": "prologue",
+    "title": "让对方觉得占便宜，比强迫他掏钱更有效。",
+    "fact": "回忆中，吉米与一名装醉的同伙配合，用捡到的钱包和假名表诱使同行男子付钱换表；骗局结束后，两名合作者分钱。",
+    "analysis": "被骗的人以为自己判断了价值，实则进入了别人安排好的比较。这个开场为整集提出一个观看问题：你眼前看见的利益、危险或可靠形象，是自然出现的，还是有人先替你搭好了舞台？",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "retainer",
+      "where": "山中营地 / 凯特曼夫妇",
+      "title": "他们肯付钱，却不肯把他当自己的律师。",
+      "image": "retainer",
+      "fact": "凯特曼夫妇拒绝聘请吉米，提出用钱换取保密。吉米最后收下，并将其解释为法律服务的预付款。",
+      "analysis": "这笔钱的用途没有因换了名称就变得简单。对方想买沉默，吉米想把它写成业务关系；两边都在寻找一种能继续自我辩护的说法。更刺痛他的是，他被认为适合替有罪的人辩护，却不适合成为这个自称清白家庭的门面。",
+      "turn": "他拿到了钱，却没有拿到被平等承认的位置。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "nacho",
+      "where": "法院走廊 / 纳乔获释后",
+      "title": "他把警告解释成救了所有人。",
+      "image": "nacho",
+      "fact": "纳乔获释后怀疑吉米示警。吉米否认由自己所为，同时强调警告避免了伤害，也使纳乔免于真正犯下绑架等重罪。",
+      "analysis": "这是一段非常会保护自己的论证：把可能暴露的介入解释为对所有人都有利。论证并非全无道理，却没有直接回答究竟是谁打了电话。吉米能识别真实后果，也能利用这些后果绕开自己最不愿承认的部分。",
+      "turn": "暂时摆脱追问之后，他开始花钱重新塑造自己。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "makeover",
+      "where": "裁缝与理发店 / 形象改造",
+      "title": "他不只买西装，而是在借一个现成的身份。",
+      "image": "makeover",
+      "fact": "吉米订做接近霍华德风格的西装、整理发型，并设计与 HHM 视觉相近的个人广告。",
+      "analysis": "他先前需要用口音和借口补门面，现在索性借用公众已经认识的可靠形象。模仿同时包含羡慕与挑衅：想得到对方拥有的信任，又想让对方为自己的出现不舒服。职业上的不平等因此被穿在身上。",
+      "turn": "形象复制被放大成一张所有人都能看见的广告牌。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "billboard",
+      "where": "公路旁 / 广告牌",
+      "title": "同一个姓氏，被印成了一场公开争执。",
+      "image": "billboard",
+      "fact": "吉米竖起与 HHM 标识和霍华德外观高度相似的广告牌。霍华德认为这侵犯律所权益，要求处理。",
+      "analysis": "第一集发生在火柴册上的名字争论，被他搬到更大的公共空间。他用相似性取得辨识度，也主动制造了对方必须回应的局面。被看见的代价，是让自己的宣传先依赖于与 HHM 的冲突。",
+      "turn": "金把要求带到他面前，私人熟悉也进入职业边界。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "kim",
+      "where": "私下相处 / 金带来的劝告",
+      "title": "朋友看得懂他的用意，也无法替他豁免规则。",
+      "image": "kim",
+      "fact": "金与吉米谈起广告的问题，要求他停止模仿。吉米没有把这看作纯粹的设计争议，仍不肯轻易退让。",
+      "analysis": "金知道他想争一口气，但懂得情绪不等于需要在工作里为它背书。吉米则容易把专业上的反对继续听成身份拒绝。两人之间有亲近，所以这场冲突既没有变成陌生人的客套，也没有靠亲近自动解决。",
+      "turn": "事情进入正式程序，他失去了保留广告牌的理由。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "order",
+      "where": "办公室听证 / 广告必须撤下",
+      "title": "程序给出了结果，他转而寻找另一个舞台。",
+      "image": "order",
+      "fact": "裁决要求吉米撤下广告。媒体没有按他的期待把律所争执做成小人物受压迫的故事，他于是找来学生摄制人员自己拍摄。",
+      "analysis": "他并未在法律争议中获胜，而是发现了可以改变观看方式的渠道。胜负从能否保留相似广告，转成谁能让公众相信自己值得支持。会解释事实的能力，再次靠近安排事件的诱惑。",
+      "turn": "摄像机已经就位，接下来只差一个能够传播的场面。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "appeal",
+      "where": "广告牌下 / 自己制作的诉苦视频",
+      "title": "一场不受关注的诉苦，需要更强的转折。",
+      "image": "appeal",
+      "fact": "吉米面对摄像机陈述小律师的困境。此时拆广告牌的工人突然悬在高处，引起现场人的注意。",
+      "analysis": "最初的演说仍以自己为中心；高处的危险瞬间给了观众一个更容易读懂的故事。法律商标争议有复杂来由，救人却能被一个动作说明。他懂得这种差别，也懂得镜头能把它带给更多人。",
+      "turn": "故事的中心从受压迫的律师，切换成能够救人的律师。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "rescue",
+      "where": "广告牌高处 / 被拍下的救援",
+      "title": "他终于成了那个“恰好在场”的人。",
+      "image": "rescue",
+      "fact": "吉米爬上广告牌，把悬挂的工人拉回安全处。镜头呈现两人配合的迹象；现场和摄制人员记录下救援。",
+      "analysis": "与首集的假车祸相比，这场安排更成功地控制了谁看见什么。冒险和攀爬真实发生，事件被如何安排也同样重要。救人形象可以凭真实动作成立，却仍掩盖危险与机会的来历；真实性不是一个只能全真或全假的开关。",
+      "turn": "他需要的公众形象，终于获得可传播的画面。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "news",
+      "where": "新闻播出 / HHM 与公众的目光",
+      "title": "新闻说出了他的价值，也省去了故事的来路。",
+      "image": "news",
+      "fact": "救援成为新闻，吉米得到更多关注和潜在客户。霍华德认定这是宣传安排，金对他的做法也有自己的判断。",
+      "analysis": "公众看到的勇敢，与熟人看到的套路，来自同一个片段。熟人可能判断得更准，却未必能阻止简洁的英雄故事传播。这一段不必否认吉米的胆量，真正要问的是：观众被允许知道哪些前提？",
+      "turn": "最希望得到哥哥肯定的人，反而藏起了这份报道。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "paper",
+      "where": "查克家 / 少送的一份报纸",
+      "title": "他能面对全城的镜头，却躲开哥哥的目光。",
+      "image": "paper",
+      "fact": "吉米给查克送报纸时藏起刊有救援报道的本地报。查克察觉缺失，冒着自己害怕的环境走到邻居家取报，并留下钱。",
+      "analysis": "新闻本该成为吉米证明价值的凭据，到哥哥这里却变成需要隐去的东西。他清楚查克可能追问事件的来路。查克主动去找报纸，也使家庭照顾不再只是单向给予：被照顾的人仍会寻找自己要知道的事实。",
+      "turn": "这场宣传的余波，已经进入兄弟的日常。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 广告与救援的策划者",
+      "want": "让公众注意自己的能力，也摆脱被轻视的位置。",
+      "leverage": "收来的钱、模仿能力和对媒体叙事的敏感。",
+      "fact": "收下付款、复制 HHM 形象、制造救援新闻，并藏起报纸。",
+      "analysis": "他确实行动勇敢，也确实控制了观众得到的信息。不能只用结果漂亮，就跳过机会如何被安排。"
+    },
+    "betsy": {
+      "role": "客户的决策者 / 坚持家庭清白",
+      "want": "用钱终止吉米对现金的追问。",
+      "leverage": "钱与是否聘请律师的选择权。",
+      "fact": "拒绝聘请，却提出保密付款，并评价吉米的职业形象。",
+      "analysis": "她既需要他的沉默，又拒绝承认自己需要这种律师。金钱交易保留了身份上的轻视。"
+    },
+    "craig": {
+      "role": "被调查者 / 付款家庭的一员",
+      "want": "让全家回到可以维持日常的状态。",
+      "leverage": "家庭掌握的现金与共同行动。",
+      "fact": "与贝茜共同处理被发现现金后的局面。",
+      "analysis": "他顺从妻子的说法，但共同付款和藏钱仍是他参与的行动。"
+    },
+    "nacho": {
+      "role": "刚获释者 / 追问警告来路",
+      "want": "确认吉米是否泄露了计划。",
+      "leverage": "对威胁和接触经过的了解。",
+      "fact": "在走廊追问吉米，听到警告避免更坏后果的解释。",
+      "analysis": "他并未因此变成受吉米道德教育的人；两人的关系仍是含有戒心的利益接触。"
+    },
+    "kim": {
+      "role": "HHM 律师 / 熟悉吉米的人",
+      "want": "处理律所权益，也理解朋友正在争什么。",
+      "leverage": "专业判断与对吉米套路的熟悉。",
+      "fact": "送达广告方面的要求，观看救人新闻。",
+      "analysis": "亲近使她更看得懂表演，却不代表她需要替表演提供职业豁免。"
+    },
+    "howard": {
+      "role": "HHM 合伙人 / 被模仿的门面",
+      "want": "维护律所标识和公众形象。",
+      "leverage": "程序、机构资源与品牌辨识度。",
+      "fact": "要求撤下相似广告，怀疑救援是宣传安排。",
+      "analysis": "他在商标争议中胜出，仍可能在公众注意力的争夺中失去主导。"
+    },
+    "chuck": {
+      "role": "哥哥 / 被选择性提供信息的人",
+      "want": "弄清吉米为何少送一份报纸。",
+      "leverage": "对弟弟的了解与自己的求证行动。",
+      "fact": "发现报纸缺失，外出取邻居的报纸。",
+      "analysis": "吉米的隐藏反过来证明他的评价仍有分量。本集不提前使用随后医疗场景的信息。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "betsy",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "craig",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "nacho",
+      "kind": "danger"
+    },
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "howard",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 钱与羞辱",
+      "note": "现金已被发现，夫妇愿意付钱换保密，却不愿聘请吉米。",
+      "edges": [
+        "愿付钱 / 拒聘用",
+        "共同付款的压力",
+        "获释后追问示警",
+        "职业与熟悉并存",
+        "机构位置仍有距离",
+        "渴望哥哥认可"
+      ],
+      "details": {
+        "jimmy": "拿到钱，没有得到想要的身份承认。",
+        "betsy": "清白形象与实际交易开始彼此冲突。",
+        "craig": "参与付款，希望结束眼前危机。",
+        "nacho": "质疑是谁警告一家人，不接受表面的巧合。",
+        "kim": "尚未通过广告争议被迫表态。",
+        "howard": "仍是吉米比较和模仿的职业门面。",
+        "chuck": "没有在场，不知道现金怎样被处理。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 模仿与拆除",
+      "note": "吉米把争执放到广告牌上，正式程序要求他撤除。",
+      "edges": [
+        "付款被改称业务费",
+        "现金推动形象改造",
+        "暂时结束追问",
+        "熟悉不等于豁免",
+        "标识 / 商标争议",
+        "成功仍想得到肯定"
+      ],
+      "details": {
+        "jimmy": "复制对方形象，主动制造公开争执。",
+        "betsy": "并未因为付钱就正式改变对吉米的评价。",
+        "craig": "没有参与广告安排，本集不把他画成策划同伙。",
+        "nacho": "这段机构争议并非由他安排。",
+        "kim": "传达专业要求，也看得出吉米在赌气。",
+        "howard": "借程序要求撤牌，守住了法律层面的权益。",
+        "chuck": "尚未从吉米那里得到宣传事件的完整信息。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 英雄与报纸",
+      "note": "救援报道带来机会，吉米却对哥哥隐去消息；查克开始自己求证。",
+      "edges": [
+        "用钱换来的新门面",
+        "未成为真正委托",
+        "不在救援安排中",
+        "看得懂表演的熟人",
+        "程序胜出 / 叙事失控",
+        "隐瞒 / 主动求证"
+      ],
+      "details": {
+        "jimmy": "获得关注，仍害怕哥哥追问来历。",
+        "betsy": "付款带来的钱已被吉米使用，身份拒绝没有被抹去。",
+        "craig": "本集未解决原来的调查。",
+        "nacho": "没有展示他参与广告或救援计划。",
+        "kim": "观看报道，对人物能力与手段保留复杂判断。",
+        "howard": "认为救援被安排，却不能直接阻止公众喜欢英雄。",
+        "chuck": "发现缺报，走出去寻找没有被交给自己的信息。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "payment",
+      "label": "吉米 × 凯特曼夫妇",
+      "title": "你可以拿我的钱，却不能代表我。",
+      "left": "业务上的承认",
+      "right": "清白家庭的门面",
+      "image": "retainer",
+      "text": "这份付款最尖锐的地方，是它把吉米想要的东西拆开了：钱可以给，正式代理人的位置不愿给。贝茜一边需要他帮忙压住真相，一边用“有罪的人才找你”维持自己与他之间的距离。",
+      "second": "吉米把付款叫预付律师费，试图把关系带回职业领域。但名称无法自动决定事实。案件没有真的交给他，沉默却已经成了钱的交换条件，这个没有解决的矛盾会继续留在他的选择里。",
+      "limit": "事实边界：只讨论本次付款与拒聘，不提前使用第七集的归还安排。"
+    },
+    {
+      "id": "image",
+      "label": "吉米 × 霍华德",
+      "title": "法律上的胜利，未必赢得观看方式。",
+      "left": "被看见",
+      "right": "守住机构形象",
+      "image": "billboard",
+      "text": "霍华德维护标识与形象有具体理由，吉米确实在借用它们。若把冲突写成大律所不许穷人出头，就会跳过模仿这个主动动作。另一方面，复制之所以有用，也显示公众对规模和体面有先入的信任。",
+      "second": "裁决要求拆牌，吉米却把失败改写成拍摄背景。真正得到传播的是救人，商标争议退到幕后。两个人因此可能同时在不同场合获胜，而观众必须多问一句：自己看到的是哪一个场合？",
+      "limit": "事实边界：不得保留广告的裁决，与救援新闻的流行是两件不同的结果。"
+    },
+    {
+      "id": "friend",
+      "label": "吉米 × 金",
+      "title": "理解他受了委屈，不等于赞成所有回击。",
+      "left": "想被支持",
+      "right": "保留专业判断",
+      "image": "kim",
+      "text": "金知道吉米不是没有才能，也知道这张牌子在模仿谁。她无法只因为关系熟，就把工作中的要求抹去。亲近让她看得更清楚，反而使单纯的站队更困难。",
+      "second": "她观看新闻时的复杂反应也无需被提前翻译成参与策划。能欣赏一个人的机灵，与知道手段有问题，可以在同一个人身上并存。这里的温度来自理解，边界则来自没有把理解当作自动授权。",
+      "limit": "事实边界：本集没有展示金共同策划广告救援。"
+    },
+    {
+      "id": "brother",
+      "label": "吉米 × 查克",
+      "title": "他最想赢得的那双眼睛，恰恰被他挡住。",
+      "left": "想被肯定",
+      "right": "希望知道真实来历",
+      "image": "paper",
+      "text": "公众肯定依靠一段易懂的影像，哥哥的肯定却可能要求更完整的前因。吉米因此对全城公开，对家里隐藏。藏起报纸并不是一件孤立小事，它让他的成功仍然绕着哥哥的评价转。",
+      "second": "查克外出取报，是本集新的主动动作。剧集还没有给出下一集的身体和医疗后果，此处应停在一个人突破自己习惯的边界，去查弟弟没交给他的信息。",
+      "limit": "事实边界：不提前断言下一集住院的经过，也不用后集反转解释此刻全部动机。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "贝茜 → 吉米",
+      "en": "You're the kind of lawyer guilty people hire.",
+      "zh": "你是那种有罪的人才会找的律师。",
+      "image": "retainer",
+      "context": "她拒绝正式聘请，却愿意付钱换沉默。",
+      "analysis": "这句话把依赖与轻视放在同一笔交易里。"
+    },
+    {
+      "speaker": "吉米 → 凯特曼夫妇",
+      "en": "I can take a retainer.",
+      "zh": "我可以收一笔预付律师费。",
+      "image": "retainer",
+      "context": "不能直接接受保密付款的困境，被他改写成业务名称。",
+      "analysis": "命名提供了自我解释，交换的实际条件却没有因此消失。"
+    },
+    {
+      "speaker": "金 → 霍华德",
+      "en": "People love a hero.",
+      "zh": "人们喜欢英雄。",
+      "image": "news",
+      "context": "两人观看救援报道，对吉米是否安排了一切有自己的判断。",
+      "analysis": "简洁的形象比复杂来路更容易传播，这解释了策略为何有效，也提醒读者继续追问前提。"
+    }
+  ],
+  "feature": {
+    "title": "同一种安排，|怎样从街头骗术变成英雄新闻？",
+    "intro": "开场的假表与结尾的救援，使用了不同材料，却都控制着旁观者的判断前提。",
+    "steps": [
+      {
+        "scene": "retainer",
+        "title": "得到可支配的钱",
+        "text": "被拒绝的委托，留下了一笔能用于包装的付款。"
+      },
+      {
+        "scene": "billboard",
+        "title": "搭出公开的冲突",
+        "text": "相似广告引来拆除要求，给了他诉苦的舞台。"
+      },
+      {
+        "scene": "rescue",
+        "title": "换一个更好讲的结局",
+        "text": "救人镜头替代复杂争议，成为新闻。"
+      }
+    ],
+    "pair": [
+      "prologue",
+      "rescue"
+    ],
+    "analysis": "假表骗局让目标相信自己眼光好，救援让公众相信看到了偶然出现的英雄。重要的阅读动作，是把每个人以为自己亲自判断的那一刻，与别人事先布置的条件放到一起。"
+  },
+  "motifs": [
+    {
+      "title": "预付费，是一条会回来的语义裂缝。",
+      "text": "吉米用职业词汇收下钱，真正的委托却仍未成立。这个命名无法让钱的来历失去意义。",
+      "link": "retainer",
+      "number": "01"
+    },
+    {
+      "title": "衣服借来的体面，需要继续被表演。",
+      "text": "接近霍华德的穿着使吉米容易被认成有实力的人，也让这种认同先建立在另一个人的形象上。",
+      "link": "makeover",
+      "number": "02"
+    },
+    {
+      "title": "最公开的新闻，变成家中的秘密。",
+      "text": "报纸把公众叙事带到查克家门口，吉米的隐藏让“被看见”再次分成对谁、看见多少。",
+      "link": "paper",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "他得到了镜头。|还没有得到坦然。",
+    "copy": "英雄形象带来机会，报纸却被藏起来。|被全城看见的那个人，|仍然在意哥哥会怎样看他。",
+    "known": "吉米的救援成为新闻，广告必须撤除；查克发现缺报，外出取报。",
+    "unknown": "新客户是否适合他、查克如何应对报道与自己的身体状态，后续才会展开。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "重新命名",
+      "deck": "先把收来的钱，变成自己能够接受的说法。",
+      "summary": "钱缓解生计，没有解决被轻视的身份。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "搭建舞台",
+      "deck": "模仿、冲突与摄像机，接成一条路径。",
+      "summary": "程序要求撤牌，吉米转向改变公众叙事。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "进入目光",
+      "deck": "一次救援，同时产生赞赏与怀疑。",
+      "summary": "新闻被传播，报纸却在家中被隐藏。",
+      "range": "08—10"
+    }
+  ]
+}

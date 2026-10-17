@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "episode": "S01E03",
+  "title": "Nacho",
+  "chineseTitle": "风骚律师",
+  "airdate": "2015-02-16",
+  "writer": "Thomas Schnauz",
+  "director": "Terry McDonough",
+  "question": "想保护一个家庭，|为什么先把自己逼进死角？",
+  "deck": "一个没有署名的警告。|一场不像绑架的失踪。",
+  "intro": "纳乔留下的提议没有变成吉米答应的工作，却变成他无法忽视的危险。他想提醒凯特曼一家，又不愿把知道的一切交给警方。第二天，一家人消失，纳乔被捕，吉米便必须为自己相信的版本找到证据。靠嘴说服别人的律师，这一次得亲自出去寻找。",
+  "openingTitle": "相信一个人，|要先相信他的哪一面？",
+  "readingKey": "警告如何变成压力 / 失踪里少了什么 / 为什么没有走远",
+  "storyTitle": "从猜测，到一个娃娃，|再走进山后的帐篷。",
+  "relationTitle": "有人需要他闭嘴，|有人终于愿意听他说。",
+  "conflictTitle": "帮忙之前，|先要想清楚自己在保护谁。",
+  "central": "jimmy",
+  "hero": "hero",
+  "spoiler": "剧透截至第一季第3集，包含本集结尾。不涉及后续集数或《绝命毒师》的具体揭示。",
+  "relationFoot": "关系图只归纳本集已展示的行动与联系，不将后续动机提前写入。",
+  "sources": [
+    {
+      "id": "wiki",
+      "title": "Wikipedia · Nacho",
+      "url": "https://en.wikipedia.org/wiki/Nacho_(Better_Call_Saul_episode)",
+      "note": "核对分集身份、播出日期与主要事件；观点独立撰写。外链其他部分可能含后续信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E03 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=better-call-saul-2015&episode=s01e03",
+      "note": "非官方对白转录，用于核对行动次序和英文短句；不是官方制作剧本。中文短台词均为本页自译。"
+    },
+    {
+      "id": "caps",
+      "title": "TheTVShows · Nacho 分集截图库",
+      "url": "https://thetvshows.us/thumbnails.php?album=905",
+      "note": "正文为本集播出版截图，逐张登记原图和图库编号。字幕版本与不同转录的标点可能有差异；配图不逐句指认发声瞬间。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "住宅附近的荒地与山坡，吉米在这里搜索",
+      "caption": "住宅附近的荒地与山坡，吉米在这里搜索 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 843,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0843.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "拘留处的吉米听查克回应",
+      "caption": "回忆中拘留处的吉米 · 本集截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 67,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0067.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "kim-call",
+      "file": "assets/kim-call.jpg",
+      "alt": "吉米夜间打电话，犹豫如何提醒金",
+      "caption": "吉米夜间打电话，犹豫如何提醒金 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 112,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0112.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "warning",
+      "file": "assets/warning.jpg",
+      "alt": "吉米在夜间匿名打电话示警",
+      "caption": "吉米在夜间匿名打电话示警 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 200,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0200.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "missing",
+      "file": "assets/missing.jpg",
+      "alt": "吉米与金在被警方调查的凯特曼家外",
+      "caption": "吉米与金在被警方调查的凯特曼家外 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 333,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0333.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "nacho",
+      "file": "assets/nacho.jpg",
+      "alt": "被拘押的纳乔与吉米会见",
+      "caption": "被拘押的纳乔与吉米会见 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 488,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0488.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "house-check",
+      "file": "assets/house-check.jpg",
+      "alt": "吉米在凯特曼家中查看现场",
+      "caption": "吉米在凯特曼家中查看现场 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 599,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0599.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "alternative",
+      "file": "assets/alternative.jpg",
+      "alt": "金在住宅外与吉米谈论失踪解释",
+      "caption": "金在住宅外与吉米谈论失踪解释 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 665,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0665.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "scuffle",
+      "file": "assets/scuffle.jpg",
+      "alt": "吉米在停车场与迈克冲突",
+      "caption": "吉米在停车场与迈克冲突 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 732,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0732.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "mike",
+      "file": "assets/mike.jpg",
+      "alt": "迈克与吉米在警局附近交谈",
+      "caption": "迈克与吉米在警局附近交谈 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 776,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0776.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "search",
+      "file": "assets/search.jpg",
+      "alt": "吉米在住宅后方的荒地寻找一家人",
+      "caption": "吉米在住宅后方的荒地寻找一家人 · 本集播出版截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 865,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0865.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "cash",
+      "file": "assets/cash.jpg",
+      "alt": "被扯开的旅行袋里露出现金",
+      "caption": "被扯开的旅行袋里露出现金 · 本集截图",
+      "kind": "episode-still",
+      "episode": "S01E03",
+      "frame": 906,
+      "sourceUrl": "https://thetvshows.us/thumbnails.php?album=905",
+      "originalUrl": "https://thetvshows.us/albums/Uploads/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20Episode%2003%20Nacho/BCS_S1_E3_0906.jpg",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "prologue": {
+    "label": "COLD OPEN / 1992 年的牢房",
+    "image": "prologue",
+    "title": "哥哥的帮助，曾经带着一个改变的条件。",
+    "fact": "回忆中，查克探望被关押的吉米。指控可能带来严重后果；吉米请求帮助，查克要求他停止骗局，重新生活。",
+    "analysis": "这段往事使哥哥不只是一名苛刻的评论者，也是曾经伸手的人。弟弟说想改变，因此同时包含感激、求生与依赖。此时只交代承诺和风险，事情的具体经过尚未完整解释，不把第十集的讲述提前填进来。",
+    "sources": [
+      "wiki",
+      "transcript"
+    ]
+  },
+  "scenes": [
+    {
+      "id": "kim-call",
+      "where": "夜间通话 / 吉米与金",
+      "title": "提醒还没说清，他先挂断了电话。",
+      "image": "kim-call",
+      "fact": "担心纳乔会对凯特曼家下手，吉米给金打电话，间接提醒存在风险，又在说清之前中止谈话。",
+      "analysis": "他希望有人采取保护行动，却不想把自己知道危险的来路交代清楚。于是善意与自保挤在同一段含糊的话里。金不可能从没有得到的信息中替他完成判断，这场电话也没有真正卸掉他的责任。",
+      "turn": "没有说完的提醒，变成他决定自己打去的警告。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "warning",
+      "where": "凯特曼家 / 匿名电话",
+      "title": "他藏住声音，把警告送进一栋亮着灯的房子。",
+      "image": "warning",
+      "fact": "吉米匿名致电凯特曼夫妇，提醒有人可能冲着他们的钱来。夫妇随后注意到屋外有人监视。",
+      "analysis": "匿名使他能够行动，也让警告变成没有来路、难以核实的恐惧。他想控制信息暴露到什么程度，却不能控制听见警告的人会怎样回应。这样的帮助并不因为出于好意，就一定走向他预计的安全结果。",
+      "turn": "第二天，房子里的日常突然空了。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "missing",
+      "where": "凯特曼家外 / 警察封锁现场",
+      "title": "他怕的事仿佛发生了，事实却还没有齐。",
+      "image": "missing",
+      "fact": "金告诉吉米凯特曼一家出了事。吉米赶到警察围住的住宅，得知一家人失踪，便担心纳乔绑走了他们。",
+      "analysis": "“知道某人起过歹意”很容易变成“相信这次一定是他”。本集先让观众和吉米一起落入这条顺手的因果，再逐步检验它。危险提议是真的，失踪也是真的，但两件事是否由同一个人完成，还需要另外的证据。",
+      "turn": "吉米找不到纳乔，却等来了警方和他的辩护请求。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "start"
+    },
+    {
+      "id": "nacho",
+      "where": "看守处 / 律师会见",
+      "title": "这一次，他必须替真正被捕的人说话。",
+      "image": "nacho",
+      "fact": "纳乔承认监视过凯特曼家，却否认绑架。他要求吉米帮助自己脱身，并怀疑吉米泄露了计划；吉米因此面临直接威胁。",
+      "analysis": "纳乔的无辜有一个明确范围：没有实施这次绑架，不等于没有抢劫念头。吉米替他争取查清事实，也不意味着赞同先前计划。剧集把“我不喜欢这个人”与“这项指控是否准确”拆开，辩护工作的必要由此变得具体。",
+      "turn": "单靠当事人的否认，无法让警方接受另一种解释。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "house-check",
+      "where": "凯特曼家内 / 跟着金查看现场",
+      "title": "找人的时候，他开始留意少了什么。",
+      "image": "house-check",
+      "fact": "金带吉米查看住宅。除了闯入般的凌乱，吉米留意到孩子平常依赖的娃娃不见了，对真正的绑架产生怀疑。",
+      "analysis": "解释现场不只看存在的痕迹，也看本应留下的东西。娃娃改变了一个重要问题：这家人是被迫突然离开，还是带着熟悉的安慰物自行离开？它不足以单独证明全部经过，却能让另一种假设开始成立。",
+      "turn": "他把“有人绑走他们”改成了“也许他们自己藏起来”。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "alternative",
+      "where": "住宅外 / 吉米与金",
+      "title": "他提出另一种故事，也承认了自己的介入。",
+      "image": "alternative",
+      "fact": "吉米向金提出一家人可能自行躲藏，并承认自己曾匿名示警。金仍担心纳乔和失踪家庭的处境。",
+      "analysis": "承认警告使吉米从旁观的推理者变成事件的参与者。他的版本也可能保护自己，所以金的怀疑不是缺乏友谊。关系中的信任不能代替事实查证；正因为她在意，他才更难只靠一个漂亮结论把事情带过去。",
+      "turn": "他必须找到一家人，才能使这个解释超出自我辩护。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "scuffle",
+      "where": "法院停车出口 / 吉米与迈克",
+      "title": "争执升级成动手，程序立刻变成更大的威胁。",
+      "image": "scuffle",
+      "fact": "吉米与迈克因停车验证发生冲突，动手后被制服。警方希望迈克提出袭击控诉，以此迫使吉米配合调查。",
+      "analysis": "吉米急于处理更大的危险，却把小小的栏杆也看成针对自己的阻碍。他一动手，情绪就变成别人能够使用的筹码。这里没有口才失灵后的英雄爆发，而是一个焦虑的人把处境进一步弄糟。",
+      "turn": "迈克是否追究，开始影响警方怎样向吉米施压。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "pressure"
+    },
+    {
+      "id": "mike",
+      "where": "警局 / 一个前警察的判断",
+      "title": "迈克没有喜欢他，却愿意认真听他的推测。",
+      "image": "mike",
+      "fact": "迈克最终不追究吉米，并表示自行躲藏的推测说得通。他提起在费城办案的经验，判断这家人可能还在住处附近。",
+      "analysis": "他提供的不是关系上的袒护，而是对细节与行为习惯的判断。两人的关系因此出现第一处变化：从只核验贴纸，到能够讨论某个案子。愿意听不要求先成为朋友，专业上的认可也不必伪装成亲近。",
+      "turn": "一个具体经验，让搜索从抽象的远方缩回到附近。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "search",
+      "where": "住宅后方 / 荒地与山坡",
+      "title": "这次他不再导演，而是自己走进去找。",
+      "image": "search",
+      "fact": "吉米沿凯特曼家附近的荒地搜索，逐步发现一家人露营的踪迹，最终找到他们藏身的帐篷。",
+      "analysis": "前面的推理需要脚步来完成。路并不华丽，寻找也没有立刻的掌声；但这是无需制造假事故就能证明能力的工作。迈克提供方向，吉米付出时间，两种能力在这里第一次形成实际互补。",
+      "turn": "失踪家庭被找到了，另一件事实也即将露出来。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    },
+    {
+      "id": "cash",
+      "where": "营地 / 被扯开的旅行袋",
+      "title": "他找回了一家人，也看见了他们想藏的东西。",
+      "image": "cash",
+      "fact": "吉米在帐篷里找到凯特曼一家。劝他们回去时，一只旅行袋被拉开，大量现金掉了出来。",
+      "analysis": "此前“有没有绑架”的问题得到回答，新的问题却随钱落地：这一家人为什么要藏，现金又意味着什么？吉米此刻拥有能改变案件的信息，也面对可能改变自己处境的诱惑。本集把选择留在发现之后，不提前写下他下一集怎样处理。",
+      "turn": "安全问题暂时落地，钱的问题才刚刚打开。",
+      "sources": [
+        "wiki",
+        "transcript"
+      ],
+      "act": "choice"
+    }
+  ],
+  "characters": {
+    "jimmy": {
+      "role": "律师 / 知情的示警者",
+      "want": "让家庭安全、让纳乔脱嫌，也保护自己。",
+      "leverage": "对信息缺口的敏感与愿意亲自寻找。",
+      "fact": "匿名示警、接受辩护请求、查看住宅并找到营地。",
+      "analysis": "他既要查事实，也得面对自己如何改变了别人的行为。善意不是对因果的完全控制。"
+    },
+    "nacho": {
+      "role": "被捕者 / 先前的抢钱提议者",
+      "want": "摆脱并非自己实施的绑架指控。",
+      "leverage": "知道吉米曾接触过计划，能够施加威胁。",
+      "fact": "承认监视，否认绑架，要求吉米帮助。",
+      "analysis": "无辜的范围必须具体到指控。危险人物同样可能在某一件事上被判断错。"
+    },
+    "kim": {
+      "role": "HHM 律师 / 凯特曼家的代理人",
+      "want": "找到客户，并判断吉米的解释是否可信。",
+      "leverage": "进入住宅与接触案件信息的机会。",
+      "fact": "接到含糊提醒，带吉米查看现场，听他承认示警。",
+      "analysis": "她愿意帮助，不等于需要接受所有说法。疑问维护的既是专业，也是一家人的安全。"
+    },
+    "mike": {
+      "role": "停车场收费员 / 前费城警察",
+      "want": "解决眼前冲突，并按经验判断失踪。",
+      "leverage": "制服吉米的能力与办案经验。",
+      "fact": "没有提出袭击控诉，提供“可能没走远”的搜索方向。",
+      "analysis": "他不靠亲近表达信任，而以是否说得通来回应。首集式的对立开始出现专业互补。"
+    },
+    "betsy": {
+      "role": "失踪家庭成员 / 坚持清白形象",
+      "want": "让一家人离开眼前的调查与威胁。",
+      "leverage": "对家庭决定的影响与隐藏的现金。",
+      "fact": "与丈夫孩子躲到附近，被吉米找到。",
+      "analysis": "她要保护的既是安全，也是仍可维持的自我叙述；现金的出现让两者不再容易分开。"
+    },
+    "craig": {
+      "role": "被调查的县财务人员 / 躲藏者",
+      "want": "避开危险，并维持一家人的完整。",
+      "leverage": "与妻子共同保管的信息和现金。",
+      "fact": "与家人在营地藏身，面对吉米的发现。",
+      "analysis": "家庭在场使他不只是一个案件身份；同样，父亲身份不能让现金问题自动消失。"
+    },
+    "chuck": {
+      "role": "回忆中的哥哥 / 伸手帮助的人",
+      "want": "要求弟弟离开骗局，重新开始。",
+      "leverage": "法律能力与吉米对他的信赖。",
+      "fact": "在回忆中探监，提出改变的条件。",
+      "analysis": "这段已知过去解释弟弟为何在意他的承认，不需要借后续情节推断所有隐藏动机。"
+    }
+  },
+  "relationships": [
+    {
+      "from": "jimmy",
+      "to": "nacho",
+      "kind": "danger"
+    },
+    {
+      "from": "jimmy",
+      "to": "kim",
+      "kind": "trust"
+    },
+    {
+      "from": "jimmy",
+      "to": "mike",
+      "kind": "institution"
+    },
+    {
+      "from": "jimmy",
+      "to": "betsy",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "craig",
+      "kind": "client"
+    },
+    {
+      "from": "jimmy",
+      "to": "chuck",
+      "kind": "family"
+    }
+  ],
+  "phases": [
+    {
+      "id": "start",
+      "name": "01 · 有限示警",
+      "note": "吉米试图避免一家人受害，同时隐藏警告的来路。",
+      "edges": [
+        "未接受抢钱提议",
+        "含糊提醒",
+        "仍为停车争执",
+        "匿名警告",
+        "匿名警告",
+        "回忆里的重来承诺"
+      ],
+      "details": {
+        "jimmy": "想保护人，却控制着自己愿意说多少。",
+        "nacho": "曾提出抢钱，此时尚未被确认实施任何绑架。",
+        "kim": "接到提醒，但缺乏判断全部风险的信息。",
+        "mike": "两人仍在程序性的停车矛盾中。",
+        "betsy": "听见危险警告，并注意到监视者。",
+        "craig": "与家人一起面对警告和调查压力。",
+        "chuck": "回忆交代他曾以停止骗局为帮助条件。"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": "02 · 失踪与施压",
+      "note": "家庭失踪，纳乔被捕；吉米提出自行躲藏的假设，仍缺实证。",
+      "edges": [
+        "委托夹带威胁",
+        "合作中保留疑问",
+        "动手后可能被控",
+        "行踪未明",
+        "行踪未明",
+        "过去的期待仍在"
+      ],
+      "details": {
+        "jimmy": "承认自己的示警，转而寻找解释现场的细节。",
+        "nacho": "否认绑架，要求律师证明另一种可能。",
+        "kim": "提供查看现场的机会，但未盲目认同吉米。",
+        "mike": "制服吉米，先前的小冲突变成警方可用的压力。",
+        "betsy": "仍未被找到，不能把失踪直接等同遭到绑架。",
+        "craig": "他的案件与全家人的安全暂时纠缠。",
+        "chuck": "不在本集调查中，不能画成知情操纵者。"
+      }
+    },
+    {
+      "id": "choice",
+      "name": "03 · 去附近找答案",
+      "note": "迈克认可推测，吉米找到营地和现金。本集尚未展示下一步的金钱安排。",
+      "edges": [
+        "绑架说法受到反证",
+        "解释开始得到支撑",
+        "从争执转向互补",
+        "藏身与现金显露",
+        "家庭清白叙述受挑战",
+        "帮助的旧关系未解决"
+      ],
+      "details": {
+        "jimmy": "把假设变成可以查证的发现，随后面对现金。",
+        "nacho": "吉米找到家庭，为澄清绑架嫌疑提供了方向。",
+        "kim": "本集没有让她先知道营地现金的全部处理结果。",
+        "mike": "以经验缩小搜索范围，专业认可替代私人袒护。",
+        "betsy": "与家人在附近露营，藏钱的现实被看见。",
+        "craig": "露营掩盖不了袋中的现金，案件问题仍在。",
+        "chuck": "旧日帮助解释吉米的牵挂，不决定当下每个动作。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "warning",
+      "label": "吉米 × 自己",
+      "title": "想做好事，也想不暴露自己。",
+      "left": "保护家庭",
+      "right": "控制信息",
+      "image": "warning",
+      "text": "吉米不是不知道可以把危险说清，他是担心说清之后自己将处于什么位置。因此，一次提醒被拆成间接试探和匿名电话。善意真实存在，想保全自己也真实存在。",
+      "second": "难处在于，听者会依自己的处境作决定。警告促使一家人躲藏，吉米不能再只靠“我本来想帮忙”评价后果。后半集的寻找，是他重新介入并承担这份不确定性的方式。",
+      "limit": "事实边界：一家人的躲藏由剧情揭示，不将纳乔的想法等同已实施绑架。"
+    },
+    {
+      "id": "defense",
+      "label": "吉米 × 纳乔",
+      "title": "为一个人辩护，不要求先认可他的全部行为。",
+      "left": "查清这项指控",
+      "right": "以威胁确保脱身",
+      "image": "nacho",
+      "text": "纳乔曾准备抢钱，承认在住宅外监视；但他坚持没有绑架。这些信息需要同时成立，才能避免把他写成无辜好人，或因为他危险就默认所有指控都属实。",
+      "second": "吉米面临威胁，不能把委托浪漫化成平等合作；他仍找到了警方解释中的漏洞。剧集让律师工作的价值落在一件具体的事上：即使面对不讨喜的人，也要问证据究竟证明什么。",
+      "limit": "事实边界：本页不把本次脱嫌扩写为对纳乔全部行为的认可。"
+    },
+    {
+      "id": "belief",
+      "label": "吉米 × 迈克",
+      "title": "他需要有人相信，迈克先要求事情说得通。",
+      "left": "焦虑中的求认同",
+      "right": "经验里的可检验性",
+      "image": "mike",
+      "text": "动手让吉米失去优势，迈克本来完全可以追究。改变局面的不是一句认错就自动换来友情，而是他关于失踪的解释，与迈克过去见过的行为模式相符。",
+      "second": "迈克给的是一个可以去找的方向。吉米仍要自己走完最后的路。这种合作不依赖情感保证，反而让双方的能力第一次有机会接上：有人缩小范围，有人把推测查成现场。",
+      "limit": "事实边界：两人的合作刚出现，不提前引入后续固定搭档关系。"
+    },
+    {
+      "id": "family",
+      "label": "吉米 × 凯特曼一家",
+      "title": "找到他们，不等于替他们保住清白的故事。",
+      "left": "让人平安回去",
+      "right": "把调查与威胁挡在帐篷外",
+      "image": "cash",
+      "text": "一家人在帐篷里仍然保持家庭生活的样子，孩子和娃娃使躲藏显得并不遥远。吉米寻找的是人，抵达后却不得不面对同样被带来的钱。",
+      "second": "一个家庭可以害怕危险，也可能同时隐藏不愿面对的责任。结尾让这两件事同框，不要求我们否认父母对孩子的爱，也不允许借这份爱把现金问题略去。",
+      "limit": "事实边界：本集停在找到现金，不提前使用下一集的付款与保密安排。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "吉米 → 金",
+      "en": "Maybe the Kettlemans kidnapped themselves.",
+      "zh": "也许凯特曼一家“绑架”了自己。",
+      "image": "alternative",
+      "context": "娃娃等现场细节让吉米提出另一种失踪解释。",
+      "analysis": "措辞听来荒谬，关键却是让人停止把一个推测当成唯一的事实。"
+    },
+    {
+      "speaker": "迈克 → 吉米",
+      "en": "All right, I believe you.",
+      "zh": "好吧，我相信你。",
+      "image": "mike",
+      "context": "迈克听过细节后，接受自行躲藏的可能性。",
+      "analysis": "这里的相信来自对解释的判断，不等于替吉米所有做法担保。"
+    },
+    {
+      "speaker": "迈克 → 吉米",
+      "en": "Nobody wants to leave home.",
+      "zh": "没有人真想离开家。",
+      "image": "mike",
+      "context": "他以费城的一次经历说明，逃离者也可能留在熟悉地方附近。",
+      "analysis": "家不只是一间房，也是一种不愿切断的生活。推理因此从远方转回身边。"
+    }
+  ],
+  "feature": {
+    "title": "娃娃、住处、山坡，|一个假设怎样得到支撑？",
+    "intro": "三条线索相接，是剧情中的调查路径；不是可套用到所有真实案件的规律。",
+    "steps": [
+      {
+        "scene": "house-check",
+        "title": "注意被带走的物品",
+        "text": "孩子的安慰物不见，让突然遭劫的说法出现疑点。"
+      },
+      {
+        "scene": "mike",
+        "title": "重新理解“逃离”",
+        "text": "迈克指出人未必愿意远离熟悉生活。"
+      },
+      {
+        "scene": "search",
+        "title": "去附近验证",
+        "text": "吉米走进住宅后方，终于找到营地。"
+      }
+    ],
+    "pair": [
+      "house-check",
+      "cash"
+    ],
+    "analysis": "房间里没有的东西，与山上带着的日常物品互相回答。吉米的长处在这里不只是不停说，而是能够把别人忽略的生活习惯放进解释，再用实际寻找检验它。"
+  },
+  "motifs": [
+    {
+      "title": "娃娃比空房间更会说话。",
+      "text": "真正改变问题的，不只是现场显得凌乱，而是某样熟悉物品被带走。生活细节让推理落地。",
+      "link": "house-check",
+      "number": "01"
+    },
+    {
+      "title": "栏杆把情绪变成现实代价。",
+      "text": "吉米以为停车纠纷只是耽误时间，一次动手却让他更容易被警方施压。小冲突并不总能被更大的理由抵消。",
+      "link": "scuffle",
+      "number": "02"
+    },
+    {
+      "title": "帐篷没有把家甩在身后。",
+      "text": "他们离开住宅，却继续做一家人在熟悉的生活。这既呼应迈克的判断，也让现金被发现时的反差更明显。",
+      "link": "cash",
+      "number": "03"
+    }
+  ],
+  "ending": {
+    "title": "人找到了。|另一种麻烦，打开了。",
+    "copy": "这一集证明了吉米的判断与耐心。|现金落地之后，他还需要决定：|知道真相的人，会怎样使用真相。",
+    "known": "凯特曼一家自行藏在附近，吉米找到他们，也看到了大量现金。",
+    "unknown": "现金如何处理、谁会得到这份消息、吉米会不会接受交易，留到后面的故事。"
+  },
+  "acts": [
+    {
+      "id": "start",
+      "number": "I",
+      "title": "示警",
+      "deck": "想帮忙，又不能说得太清。",
+      "summary": "善意进入现实后，产生了未预料的反应。",
+      "range": "01—03"
+    },
+    {
+      "id": "pressure",
+      "number": "II",
+      "title": "追问",
+      "deck": "把最顺手的因果重新拆开。",
+      "summary": "娃娃、口供和一次停车冲突，让吉米需要别人的经验。",
+      "range": "04—07"
+    },
+    {
+      "id": "choice",
+      "number": "III",
+      "title": "验证",
+      "deck": "走出去，找到能够核对的人。",
+      "summary": "营地回答失踪问题，现金带来新的选择。",
+      "range": "08—10"
+    }
+  ]
+}
