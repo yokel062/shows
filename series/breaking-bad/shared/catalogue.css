@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;500;600;700&display=swap');
+
+:root {
+  color-scheme: dark;
+  --background: #101e18;
+  --surface: #17291f;
+  --ink: #ecebdd;
+  --muted: #a5b0a2;
+  --gold: #d3ba85;
+  --sage: #b7c6a1;
+  --line: #39483a;
+  --serif: 'Noto Serif SC', 'Noto Serif CJK SC', 'Songti SC', serif;
+  --sans: 'Noto Sans SC', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 100px; }
+body { margin: 0; background: var(--background); color: var(--ink); font: 14px/1.9 var(--sans); -webkit-font-smoothing: antialiased; }
+h1, h2, h3, p, figure { margin: 0; }
+h2, h3 { font-family: var(--serif); font-weight: 500; }
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; height: auto; }
+button, summary { font: inherit; cursor: pointer; }
+a:focus-visible, summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 6px; }
+section[id], article[id] { scroll-margin-top: 12px; }
+.page-width { width: calc(100% - 144px); max-width: 1240px; margin-inline: auto; }
+.eyebrow { font: 500 10px/1.8 var(--sans); letter-spacing: 2.3px; color: var(--gold); }
+.skip-link { position: fixed; top: -100px; left: 20px; z-index: 100; padding: 10px 20px; background: var(--gold); color: var(--background); }
+.skip-link:focus { top: 14px; }
+.masthead { position: sticky; top: 0; z-index: 30; height: 76px; padding-inline: 3.5%; display: flex; align-items: center; justify-content: space-between; gap: 28px; border-bottom: 1px solid #53614a66; background: #101e18f5; backdrop-filter: blur(12px); }
+.brand { display: inline-flex; align-items: center; gap: 10px; font: 500 21px var(--serif); letter-spacing: 2px; white-space: nowrap; }
+.brand>span { color: var(--gold); font: 29px Georgia, serif; }
+.brand small { margin-left: 12px; font: 8px var(--sans); letter-spacing: 1.8px; color: #bbc4b3; }
+.masthead nav { display: flex; gap: 35px; font-size: 12px; }
+.masthead nav a { padding: 25px 0; color: #c4ccbb; transition: color .2s; }
+.masthead nav a:hover { color: var(--gold); }
+.masthead-edition { display: inline-flex; gap: 17px; align-items: center; color: #b6bea6; font: 10px monospace; letter-spacing: 2px; }
+.masthead-edition i { width: 3px; height: 3px; background: var(--gold); }
+
+.cover { position: relative; isolation: isolate; overflow: hidden; min-height: 682px; background: #101e18; }
+.cover-image { position: absolute; z-index: -3; right: 0; top: 0; width: 73%; height: 100%; max-width: none; object-fit: cover; object-position: 68% 36%; filter: saturate(.66) brightness(.87); }
+.cover-shade { position: absolute; z-index: -2; inset: 0; background: linear-gradient(90deg, #101e18 2%, #101e18fa 20%, #101e18e3 35%, #101e1880 52%, #101e180a 74%), linear-gradient(0deg, #101e18 0%, #101e18bd 8%, transparent 39%); }
+.cover-grid { position: absolute; z-index: -1; inset: 0 auto 0 0; width: 44%; background-image: linear-gradient(#9caf6b06 1px, transparent 1px), linear-gradient(90deg, #9caf6b06 1px, transparent 1px); background-size: 62px 62px; mask-image: linear-gradient(90deg, #000, transparent); }
+.cover-content { padding-top: 52px; padding-bottom: 88px; position: relative; }
+.cover-kicker { display: flex; gap: 13px; align-items: center; color: #d5c28e; }
+.cover-kicker>span { width: 28px; height: 1px; background: var(--gold); }
+.chemical-title { display: grid; gap: 8px; width: max-content; margin: 24px 0 22px; font: 600 98px/.95 Arial, Helvetica, sans-serif; letter-spacing: -5px; }
+.chemical-title>span { display: flex; align-items: center; }
+.chemical-element { flex: 0 0 110px; height: 110px; display: inline-flex; justify-content: center; align-items: center; position: relative; margin-right: 3px; padding-top: 8px; border: 1px solid #a2b98b; background: linear-gradient(135deg, #65834c7a, #254b36cc); box-shadow: inset 0 0 35px #b3d28611; font-size: 78px; letter-spacing: -5px; }
+.chemical-element small { position: absolute; right: 8px; top: 7px; font: 11px/1 monospace; letter-spacing: 0; color: #d1dfbb; }
+.title-rule { height: 1px; width: 98px; background: #b9c39a77; margin-left: 28px; align-self: flex-end; margin-bottom: 19px; }
+.cover-chinese { display: flex; gap: 25px; align-items: center; }
+.cover-chinese strong { font: 500 32px/1.5 var(--serif); letter-spacing: 10px; }
+.cover-chinese>span { padding-left: 24px; border-left: 1px solid #8c9c7a66; color: var(--gold); font: 14px var(--serif); letter-spacing: 3px; }
+.cover-deck { margin-top: 23px; max-width: 470px; font-size: 14px; line-height: 2.1; color: #c6ceba; }
+.cover-actions { display: flex; align-items: center; gap: 30px; margin-top: 28px; }
+.primary-link { display: inline-flex; align-items: center; justify-content: space-between; gap: 38px; padding: 13px 23px; color: #14251a; background: #d3bf8c; font-size: 12px; transition: background .2s; }
+.primary-link:hover { background: #e9d6a5; }
+.primary-link>span { font-size: 17px; }
+.text-link { display: inline-flex; align-items: center; gap: 30px; border-bottom: 1px solid #829276; padding: 8px 0; color: #d3d9c5; font-size: 12px; }
+.text-link:hover { color: var(--gold); border-color: var(--gold); }
+.cover-coordinate { position: absolute; top: 35px; right: 3.5%; color: #e2e1c6b0; text-align: right; font: 9px/1.9 monospace; letter-spacing: 2px; }
+.cover-footer { position: absolute; bottom: 23px; left: 0; right: 0; display: flex; justify-content: space-between; gap: 30px; font-size: 10px; color: #b9c5a9; letter-spacing: 1px; }
+.cover-footer a { font-size: 8px; letter-spacing: .2px; text-align: right; }
+.cover-footer a:hover { color: var(--gold); }
+
+.season-ribbon { border-top: 1px solid #63754a80; border-bottom: 1px solid #63754a80; background: #203022; }
+.ribbon-inner { display: flex; justify-content: space-between; align-items: center; gap: 30px; padding-block: 23px; }
+.ribbon-title>span { display: block; color: #acb995; font: 8px/2 monospace; letter-spacing: 2px; }
+.ribbon-title strong { font: 500 17px/1.8 var(--serif); color: #dbdfc8; letter-spacing: 2px; }
+.season-totals { display: flex; align-items: center; gap: 55px; }
+.season-totals>span { display: flex; align-items: baseline; gap: 12px; color: #bdc6ab; font-size: 10px; }
+.season-totals b { font: 35px/1.2 Georgia, serif; color: #dbc58d; }
+.ribbon-index { font-size: 11px; color: #d3dcbb; }
+.ribbon-index span { margin-left: 20px; }
+.archive-intro { display: grid; grid-template-columns: 1.1fr 1fr; align-items: center; gap: 80px; padding-top: 76px; padding-bottom: 40px; }
+.intro-heading h2 { margin-top: 14px; font-size: 35px; line-height: 1.7; letter-spacing: 1px; }
+.intro-heading em { font-style: normal; color: #b9c6a1; }
+.intro-copy>p { color: #bdc6b5; line-height: 2.1; margin-top: 12px; }
+.intro-copy>small { display: block; color: #96a18c; font-size: 10px; line-height: 1.9; margin-top: 15px; }
+.episode-index { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-bottom: 62px; }
+.episode-index a { position: relative; display: flex; gap: 13px; align-items: center; padding: 18px 19px; border-right: 1px solid var(--line); transition: background .2s; }
+.episode-index a:first-child { padding-left: 0; }
+.episode-index a:last-child { border-right: 0; }
+.episode-index b { font: 25px/1 Georgia, serif; color: #b5c397; font-weight: 400; }
+.episode-index span { font-size: 11px; color: #c6cebb; }
+.episode-index a:hover { background: #afc68912; }
+.episode-index a:hover b { color: var(--gold); }
+
+.archive-group { margin-bottom: 74px; }
+.group-heading { display: flex; align-items: flex-end; gap: 25px; padding-bottom: 24px; border-bottom: 1px solid #66754d; margin-bottom: 30px; }
+.group-number { font: 57px/1 Georgia, serif; color: #768865; min-width: 58px; }
+.group-heading .eyebrow { font-size: 9px; letter-spacing: 2px; }
+.group-heading h2 { font-size: 28px; letter-spacing: 3px; line-height: 1.7; margin-top: 3px; }
+.group-heading>p { margin-left: auto; margin-bottom: 4px; max-width: 390px; font-size: 12px; line-height: 2; color: var(--muted); }
+.season-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 35px 32px; }
+.season-card { min-width: 0; display: flex; flex-direction: column; }
+.season-photo { display: block; position: relative; overflow: hidden; background: #1e3022; }
+.season-photo::after { content: ''; position: absolute; inset: 0; background: linear-gradient(0deg, #0c1a13b3, transparent 42%); pointer-events: none; }
+.season-photo img { width: 100%; aspect-ratio: 16/9; object-fit: cover; filter: saturate(.74); transition: transform .6s; }
+.season-photo:hover img { transform: scale(1.025); }
+.frame-number { position: absolute; z-index: 1; bottom: 16px; left: 22px; font: 46px/1 Georgia, serif; color: #f0ebd5; font-weight: 400; }
+.frame-kind { position: absolute; z-index: 1; top: 16px; right: 16px; padding: 3px 9px; background: #101e18b3; border: 1px solid #d7ddc147; color: #e1e3cc; font-size: 8px; letter-spacing: 1px; }
+.frame-arrow { position: absolute; z-index: 1; bottom: 20px; right: 22px; width: 28px; height: 28px; display: grid; place-items: center; border: 1px solid #e0e3c67a; color: #f0eed8; font: 17px/1 Arial, sans-serif; transition: background .2s; }
+.season-photo:hover .frame-arrow { background: #b5c89c40; }
+.season-copy { padding: 23px 2px 0; display: flex; flex-direction: column; flex: 1; }
+.episode-original { font: 10px/1.8 var(--sans); letter-spacing: 1px; color: #a8b59b; overflow-wrap: anywhere; }
+.episode-original>span:first-child { color: var(--gold); margin-right: 12px; font-family: monospace; letter-spacing: 1.5px; }
+.season-copy h3 { font-size: 25px; line-height: 1.75; margin: 13px 0 16px; color: #e6e7d4; letter-spacing: .5px; }
+.season-copy .episode-deck { font-size: 13px; color: #aebba5; line-height: 2.15; max-width: 540px; }
+.episode-topics { color: #c1bd91; font-size: 10px; letter-spacing: 1px; margin-top: 20px; margin-bottom: 17px; }
+.episode-bottom { display: flex; justify-content: space-between; align-items: center; gap: 18px; border-top: 1px solid var(--line); padding-top: 16px; margin-top: auto; }
+.season-read { display: flex; gap: 35px; align-items: center; color: #d7c28d; font-size: 12px; }
+.season-read:hover { color: #f0dfb5; }
+.episode-bottom>small { font-size: 9px; color: #97a38e; }
+.season-card.is-featured { grid-column: 1 / -1; display: grid; grid-template-columns: 1.2fr 1fr; background: #1b2d22; }
+.is-featured .season-photo { min-height: 405px; }
+.is-featured .season-photo img { position: absolute; width: 100%; height: 100%; aspect-ratio: auto; object-position: 55% 50%; }
+.is-featured .frame-number { font-size: 65px; bottom: 25px; left: 28px; }
+.is-featured .season-copy { padding: 32px 36px 28px; }
+.is-featured .season-copy h3 { font-size: 29px; }
+.is-featured .episode-deck { font-size: 13px; line-height: 2.1; }
+.is-featured .episode-topics { margin-top: 17px; }
+.is-featured .episode-bottom { margin-top: auto; }
+
+.relationships { padding: 66px 0 70px; background: #e6e3d5; color: #223b2c; border-top: 4px solid #8e9b6c; }
+.relationships .eyebrow { color: #786a44; }
+.relationship-heading { display: flex; justify-content: space-between; gap: 40px; align-items: flex-end; margin-bottom: 38px; }
+.relationship-heading h2 { font-size: 34px; line-height: 1.7; margin-top: 13px; }
+.relationship-heading>p { color: #59644e; font-size: 12px; line-height: 2.1; padding-bottom: 6px; }
+.relationship-heading small { display: block; font-size: 10px; color: #747a63; margin-top: 13px; }
+.relationship-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.relationship-card { padding-inline: 30px; border-left: 1px solid #b3baa2; }
+.relationship-card:first-child { border: 0; padding-left: 0; }
+.relationship-card:last-child { padding-right: 0; }
+.portrait-pair { display: flex; align-items: center; width: 195px; padding-bottom: 18px; }
+.portrait-pair img { width: 64px; height: 64px; object-fit: cover; border-radius: 50%; filter: saturate(.65); border: 3px solid #e6e3d5; outline: 1px solid #a1af91; }
+.portrait-pair>span { width: 45px; height: 1px; background: #8c9b79; position: relative; }
+.portrait-pair>span::after { content: '×'; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding-inline: 4px; background: #e6e3d5; color: #7c8e6e; font-size: 12px; }
+.relationship-card .relation-label { color: #847047; font-size: 10px; letter-spacing: 2px; }
+.relationship-card h3 { margin: 10px 0 15px; font-size: 22px; }
+.relationship-card>p:last-of-type { color: #59664f; font-size: 12px; line-height: 2.1; }
+.relationship-card>a { display: inline-flex; gap: 24px; margin-top: 18px; color: #626b45; font-size: 11px; padding-bottom: 4px; border-bottom: 1px solid #a9af91; }
+.relationship-card>a:hover { color: #2a4c33; }
+.reading-note { padding-block: 70px; display: grid; grid-template-columns: .85fr 1.8fr; gap: 70px; }
+.reading-title h2 { font-size: 28px; line-height: 1.85; margin-top: 14px; }
+.reading-title .text-link { margin-top: 16px; }
+.reading-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px; padding-top: 7px; }
+.reading-columns article { border-top: 1px solid #77875b; padding-top: 17px; }
+.reading-columns article>span { color: #b7c5a2; font-size: 9px; letter-spacing: 1px; }
+.reading-columns h3 { font: 500 14px/1.8 var(--serif); margin: 13px 0; }
+.reading-columns p { font-size: 11px; color: #a4b199; line-height: 2.2; }
+.catalogue-sources { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.catalogue-sources summary { display: flex; align-items: center; justify-content: space-between; list-style: none; padding: 19px 0; font-size: 11px; color: #bbc4a9; }
+.catalogue-sources summary::-webkit-details-marker { display: none; }
+.catalogue-sources summary>span { font-size: 18px; font-weight: 400; color: var(--gold); }
+.catalogue-sources[open] summary>span { transform: rotate(45deg); }
+.catalogue-sources>div { padding: 0 0 25px; color: #a8b399; font-size: 11px; line-height: 2; }
+.catalogue-sources ul { columns: 2; list-style: none; padding: 0; margin-bottom: 0; }
+.catalogue-sources li { padding-block: 4px; break-inside: avoid; }
+.catalogue-sources li a { color: #c9ba90; }
+.footer-bottom { display: flex; justify-content: space-between; align-items: center; gap: 30px; padding-block: 29px; color: #a7b395; font-size: 10px; }
+.footer-bottom>.brand { color: var(--ink); font-size: 17px; }
+.footer-bottom>span { font: 8px monospace; letter-spacing: 1.6px; }
+.footer-bottom>a:hover { color: var(--gold); }
+
+@media (min-width: 1600px) {
+  .cover { min-height: 720px; }
+  .cover-content { padding-top: 66px; }
+  .cover-image { width: 70%; object-position: 68% 36%; }
+  .chemical-title { font-size: 106px; }
+  .chemical-element { flex-basis: 118px; height: 118px; font-size: 84px; }
+}
+@media (max-width: 1150px) {
+  .page-width { width: calc(100% - 80px); }
+  .brand small { display: none; }
+  .masthead-edition { font-size: 9px; gap: 10px; }
+  .cover-image { width: 78%; object-position: 58% center; }
+  .cover-shade { background: linear-gradient(90deg, #101e18 0%, #101e18f5 18%, #101e18b3 40%, #101e181a 78%), linear-gradient(0deg, #101e18, transparent 40%); }
+  .chemical-title { font-size: 88px; }
+  .chemical-element { flex-basis: 100px; height: 100px; font-size: 72px; }
+  .season-totals { gap: 30px; }
+  .ribbon-index { display: none; }
+  .archive-intro { gap: 45px; }
+  .intro-heading h2 { font-size: 30px; }
+  .episode-index a { padding-inline: 12px; gap: 8px; }
+  .episode-index b { font-size: 22px; }
+  .episode-index span { font-size: 10px; }
+  .is-featured .season-copy { padding: 25px 26px; }
+  .is-featured .season-copy h3 { font-size: 23px; }
+  .group-heading>p { max-width: 330px; }
+  .relationship-card { padding-inline: 24px; }
+  .relationship-card h3 { font-size: 19px; }
+  .reading-note { gap: 40px; grid-template-columns: .8fr 1.8fr; }
+  .reading-title h2 { font-size: 24px; }
+}
+@media (max-width: 800px) {
+  .page-width { width: calc(100% - 44px); }
+  .masthead { height: 66px; padding-inline: 22px; }
+  .masthead nav { gap: 20px; font-size: 11px; }
+  .masthead-edition { display: none; }
+  .cover-image { width: 100%; object-position: 65% center; opacity: .66; }
+  .cover-shade { background: linear-gradient(90deg, #101e18eb, #101e1899 50%, #101e1833), linear-gradient(0deg, #101e18, transparent 50%); }
+  .cover-coordinate { display: none; }
+  .cover-chinese { gap: 15px; }
+  .cover-chinese strong { font-size: 27px; letter-spacing: 6px; }
+  .cover-chinese>span { padding-left: 14px; font-size: 12px; }
+  .cover-footer>span { display: none; }
+  .cover-footer { justify-content: flex-end; }
+  .ribbon-title { display: none; }
+  .season-totals { width: 100%; justify-content: space-between; gap: 15px; }
+  .season-totals b { font-size: 28px; }
+  .archive-intro { grid-template-columns: 1fr; gap: 15px; padding-top: 50px; }
+  .intro-heading h2 br { display: none; }
+  .intro-heading h2 { font-size: 27px; }
+  .episode-index a { justify-content: center; padding-inline: 5px; }
+  .episode-index a:first-child { padding-left: 5px; }
+  .episode-index span { display: none; }
+  .group-heading { flex-wrap: wrap; gap: 15px; }
+  .group-heading>p { margin-left: 0; max-width: none; flex-basis: 100%; }
+  .group-heading h2 { font-size: 25px; }
+  .season-grid { grid-template-columns: 1fr; }
+  .season-card.is-featured { display: flex; }
+  .is-featured .season-photo { min-height: 0; }
+  .is-featured .season-photo img { position: static; aspect-ratio: 16/9; }
+  .season-copy h3, .is-featured .season-copy h3 { font-size: 24px; }
+  .is-featured .season-copy { padding: 25px; }
+  .is-featured .episode-deck { font-size: 13px; }
+  .archive-group { margin-bottom: 50px; }
+  .relationship-heading { display: block; }
+  .relationship-heading h2 { font-size: 28px; }
+  .relationship-heading>p { margin-top: 20px; }
+  .relationship-grid { grid-template-columns: 1fr; gap: 25px; }
+  .relationship-card { padding: 25px 0 0; border-left: 0; border-top: 1px solid #b3baa2; }
+  .relationship-card:first-child { padding-top: 0; }
+  .relationship-card h3 { font-size: 22px; }
+  .reading-note { grid-template-columns: 1fr; gap: 35px; }
+  .reading-columns { gap: 20px; }
+  .footer-bottom { flex-wrap: wrap; gap: 20px; }
+  .footer-bottom>span { display: none; }
+}
+@media (max-width: 480px) {
+  .brand { font-size: 18px; }
+  .masthead nav { gap: 15px; font-size: 10px; }
+  .masthead nav a:nth-child(2) { display: none; }
+  .cover { min-height: 650px; }
+  .cover-content { padding-top: 50px; }
+  .chemical-title { font-size: 65px; letter-spacing: -3px; }
+  .chemical-element { flex-basis: 77px; height: 77px; font-size: 56px; letter-spacing: -3px; }
+  .chemical-element small { font-size: 9px; }
+  .title-rule { width: 55px; }
+  .cover-deck { font-size: 12px; }
+  .cover-chinese strong { font-size: 25px; }
+  .cover-chinese>span { font-size: 11px; letter-spacing: 1px; }
+  .season-totals>span { display: block; font-size: 9px; }
+  .season-totals b { display: block; margin-bottom: 5px; }
+  .intro-heading h2 { font-size: 24px; }
+  .reading-columns { grid-template-columns: 1fr; }
+  .catalogue-sources ul { columns: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
+}

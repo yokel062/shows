@@ -159,14 +159,59 @@ def build_catalogue():
     metadata = dict(season=1,complete=True,episodeCount=7,episodes=entries)
     (SHOW / 'season.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2)+'\n')
     e = lambda value: escape(str(value), quote=True)
-    cards = ''
+    topics = ['病与尊严 / 知识与金钱', '分工 / 秘密', '求生 / 道德', '家庭 / 信任', '援助 / 自主', '威慑 / 野心', '承诺 / 暴力']
+    labels = ['起点', '分工', '抉择', '家人', '援助', '威慑', '规则']
+    cards = {}
     for item in entries:
         number, hero = item['number'], item['hero']
         href = f's01e{number:02}/'
-        cards += f'<article class="season-card"><a class="season-photo" href="{href}" target="_blank" rel="noopener"><img src="{href}{e(hero["file"])}" alt="{e(hero["alt"])}" width="{hero["width"]}" height="{hero["height"]}" loading="lazy"><span>FILE {number:02}</span></a><div class="season-copy"><div class="eyebrow">S01 / E{number:02}</div><h2>{e(item["title"])}</h2><h3>{e(item["question"])}</h3><p>{e(item["deck"])}</p><div class="season-stats">12 个剧情节点 · {item["characterCount"]} 位人物 · 4 组冲突</div><a class="season-read" href="{href}" target="_blank" rel="noopener">打开本集档案 <span>↗</span></a><small>剧透截至 S01E{number:02} · 含本集结尾</small></div></article>'
-    html = f'''<!doctype html>
-<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#102a22"><meta name="description" content="绝命毒师第一季七集图文解读：84 个剧情节点、逐集人物关系、冲突深读和真实剧照。"><title>绝命毒师 · 第一季七集阅读档案 — 剧中人</title><link rel="icon" href="shared/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="shared/episode.css"></head><body><header class="masthead"><a class="brand" href="../../"><b>✦</b>剧中人<small>STORY FIELDNOTES</small></a><a class="episode-id" href="../../">全部作品 ↗</a></header><main><section class="season-hero"><div class="wrap"><div class="eyebrow">BREAKING BAD / THE COMPLETE FIRST SEASON</div><h1>绝命毒师<span>第一季 · 变化的代价</span></h1><p>从一张诊断书，到一笔无法轻松退出的生意。<br>七集、七道问题，跟着人物的每一次选择往前走。</p><div class="season-totals"><span><b>07</b>集完整图解</span><span><b>84</b>个剧情节点</span><span><b>28</b>组人物冲突</span></div></div></section><section class="season-body wrap"><div class="section-heading"><div><div class="eyebrow">SEASON 01 / EPISODE ARCHIVE</div><h2>每一步，都改变了下一步。</h2><p>目录直接展示全部七集的配图与导读；标题和导读会提示本集议题。单集在新标签页打开，各篇只使用截至当集已揭示的信息。</p></div><span class="margin-note">2008.01.20<br>— 2008.03.09</span></div><div class="season-grid">{cards}</div><p class="catalogue-credit">图像均来自剧集截图或明确标注的本集宣传剧照。逐图来源、角色照登记与文字依据见各篇篇末。各集均包含默认展开的剧情解读、三阶段关系图、四组冲突、三段短对白与六处镜头细节。</p><div class="footer-bottom"><a href="../../">← 全部作品</a><span>BREAKING BAD / SEASON ONE COMPLETE</span><a href="https://github.com/yokel062/shows/tree/main/series/breaking-bad">源码与内容 / GitHub ↗</a></div></section></main></body></html>'''
-    (SHOW / 'index.html').write_text(html+'\n')
+        featured = ' is-featured' if number == 1 else ''
+        question = e(item['question']).replace('，', '，<br>', 1)
+        photo_label = '<span class="frame-kind">本集宣传剧照</span>' if hero['kind'] == 'episode-production-still' else ''
+        cards[number] = f'''<article class="season-card{featured}" id="episode-{number:02}">
+  <a class="season-photo" href="{href}" target="_blank" rel="noopener" aria-label="打开第 {number} 集图文解读">
+    <img src="{href}{e(hero['file'])}" alt="{e(hero['alt'])}" width="{hero['width']}" height="{hero['height']}" loading="lazy">
+    <span class="frame-number" aria-hidden="true">{number:02}</span>{photo_label}<span class="frame-arrow" aria-hidden="true">↗</span>
+  </a>
+  <div class="season-copy">
+    <div class="episode-original"><span>S01 / E{number:02}</span><span lang="en">{e(item['title'])}</span></div>
+    <h3>{question}</h3>
+    <p class="episode-deck">{e(item['deck'])}</p>
+    <div class="episode-topics">{topics[number - 1]}</div>
+    <div class="episode-bottom"><a class="season-read" href="{href}" target="_blank" rel="noopener">打开本集图解 <span>↗</span></a><small>剧透截至 S01E{number:02}</small></div>
+  </div>
+</article>'''
+    sections = [
+        ('I', '01—03 / THE FIRST STEP', '越界，从来不是一个瞬间。', '诊断之后，是搭档、秘密，和必须面对的人。<br>第一次冒险结束了，后果才刚刚开始。', [1, 2, 3]),
+        ('II', '04—05 / INSIDE THE FAMILY', '家人越靠近，秘密越沉重。', '关心能否抵达一个拒绝被帮助的人？<br>选择权、旧日信任与自尊，在家中发生碰撞。', [4, 5]),
+        ('III', '06—07 / A DIFFERENT KIND OF POWER', '当恐惧，成了一种力量。', '他开始发现自己能让人害怕。<br>可威慑奏效之后，危险真的减少了吗？', [6, 7]),
+    ]
+    groups = ''.join(f'''<section class="archive-group" aria-labelledby="group-{roman}"><div class="group-heading"><span class="group-number" aria-hidden="true">{roman}</span><div><div class="eyebrow">{e(kicker)}</div><h2 id="group-{roman}">{e(title)}</h2></div><p>{deck}</p></div><div class="season-grid">{''.join(cards[number] for number in numbers)}</div></section>''' for roman, kicker, title, deck, numbers in sections)
+    jump_links = ''.join(f'<a href="#episode-{number:02}"><b>{number:02}</b><span>{label}</span></a>' for number, label in enumerate(labels, 1))
+    pilot = json.loads((SHOW / 's01e01/content.json').read_text())
+    cover = next(item for item in pilot['images'] if item['id'] == 'home')
+    hero_image = f'<img class="cover-image" src="s01e01/{e(cover["file"])}" alt="{e(cover["alt"])}" width="{cover["width"]}" height="{cover["height"]}" fetchpriority="high">'
+    registry = json.loads((SHOW / 'shared/portraits.json').read_text())['characters']
+    relationships = [
+        ('jesse', '搭档 / 不对等的需要', '沃尔特 × 杰西', '化学知识与街头经验相互需要，风险与代价却并不对等。一起越界，能不能让他们真正站到同一边？', 2),
+        ('skyler', '家庭 / 被留在秘密之外', '沃尔特 × 斯凯勒', '他把秘密叫作保护，她只能在缺失的信息里追问。对家人的责任，是否也包括让对方知道真相？', 5),
+        ('hank', '亲缘 / 调查的另一面', '沃尔特 × 汉克', '饭桌上的亲人，工作中的调查者。同一件事，在两个男人那里有两套叙述，距离也悄悄发生变化。', 6),
+    ]
+    def portrait(key):
+        person = registry[key]
+        return f'<img src="shared/{e(person["file"])}" alt="{e(person["name"])}的剧中角色照" width="128" height="128" loading="lazy">'
+    relationship_cards = ''.join(f'<article class="relationship-card"><div class="portrait-pair">{portrait("walt")}<span aria-hidden="true"></span>{portrait(key)}</div><p class="relation-label">{e(label)}</p><h3>{e(title)}</h3><p>{e(copy)}</p><a href="s01e{number:02}/#relations" target="_blank" rel="noopener">从第 {number} 集关系图读起 <span>↗</span></a></article>' for key, label, title, copy, number in relationships)
+    image_sources = f'<li>封面 · 第 1 集公路持枪镜头：<a href="{e(cover["sourceUrl"])}" target="_blank" rel="noopener">图像出处 ↗</a></li>'
+    for item in entries:
+        image = item['hero']
+        kind = '本集宣传剧照' if image['kind'] == 'episode-production-still' else '本集截图'
+        image_sources += f'<li>第 {item["number"]} 集 · {kind}：<a href="{e(image["sourceUrl"])}" target="_blank" rel="noopener">图像出处 ↗</a></li>'
+    for key in ['walt', 'jesse', 'skyler', 'hank']:
+        person = registry[key]
+        image_sources += f'<li>{e(person["name"])} · {e(person["actor"])} 饰：<a href="{e(person["sourceUrl"])}" target="_blank" rel="noopener">角色照出处 ↗</a></li>'
+    template = Template((SHOW / 'shared/season-catalogue.html').read_text())
+    html = template.substitute(hero_image=hero_image, hero_source=e(cover['sourceUrl']), groups=groups, jump_links=jump_links, relationship_cards=relationship_cards, image_sources=image_sources)
+    (SHOW / 'index.html').write_text(html.rstrip()+'\n')
     print('Rendered season catalogue: all seven episodes visible')
 
 
