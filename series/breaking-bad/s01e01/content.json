@@ -1,0 +1,664 @@
+{
+  "version": 1,
+  "episode": "S01E01",
+  "title": "Pilot",
+  "airdate": "2008-01-20",
+  "question": "当人生只剩倒计时，越界就有了理由吗？",
+  "intro": "五十岁的沃尔特·怀特，有一份教职、两份工作、一个即将迎来新生命的家庭。肺癌诊断让这一切突然有了期限。他决定用化学知识赚钱，也开始用秘密替家人做决定。本集最值得追问的，是经济困境怎样与自尊纠缠：当他第一次觉得自己有力量时，那股力量会被用在谁身上？",
+  "spoiler": "仅讨论第一季第一集，包含荒漠开场与本集结尾。不涉及后续人物命运，也不借用《风骚律师》的信息。",
+  "prologue": {
+    "title": "先让我们看见失控，再问他如何走到这里。",
+    "fact": "一条裤子从空中落下，房车在荒地上狂奔。戴着防护面罩的男人只穿着内裤，身边有人昏迷。车陷住后，他拿起摄像机向家人留言，再持枪走到路上。画面随后退回三周前。",
+    "analysis": "开场没有先替主人公介绍学历、病情和责任，而是把他的体面剥去。我们先看见危险，才认识那个安静的老师。这种倒叙把悬念从“他会不会越界”转成“每一步，他怎样说服自己”。录像中他急着维护家人对自己的理解，也提示了一个贯穿本集的问题：爱家人的宣言，能够解释多少行为？",
+    "image": "prologue"
+  },
+  "acts": [
+    {
+      "id": "pressure",
+      "number": "I",
+      "title": "日常的重量",
+      "deck": "一个懂得变化的人，困在不变的生活里。",
+      "range": "01—04",
+      "summary": "家庭开支、职业挫败和身体危机逐层叠上来。它们使他的恐惧可信，却还没有替他决定接下来要走哪条路。"
+    },
+    {
+      "id": "choice",
+      "number": "II",
+      "title": "第一次主动越线",
+      "deck": "他开始拒绝服从，也开始要求别人服从。",
+      "range": "05—08",
+      "summary": "辞职、旁观执法、找上杰西、反击霸凌。几件事让他逐渐找回行动力，其中已经混进威胁与暴力：能做决定，与有权替别人做决定，开始被他放在一起。"
+    },
+    {
+      "id": "reaction",
+      "number": "III",
+      "title": "能力与失控",
+      "deck": "化学可以奏效，生活不会按实验步骤运行。",
+      "range": "09—12",
+      "summary": "专业能力给了他成就感，却无法隔离毒品交易的暴力。活着回家只是这一天的结果；家人依然没有获得理解这一天所需的信息。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "fifty",
+      "act": "pressure",
+      "where": "怀特家 · 五十岁生日早晨",
+      "title": "盘子里是五十岁，话题里是热水器。",
+      "image": "breakfast",
+      "fact": "斯凯勒用素培根摆出“50”，为丈夫庆生。早餐谈到工作时间、家里不够用的热水，以及小沃尔特对食物的不满。一个生日就这样嵌在日常安排中。",
+      "analysis": "这顿饭同时有温情和窘迫。斯凯勒关心丈夫的健康，也提醒他别被洗车店无偿拖延；小沃尔特的抱怨则让经济问题有了具体形状。镜头没有证明家人不爱沃尔特，而是让我们看到，爱无法自动消除疲惫。把这一幕读成“妻儿让他犯罪”，会抹去后来真正由他自己做出的选择。",
+      "turn": "家庭需要他继续承担，而他感受到的是生活空间越来越窄。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "teacher",
+      "act": "pressure",
+      "where": "高中教室 → 洗车店",
+      "title": "他讲得出变化，却改变不了处境。",
+      "image": "classroom",
+      "fact": "课堂上，沃尔特热情地讲解化学与变化，学生的注意力却很有限。课后他到洗车店兼职，被老板安排去擦车，还碰上自己的学生，对方拍下他工作的样子。",
+      "analysis": "两种工作把同一个矛盾放大了：他拥有知识，却很难把知识换成收入、尊重或对时间的支配。学生从课堂来到车窗后，老师的权威也被当成笑料。伤人的不是擦车本身，而是被迫让两个身份以羞辱的方式相撞。他对专业的骄傲仍在，只是找不到一个愿意认真听他的地方。",
+      "turn": "当合法劳动无法带来他渴望的承认，另一种衡量能力的方式开始具有诱惑。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "hank",
+      "act": "pressure",
+      "where": "生日聚会 · 电视机前",
+      "title": "主角是寿星，中心却是汉克。",
+      "image": "birthday",
+      "fact": "担任 DEA 探员的连襟汉克在聚会上展示手枪，并让大家看自己的缉毒新闻。电视出现查获的现金，沃尔特追问其中的金额。汉克邀请他以后跟车旁观行动。",
+      "analysis": "汉克把枪、玩笑和职业故事带进客厅，自然成为大家的焦点。他未必怀着恶意，但他调侃沃尔特不熟悉武器时，也替在场的人规定了谁强悍、谁文弱。沃尔特注意到现金，使这一场多了一层因果：对汉克而言是执法成绩，对他却成了一笔突然可见的收入。亲戚间的热闹，无意间替犯罪打开了想象的入口。",
+      "turn": "汉克给的是一次参观机会，沃尔特随后把它变成了发现犯罪搭档的机会。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "diagnosis",
+      "act": "pressure",
+      "where": "洗车店倒下 → 医生办公室",
+      "title": "他听见癌症，却盯着一小块污渍。",
+      "image": "diagnosis",
+      "fact": "沃尔特工作时倒下，检查后被告知患有无法手术的肺癌。医生向他解释病情，他的注意力却落到对方衣服上的芥末渍。他回家后没有告诉斯凯勒诊断结果。",
+      "analysis": "芥末渍把震惊拍得非常具体。巨大的坏消息一时无法吸收，意识转而抓住一个微小、无关的细节。这还不是一个冷静的犯罪计划，而是一个人刚刚失去对未来的把握。真正影响关系的动作出现在回家以后：他把恐惧留给自己，也把家人排除在关于病情和未来的讨论之外。",
+      "turn": "死亡期限进入了他的生活，却没有进入家人的共同信息。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "quit",
+      "act": "choice",
+      "where": "洗车店 · 再次被要求擦车",
+      "title": "第一次说“不”，还不是完整的答案。",
+      "image": "quit",
+      "fact": "老板再次让沃尔特去擦车。他突然爆发，辱骂老板并离开洗车店。随后，他打电话给汉克，提出参加此前约好的跟车行动。",
+      "analysis": "这场爆发很容易令人痛快，因为我们刚看过他被轻视。但辞职只解决了眼前的服从，没有解决收入与病情。他开始用行动打破惯性，同时放弃一份确定的收入。镜头让观众获得宣泄，也留下了一个需要继续判断的问题：拒绝忍受之后，他准备拿什么替代原来的生活？",
+      "turn": "日常秩序被他亲手切开，下一步是靠近汉克展示过的那个世界。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "ridealong",
+      "act": "choice",
+      "where": "DEA 跟车行动 · 屋外",
+      "title": "别人看见一次抓捕，他看见一个熟人。",
+      "image": "raid",
+      "fact": "汉克和搭档戈麦斯突袭一处制毒窝点。等在外面的沃尔特看见前学生杰西·平克曼从邻近房屋逃走；两人认出了彼此。杰西的同伙埃米利奥在行动中被捕。",
+      "analysis": "偶遇让陌生行业突然有了一个可接近的人。沃尔特不必自己建立所有渠道，也不必先承认自己一无所知：他可以找到昔日学生，带着老师的身份开口。杰西看到的却是另一种危险——一个能够认出自己、又和执法者坐在同一辆车里的人。两人共享的过去，从第一刻起就是不对等的资源。",
+      "turn": "一次目击，把沃尔特的好奇变成了可以施压的筹码。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "partnership",
+      "act": "choice",
+      "where": "杰西住处 · 夜谈与筹备",
+      "title": "所谓合作，开头是一句威胁。",
+      "image": "partnership",
+      "fact": "沃尔特找上杰西，提出由自己负责化学、杰西负责生意；如果拒绝，就向警方举报他。两人随后争论设备和产品标准，筹钱购买房车。杰西追问他的变化，他回答自己“醒了”。",
+      "analysis": "这是首集最关键的主动越界。他没有先获得杰西的信任，而是利用对方害怕被捕的处境。两人的能力确实互补：沃尔特懂实验，杰西知道交易和藏身的风险；但沃尔特只愿充分承认前一种知识。师生身份被带进犯罪搭档关系，技术上的自信与对人的支配也从这里绑在一起。",
+      "turn": "他们成立了搭档，却没有建立平等和安全感。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "store",
+      "act": "choice",
+      "where": "服装店 · 小沃尔特试衣",
+      "title": "保护儿子，也在试探自己的力量。",
+      "image": "store",
+      "fact": "几个年轻人模仿小沃尔特的行动方式来嘲笑他。斯凯勒试着安抚儿子；沃尔特从店外绕回，踩住其中一人的腿，迫使对方退缩，并继续挑衅他还手。",
+      "analysis": "愤怒有明确的正当起点：儿子正遭受恶意羞辱。但出手之后，沃尔特没有立即停下，而是继续逼对方较量。保护与泄愤在同一场里重叠了。这一幕发生在第一次制毒之前，提醒我们他的变化已进入家庭生活；他开始从“终于能让别人怕我”中获得一种过去缺少的确定感。儿子的尊严，也不该只被当作父亲证明力量的道具。",
+      "turn": "行动力带来快感，也让暴力更容易被他理解成有效的解决办法。",
+      "sources": [
+        "transcript",
+        "episode"
+      ]
+    },
+    {
+      "id": "cook",
+      "act": "reaction",
+      "where": "荒漠 · 房车内外",
+      "title": "他终于遇到一个认真夸他的人。",
+      "image": "cook",
+      "fact": "两人开着房车进入荒地。沃尔特为避免衣物沾染气味而脱去长裤，完成第一批制品。杰西对成品的纯度非常惊讶，称赞他的手艺；沃尔特则把成果归于基础化学。",
+      "analysis": "同样的专业，课堂上换来走神，在这里换来赞叹。这种反差让成就感有了危险的温度：终于有人看见他擅长的事情，而且看见的是立刻能够变现的结果。与此同时，保住“好衣服”的念头又很荒诞。他努力隔离气味，仿佛只要回家时外观如常，就能隔离行为对家庭的影响。",
+      "turn": "技术成功让他们准备进入交易；真正难以控制的部分才刚刚开始。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "dealers",
+      "act": "reaction",
+      "where": "城里 → 荒漠交易点",
+      "title": "产品很好，不等于交易安全。",
+      "image": "dealers",
+      "fact": "杰西拿成品去找克雷兹八。已获释的埃米利奥怀疑杰西出卖了自己，随后与克雷兹八一同来到房车。埃米利奥认出沃尔特曾出现在抓捕现场，局势迅速转成持枪威胁。",
+      "analysis": "沃尔特把自己的优势想成了通行证，但纯度无法回答对方最在乎的问题：你是否可信，是否和警方有关？杰西带来的渠道也自带旧关系和旧猜疑。这不是一个把技术做好就会自动获得回报的市场。更尖锐的反讽在于，汉克的跟车邀请既帮他找到搭档，也使他在交易现场更像一个危险的目击者。",
+      "turn": "两人还没有挣到预想中的钱，就先落入了暴力关系。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "rv",
+      "act": "reaction",
+      "where": "房车内部 · 枪口之下",
+      "title": "知识救了他，也成了伤害的工具。",
+      "image": "rv",
+      "fact": "杰西被打昏。沃尔特提出展示技术以换取活命机会，进入房车后利用有毒气体制住两名持枪者，自己逃到车外并关住车门。附近的植被也已起火。",
+      "analysis": "此刻有直接而真实的生命威胁，因此不能把他的所有行动简单写成炫耀力量。但这一场仍把先前那句“我懂化学”推到了更沉重的位置：同一种知识，可以教课、制造商品，也可以伤害他人。剧集同时保留求生的紧迫和后果的恐怖。理解他的求生反应，并不意味着先前主动进入危险交易的决定就被一笔勾销。",
+      "turn": "眼前的枪口暂时离开，现场的混乱与后果仍在扩散。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "home",
+      "act": "reaction",
+      "where": "荒地公路 → 怀特家卧室",
+      "title": "他活着回家，家人却仍不知发生了什么。",
+      "image": "home",
+      "fact": "剧情回到开场：房车陷住，沃尔特以为警察将至，录下留言，并一度试图用枪自尽但未成功。驶来的其实是消防车。夜里他回到家，面对斯凯勒的疑问没有交代真相，而是主动亲近她。",
+      "analysis": "警笛误会让紧张突然松开，也暴露出他的掌控感多么脆弱：他连逼近自己的是什么都判断错了。结尾的亲密可以读成死里逃生后的兴奋，却不能替代沟通。斯凯勒感到了变化，观众知道变化的来源，唯独她不知道。这个家庭表面回到了原处，成员之间的信息距离却已经扩大。",
+      "turn": "首集结束在一次被感知却没有被解释的变化上。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    }
+  ],
+  "characters": {
+    "walt": {
+      "role": "化学老师 / 丈夫与父亲 / 新手制毒者",
+      "want": "为家人留下钱，也重新体验自己的能力确实有分量。后一点是对本集行为的解读。",
+      "leverage": "化学知识、教师身份，以及目击杰西逃走后掌握的信息。",
+      "fact": "隐瞒癌症诊断，辞去兼职，威胁杰西合作，并在交易中遭遇枪口。",
+      "analysis": "困境足以解释恐惧，无法替每次选择签字。他既想承担责任，也开始剥夺家人和搭档参与决定的机会。"
+    },
+    "jesse": {
+      "role": "前学生 / 小规模毒品生意参与者",
+      "want": "避开抓捕，维持收入，同时保住自己的住处和活动空间。",
+      "leverage": "交易渠道、街头经验、对藏匿风险的认识。",
+      "fact": "逃过突袭，被沃尔特以举报相威胁；负责寻找房车与买家，随后遭到同伙怀疑和殴打。",
+      "analysis": "他会犯错，也拥有老师缺少的常识。旧日师生关系让他的经验容易被轻视，合作从开始就带着被迫接受的成分。"
+    },
+    "skyler": {
+      "role": "沃尔特的妻子 / 怀孕中的家庭成员",
+      "want": "让家庭的健康、预算与日常继续运转，理解丈夫突然出现的变化。",
+      "leverage": "对家庭生活的了解，以及对丈夫状态的观察。她并不知道诊断与犯罪。",
+      "fact": "准备生日早餐，关心丈夫的工作安排，与玛丽聊天，并在结尾询问他的异常。",
+      "analysis": "她的提醒有管理日常的语气，也有保护丈夫的内容。把她当作沃尔特越界的原因，会忽略她根本没有得到共同处理危机的信息。"
+    },
+    "hank": {
+      "role": "连襟 / DEA 探员",
+      "want": "在工作和家庭场合表现自己的能力，也让沃尔特见识他的职业。",
+      "leverage": "执法权力、行动经验，以及在聚会中自然占据中心的表达方式。",
+      "fact": "展示手枪和缉毒新闻，邀请沃尔特跟车，并在突袭中逮捕埃米利奥。",
+      "analysis": "他的热情与轻慢可以同时存在。本集里他尚不知道沃尔特的计划，却无意间同时提供了金钱诱惑、接触机会和暴露风险。"
+    },
+    "junior": {
+      "role": "沃尔特与斯凯勒的儿子 / 少年",
+      "want": "被当成有喜好、有判断的普通少年，得到应有的尊重。",
+      "leverage": "他会直接表达食物、衣服和日常生活中的不满。",
+      "fact": "参与生日早餐，在服装店选衣服，并受到几个年轻人的恶意模仿。",
+      "analysis": "脑瘫是角色处境的一部分，不是他的全部。他有自己的幽默和意见；父亲保护他的举动，也需要与父亲借机宣泄的部分分开看。"
+    },
+    "marie": {
+      "role": "斯凯勒的妹妹 / 汉克的妻子",
+      "want": "了解姐姐的近况，并对她的工作与婚姻提出自己的意见。",
+      "leverage": "亲属关系带来的熟悉感，以及直接、主动的追问。",
+      "fact": "与斯凯勒聊网上售卖、写作和夫妻生活，并注意到沃尔特比平时安静。",
+      "analysis": "她的关心常带评判，但这一集也让她察觉了异常。家庭并非完全没有注意到沃尔特，而是不知道该怎样解释他的变化。"
+    },
+    "krazy8": {
+      "role": "杰西接触的毒品经销者",
+      "want": "判断产品与来路，维护交易中的安全和优势。",
+      "leverage": "购买渠道、武器，以及与埃米利奥的关系。",
+      "fact": "查看杰西带来的成品，与埃米利奥前往荒漠，并持枪控制现场。",
+      "analysis": "他把纯度带来的商业兴趣与对来人的怀疑放在一起。对沃尔特而言，这揭开了技术价值之外的另一套秩序。"
+    },
+    "emilio": {
+      "role": "杰西原先的搭档 / 克雷兹八的亲属",
+      "want": "查清自己被捕的原因，确认是否遭人出卖。",
+      "leverage": "与杰西的旧关系，以及认出沃尔特在突袭现场出现过的记忆。",
+      "fact": "被 DEA 逮捕后获释，怀疑杰西，认出沃尔特，并在荒漠参与暴力威胁。",
+      "analysis": "他把两段相遇接在了一起，使沃尔特的双重身份无法继续安稳并存。他的怀疑推动危险升级，但本页不借后续剧情解释其命运。"
+    }
+  },
+  "phases": [
+    {
+      "id": "before",
+      "name": "01 · 生日与诊断",
+      "note": "先看他原有的家庭关系。杰西与毒贩此时还没有进入他的实际行动；淡线表示尚未发生的本集联系。",
+      "edges": [
+        "亲密 / 共同日常",
+        "父子 / 经济责任",
+        "连襟 / 强弱落差",
+        "尚未重逢",
+        "尚未接触",
+        "姐妹 / 互相评议"
+      ],
+      "details": {
+        "walt": "家人与工作仍围绕着他，但他感到的价值与承担并不相称。",
+        "jesse": "此阶段尚未与沃尔特重逢。",
+        "skyler": "关心家庭健康和预算；诊断被隐瞒后，她仍按原有信息理解丈夫。",
+        "hank": "以玩笑和职业故事占据聚会中心，提出跟车邀请。",
+        "junior": "参与家庭早餐，有自己的不满和玩笑。",
+        "marie": "以姐妹的熟悉口吻关心、评价斯凯勒的生活。",
+        "krazy8": "此阶段尚未与沃尔特接触。",
+        "emilio": "尚未进入沃尔特的行动线。"
+      }
+    },
+    {
+      "id": "pact",
+      "name": "02 · 重逢与搭档",
+      "note": "跟车行动使两条生活线相接。沃尔特掌握杰西的秘密，却继续向家人隐藏自己的病情和新计划。",
+      "edges": [
+        "隐瞒 / 信息不对等",
+        "保护 / 暴力反击",
+        "跟车 / 意外入口",
+        "举报威胁 / 技术搭档",
+        "渠道尚未接通",
+        "关心 / 察觉异常"
+      ],
+      "details": {
+        "walt": "利用目击信息迫使杰西合作，以技术优势主导分工。",
+        "jesse": "失去原有搭档与设备，又受到举报威胁；提供渠道与藏匿经验。",
+        "skyler": "察觉丈夫比平时安静，但没有被告知真实原因。",
+        "hank": "完成抓捕，并不知道自己的邀请如何被利用。",
+        "junior": "遭到霸凌，看到父亲以强硬方式介入。",
+        "marie": "追问沃尔特的变化，暂时用中年危机理解它。",
+        "krazy8": "还未接触新制品与沃尔特。",
+        "emilio": "遭到逮捕，他与杰西之间的信任即将成为交易风险。"
+      }
+    },
+    {
+      "id": "danger",
+      "name": "03 · 荒漠与归家",
+      "note": "技术把两人连成搭档，暴力又把他们绑进共同后果。家人只看到沃尔特的改变，仍不知道改变从何而来。",
+      "edges": [
+        "归家 / 继续隐瞒",
+        "父亲身份 / 录像告别",
+        "执法身份 / 暴露线索",
+        "合作 / 共同危险",
+        "产品吸引 / 枪口相向",
+        "知情有限 / 亲属日常"
+      ],
+      "details": {
+        "walt": "专业获得赞叹，随后在暴力中求生；回家时仍未向妻子说明真相。",
+        "jesse": "赞叹成品，却把旧关系与猜疑一同带回现场，随后受伤。",
+        "skyler": "在结尾感到丈夫明显不同，却仍被排除在关键事实之外。",
+        "hank": "没有出现在荒漠；沃尔特跟车时留下的目击印象，却成了危险线索。",
+        "junior": "出现在沃尔特的录像留言中，是他对家庭责任的具体牵挂。",
+        "marie": "没有参与荒漠事件，本集也没有获得相关信息。",
+        "krazy8": "从查看成品转为持枪控制，在房车内遭有毒气体袭击。",
+        "emilio": "认出沃尔特，使猜疑升级；本页停在首集呈现的范围。"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "family",
+      "label": "沃尔特 × 斯凯勒",
+      "left": "替家人负责",
+      "right": "让家人参与",
+      "title": "爱是真实的，隐瞒也是真实的。",
+      "image": "skyler",
+      "text": "沃尔特有理由害怕家人的未来：第二个孩子即将出生，收入紧张，疾病又突然压来。但他没有先把问题带回家庭讨论。他独自选择制毒，把家人放在行动的理由里，却没有放进决定的过程里。",
+      "second": "斯凯勒的日常提醒可能令他感到被管理；从她掌握的信息看，她也在努力维护他的健康和工作边界。两人的冲突因此不仅是性格差异，更是信息不对等：一个人在回应生活变化，另一个人却不知道生活已经发生了什么。",
+      "limit": "阅读边界：本集尚未展开家人得知病情后的反应，不能预先断言她会如何选择。"
+    },
+    {
+      "id": "partners",
+      "label": "沃尔特 × 杰西",
+      "left": "技术权威",
+      "right": "街头经验",
+      "title": "互相需要，不代表彼此尊重。",
+      "image": "partnership",
+      "text": "沃尔特知道怎样提高产品质量，杰西知道住处不能随便当作实验室，也知道到哪里寻找买家。两种知识都不可或缺，但沃尔特习惯把自己的知识放在更高的位置，继续以老师的口吻训斥昔日学生。",
+      "second": "杰西不是平等受邀加入的。他先被“合作或举报”的二选一逼住，之后才在产品面前产生真心赞叹。胁迫与认可因此并存：沃尔特得到了一位欣赏自己的人，却没有先成为一位值得对方信任的搭档。",
+      "limit": "阅读边界：只讨论首集建立的合作结构，不用后续关系替这一刻增加温情。"
+    },
+    {
+      "id": "masculinity",
+      "label": "沃尔特 × 汉克",
+      "left": "安静的专业",
+      "right": "可见的力量",
+      "title": "枪很显眼，化学知识很安静。",
+      "image": "birthday",
+      "text": "汉克的权威有声音、有武器、有电视新闻，沃尔特的能力则藏在少有人认真听的课堂里。在寿星自己的客厅，两种社会认可被放到同一个画面中。汉克的调侃未必有意伤害，却让地位的差异变得可感。",
+      "second": "这并不能推出汉克造成了犯罪。真正值得看的是，沃尔特后来如何寻找相似的有效感：从服装店让人退缩，到利用化学在枪口下求生。他没有变成汉克，却开始迷恋一种能够即时改变别人行为的力量。",
+      "limit": "阅读边界：汉克是本集的对照人物，也是提供机会的亲属；他尚不知道沃尔特的计划。"
+    },
+    {
+      "id": "self",
+      "label": "沃尔特 × 自己",
+      "left": "为家人挣钱",
+      "right": "证明自己存在",
+      "title": "“我醒了”，是谁的需要被唤醒？",
+      "image": "cook",
+      "text": "当杰西问为什么，沃尔特没有告诉他癌症，而是说自己醒了。这句话与辞职、反击和得到赞叹连接起来，让“为家庭挣钱”的解释多出一层：他也在追求一种不再被动度日的感受。",
+      "second": "我们无需在首集就把他判成纯粹的恶人，也无需把所有越界都读成牺牲。他可能同时爱家人、害怕死亡、渴望自尊，并错误地以为自己可以让这些欲望朝同一个方向前进。人物的张力，正来自这些动机仍纠缠在一起。",
+      "limit": "个人解读：本页把自尊与控制欲作为阅读角度，不把它写成角色已经亲口承认的唯一动机。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "沃尔特 → 杰西",
+      "en": "Either that or I turn you in.",
+      "zh": "要么这样，要么我举报你。",
+      "image": "partnership",
+      "context": "提出搭档分工之后，沃尔特用举报作为对方拒绝的后果。",
+      "analysis": "注意这句话给杰西留下的选择有多窄。它让合作从一开始就带着权力差，也让观众看见：那个常被人安排的人，已经开始安排别人的处境。"
+    },
+    {
+      "speaker": "沃尔特 → 杰西",
+      "en": "I am awake.",
+      "zh": "我醒了。",
+      "image": "cook",
+      "context": "筹备房车时，杰西追问他为什么突然要做这件事，担心他的精神状态。",
+      "analysis": "这不是一份家庭预算，也不是对癌症的坦白，而是一种主观感受。“醒来”给他的变化赋予积极意味；观众则需要继续辨认，行动力被他用来照顾谁、控制谁。"
+    },
+    {
+      "speaker": "斯凯勒 → 沃尔特",
+      "en": "The worst thing you can do is shut me out.",
+      "zh": "你最不该做的，就是把我挡在外面。",
+      "image": "skyler",
+      "context": "本集结尾，斯凯勒追问丈夫最近的异常，直接指出不愿被他隔绝在外。",
+      "analysis": "她没有掌握疾病与犯罪的事实，却准确感到了沟通正在消失。这句话让“为家人做一切”的说法接受关系中的检验：被保护的人，是否还能知道自己正在经历什么？"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "变化：课堂上的主题，生活里的难题",
+      "text": "化学课把变化讲成常态；沃尔特的日常却显得僵住。两者构成反差。个人解读：本集让他开始变化，却没有把变化自动等同于成长。",
+      "link": "teacher"
+    },
+    {
+      "number": "02",
+      "title": "两次拿枪：不适与绝望之间",
+      "text": "在聚会上，枪属于汉克的职业和玩笑；到荒漠，沃尔特拿枪时已经走到绝境。个人解读：同一件物品连接了力量的想象和失控的现实。",
+      "link": "hank"
+    },
+    {
+      "number": "03",
+      "title": "好衣服：隔离气味的徒劳",
+      "text": "他脱下长裤以免衣服沾味，还想带着整洁的外表回家。个人解读：保护衣物与跨越伦理边界并排出现，拍出了他对“生活可以分开处理”的侥幸。",
+      "link": "cook"
+    },
+    {
+      "number": "04",
+      "title": "芥末渍：意识抓住的小东西",
+      "text": "医生谈的是生命，沃尔特看到的却是一点污渍。个人解读：这让震惊通过注意力的偏移显现，而非靠主人公立刻说出一段完整感言。",
+      "link": "diagnosis"
+    },
+    {
+      "number": "05",
+      "title": "荒漠：离开日常，也离开支撑",
+      "text": "开阔的自然景观与逼仄的房车并置。个人解读：远离城市提供了隐蔽，也减少了求援和脱身的空间；看似自由的地方，容得下另一种困局。",
+      "link": "rv"
+    },
+    {
+      "number": "06",
+      "title": "声音：他以为自己听懂了危险",
+      "text": "警笛把他推向告别，消防车驶过才揭开误判。个人解读：这个反转既有黑色幽默，也让“掌控局面”的自我感觉经受一次非常具体的拆穿。",
+      "link": "home"
+    }
+  ],
+  "sources": [
+    {
+      "id": "episode",
+      "title": "Pilot · 播出版单集条目与剧情核对",
+      "url": "https://en.wikipedia.org/wiki/Pilot_(Breaking_Bad)",
+      "note": "首播日期、编导与事件主线的辅助核对；分析以首集呈现为边界，不采纳后续人物条目中的信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E01 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=breaking-bad&episode=s01e01",
+      "note": "核对三段短对白、服装店与首次制毒的顺序、师生谈判。转录不是官方剧本；中文均为本页自译。"
+    },
+    {
+      "id": "wiki",
+      "title": "Breaking Bad Wiki · Pilot",
+      "url": "https://breakingbad.fandom.com/wiki/Pilot",
+      "note": "交叉检索本集人物与情节，不据后集条目补写本集尚未揭示的身份。"
+    },
+    {
+      "id": "gallery",
+      "title": "Breaking Bad Wiki · Images from Pilot",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Pilot",
+      "note": "本集截图分类与原始图片出处。逐张图片记录原图链接；部分用作同集关联配图，图注单独说明。源站可能包含其他集数信息。"
+    },
+    {
+      "id": "amc",
+      "title": "AMC · 2007 年首集制作与选角公告",
+      "url": "https://www.amcglobalmedia.com/2007/02/26/amc-announces-casting-and-starts-production-of-second-original-pilot-breaking-bad/",
+      "note": "制作背景来源：Vince Gilligan 编剧、导演，阿尔伯克基拍摄；公告属于播出前资料，不用于替代播出版细节。"
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "file": "assets/hero.jpg",
+      "alt": "房车在荒漠公路上驶来",
+      "caption": "开场镜头 · 荒漠中失控的房车 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Pilot_8.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/99/1x01_-_Pilot_8.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/prologue.jpg",
+      "alt": "房车倾斜陷在荒地沟壑中",
+      "caption": "开场及后段回接镜头 · 陷住的房车 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Crashed_RV.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/1/1e/1x01_-_Crashed_RV.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "breakfast",
+      "file": "assets/breakfast.jpg",
+      "alt": "沃尔特的早餐盘上用素培根摆出数字50",
+      "caption": "对应场景截图 · 五十岁生日早餐 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Veggie_Bacon.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x01_-_Veggie_Bacon.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "classroom",
+      "file": "assets/classroom.jpg",
+      "alt": "沃尔特在教室里进行火焰演示",
+      "caption": "对应场景截图 · 沃尔特的化学课堂；本节点也讨论随后洗车店的经历 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Walt_teaching_chemistry.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/4/45/1x01_-_Walt_teaching_chemistry.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "birthday",
+      "file": "assets/birthday.jpg",
+      "alt": "聚会电视画面里的汉克接受采访",
+      "caption": "对应场景截图 · 家人观看汉克的缉毒新闻 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Hank_on_TV.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/f/fb/1x01_-_Hank_on_TV.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "diagnosis",
+      "file": "assets/diagnosis.jpg",
+      "alt": "沃尔特坐在医生办公室听取诊断",
+      "caption": "对应场景截图 · 医生向沃尔特说明病情 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_At_the_doctor.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/e/e0/1x01_-_At_the_doctor.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "quit",
+      "file": "assets/quit.jpg",
+      "alt": "沃尔特在洗车店收银台前发怒",
+      "caption": "对应场景截图 · 向洗车店老板爆发 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Wipe_down_this.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/88/1x01_-_Wipe_down_this.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "raid",
+      "file": "assets/raid.jpg",
+      "alt": "汉克和搭档在执行抓捕的住宅外",
+      "caption": "对应场景截图 · DEA 跟车行动 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_DEA_bust.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c9/1x01_-_DEA_bust.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "partnership",
+      "file": "assets/partnership.jpg",
+      "alt": "沃尔特与戴帽子的杰西站在打开的汽车后备厢旁",
+      "caption": "同集关联配图 · 两人筹备设备；非前夜提出举报威胁的镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Pilot_145.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c0/1x01_-_Pilot_145.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "store",
+      "file": "assets/store.jpg",
+      "alt": "服装店里遭沃尔特反击的年轻人",
+      "caption": "对应场景截图 · 服装店冲突中的年轻人 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Jocktroublewalking1x1.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/35/Jocktroublewalking1x1.jpg/revision/latest",
+      "width": 765,
+      "height": 704
+    },
+    {
+      "id": "cook",
+      "file": "assets/cook.jpg",
+      "alt": "房车里第一批成品的近景，杰西在旁查看",
+      "caption": "对应场景截图 · 第一批成品近景；本节点讨论杰西的赞叹 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Pilot_05.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/8d/Pilot_05.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "dealers",
+      "file": "assets/dealers.jpg",
+      "alt": "埃米利奥在荒漠车辆旁持枪指向前方",
+      "caption": "对应场景截图 · 埃米利奥将交易转为持枪对峙 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Emilio_confronting_Walt_and_Jesse.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/a7/Emilio_confronting_Walt_and_Jesse.jpg/revision/latest",
+      "width": 930,
+      "height": 450
+    },
+    {
+      "id": "rv",
+      "file": "assets/rv.jpg",
+      "alt": "沃尔特在埃米利奥和克雷兹八监视下操作房车内的器材",
+      "caption": "对应场景截图 · 枪口威胁后，沃尔特在两人监视下示范 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Pilot_206.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/3e/1x01_-_Pilot_206.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "home",
+      "file": "assets/home.jpg",
+      "alt": "绿衬衫的沃尔特在荒漠公路举枪",
+      "caption": "对应场景截图 · 回接开场的公路持枪镜头；本节点同时讨论随后归家 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Walter_White_desert.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/2e/Walter_White_desert.png/revision/latest",
+      "width": 1000,
+      "height": 788
+    },
+    {
+      "id": "skyler",
+      "file": "assets/skyler.jpg",
+      "alt": "斯凯勒在家中望向前方",
+      "caption": "同集人物配图 · 斯凯勒；非结尾卧室镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Skyler_pilot.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/de/Skyler_pilot.jpg/revision/latest",
+      "width": 960,
+      "height": 536
+    }
+  ]
+}

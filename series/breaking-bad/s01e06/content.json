@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "episode": "S01E06",
+  "title": "Crazy Handful of Nothin'",
+  "airdate": "2008-03-02",
+  "question": "他终于让人害怕，就能让事情安全了吗？",
+  "intro": "沃尔特想把工作划得干净：自己只负责技术，杰西处理客户，不再流血。可治疗需要钱，零售无法满足他的预期，学校器材又成了调查线索。第六集把身体、劳动与暴力带到同一条因果链上，让海森堡的出现既有令人兴奋的力量，也有被这份力量遮住的代价。",
+  "spoiler": "剧透截至第一季第6集，包含本集结尾。不涉及后续集数或其他作品的揭示。",
+  "prologue": {
+    "title": "先说不要暴力，再看他怎样改写界限。",
+    "fact": "开场中沃尔特要求由自己负责制作、杰西负责销售，表示不想接触客户，并强调不再流血。",
+    "analysis": "这种分工不只是效率安排，也是他维护自我形象的方法：似乎只要自己做的是熟悉的技术，其他部分便能保持距离。随后发生的一切，将检验这种距离是否真的存在。",
+    "image": "prologue"
+  },
+  "acts": [
+    {
+      "id": "limits",
+      "number": "I",
+      "title": "先划边界",
+      "deck": "只做化学，不等于后果只属于化学。",
+      "range": "01—04",
+      "summary": "身体开始承受治疗，家人仍被隐瞒。杰西从照料关系里认出病情，合作因此短暂出现新的理解。"
+    },
+    {
+      "id": "market",
+      "number": "II",
+      "title": "再要更多",
+      "deck": "销售不是一个可以凭意志跳过的环节。",
+      "range": "05—08",
+      "summary": "零售瓶颈、调查线索与更大买家一起逼近。想把风险外包的沃尔特，正在推动搭档走向风险更大的地方。"
+    },
+    {
+      "id": "force",
+      "number": "III",
+      "title": "用力量回答",
+      "deck": "讨回损失之后，他选择继续。",
+      "range": "09—12",
+      "summary": "牌局、医院与新身份把欺骗和威慑连起来。结尾的兴奋真实存在，更大的供货承诺也同样真实。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "payment",
+      "act": "limits",
+      "where": "治疗室 · 支票",
+      "title": "她问支票到了吗，他说已经存好了。",
+      "image": "cheque",
+      "fact": "沃尔特接受治疗，向妻子谎称埃利奥特的钱已到账，随后请求诊所晚些兑现自己的支票。",
+      "analysis": "一句“已经处理好”遮住了实际的资金缺口。治疗确实开始，家庭对治疗来源的理解却建立在另一个版本上。经济压力因此没有成为共同讨论，而被他私自接到制毒收入的时间表上。",
+      "turn": "对现金的急迫，随后被带进与杰西的分成争执。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "care",
+      "act": "limits",
+      "where": "学校 · 洗手间",
+      "title": "真正照顾过他的人，后来替他承受怀疑。",
+      "image": "hugo",
+      "fact": "沃尔特因治疗反应在学校呕吐，清洁工雨果帮他处理现场，让他安心回去上课，并递上口香糖。",
+      "analysis": "照料没有豪言壮语，只是替一个难堪的人留住体面。这份小善意使后面雨果遭遇调查时不再只是“出现了一个倒霉配角”。他已经与沃尔特建立过一种对等、朴素的同事关系。",
+      "turn": "当调查追到学校，这份关系会面对一场没有被还回去的责任。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "therapy",
+      "act": "limits",
+      "where": "家庭会谈",
+      "title": "他说喜欢自然，家人仍不知道他去了哪里。",
+      "image": "group",
+      "fact": "斯凯勒和儿子追问他为什么常常不在，沃尔特说自己喜欢独处、散步，欣赏自然会让他感觉好一些。",
+      "analysis": "独处需求本身并不虚假，也不应被自动病理化；问题在于它在这里被拿来遮住实际去向。他借一个可以被理解的感受，包装一段不能被家人知晓的活动。会谈形式越温和，谎言就越容易显得可信。",
+      "turn": "家庭以为开始理解了他，真正知情的人仍在另一辆车里。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "partner",
+      "act": "limits",
+      "where": "荒漠 · 房车外",
+      "title": "病情被看见时，他才被要求像搭档一样坦白。",
+      "image": "illness",
+      "fact": "沃尔特身体不适，杰西从治疗标记判断他患癌，谈起自己姨妈的经历，质问为何不告诉自己，并接手剩下的工作。",
+      "analysis": "这是一次由照料打开的理解。杰西并非突然获得医学权威，而是从亲人经历认出熟悉的迹象。他强调“我是你的搭档”，要求的不只是知道秘密，更是不要让自己在不知道风险的情况下替他工作。",
+      "turn": "短暂的相互理解，很快又被收入与劳动分配打断。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "sales",
+      "act": "market",
+      "where": "杰西住处 · 分账",
+      "title": "整夜卖货，为什么在老师眼里还算不努力？",
+      "image": "illness",
+      "fact": "杰西交出零售所得，沃尔特嫌回报太低，要求直接卖给经销者。杰西解释销售的劳动、介绍人的必要和图科的危险，仍被催促拿出胆量。",
+      "analysis": "沃尔特计算的是违法风险与回报，杰西承受的是街头一份份交易的时间和危险。把阻力称为缺乏动力，既抹去劳动，也让实际警告变成性格弱点。这使“只负责技术”的边界开始暴露其便利：他能要求结果，却不必先看见过程。",
+      "turn": "杰西去寻找更大的买家，风险随之升级。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "inventory",
+      "act": "market",
+      "where": "学校 · 器材库",
+      "title": "面罩的旧标记，把荒漠带回了教室。",
+      "image": "mask",
+      "fact": "汉克追查面罩上的学校标记，核对库房器材，发现缺少面罩和实验器皿。杰西此时来电，说已通过瘦皮特联系上图科。",
+      "analysis": "两条压力线被放进同一个空间：执法者在眼前清点，搭档在电话里宣布升级。沃尔特靠着老师与亲属的身份应对，汉克也依照熟悉的形象理解他。知识提供犯罪能力，身份则暂时提供躲避怀疑的便利。",
+      "turn": "调查转向有接触权限的人，交易也走到了图科面前。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "tuco",
+      "act": "market",
+      "where": "图科据点 · 第一次交易",
+      "title": "有引荐，不等于付款规则会被尊重。",
+      "image": "tuco",
+      "fact": "瘦皮特引荐杰西。图科认可成品，却要拿走货再付款；杰西要求现金或拿回制品时，图科将他打成重伤。",
+      "analysis": "在这里，“好产品会带来好生意”的预设被暴力打断。图科既是买家，也是能够单方面规定怎样付款的人。杰西之前关于风险和关系的判断被实际验证，代价却由他的身体支付。",
+      "turn": "他住进医院，沃尔特还不知道交易的实际结果。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "arrest",
+      "act": "market",
+      "where": "学校 · 窗外",
+      "title": "有记录的人先被抓，真正的窃取者在看着。",
+      "image": "arrest",
+      "fact": "雨果因有接触器材的权限与既往记录受到怀疑；警方在车里发现大麻，将他逮捕。沃尔特从校内看见。",
+      "analysis": "必须区分两件事：雨果确有持有大麻的问题，后来调查也没有认定他偷器材。罪名、怀疑与失业的连锁，不该被写成全盘同一回事。沃尔特的沉默则很具体：接受过照料的人，选择保住自己的秘密。",
+      "turn": "牌桌上的讨论将告诉家人，雨果并不是器材窃贼。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "bluff",
+      "act": "force",
+      "where": "怀特家 · 牌局",
+      "title": "他说老师认不出罪犯，老师正好在诈唬他。",
+      "image": "poker",
+      "fact": "汉克说雨果不是器材窃贼，却仍可能失去工作并因持有问题承担后果。牌局中沃尔特靠诈唬使汉克弃牌，实际上手里并无好牌。",
+      "analysis": "轻松的游戏同时演示着真实关系：汉克很相信自己的识人能力，却不相信温和老师敢于做出危险的事。空牌诈唬让沃尔特获得一次小胜，也为稍后以威胁争取主动的场面建立动作上的呼应。",
+      "turn": "他开始更相信，别人对自己的判断可以被利用。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "hospital",
+      "act": "force",
+      "where": "医院 · 病床旁",
+      "title": "“替搭档讨钱”有一个真实的伤口。",
+      "image": "hospital",
+      "fact": "沃尔特得知杰西住院，前往探视，从瘦皮特口中了解殴打经过，并问出图科的情况。",
+      "analysis": "探望让他的愤怒有了明确对象，也使结尾的赔偿要求包含真实的照顾。这一点不必抹去；同样不能忘记，是他此前催促搭档进入更大交易。关心受伤的人，与面对自己在链条中的作用，需要同时发生。",
+      "turn": "他不再只做不见客户的技术一端，而准备亲自交涉。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "shave",
+      "act": "force",
+      "where": "怀特家 · 浴室与早餐",
+      "title": "他开始选择，别人先看见哪一种自己。",
+      "image": "shave",
+      "fact": "面对治疗带来的脱发，沃尔特主动剃头。小沃尔特看到新样子，觉得父亲显得很酷。",
+      "analysis": "外观有一层对疾病的主动回应，也被接到更强硬的新身份上。儿子看见的是父亲似乎重新振作，观众随后会看见他把这份姿态带到哪里。形象的力量来自这种距离，而不是一个发型自动使人改变道德。",
+      "turn": "他以新的名字进入图科的据点。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "heisenberg",
+      "act": "force",
+      "where": "图科据点 → 屋外",
+      "title": "讨回钱之后，他又加大了约定。",
+      "image": "demand",
+      "fact": "沃尔特自称海森堡，要求归还货款并赔偿杰西。危险物造成爆炸后，图科付款，双方约定继续交易；沃尔特又提出更高的供货量。",
+      "analysis": "威慑确实奏效，受伤搭档也得到赔偿。但他没有把结果用于退出，而是把一次报复转成新的生意。结尾的兴奋与供货数字并排出现：他不仅发现自己能让人害怕，也主动承诺让自己更深地留下。",
+      "turn": "一场看似抢回尊严的胜利，成为下一集必须兑现的压力。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    }
+  ],
+  "characters": {
+    "walt": {
+      "role": "病人 / 制毒者 / 海森堡",
+      "want": "取得足以覆盖风险的收入，并让自己在交易中不再被轻视。",
+      "leverage": "化学知识、欺骗能力与逐渐敢于采取的危险行动。",
+      "fact": "开始治疗，隐瞒资金与去向，催促杰西找大买家，最后以海森堡之名威胁图科并达成新供货约定。",
+      "analysis": "他确实替受伤搭档讨回钱，也选择把一次暴力胁迫改写成继续经营的关系。行动的勇气与风险的扩大同时发生。"
+    },
+    "jesse": {
+      "role": "搭档 / 亲自承担销售风险的人",
+      "want": "获得与实际劳动相称的认可，也让交易别超出可以承受的范围。",
+      "leverage": "零售经验、朋友介绍与对街头风险的判断。",
+      "fact": "发现沃尔特患癌，整夜卖货，被要求找批发买家，随后遭图科殴打住院。",
+      "analysis": "他一边提供照料，一边承受老师所不愿看见的市场。他说风险太大，并非等同于没胆量或不够努力。"
+    },
+    "skyler": {
+      "role": "妻子 / 试图进入病人生活的人",
+      "want": "了解丈夫的状态和去向，确认治疗能够持续。",
+      "leverage": "会谈、追问和亲密生活中的观察。",
+      "fact": "陪伴治疗，问援助是否到账，在会谈里说明自己被隔绝的感受。",
+      "analysis": "她已经能对疾病作出回应，却仍被排除在真正的时间与资金安排之外。会谈给了发言空间，没有自动带来诚实。"
+    },
+    "junior": {
+      "role": "儿子 / 见到两种父亲形象的人",
+      "want": "理解父亲的变化，也在家人中获得平稳感。",
+      "leverage": "直接观察与对熟悉成人的评价。",
+      "fact": "参加家庭会谈，在牌局中问起雨果被捕，并对父亲剃头后的样子表示赞叹。",
+      "analysis": "他看到的是外观与日常片段，尚不知道这些片段如何连在一起。父亲看起来更强硬，不等于孩子因此更了解他。"
+    },
+    "hank": {
+      "role": "探员 / 自信识人的连襟",
+      "want": "从面罩与失窃器材找到制毒者。",
+      "leverage": "调查渠道、执法权与对亲属的既有印象。",
+      "fact": "进入学校核查器材，逮捕雨果，之后说明没有证据证明他偷设备，并在牌桌上被沃尔特诈唬。",
+      "analysis": "职业怀疑与家庭盲点并存。他搜查的目标就在身边，却因既有印象把亲属排除得太快，把另一个有记录的人先纳入视线。"
+    },
+    "hugo": {
+      "role": "学校清洁工 / 被怀疑的雇员",
+      "want": "做好自己的工作，在同事不适时提供帮助。",
+      "leverage": "库房使用权限与照料他人的具体善意；对抗怀疑的地位较弱。",
+      "fact": "帮助呕吐的沃尔特，随后因既往记录与持有大麻被捕、失去工作；调查没有认定他偷器材。",
+      "analysis": "他并非在法律意义上完全没有违规，却与器材失窃无关。把这两件事分清，才能看见污名如何让一个人的其他行动被轻易吞掉。"
+    },
+    "tuco": {
+      "role": "经销者 / 用暴力规定规则的人",
+      "want": "控制交易、付款方式与自己的地位。",
+      "leverage": "渠道、手下和随时动用的暴力。",
+      "fact": "想扣下杰西的货再付款，殴打拒绝的杰西；被沃尔特威胁后付款，并接受继续供货。",
+      "analysis": "他会被吓住，也会重新计算利益，但没有因此变成可由合同稳定约束的伙伴。害怕一次危险，不等于接受一整套安全规则。"
+    },
+    "pete": {
+      "role": "朋友 / 引荐人与探病者",
+      "want": "帮杰西接到买家，也在他受伤后提供陪伴。",
+      "leverage": "与图科的旧交情和引荐资格。",
+      "fact": "带杰西见图科，事后在医院向沃尔特说明情况。",
+      "analysis": "他的关系可以打开门，不能保证门后安全。引荐人对熟人的信心，与实际能够阻止暴力的能力并不相同。"
+    }
+  },
+  "phases": [
+    {
+      "id": "phase-1",
+      "name": "01 · 界限与照料",
+      "note": "他声称不要暴力，家庭、同事和搭档分别试图照顾他。",
+      "edges": [
+        "病情被识别 / 要求知情",
+        "陪伴治疗 / 资金谎言",
+        "身份信任 / 调查未到",
+        "得到照料 / 留住体面",
+        "关系桥梁 / 期待买家",
+        "不愿接触客户"
+      ],
+      "details": {
+        "walt": "声称只做技术、不要流血，继续向家人隐瞒。",
+        "jesse": "看见治疗痕迹，要求作为搭档应有的知情。",
+        "skyler": "以为旧友的资金已经到位。",
+        "junior": "在会谈中追问父亲为何不在家。",
+        "hank": "从面罩追到学校。",
+        "hugo": "为老师清理难堪，不求回报。",
+        "tuco": "作为被提及的更大买家进入两人的计划。",
+        "pete": "成为接近图科所需的关系桥梁。"
+      }
+    },
+    {
+      "id": "phase-2",
+      "name": "02 · 逼近与升级",
+      "note": "销售瓶颈与学校调查同时出现，杰西承担了进入更大交易的实际危险。",
+      "edges": [
+        "小看劳动 / 催促升级",
+        "会谈追问 / 行踪被包装",
+        "面罩与缺件 / 库房核查",
+        "同一学校 / 怀疑转移",
+        "寄售争执 / 暴力伤害",
+        "得知搭档重伤"
+      ],
+      "details": {
+        "walt": "被身体与销售瓶颈逼出不耐烦，催促搭档升级交易。",
+        "jesse": "解释销售劳动与引荐门槛，仍被指责没动力。",
+        "skyler": "要求丈夫解释消失的下午。",
+        "junior": "看见自己认为不错的清洁工被捕。",
+        "hank": "核对缺件，未把沃尔特当成主要嫌疑。",
+        "hugo": "因能接触器材且有记录，被置于怀疑之下。",
+        "tuco": "以寄售为由占据优势，随后动用暴力。",
+        "pete": "为交易安全提供口头保证，却无法控制图科。"
+      }
+    },
+    {
+      "id": "phase-3",
+      "name": "03 · 威慑与承诺",
+      "note": "他以新身份讨回钱，仍选择与图科继续做生意，并提高供货量。",
+      "edges": [
+        "真实关心 / 继续加码",
+        "外形改变 / 秘密仍在",
+        "牌桌诈唬 / 职业盲点",
+        "失业后果 / 沉默未还",
+        "搭档获赔 / 交易未终止",
+        "制造威胁 / 新供货约定"
+      ],
+      "details": {
+        "walt": "用危险手段取得回应，并把供货承诺继续加大。",
+        "jesse": "在身体上承担升级交易的后果。",
+        "skyler": "仍以为治疗与家庭正在按坦白的方式推进。",
+        "junior": "赞叹新的外形，却不知道此后会去发生什么。",
+        "hank": "承认雨果不是设备窃贼，仍没识破面前人的秘密。",
+        "hugo": "即使不是窃贼，工作与生活已承受损失。",
+        "tuco": "承认对手有威胁能力，同时把对方纳入新的生意。",
+        "pete": "守在病床边，把受伤事实传给沃尔特。"
+      }
+    }
+  ],
+  "edgePairs": [
+    "沃尔特 — 杰西",
+    "沃尔特 — 斯凯勒",
+    "沃尔特 — 汉克",
+    "沃尔特 — 雨果",
+    "杰西 — 图科",
+    "沃尔特 — 图科"
+  ],
+  "graph": {
+    "positions": {
+      "walt": [
+        43,
+        48
+      ],
+      "skyler": [
+        15,
+        21
+      ],
+      "hank": [
+        46,
+        13
+      ],
+      "hugo": [
+        80,
+        14
+      ],
+      "jesse": [
+        78,
+        48
+      ],
+      "tuco": [
+        79,
+        83
+      ],
+      "junior": [
+        14,
+        78
+      ],
+      "pete": [
+        49,
+        84
+      ]
+    },
+    "labels": {
+      "walt": "病人",
+      "jesse": "搭档",
+      "skyler": "妻子",
+      "junior": "儿子",
+      "hank": "探员",
+      "hugo": "学校清洁工",
+      "tuco": "经销者",
+      "pete": "朋友"
+    },
+    "edges": [
+      [
+        "walt",
+        "jesse",
+        "partner"
+      ],
+      [
+        "walt",
+        "skyler",
+        "family"
+      ],
+      [
+        "walt",
+        "hank",
+        "family"
+      ],
+      [
+        "walt",
+        "hugo",
+        "family"
+      ],
+      [
+        "jesse",
+        "tuco",
+        "danger"
+      ],
+      [
+        "walt",
+        "tuco",
+        "danger"
+      ],
+      [
+        "jesse",
+        "pete",
+        "partner"
+      ]
+    ]
+  },
+  "conflicts": [
+    {
+      "id": "labor",
+      "label": "沃尔特 × 杰西",
+      "left": "化学的效率",
+      "right": "销售的真实劳动",
+      "title": "他把无法跳过的环节，听成了不够努力。",
+      "image": "illness",
+      "text": "沃尔特懂得制品怎样得到高质量，却低估了找到买家、获得信任、控制付款与避免被抢的过程。他嫌回报太低时，杰西已经整夜在街头卖货。",
+      "second": "质疑收益可以成立，但用胆量羞辱来回应具体风险，会使搭档更难坚持自己的判断。杰西后来受伤，让此前被轻视的经验变成了证据；补偿他并不能让这段因果关系自动消失。",
+      "limit": "个人解读：技术优势与经营判断分开评价，不把任何一种知识视为全局掌控。"
+    },
+    {
+      "id": "hugo",
+      "label": "沃尔特 × 雨果",
+      "left": "守住自己的秘密",
+      "right": "偿还他人的善意",
+      "title": "他保住了体面，雨果失去了工作。",
+      "image": "arrest",
+      "text": "雨果在洗手间的善意很具体，之后却因为记录和接触权限被首先怀疑。汉克后来明确表示他不是设备窃贼，仍无法恢复他已经损失的工作。",
+      "second": "不能把这写成没有任何事实依据的单一冤案，他确有持有大麻的问题。也不能用这一点抹掉器材来自沃尔特的事实：主角的风险能够沿制度和成见，转由地位更弱的人承担。",
+      "limit": "剧情事实：器材失窃与持有大麻不是同一件事；本页保留这一区分。"
+    },
+    {
+      "id": "force",
+      "label": "沃尔特 × 图科",
+      "left": "用威胁争得位置",
+      "right": "把威胁算进收益",
+      "title": "他吓住了图科，没有重新规定整个世界。",
+      "image": "demand",
+      "text": "沃尔特以一个对方没准备面对的危险改变谈判，确实迫使图科付款。海森堡这个名字在这一刻同时指向伪装、勇气与对力量的新认识。",
+      "second": "图科回应的也包括成品利润，生意并非建立在两人共同遵守的安全原则上。以一次威慑换来继续交易，最多说明对手此刻愿意接受，不能证明未来都将依照沃尔特的计划。",
+      "limit": "个人解读：承认交涉有效，同时将有效与安全分开。"
+    },
+    {
+      "id": "identity",
+      "label": "沃尔特 × 自己",
+      "left": "不要流血",
+      "right": "更大的生意",
+      "title": "开场的界限，结尾由他自己越过。",
+      "image": "walk",
+      "text": "他起初声称不要与客户接触、不要暴力，似乎只要限定自己的工作范围，就能维持某种干净的自我理解。可利润要求又推动他让杰西进入更危险的交易。",
+      "second": "最后他亲自使用威胁，并在获得赔偿后提高供货承诺。真正值得读的不是一句原则被命运轻轻打破，而是他怎样用新的成就感，将原本说好的界限再次改写。",
+      "limit": "个人解读：保护搭档与渴望力量可以同时存在，不把其中一项写成唯一动机。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "沃尔特 → 杰西",
+      "en": "No violence.",
+      "zh": "不要暴力。",
+      "image": "walk",
+      "context": "开场约定由他负责制作、杰西负责销售，并强调不要再流血；图片为后段交涉后的对照。",
+      "analysis": "这句话提出的是他想保有的边界。随后必须检验的，是工作分开是否真的能隔离风险，以及他自己在得到权力时还会不会守住它。"
+    },
+    {
+      "speaker": "杰西 → 沃尔特",
+      "en": "I'm your partner, man.",
+      "zh": "我是你的搭档啊。",
+      "image": "illness",
+      "context": "杰西发现治疗标记后，质问他为何没有告知癌症。",
+      "analysis": "“搭档”不只是让自己完成任务的称呼，也包含知道会影响共同劳动的事情。身体的脆弱给了两人一次更平等的对话机会。"
+    },
+    {
+      "speaker": "沃尔特 → 图科",
+      "en": "Heisenberg.",
+      "zh": "海森堡。",
+      "image": "demand",
+      "context": "他被问到姓名，第一次以这个名字进入交易现场。",
+      "analysis": "新名字不是自动生成的新人格。它让他可以带着另一种姿态行动，也让他暂时把家人认识的老师形象留在门外。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "支票的时间差",
+      "text": "他称援助到账，又请求延迟兑现。个人解读：两个时间安排之间的缝隙，显示经济真相被他独自承担并隐瞒。",
+      "link": "payment"
+    },
+    {
+      "number": "02",
+      "title": "一块治疗标记",
+      "text": "杰西从亲人经历认出痕迹。个人解读：身体绕过了沃尔特编排的说法，让搭档先得到一次真实信息。",
+      "link": "partner"
+    },
+    {
+      "number": "03",
+      "title": "面罩上的学校名字",
+      "text": "遗落物把荒漠接回教室。个人解读：再熟悉的身份也会留下物证，分开的空间并没有分开因果。",
+      "link": "inventory"
+    },
+    {
+      "number": "04",
+      "title": "手里什么也没有",
+      "text": "牌局的诈唬让汉克退让。个人解读：它预演了别人以为知道他的底牌、实际仍被形象欺骗的关系。",
+      "link": "bluff"
+    },
+    {
+      "number": "05",
+      "title": "头发与名字",
+      "text": "剃头回应身体变化，新名字回应他人的目光。个人解读：两种主动塑形联在一起，却不能代替对实际行为的评价。",
+      "link": "shave"
+    },
+    {
+      "number": "06",
+      "title": "离开据点的兴奋",
+      "text": "他确实体验到胜利。个人解读：画面的快感越强，越需要同时记住更高供货量已经成为接下来必须偿付的承诺。",
+      "link": "heisenberg"
+    }
+  ],
+  "sources": [
+    {
+      "id": "episode",
+      "title": "Crazy Handful of Nothin' · 单集条目与事件主线",
+      "url": "https://en.wikipedia.org/wiki/Crazy_Handful_of_Nothin%27",
+      "note": "辅助核对首播、编导和情节；剧情事实与个人解读分开，不采用后续集数的信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E06 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=breaking-bad&episode=s01e06",
+      "note": "核对本集对白、人物获知信息的时点与事件顺序。非官方剧本；中文短句为本页自译。"
+    },
+    {
+      "id": "gallery",
+      "title": "Breaking Bad Wiki · Crazy Handful of Nothin' 图片分类",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Crazy_Handful_of_Nothin%27",
+      "note": "本集剧照的检索入口；逐图原图与文件页见图片清单。宣传剧照、对应场景截图和同集关联配图分别标注。"
+    },
+    {
+      "id": "portraits",
+      "title": "Breaking Bad Wiki · 第一季图像档案",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Season_1_(Breaking_Bad)",
+      "note": "角色照仅采用截至本集已出现的剧集画面，同一角色跨集复用登记图片；外部资料页可能含后续剧透。"
+    }
+  ],
+  "images": [
+    {
+      "id": "therapy",
+      "file": "assets/therapy.jpg",
+      "alt": "沃尔特坐在会谈室里回答家人的疑问",
+      "caption": "对应场景截图 · 家庭会谈中继续隐瞒行踪 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_in_a_therapy.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/4/47/1x06_-_Walt_in_a_therapy.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "group",
+      "file": "assets/group.jpg",
+      "alt": "怀特一家与咨询者同坐在会谈空间里",
+      "caption": "对应场景截图 · 家人要求理解他消失的时间 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_The_Whites_at_a_support_group.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/dd/1x06_-_The_Whites_at_a_support_group.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "cheque",
+      "file": "assets/cheque.jpg",
+      "alt": "支付治疗费用的支票上写着沃尔特的名字",
+      "caption": "对应场景截图 · 治疗费用与谎称已到账的援助 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_writes_a_cheque.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c5/1x06_-_Walt_writes_a_cheque.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hugo",
+      "file": "assets/hugo.jpg",
+      "alt": "雨果在洗手间帮助身体不适的沃尔特",
+      "caption": "对应场景截图 · 清洁工替他处理难堪，递上口香糖 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Hugo_offering_Walt_gum.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/3c/1x06_-_Hugo_offering_Walt_gum.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "illness",
+      "file": "assets/illness.jpg",
+      "alt": "沃尔特在房车外休息，杰西发现他的治疗标记",
+      "caption": "对应场景截图 · 杰西从治疗痕迹认出病情 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Jesse_notices_Walt%27s_dot.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/28/1x06_-_Jesse_notices_Walt%27s_dot.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "mask",
+      "file": "assets/mask.jpg",
+      "alt": "汉克查看存放面罩的器材，沃尔特站在身后",
+      "caption": "对应场景截图 · 调查从遗落物追到学校库房 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Hank_investigating_the_gas_masks.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/0/04/1x06_-_Hank_investigating_the_gas_masks.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "visit",
+      "file": "assets/visit.jpg",
+      "alt": "汉克和校长到学校找沃尔特",
+      "caption": "对应场景截图 · 亲属以调查者身份进入他的工作场所 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Hank_at_Walt%27s_school.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/64/1x06_-_Hank_at_Walt%27s_school.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "tuco",
+      "file": "assets/tuco.jpg",
+      "alt": "图科在桌边检视杰西带来的成品",
+      "caption": "对应场景截图 · 杰西与图科的第一次交易 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Tuco_looking_at_the_meth.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/0/0a/1x06_-_Tuco_looking_at_the_meth.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hurt",
+      "file": "assets/hurt.jpg",
+      "alt": "杰西被打倒后侧脸贴近地面",
+      "caption": "对应场景截图 · 交易转为殴打后的杰西 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Jesse_being_beaten_up.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/66/1x06_-_Jesse_being_beaten_up.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "arrest",
+      "file": "assets/arrest.jpg",
+      "alt": "沃尔特从校内望向雨果被捕的现场",
+      "caption": "对应场景截图 · 雨果被捕，沃尔特在远处看着 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Hank_arresting_Hugo.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/0/07/1x06_-_Hank_arresting_Hugo.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "poker",
+      "file": "assets/poker.jpg",
+      "alt": "家人围坐打牌，汉克与沃尔特在同一张桌边",
+      "caption": "对应场景截图 · 牌桌上谈起雨果，并出现一次诈唬 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Poker_night.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/5/5e/1x06_-_Poker_night.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hospital",
+      "file": "assets/hospital.jpg",
+      "alt": "杰西躺在病床上，瘦皮特守在旁边",
+      "caption": "对应场景截图 · 沃尔特探望受伤的搭档 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Jesse_in_the_hospital.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/3e/1x06_-_Jesse_in_the_hospital.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "shave",
+      "file": "assets/shave.jpg",
+      "alt": "沃尔特在浴室镜前准备剃去头发",
+      "caption": "对应场景截图 · 面对脱发，他主动改变外观 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_about_to_shave_his_head.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/80/1x06_-_Walt_about_to_shave_his_head.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "demand",
+      "file": "assets/demand.jpg",
+      "alt": "剃头后的沃尔特在图科面前提出要求",
+      "caption": "对应场景截图 · 以海森堡自称的沃尔特索要赔偿 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_demanding_his_money.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/6b/1x06_-_Walt_demanding_his_money.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "walk",
+      "file": "assets/walk.jpg",
+      "alt": "沃尔特走离图科的据点，身后的建筑经历爆炸",
+      "caption": "对应场景截图 · 交涉后离开据点的沃尔特 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hero",
+      "file": "assets/walk.jpg",
+      "alt": "沃尔特走离图科的据点，身后的建筑经历爆炸",
+      "caption": "对应场景截图 · 交涉后离开据点的沃尔特 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/walk.jpg",
+      "alt": "沃尔特走离图科的据点，身后的建筑经历爆炸",
+      "caption": "对应场景截图 · 交涉后离开据点的沃尔特 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "page": {
+    "metaDescription": "雨果、销售劳动与海森堡的威慑；剧透截至第六集。",
+    "heroLine1": "他终于让人害怕，",
+    "heroLine2": "就能让事情安全了吗？",
+    "heroDeck": "一张支票，一个被捕的清洁工，一次危险的交涉。|他讨回了钱，也把生意推向更深处。",
+    "openingTitle": "“只做化学”的界限，|在哪里开始失效？",
+    "readingKey": "被轻视的劳动 / 转移的代价 / 有效与安全",
+    "prologueBadge": "A RULE TO BREAK / 他先提出界限",
+    "prologueKicker": "THE SILENT PARTNER / 想不被看见的人",
+    "storyTitle": "从“不许暴力”，|到用威慑建立生意。",
+    "storyNote": "依照本集事件推进分为三幕；药物、爆炸与制作过程只作为剧情背景，不复现操作方法。",
+    "relationsTitle": "他想外包风险，|后果却不断回到身边。",
+    "relationsNote": "八位人物串起家庭、学校与市场。点击阶段和头像，区分谁提供照料、谁承受危险、谁仍不了解全部事实。",
+    "conflictsTitle": "让对方退让，|与重新掌控生活之间还有距离。",
+    "conflictsDeck": "四组冲突分别看搭档劳动、雨果的代价、与图科的权力交易，以及自我界限如何被改写。",
+    "quotesTitle": "“不要暴力”，|和一个新名字之间。",
+    "endingTitle": "他走出了那栋楼。",
+    "endingAccent": "更大的承诺已经等在门外。",
+    "endingLink": "heisenberg",
+    "endingLinkLabel": "回看讨回钱后的另一个决定",
+    "endingParagraphs": [
+      "第六集可以让人感到痛快，也必须留下未被快感解决的问题：雨果失去的工作、杰西承受的殴打，以及家人继续不知道的真相。",
+      "沃尔特确实展现了勇气和照顾搭档的一面，也主动选择继续交易、加大供货。有效的威慑没有使整个环境安全，只让他更相信自己能继续往前。"
+    ],
+    "credits": "编剧 George Mastras / 导演 Bronwen Hughes",
+    "catalogueDeck": "治疗费迟迟没有着落，零售利润又不能令沃尔特满意。杰西受伤、雨果被捕，他以海森堡之名亲自面对图科。",
+    "framePair": {
+      "title": "同一位老师，两种被识别。",
+      "left": "hugo",
+      "right": "mask",
+      "text": "雨果先把他认作需要帮助的同事，汉克随后把他认作可以协助调查的老师。熟悉形象为沃尔特保留了体面，也成为他将怀疑推向他人的便利。"
+    }
+  }
+}

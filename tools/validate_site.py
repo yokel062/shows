@@ -164,6 +164,40 @@ def main():
                 with Image.open(directory / item['file']) as picture:
                     assert picture.size == (item['width'], item['height'])
         print('Succession: all ten episodes match editorial sources, catalogues and portrait registration')
+    breaking_bad = ROOT / 'series' / 'breaking-bad'
+    if breaking_bad.is_dir():
+        metadata = json.loads((breaking_bad / 'season.json').read_text())
+        assert metadata['season'] == 1 and metadata['complete'] and metadata['episodeCount'] == 7
+        assert [item['number'] for item in metadata['episodes']] == list(range(1, 8))
+        registry = json.loads((breaking_bad / 'shared/portraits.json').read_text())['characters']
+        for number, entry in enumerate(metadata['episodes'], 1):
+            directory = breaking_bad / f's01e{number:02}'
+            source = directory / 'content.json'
+            data = json.loads(source.read_text())
+            html = (directory / 'index.html').read_text()
+            payload = json.loads(re.search(r'<script type="application/json" id="episode-data">(.*?)</script>', html, re.DOTALL)[1])
+            assert data['episode'] == f'S01E{number:02}'
+            assert payload['sourceHash'] == hashlib.sha256(source.read_bytes()).hexdigest(), f'{directory}: stale editorial source'
+            assert all(payload[key] == value for key, value in data.items()), f'{directory}: stale rendered field'
+            assert payload['portraits'] == {key: registry[key] for key in data['characters']}
+            assert len(data['scenes']) == html.count('<details class="scene-analysis" open>') == 12
+            assert len(data['phases']) == len(data['quotes']) == 3 and len(data['conflicts']) == 4
+            assert sum(len(q['en'].split()) for q in data['quotes']) <= 25
+            assert entry['question'] == data['question'] and entry['title'] == data['title']
+            assert entry['characterCount'] == len(data['characters']) and entry['sceneCount'] == 12
+            rendered = pages[(directory / 'index.html').resolve()]
+            for key in data['characters']:
+                person = registry[key]
+                assert int(person['episode'][-2:]) <= number, f'{directory}: portrait from a later episode'
+                assert person['actor'] and person['kind'] == 'character-still'
+                assert '../shared/' + person['file'] in rendered.images
+            for phase in data['phases']:
+                assert set(phase['details']) == set(data['characters'])
+            for item in data['images']:
+                assert item['episode'] == data['episode'] and item['kind'] in ['episode-still', 'episode-production-still']
+                with Image.open(directory / item['file']) as picture:
+                    assert picture.size == (item['width'], item['height'])
+        print('Breaking Bad: all seven episodes match source, catalogue, expanded analyses and registered portraits')
     images = list(show.glob('s01e*/assets/*')) + list((show / 'shared' / 'portraits').glob('*'))
     images += list(billions.glob('s??e??/assets/*')) + list((billions / 'shared' / 'portraits').glob('*'))
     raster_images = [path for path in images if path.suffix.lower() in ['.jpg', '.jpeg', '.png', '.webp', '.gif']]

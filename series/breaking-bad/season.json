@@ -1,0 +1,161 @@
+{
+  "season": 1,
+  "complete": true,
+  "episodeCount": 7,
+  "episodes": [
+    {
+      "number": 1,
+      "episode": "S01E01",
+      "title": "Pilot",
+      "question": "当人生只剩倒计时，越界就有了理由吗？",
+      "deck": "五十岁的沃尔特·怀特，有一份教职、两份工作、一个即将迎来新生命的家庭。肺癌诊断让这一切突然有了期限。他决定用化学知识赚钱，也开始用秘密替家人做决定。本集最值得追问的，是经济困境怎样与自尊纠缠：当他第一次觉得自己有力量时，那股力量会被用在谁身上？",
+      "hero": {
+        "id": "hero",
+        "file": "assets/hero.jpg",
+        "alt": "房车在荒漠公路上驶来",
+        "caption": "开场镜头 · 荒漠中失控的房车 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E01",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Pilot_8.png",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/99/1x01_-_Pilot_8.png/revision/latest",
+        "width": 1280,
+        "height": 720
+      },
+      "sceneCount": 12,
+      "characterCount": 8,
+      "conflictCount": 4
+    },
+    {
+      "number": 2,
+      "episode": "S01E02",
+      "title": "Cat's in the Bag...",
+      "question": "把秘密带回家，就能关上门了吗？",
+      "deck": "一个幸存者让收尾变成新的拘禁；硬币分工、妻子的追查和浴室的坍塌，揭开搭档之间不等的代价。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/coin.jpg",
+        "alt": "一枚硬币在沃尔特与杰西之间腾空",
+        "caption": "对应场景截图 · 两人用抛硬币分配各自要做的事 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E02",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x02_-_Coin_flip.jpg",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/9d/1x02_-_Coin_flip.jpg/revision/latest",
+        "width": 1280,
+        "height": 720
+      },
+      "sceneCount": 12,
+      "characterCount": 5,
+      "conflictCount": 4
+    },
+    {
+      "number": 3,
+      "episode": "S01E03",
+      "title": "...and the Bag's in the River",
+      "question": "叫得出他的名字，还能够杀死他吗？",
+      "deck": "沃尔特向俘虏寻找放人的理由；本名、家具店和三明治让对方更像一个人，盘子的缺口又改变了一切。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/lab.jpg",
+        "alt": "年轻的沃尔特与研究搭档在夜色中的实验室交谈",
+        "caption": "对应场景截图 · 关于人体组成的回忆段落 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E03",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x03_...And_the_Bag%27s_in_the_River_1.png",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x03_...And_the_Bag%27s_in_the_River_1.png/revision/latest",
+        "width": 624,
+        "height": 352
+      },
+      "sceneCount": 12,
+      "characterCount": 7,
+      "conflictCount": 4
+    },
+    {
+      "number": 4,
+      "episode": "S01E04",
+      "title": "Cancer Man",
+      "question": "需要家人的时候，为什么反而更孤独？",
+      "deck": "病情进入家庭，杰西回父母家短住。治疗账单、兄弟误会与一次被错认的大麻事件，让关心和不信任并排出现。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/room.jpg",
+        "alt": "沃尔特坐在通风口旁，身体缩在墙边",
+        "caption": "本集宣传剧照 · 与藏钱处的沃尔特相伴的处境配图 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-production-still",
+        "episode": "S01E04",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:10-Ep4_10_BB_0412.jpg",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/96/10-Ep4_10_BB_0412.jpg/revision/latest",
+        "width": 790,
+        "height": 535
+      },
+      "sceneCount": 12,
+      "characterCount": 8,
+      "conflictCount": 4
+    },
+    {
+      "number": 5,
+      "episode": "S01E05",
+      "title": "Gray Matter",
+      "question": "有人愿意帮他，他为何还是走回那扇门？",
+      "deck": "旧友提供工作、保险与治疗费，家庭用一只抱枕讨论选择权。沃尔特同意治疗，却拒绝援助，再次敲响杰西家的门。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/pillow.jpg",
+        "alt": "斯凯勒抱着枕头，主持家庭谈话",
+        "caption": "对应场景截图 · 以抱枕规定发言顺序的家庭会议 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E05",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_talking_pillow.jpg",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c7/1x05_-_The_talking_pillow.jpg/revision/latest",
+        "width": 1280,
+        "height": 720
+      },
+      "sceneCount": 12,
+      "characterCount": 9,
+      "conflictCount": 4
+    },
+    {
+      "number": 6,
+      "episode": "S01E06",
+      "title": "Crazy Handful of Nothin'",
+      "question": "他终于让人害怕，就能让事情安全了吗？",
+      "deck": "治疗费迟迟没有着落，零售利润又不能令沃尔特满意。杰西受伤、雨果被捕，他以海森堡之名亲自面对图科。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/walk.jpg",
+        "alt": "沃尔特走离图科的据点，身后的建筑经历爆炸",
+        "caption": "对应场景截图 · 交涉后离开据点的沃尔特 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E06",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/af/1x06_-_Walt_walking_away_from_Tuco%27s_HQ.jpg/revision/latest",
+        "width": 1280,
+        "height": 720
+      },
+      "sceneCount": 12,
+      "characterCount": 8,
+      "conflictCount": 4
+    },
+    {
+      "number": 7,
+      "episode": "S01E07",
+      "title": "A No-Rough-Stuff-Type Deal",
+      "question": "他说只想做生意，谁来规定生意的规则？",
+      "deck": "擅自提高的供货量把两人推向盗窃。头饰风波暴露“为家人”的借口，蓝色制品成功后，图科的暴力仍然突如其来。",
+      "hero": {
+        "id": "hero",
+        "file": "assets/yard.jpg",
+        "alt": "沃尔特与杰西站在废车场中，四周堆着报废车辆",
+        "caption": "对应场景截图 · 废车场成为交易地点 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+        "kind": "episode-still",
+        "episode": "S01E07",
+        "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Junkyard.jpg",
+        "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/82/1x07_-_Junkyard.jpg/revision/latest",
+        "width": 1280,
+        "height": 720
+      },
+      "sceneCount": 12,
+      "characterCount": 8,
+      "conflictCount": 4
+    }
+  ]
+}

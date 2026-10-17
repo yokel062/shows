@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#102a22">
+  <meta name="description" content="《绝命毒师》$episode · $episode_title 图文解读：$page_metaDescription">
+  <title>绝命毒师 $episode · $episode_title — 剧中人</title>
+  <link rel="icon" href="../shared/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../shared/episode.css">
+  <script defer src="../shared/episode.js"></script>
+</head>
+<body id="top">
+  <a class="skip" href="#story">直接阅读剧情</a>
+  <div class="progress" aria-hidden="true"><span id="reading-progress"></span></div>
+  <header class="masthead">
+    <a class="brand" href="../../../"><b>✦</b>剧中人<small>STORY FIELDNOTES</small></a>
+    <nav aria-label="单集阅读导航"><a href="#story">剧情图解</a><a href="#relations">人物关系</a><a href="#conflicts">冲突深读</a><a href="#quotes">台词笔记</a><a href="#sources">资料来源</a></nav>
+    <a class="episode-id" href="../">S01 / E$episode_number ↗</a>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      $hero_image
+      <div class="hero-shade"></div>
+      <div class="hero-content">
+        <div class="eyebrow">ALBUQUERQUE, NEW MEXICO / SEASON ONE</div>
+        <div class="hero-en" aria-hidden="true"><span><b class="element"><small>35</small>Br</b>eaking</span><span><b class="element"><small>56</small>Ba</b>d</span></div>
+        <h1 id="hero-title">绝命毒师</h1>
+        <p class="hero-question">$page_heroLine1<br><em>$page_heroLine2</em></p>
+        <p class="hero-deck">$page_heroDeck</p>
+        <div class="hero-actions"><a class="button" href="#story">翻开本集档案 <span>↓</span></a><a href="#relations">先认识人物 ↗</a></div>
+      </div>
+      <div class="hero-index">EPISODE FILE<b>$episode_number</b>$airdate</div>
+      <div class="hero-foot"><span>S01E$episode_number · $episode_title · $page_credits</span><a href="#source-gallery">$hero_caption ↗</a></div>
+    </section>
+    <div class="scope-strip"><div class="wrap"><p><strong>剧透边界</strong>　剧透截至 $episode，包含本集结尾</p><span>12 个剧情节点 · $character_count 位人物 · 04 组冲突</span></div></div>
+    <section class="opening wrap">
+      <div><div class="eyebrow">THE EPISODE QUESTION / 本集阅读问题</div><h2>$page_openingTitle</h2></div>
+      <div class="opening-copy"><p>$intro</p><p class="reading-key"><b>读这一集，跟住三条线</b>$page_readingKey</p></div>
+    </section>
+    <section class="prologue wrap" aria-labelledby="prologue-title">
+      <figure class="prologue-photo">$prologue_photo<span class="photo-label">$page_prologueBadge</span></figure>
+      <div class="prologue-copy"><div class="eyebrow">$page_prologueKicker</div><h2 id="prologue-title">$prologue_title</h2><p><strong>剧情事实</strong>$prologue_fact <a class="ref" href="#source-transcript">[2]</a></p><p><strong>个人解读</strong>$prologue_analysis</p><p class="boundary">本页只使用截至 $episode 已揭示的信息；下文包含本集结尾。</p></div>
+    </section>
+    <section class="story wrap" id="story">
+      <div class="section-heading"><div><div class="eyebrow">01 / THE STORY</div><h2>$page_storyTitle</h2><p>$page_storyNote</p></div><span class="margin-note">THREE ACTS<br>TWELVE TURNS</span></div>
+      <nav class="chapter-nav" aria-label="三幕剧情">$chapter_nav</nav>
+      $acts
+    </section>
+    <aside class="frame-pair wrap" aria-labelledby="pair-title"><div class="pair-heading"><h3 id="pair-title">$pair_title</h3><span>FRAME PAIR / 画面对照</span></div><div class="pair-grid"><figure>$pair_left</figure><figure>$pair_right</figure></div><p><strong>个人解读：</strong>$pair_text</p></aside>
+    <section class="relations" id="relations"><div class="wrap">
+      <div class="section-heading"><div><div class="eyebrow">02 / PEOPLE &amp; PRESSURE</div><h2>$page_relationsTitle</h2><p>$page_relationsNote</p></div><span class="margin-note">FAMILY / KNOWLEDGE<br>POWER / SECRECY</span></div>
+      <div class="phase-tabs" role="group" aria-label="选择剧情阶段">$phase_tabs</div>
+      <div class="relation-layout"><div class="graph-panel"><div class="graph" data-phase="$initial_phase" role="group" aria-label="本集人物关系图">
+        <svg viewBox="0 0 1000 700" preserveAspectRatio="none" aria-hidden="true">$graph_svg</svg>
+        $people
+      </div><div class="edge-readout" aria-label="当前阶段的关系说明">$edge_readout</div><p id="graph-note" class="graph-note" aria-live="polite">$graph_note</p></div><article class="person-detail" id="person-detail" aria-live="polite">$initial_person</article></div>
+    </div></section>
+    <section class="conflicts wrap" id="conflicts">
+      <div class="section-heading"><div><div class="eyebrow">03 / LINES OF CONFLICT</div><h2>$page_conflictsTitle</h2><p>$page_conflictsDeck</p></div><span class="margin-note">FOUR PERSPECTIVES<br>ONE FIRST CHOICE</span></div>
+      <div class="conflict-tabs" role="group" aria-label="选择人物冲突">$conflict_tabs</div><div id="conflict-content" class="conflict-layout" aria-live="polite">$initial_conflict</div>
+    </section>
+    <section class="quotes wrap" id="quotes">
+      <div class="section-heading"><div><div class="eyebrow">04 / WORDS IN CONTEXT</div><h2>$page_quotesTitle</h2><p>把短句放回发生的场景。对白不是人物全部动机的证明，也可能是他选择让别人听见的那一部分。</p></div><span class="margin-note">LISTEN CLOSELY<br>READ BETWEEN</span></div>
+      <div class="quote-layout"><figure class="quote-photo">$quote_photo</figure><div class="quote-copy"><div id="quote-content" aria-live="polite">$initial_quote</div><div class="quote-controls"><span id="quote-count">01 / 03</span><button id="quote-prev" aria-label="上一段台词">←</button><button id="quote-next" aria-label="下一段台词">→</button></div></div></div><p class="quote-note">英文据本集对白转录核对，共 $quote_words 个词；中文为本页自译。图片用于提示人物与场景，具体镜头边界见图注。</p>
+    </section>
+    <section class="motifs wrap" id="details"><div class="section-heading"><div><div class="eyebrow">05 / A SECOND LOOK</div><h2>再看一次，<br>留意这六处细节。</h2><p>物件、空间和声音怎样让人物的变化变得可见。以下为画面观察与个人解读。</p></div><span class="margin-note">OBJECTS / SPACES<br>SOUNDS / SHIFTS</span></div><div class="motif-grid">$motifs</div></section>
+    <section class="ending"><div class="wrap"><div class="eyebrow">END OF FILE $episode_number / 本集读后</div><div class="ending-grid"><h2>$page_endingTitle<br><span>$page_endingAccent</span></h2><div>$ending_paragraphs<a href="#scene-$page_endingLink">$page_endingLinkLabel ↗</a></div></div><p class="ending-boundary">$spoiler · 本篇止于此，不预告后续情节。</p></div></section>
+    $episode_navigation
+    $no_script_reading
+  </main>
+  <footer class="sources wrap" id="sources"><div class="section-heading"><div><div class="eyebrow">SOURCES &amp; EDITORIAL NOTES</div><h2>画面有出处，解读有边界。</h2><p>剧情事实依本集情节与对白核对；“个人解读”是本页的阅读角度，不作为主创已证实的意图。本页不延伸医学或化学知识判断。</p></div></div>
+    <details class="source-details" id="source-details"><summary>剧情与对白资料 <span>剧情、对白与配图 / 点击展开</span></summary><ol class="source-list">$source_list</ol></details>
+    <details class="source-details"><summary>剧照、角色照与图片来源 <span>逐张记录 / 点击展开</span></summary><p>本页使用真实剧集画面，版权归 AMC / Sony Pictures Television 等原权利人。图片检索与存档来源为 Breaking Bad Wiki；来源标注不代表获得开放授权。对应场景截图与同集关联配图分别写明，人物头像由登记原图裁切。源站可能包含后续剧透。</p><ol class="asset-list">$image_list</ol><h3>统一角色照登记</h3><ol class="asset-list">$portrait_list</ol></details>
+    <div class="footer-bottom"><a class="brand" href="../../../"><b>✦</b>剧中人</a><span>BREAKING BAD / FILE $episode_number · $episode_title</span><a href="../">作品目录 ↗</a><a href="https://github.com/yokel062/shows">源码与内容 / GitHub ↗</a><a href="#top">回到顶部 ↑</a></div>
+  </footer>
+  <dialog class="lightbox" id="image-lightbox" aria-label="完整剧照"><button class="lightbox-close" aria-label="关闭剧照">×</button><img id="lightbox-image" src="$lightbox_src" alt="$lightbox_alt"><p id="lightbox-caption"></p></dialog>
+  <script type="application/json" id="episode-data">$payload</script>
+</body>
+</html>

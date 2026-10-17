@@ -1,0 +1,311 @@
+{
+  "characters": {
+    "walt": {
+      "name": "沃尔特·怀特",
+      "en": "Walter White",
+      "actor": "Bryan Cranston",
+      "file": "portraits/walt.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Walter_White_pilot.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/91/Walter_White_pilot.png/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        210,
+        50,
+        1120,
+        1120
+      ],
+      "width": 408,
+      "height": 480
+    },
+    "jesse": {
+      "name": "杰西·平克曼",
+      "en": "Jesse Pinkman",
+      "actor": "Aaron Paul",
+      "file": "portraits/jesse.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Jesse2008.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/26/Jesse2008.jpg/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 300,
+      "height": 300
+    },
+    "skyler": {
+      "name": "斯凯勒·怀特",
+      "en": "Skyler White",
+      "actor": "Anna Gunn",
+      "file": "portraits/skyler.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Skyler_pilot.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/de/Skyler_pilot.jpg/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        240,
+        25,
+        750,
+        535
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "hank": {
+      "name": "汉克·施雷德",
+      "en": "Hank Schrader",
+      "actor": "Dean Norris",
+      "file": "portraits/hank.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Hank_Schrader.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/a5/Hank_Schrader.png/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        240,
+        0,
+        800,
+        560
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "junior": {
+      "name": "小沃尔特",
+      "en": "Walter White Jr.",
+      "actor": "RJ Mitte",
+      "file": "portraits/junior.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Walter_Jr_S01E01_bacon.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/68/Walter_Jr_S01E01_bacon.png/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        420,
+        0,
+        980,
+        560
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "marie": {
+      "name": "玛丽·施雷德",
+      "en": "Marie Schrader",
+      "actor": "Betsy Brandt",
+      "file": "portraits/marie.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x01_-_Girl_talk.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/80/1x01_-_Girl_talk.jpg/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        325,
+        0,
+        675,
+        350
+      ],
+      "width": 350,
+      "height": 350
+    },
+    "krazy8": {
+      "name": "克雷兹八",
+      "en": "Krazy-8",
+      "actor": "Max Arciniega",
+      "file": "portraits/krazy8.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Krazy8.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/e/e7/Krazy8.png/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        20,
+        0,
+        750,
+        730
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "emilio": {
+      "name": "埃米利奥",
+      "en": "Emilio Koyama",
+      "actor": "John Koyama",
+      "file": "portraits/emilio.jpg",
+      "kind": "character-still",
+      "episode": "S01E01",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Emilio_Koyama.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/f/f4/Emilio_Koyama.png/revision/latest",
+      "credit": "本集角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        280,
+        0,
+        820,
+        540
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "adam": {
+      "name": "亚当·平克曼",
+      "en": "Adam Pinkman",
+      "actor": "Michael Bofshever",
+      "file": "portraits/adam.jpg",
+      "kind": "character-still",
+      "episode": "S01E04",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x04_-_The_Pinkman_sans_Jesse.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/87/1x04_-_The_Pinkman_sans_Jesse.jpg/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        425,
+        115,
+        650,
+        340
+      ],
+      "width": 225,
+      "height": 225
+    },
+    "diane": {
+      "name": "黛安·平克曼",
+      "en": "Diane Pinkman",
+      "actor": "Tess Harper",
+      "file": "portraits/diane.jpg",
+      "kind": "character-still",
+      "episode": "S01E04",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x04_-_The_Pinkman_sans_Jesse.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/87/1x04_-_The_Pinkman_sans_Jesse.jpg/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        830,
+        80,
+        1060,
+        310
+      ],
+      "width": 230,
+      "height": 230
+    },
+    "jake": {
+      "name": "杰克·平克曼",
+      "en": "Jake Pinkman",
+      "actor": "Benjamin Petry",
+      "file": "portraits/jake.jpg",
+      "kind": "character-still",
+      "episode": "S01E04",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x04_-_The_Pinkman_sans_Jesse.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/87/1x04_-_The_Pinkman_sans_Jesse.jpg/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        220,
+        200,
+        430,
+        410
+      ],
+      "width": 210,
+      "height": 210
+    },
+    "elliott": {
+      "name": "埃利奥特·施瓦茨",
+      "en": "Elliott Schwartz",
+      "actor": "Adam Godley",
+      "file": "portraits/elliott.jpg",
+      "kind": "character-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Elliott_Schwartz_2008.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/0/0c/Elliott_Schwartz_2008.png/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 369,
+      "height": 480
+    },
+    "gretchen": {
+      "name": "格蕾琴·施瓦茨",
+      "en": "Gretchen Schwartz",
+      "actor": "Jessica Hecht",
+      "file": "portraits/gretchen.jpg",
+      "kind": "character-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_Schwratz.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/b/bf/1x05_-_The_Schwratz.jpg/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": [
+        590,
+        135,
+        1070,
+        615
+      ],
+      "width": 480,
+      "height": 480
+    },
+    "badger": {
+      "name": "巴杰",
+      "en": "Badger",
+      "actor": "Matt Jones",
+      "file": "portraits/badger.jpg",
+      "kind": "character-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Badger_2008.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/ac/Badger_2008.png/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 429,
+      "height": 480
+    },
+    "tuco": {
+      "name": "图科·萨拉曼卡",
+      "en": "Tuco Salamanca",
+      "actor": "Raymond Cruz",
+      "file": "portraits/tuco.jpg",
+      "kind": "character-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Tuco_Salamanca_2008.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/2e/Tuco_Salamanca_2008.png/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 354,
+      "height": 480
+    },
+    "hugo": {
+      "name": "雨果",
+      "en": "Hugo Archuleta",
+      "actor": "Pierre Barrera",
+      "file": "portraits/hugo.jpg",
+      "kind": "character-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Hugo.JPG",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/8a/Hugo.JPG/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 480,
+      "height": 466
+    },
+    "pete": {
+      "name": "瘦皮特",
+      "en": "Skinny Pete",
+      "actor": "Charles Baker",
+      "file": "portraits/pete.jpg",
+      "kind": "character-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Skinny_Pete_2008.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/98/Skinny_Pete_2008.png/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 419,
+      "height": 480
+    },
+    "nodoze": {
+      "name": "No-Doze",
+      "en": "No-Doze",
+      "actor": "Cesar Garcia",
+      "file": "portraits/nodoze.jpg",
+      "kind": "character-still",
+      "episode": "S01E06",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:No_Doze_2.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/ca/No_Doze_2.png/revision/latest",
+      "credit": "第一季角色截图裁切 · AMC / Sony Pictures Television · Breaking Bad Wiki",
+      "cropBox": null,
+      "width": 451,
+      "height": 480
+    }
+  }
+}

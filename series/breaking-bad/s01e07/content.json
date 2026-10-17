@@ -1,0 +1,806 @@
+{
+  "version": 1,
+  "episode": "S01E07",
+  "title": "A No-Rough-Stuff-Type Deal",
+  "airdate": "2008-03-09",
+  "question": "他说只想做生意，谁来规定生意的规则？",
+  "intro": "季终让沃尔特与杰西面对上集许下的数量：原料不够、时间不够，钱也不能解决每一道限制。他把更大的承诺当成突破口，家庭里则用“为了家人”的语言试探边界。等到蓝色制品终于换来认可，暴力仍在最成功的时刻爆发，证明做好产品远没有等于掌握规则。",
+  "spoiler": "剧透截至第一季第7集，包含本集结尾。不涉及后续集数或其他作品的揭示。",
+  "prologue": {
+    "title": "真正拿走器材的人，正在说明器材。",
+    "fact": "学校举行家长会议，调查者纠正雨果就是窃贼的推断。沃尔特以化学部门负责人的身份到场，列举被偷走的设备。",
+    "analysis": "他同时扮演了造成问题的人和帮助说明问题的人。尊敬的职业身份使这场公开问责没有立即指向自己，也让后来“只想做生意”的说法始终带着一层被他人承担的代价。",
+    "image": "prologue"
+  },
+  "acts": [
+    {
+      "id": "promise",
+      "number": "I",
+      "title": "兑现承诺",
+      "deck": "先许下的数字，开始要求现实付账。",
+      "range": "01—04",
+      "summary": "学校与市场都在追问谁应负责。沃尔特把一次威慑后的优势当成可延长的控制，杰西则不断指出没有被问过的限制。"
+    },
+    {
+      "id": "excuse",
+      "number": "II",
+      "title": "寻找借口",
+      "deck": "为家人好，能替多少行为签字？",
+      "range": "05—08",
+      "summary": "家庭派对、雪茄与头饰形成道德对照。与此同时，周末行程成为谎言，材料瓶颈又把二人推向新的犯罪。"
+    },
+    {
+      "id": "pay",
+      "number": "III",
+      "title": "收下代价",
+      "deck": "技术难题解决后，真正的危险仍站在那里。",
+      "range": "09—12",
+      "summary": "两人成功供货，家人的秘密却没有得到承认；图科认可产品后的暴力，让“只做生意”的设想彻底失去安全感。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "assembly",
+      "act": "promise",
+      "where": "学校 · 家长会议",
+      "title": "大家追问谁偷了器材，他坐在被感谢的位置上。",
+      "image": "meeting",
+      "fact": "家长质问器材失窃与雨果事件，调查者澄清雨果未被认定为窃贼。校方感谢休病假的沃尔特到场，他说明缺失器材。",
+      "analysis": "公开追责的场合，被真正的窃取者用老师身份参与。家长的恐慌也会把持有大麻、偷窃和贩卖混为一谈。调查者不得不纠正这些推论，沃尔特却能继续享受自己原有形象带来的信任。",
+      "turn": "课堂与犯罪的边界，已经只能靠他继续表演维持。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "quota",
+      "act": "promise",
+      "where": "杰西住处 · 交付分成",
+      "title": "赔偿给了他，下一周的危险也替他签好了。",
+      "image": "list",
+      "fact": "杰西因创伤想卖掉房子。沃尔特交出从图科取回的钱，并宣布两人要每周供货；杰西指出自己从未同意，也弄不到相应原料。",
+      "analysis": "给钱看起来像照顾，擅自承诺又复制了最初合作的不对等。沃尔特能把数字当作激励，因为实际采购和接触买家的阻力主要由杰西经历。对方的反对是具体的生产约束，不只是受伤后胆怯。",
+      "turn": "现实无法按承诺供货，下一次交易带着缺口到来。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "consult",
+      "act": "promise",
+      "where": "治疗讨论 · 家庭近况",
+      "title": "他看起来更有活力，不代表答案已经出来。",
+      "image": "drink",
+      "fact": "斯凯勒向医生谈丈夫的精神和亲密状态，期待这是治疗奏效的信号。医生表示仍需完成疗程并进一步检查，不能据此下结论。",
+      "analysis": "观众也容易把他的强硬和兴奋误读成病情好转。剧中医生在此明确保留判断，提醒人们外在活力可以来自很多体验。人物寻找希望的心情值得理解，确证与期待仍是不同层次的事。",
+      "turn": "现实里的不确定，没有减弱沃尔特对生意的进一步承诺。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "firstdeal",
+      "act": "promise",
+      "where": "废车场 · 第一笔供货",
+      "title": "交不够时，他用更多未来换眼前过关。",
+      "image": "yard",
+      "fact": "两人只带到部分约定数量，图科不满并提出代价。沃尔特要求预付款，把下一次供货承诺进一步提高。",
+      "analysis": "他没有从兑现困难中收缩计划，而是用更大的承诺解决眼前压力。预付款看似获得了资本，也制造了必须及时偿还的义务。数量语言使一切像商业谈判，背后的执行保证却仍是图科的暴力。",
+      "turn": "更大的数字要求更多原料，瓶颈被进一步放大。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "shopping",
+      "act": "excuse",
+      "where": "杰西家 · 设备与清单",
+      "title": "把恐惧叫作没自信，问题就会消失吗？",
+      "image": "equipment",
+      "fact": "沃尔特提出改换制作路线，交给杰西难以完成的采购清单。杰西想离开，沃尔特用相信自己、改变人生的话劝他继续。",
+      "analysis": "励志语言在这里有明确的用途：让对方接受本来不愿承担的风险。技术上有替代路线，不代表采购、资金和安全问题都随之解决。当对方提出限制时，用成长叙事回答，会把拒绝的权利悄悄拿走。",
+      "turn": "杰西继续投入，花费和缺少的关键原料又把计划卡住。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "shower",
+      "act": "excuse",
+      "where": "怀特家 · 迎婴派对",
+      "title": "录像里，他仍然是一位认真祝福女儿的父亲。",
+      "image": "tiara",
+      "fact": "家人为新生儿录下祝愿，沃尔特表达爱与牵挂。玛丽送出昂贵头饰，斯凯勒觉得与实际需要并不相称。",
+      "analysis": "祝愿不必被一概判成虚假，问题在于爱不能独自证明后续行为合理。头饰也带出同样结构：送礼者的用心形象很显眼，礼物的来路与实用性却被藏到后面。两条秘密将在家庭内部相互照面。",
+      "turn": "这件显眼的礼物随后使收礼者陷入麻烦。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "cigars",
+      "act": "excuse",
+      "where": "院中 · 两位连襟",
+      "title": "从雪茄谈法律，他在试探谁能替他点头。",
+      "image": "cigar",
+      "fact": "沃尔特与汉克抽雪茄，谈论合法与非法的界线会随时间变化。汉克并未因此接受所有违法行为都可以被合理化。",
+      "analysis": "沃尔特不是在进行一场与自己无关的课堂辩论。他把具体行为放进“界线并非永恒”的框架，试探自己的处境能否变得没那么严重。即使分类会变化，伤害与责任仍需要逐项面对。这里呈现的是人物的论证，不是本页提供法律结论。",
+      "turn": "寻找辩护的习惯，随后回到与妻子的对话里。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "tiara",
+      "act": "excuse",
+      "where": "外出借口 → 退货柜台",
+      "title": "送礼的好意，先让别人受了指控。",
+      "image": "lie",
+      "fact": "沃尔特用汗屋疗愈解释周末离家。斯凯勒退头饰时被店家当作偷窃者，才知道礼物是赃物，靠临场应对离开。",
+      "analysis": "夫妻两人的周末形成残酷对照：一个人主动制造可接受的故事，另一个人却因别人隐瞒来路而被迫为自己解释。所谓“替家人做事”，实际可能意味着让家人不知道风险，却先承担风险。",
+      "turn": "斯凯勒要求玛丽说明，另一边两位搭档准备亲自盗窃。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "warehouse",
+      "act": "pay",
+      "where": "夜间 · 化学品仓库",
+      "title": "上一道承诺，要求下一次越界。",
+      "image": "theft",
+      "fact": "采购资金不足以请人取得缺料，沃尔特决定与杰西亲自闯入仓库。两人限制保安行动，搬走一大桶原料。",
+      "analysis": "这次没有一个全新的家庭需求突然出现，直接推动行动的是他们已经许下的供货量。每个技术解决方案，都需要更多违法行为来支撑它。场面的狼狈可以有黑色幽默，被限制自由的保安与不断增加的风险仍真实存在。",
+      "turn": "原料到手，制作地点却又出问题。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "basement",
+      "act": "pay",
+      "where": "杰西家 · 地下室与看房人",
+      "title": "房子要卖，人却还走不了。",
+      "image": "hush",
+      "fact": "房车故障后，两人把工作转到地下室。看房活动撞上制作现场，杰西驱赶访客；问到还需要多少钱，沃尔特只说还要更多。",
+      "analysis": "杰西想出售的正是曾承受人命后果的住处，现在又被重新投入生产。沃尔特回答“更多”时，暂时没有给出一个足以停止的数字。生意不再只是达到某个家庭目标的工具，也开始有了不断延长自身的动力。",
+      "turn": "他们完成产出，未完成与风险的切割。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "family",
+      "act": "pay",
+      "where": "姐妹对质 → 夫妻谈话",
+      "title": "别人拒绝认账，他却听出一个可用的借口。",
+      "image": "tiara",
+      "fact": "玛丽不承认偷窃，斯凯勒为此痛苦。沃尔特说人有时会为家庭做事，并试问如果是自己，妻子会否离开或报警；斯凯勒明确警告他别试。",
+      "analysis": "妻子谈的是一件已使她受辱的具体隐瞒，丈夫却把它借成对自己更严重行为的预先辩护。两类行为的规模与伤害并不相同，不能靠同一个“为家人”理由打包免除。她没有给出他期待的无条件容忍。",
+      "turn": "他继续走向交易现场，家庭的警告没有改变这一步。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "lastdeal",
+      "act": "pay",
+      "where": "废车场 · 最后一笔交易",
+      "title": "钱和赞叹都到了，暴力还是突然发生。",
+      "image": "blue",
+      "fact": "图科试过蓝色成品后非常满意。No-Doze 插话维护他的权威，被他曲解为冒犯并打倒；沃尔特与杰西站在一旁，图科随后提到下周继续。",
+      "analysis": "最可怕的地方，是暴力没有等到产品失败、价格争议或明确背叛。生意恰好成功，对方仍能因为一句话惩罚身边人。沃尔特上一集争来的位置，没有让规则变得稳定；能赚钱，只说明他们更有理由被留下。",
+      "turn": "第一季止于这个不安的现场；本页不补写 No-Doze 在下一季的处境。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    }
+  ],
+  "characters": {
+    "walt": {
+      "role": "供货者 / 想让承诺继续兑现的人",
+      "want": "扩大收入并维持对生意的主导，也试探家人对越界的容忍。",
+      "leverage": "技术、说服搭档的权威，以及图科已经给出的款项。",
+      "fact": "擅自承诺供货量，推动换工艺与盗窃原料，隐瞒周末行程，并在最终交易见证图科暴力。",
+      "analysis": "他不断把眼前困难重新解释成下一道技术或意志问题。解决供货并没有解决关系中的危险，反而提高了退出的成本。"
+    },
+    "jesse": {
+      "role": "搭档 / 受伤后仍被要求继续的人",
+      "want": "离开创伤现场，避免再次遭图科伤害，也维持生计。",
+      "leverage": "渠道经验、采购劳动与实际完成工作的能力。",
+      "fact": "打算卖掉住处，反对被擅自许下的供货量，仍参与采购、盗窃与制作，并在看房时维护现场秘密。",
+      "analysis": "他不断指出瓶颈，得到的却常是对胆量和自信的劝说。被赔偿没有意味着他同意承担更高风险，留在关系里也不表示风险已经可控。"
+    },
+    "skyler": {
+      "role": "妻子 / 被牵进他人秘密的人",
+      "want": "处理迎婴与治疗的实际生活，也要求亲近的人承认自己的行为。",
+      "leverage": "识别异常的能力、当面追问，以及拒绝接受道德借口的立场。",
+      "fact": "在退头饰时被当作窃贼，向玛丽求解释；又听沃尔特为“替家人做事”辩护，并反问他的含义。",
+      "analysis": "她正在具体承受“别人替她做好事”的后果。丈夫却从妹妹的偷窃中寻找自己的借口，使夫妻对话同时充满她不知道的另一层指向。"
+    },
+    "hank": {
+      "role": "连襟 / 法律界线的谈论者",
+      "want": "在家庭中放松，也完成学校调查的公开说明。",
+      "leverage": "职业经验、亲属地位与日常对法律的自信解释。",
+      "fact": "参与迎婴聚会，与沃尔特抽雪茄、讨论合法与非法的界限。",
+      "analysis": "他承认法律会变化，也强调伤害性行为不该因为变化的可能就被轻轻合理化。这里是人物对话，不能当作独立的法律史结论。"
+    },
+    "marie": {
+      "role": "妹妹 / 送礼却不肯认账的人",
+      "want": "维持体面的亲属形象，回避承认礼物来自偷窃。",
+      "leverage": "亲密关系中的熟悉与否认的空间。",
+      "fact": "送出昂贵婴儿头饰；斯凯勒被牵连后要求解释，她依然否认。",
+      "analysis": "她不只拿走了一件商品，也把被怀疑、解释和受辱的工作留给别人。真正破坏关系的，是后果出现后仍拒绝与对方共同承认事实。"
+    },
+    "junior": {
+      "role": "儿子与哥哥 / 家庭影像的见证者",
+      "want": "参与即将迎来的新生命，拥有普通的家庭记忆。",
+      "leverage": "在派对中的参与和记录，让父亲必须再次对家人说出祝愿。",
+      "fact": "参加迎婴派对，参与为妹妹记录祝福的家庭录像。",
+      "analysis": "他的日常没有停止，父亲的秘密却不断占用这份日常作为证明自己的舞台。对孩子的祝愿真实，兑现祝愿所用的方法仍需要另作判断。"
+    },
+    "tuco": {
+      "role": "买家 / 随时可以改写规则的人",
+      "want": "确保持续供货，并维持任何人都不能代他发言的权力。",
+      "leverage": "渠道、预付款、手下和不可预测的暴力。",
+      "fact": "因交货不足加收代价，接受蓝色制品，随后因手下插话而将其打倒。",
+      "analysis": "他可以谈数量与利息，也可以突然把一句顺从的话理解成冒犯。利润与合同语言无法单独约束他的权力感。"
+    },
+    "nodoze": {
+      "role": "图科的手下 / 试图替上位者强调秩序的人",
+      "want": "维护图科的权威，并显示自己的忠诚。",
+      "leverage": "随从身份与可以参与现场的资格，但几乎没有解释自己言语的权力。",
+      "fact": "在交易后提醒两人记住在为谁工作，被图科曲解为冒犯，遭到殴打倒地。",
+      "analysis": "他本想替上位者说一句顺从的话，反而因“替他发言”受到惩罚。危险并非只对外人存在，权力也会吞掉靠近它的人。"
+    }
+  },
+  "phases": [
+    {
+      "id": "phase-1",
+      "name": "01 · 数字与责任",
+      "note": "供货承诺已经作出，杰西的反对与学校的追问都没有使沃尔特停止。",
+      "edges": [
+        "给出赔偿 / 擅自承诺",
+        "交货不足 / 追加承诺",
+        "家庭期待 / 医疗不确定",
+        "显眼礼物 / 亲属用心形象",
+        "学校问题 / 亲属形象继续",
+        "随从位置 / 强调秩序"
+      ],
+      "details": {
+        "walt": "把上集的胜利转成搭档必须履行的义务。",
+        "jesse": "身体和住处都带着旧后果，想搬离。",
+        "skyler": "希望迎婴派对能暂时只围绕家庭。",
+        "hank": "家庭与学校调查仍在同一个生活圈里交错。",
+        "marie": "用显眼礼物展示自己的用心。",
+        "junior": "参与家庭为新生儿作准备的活动。",
+        "tuco": "掌握供货不足时施压的优势。",
+        "nodoze": "作为图科的随从出现在交易场合。"
+      }
+    },
+    {
+      "id": "phase-2",
+      "name": "02 · 家庭与借口",
+      "note": "迎婴派对、雪茄和头饰呈现亲密与道德试探；离家计划被包装成疗愈。",
+      "edges": [
+        "采购与说服 / 再次越界",
+        "预付与义务 / 时间压力",
+        "汗屋借口 / 离家被同意",
+        "赃物暴露 / 收礼者被牵连",
+        "雪茄谈话 / 试探界线",
+        "忠诚表态 / 缺乏解释权"
+      ],
+      "details": {
+        "walt": "要求更多投入，用家庭与疗愈说法遮住行动。",
+        "jesse": "指出原料限制与买家危险，仍被推去完成清单。",
+        "skyler": "因为礼物被牵连，要求送礼人承认。",
+        "hank": "与亲属分享雪茄，无意接住了一次道德试探。",
+        "marie": "礼物被发现是赃物，姐姐承受指控。",
+        "junior": "听到父亲表达爱与牵挂。",
+        "tuco": "预付款让对方背上更多承诺。",
+        "nodoze": "在供货关系中维护上位者位置。"
+      }
+    },
+    {
+      "id": "phase-3",
+      "name": "03 · 成功与恐惧",
+      "note": "盗窃与交货成功，家庭不肯替隐瞒认账，图科的暴力揭开生意的不稳定。",
+      "edges": [
+        "共同交货 / 共同目睹暴力",
+        "产品被认可 / 规则仍不可控",
+        "道德试探 / 遭到警告",
+        "拒绝认账 / 信任受损",
+        "未获得辩护 / 秘密仍未揭开",
+        "被理解成冒犯 / 遭到殴打"
+      ],
+      "details": {
+        "walt": "完成交货，却看见钱与产品无法换来稳定规则。",
+        "jesse": "工作确实完成，眼前暴力再次证明先前担心有根据。",
+        "skyler": "面对丈夫的试探，没有提供他期待的免责答案。",
+        "hank": "仍不知道谈话对象实际在为哪些行为寻找解释。",
+        "marie": "继续否认，使本来可以谈的错误成为信任问题。",
+        "junior": "仍不知道父亲离家周末的真实用途。",
+        "tuco": "认可制品后仍暴力相向，暴露秩序的不稳定。",
+        "nodoze": "忠诚的表态没有保护他，本集停在倒地之后。"
+      }
+    }
+  ],
+  "edgePairs": [
+    "沃尔特 — 杰西",
+    "沃尔特 — 图科",
+    "沃尔特 — 斯凯勒",
+    "斯凯勒 — 玛丽",
+    "沃尔特 — 汉克",
+    "图科 — No-Doze"
+  ],
+  "graph": {
+    "positions": {
+      "walt": [
+        42,
+        48
+      ],
+      "jesse": [
+        78,
+        48
+      ],
+      "skyler": [
+        14,
+        22
+      ],
+      "hank": [
+        44,
+        13
+      ],
+      "marie": [
+        78,
+        15
+      ],
+      "junior": [
+        14,
+        78
+      ],
+      "tuco": [
+        54,
+        84
+      ],
+      "nodoze": [
+        85,
+        84
+      ]
+    },
+    "labels": {
+      "walt": "供货者",
+      "jesse": "搭档",
+      "skyler": "妻子",
+      "hank": "连襟",
+      "marie": "妹妹",
+      "junior": "儿子与哥哥",
+      "tuco": "买家",
+      "nodoze": "图科的手下"
+    },
+    "edges": [
+      [
+        "walt",
+        "jesse",
+        "partner"
+      ],
+      [
+        "walt",
+        "tuco",
+        "danger"
+      ],
+      [
+        "walt",
+        "skyler",
+        "family"
+      ],
+      [
+        "skyler",
+        "marie",
+        "family"
+      ],
+      [
+        "walt",
+        "hank",
+        "family"
+      ],
+      [
+        "tuco",
+        "nodoze",
+        "danger"
+      ],
+      [
+        "hank",
+        "marie",
+        "family"
+      ]
+    ]
+  },
+  "conflicts": [
+    {
+      "id": "contract",
+      "label": "沃尔特 × 杰西",
+      "left": "先把目标说出去",
+      "right": "谁来完成现实条件",
+      "title": "他的雄心，变成搭档的工作清单。",
+      "image": "list",
+      "text": "沃尔特把上集取得的威慑优势转成了固定供货量，没有先询问采购能力。杰西的反对包含清楚的事实：渠道、时间、原料与自己已经受过的伤。",
+      "second": "每逢瓶颈，沃尔特又用技术替代或鼓励成长回应。这样可以推动任务继续，却让对方越来越难说“不”。合作如果只有许诺者的想象，没有执行者的同意，所谓共同事业就会不断把代价压向一端。",
+      "limit": "个人解读：有效的方案与对搭档的尊重分别判断，不能因为最后交货成功就取消此前的胁迫。"
+    },
+    {
+      "id": "gift",
+      "label": "斯凯勒 × 玛丽",
+      "left": "送礼时的体面",
+      "right": "后果出现后的认账",
+      "title": "真正破坏关系的，不止那件被偷走的东西。",
+      "image": "tiara",
+      "text": "头饰本就不符合家庭的实际需要，被发现来自偷窃后，又让斯凯勒面对指控。她要求妹妹承认，首先是在要求双方共同面对已经发生的事实。",
+      "second": "玛丽的否认把这一要求拒之门外。她维持了送礼者的自我形象，却让姐姐独自承受解释和羞辱。这与其他秘密形成呼应：好意若只由行动者自己宣布，很容易将接受者变成被迫承受后果的人。",
+      "limit": "剧情边界：只分析本集偷窃与否认，不以尚未讨论的诊断替她定性。"
+    },
+    {
+      "id": "alibi",
+      "label": "沃尔特 × 斯凯勒",
+      "left": "为家庭行事的理由",
+      "right": "家人是否拥有拒绝权",
+      "title": "他试探的是一张尚未签出的免责书。",
+      "image": "lie",
+      "text": "沃尔特用玛丽的行为抛出“如果是我”的问题，说明谈话并不只是在评价妹妹。妻子的痛苦被挪作理解自己的材料，行为的具体规模与风险却仍然被他隐去。",
+      "second": "斯凯勒没有说只要为了家庭便可以接受一切。她的警告使“保护者的动机”与“家人的授权”分开了。真正被牵连的人，仍有权要求知道事实并作出自己的判断。",
+      "limit": "个人解读：不把角色对法律相对性的谈论当成已经解决伦理问题的论证。"
+    },
+    {
+      "id": "violence",
+      "label": "供货者 × 图科",
+      "left": "做好产品就能谈生意",
+      "right": "权力随时改写语言",
+      "title": "产品越成功，越不等于能够安全离开。",
+      "image": "shock",
+      "text": "最终交易没有出现预想中的质量问题，图科甚至很满意。这使后面的殴打更清楚地暴露危险：惩罚可以来自一句被曲解的忠诚，而不必来自违约。",
+      "second": "No-Doze 靠近权力，仍不能保护自己；沃尔特制造过威慑，也不能使每句话都按自己的意图被理解。第一季因此没有结束在赚到钱的安稳上，而是结束在继续交易已经成为威胁的瞬间。",
+      "limit": "剧透边界：只写本集的殴打与倒地，不提前交代下一季结果。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "沃尔特 → 杰西",
+      "en": "More.",
+      "zh": "更多。",
+      "image": "basement",
+      "context": "杰西问他在目前处境下究竟还需要多少钱，他只给出这一个词。",
+      "analysis": "没有停止条件的需求，很容易让工具变成目的。这里不能替他断言从来不爱家人，却已经可以问：什么结果才足够让这件事结束？"
+    },
+    {
+      "speaker": "斯凯勒 → 沃尔特",
+      "en": "You don't want to find out.",
+      "zh": "你最好别想知道。",
+      "image": "tiara",
+      "context": "丈夫试问如果是自己偷窃，妻子会如何回应。",
+      "analysis": "她拒绝给出无条件接纳的承诺。家人不是一个可以由行动者随意调用的正当理由，他们也有自己的界线。"
+    },
+    {
+      "speaker": "图科 → 两人",
+      "en": "We're going to make a lot of money together.",
+      "zh": "我们会一起赚很多钱。",
+      "image": "blue",
+      "context": "图科认可成品，在随后的暴力爆发前说出合作前景。",
+      "analysis": "这句普通的商业许诺，马上与无法预测的殴打相邻。利润是真的，控制别人生命的权力也是真的，两者没有互相抵消。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "同一台家庭摄像机",
+      "text": "首集里沃尔特录告别，本集又为女儿录祝福。个人解读：两次都在维护家人记忆中的自己，行为的另一面却仍被藏住。",
+      "link": "shower"
+    },
+    {
+      "number": "02",
+      "title": "一件不合实际需要的礼物",
+      "text": "头饰显眼，却不解决育儿的具体需求。个人解读：展示自己的用心，与认真回应对方需要之间，存在可见距离。",
+      "link": "shower"
+    },
+    {
+      "number": "03",
+      "title": "雪茄旁的界线",
+      "text": "亲密闲聊承载道德试探。个人解读：把问题说得抽象，会让具体受害者和行为规模暂时从谈话里消失。",
+      "link": "cigars"
+    },
+    {
+      "number": "04",
+      "title": "“疗愈”的周末",
+      "text": "汗屋页面提供一套可以被妻子接受的解释。个人解读：他把亲人支持康复的愿望，转成了隐藏另一种活动的便利。",
+      "link": "tiara"
+    },
+    {
+      "number": "05",
+      "title": "一栋正在出售却仍被占用的房子",
+      "text": "看房与地下室制作撞在一起。个人解读：杰西希望离开的空间，又因供货压力变成无法离开的工作场所。",
+      "link": "basement"
+    },
+    {
+      "number": "06",
+      "title": "蓝色之后的恐惧",
+      "text": "新的外观让产品获得辨识度，交易却没有稳定下来。个人解读：成品的成功只能解决需求，不能解决权力关系里的任意惩罚。",
+      "link": "lastdeal"
+    }
+  ],
+  "sources": [
+    {
+      "id": "episode",
+      "title": "A No-Rough-Stuff-Type Deal · 单集条目与事件主线",
+      "url": "https://en.wikipedia.org/wiki/A_No-Rough-Stuff-Type_Deal",
+      "note": "辅助核对首播、编导和情节；剧情事实与个人解读分开，不采用后续集数的信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E07 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=breaking-bad&episode=s01e07",
+      "note": "核对本集对白、人物获知信息的时点与事件顺序。非官方剧本；中文短句为本页自译。"
+    },
+    {
+      "id": "gallery",
+      "title": "Breaking Bad Wiki · A No-Rough-Stuff-Type Deal 图片分类",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_A_No-Rough-Stuff-Type_Deal",
+      "note": "本集剧照的检索入口；逐图原图与文件页见图片清单。宣传剧照、对应场景截图和同集关联配图分别标注。"
+    },
+    {
+      "id": "portraits",
+      "title": "Breaking Bad Wiki · 第一季图像档案",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Season_1_(Breaking_Bad)",
+      "note": "角色照仅采用截至本集已出现的剧集画面，同一角色跨集复用登记图片；外部资料页可能含后续剧透。"
+    }
+  ],
+  "images": [
+    {
+      "id": "meeting",
+      "file": "assets/meeting.jpg",
+      "alt": "家长、教师和调查者在学校会议室相对而坐",
+      "caption": "对应场景截图 · 器材失窃引发家长质问 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_The_school_staff_and_parents.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/6d/1x07_-_The_school_staff_and_parents.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "dea",
+      "file": "assets/dea.jpg",
+      "alt": "戈麦斯与校长在家长会上说明调查情况",
+      "caption": "对应场景截图 · 调查者澄清雨果并未被认定偷窃器材 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_DEA_talk.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/2d/1x07_-_DEA_talk.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "list",
+      "file": "assets/list.jpg",
+      "alt": "沃尔特隔着厨房料理台把一份清单交给杰西",
+      "caption": "对应场景截图 · 扩大生产计划的准备与分工 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Walt_giving_Jesse_his_shopping_list.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/9b/1x07_-_Walt_giving_Jesse_his_shopping_list.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "yard",
+      "file": "assets/yard.jpg",
+      "alt": "沃尔特与杰西站在废车场中，四周堆着报废车辆",
+      "caption": "对应场景截图 · 废车场成为交易地点 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Junkyard.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/82/1x07_-_Junkyard.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "tuco",
+      "file": "assets/tuco.jpg",
+      "alt": "图科与手下站在交易现场",
+      "caption": "同集关联配图 · 图科与手下的交易姿态；非最终殴打后的镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:A_No-Rough-Stuff-Type_Deal_02.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/b/b0/A_No-Rough-Stuff-Type_Deal_02.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "tiara",
+      "file": "assets/tiara.jpg",
+      "alt": "玛丽把送给婴儿的头饰戴在斯凯勒头上",
+      "caption": "对应场景截图 · 迎婴派对上，玛丽送出昂贵的头饰 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Maria%27s_tiara.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/1/10/1x07_-_Maria%27s_tiara.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "cigar",
+      "file": "assets/cigar.jpg",
+      "alt": "沃尔特站在汉克旁边，两人抽着雪茄",
+      "caption": "对应场景截图 · 连襟用雪茄谈起法律的界线 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Cigars.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/a/a4/1x07_-_Cigars.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "drink",
+      "file": "assets/drink.jpg",
+      "alt": "汉克与沃尔特坐在迎婴派对院中喝酒",
+      "caption": "同集关联配图 · 家庭派对中的两人；非医疗咨询镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Walt_and_Hank_share_a_drink.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/4/4f/1x07_-_Walt_and_Hank_share_a_drink.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "lie",
+      "file": "assets/lie.jpg",
+      "alt": "电脑显示汗屋体验的介绍页面",
+      "caption": "对应场景截图 · 沃尔特用一次疗愈出行解释周末离家 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Sweat_lodge.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/ce/1x07_-_Sweat_lodge.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "equipment",
+      "file": "assets/equipment.jpg",
+      "alt": "沃尔特站在新取得的器材与容器前",
+      "caption": "对应场景截图 · 杰西取得器材后，两人仍面临缺料 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Looking_at_the_new_equipment.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/b/b1/1x07_-_Looking_at_the_new_equipment.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "theft",
+      "file": "assets/theft.jpg",
+      "alt": "两人在夜色中搬走化学品容器",
+      "caption": "对应场景截图 · 两人夜间闯入仓库后搬运所得 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Stealing_methylamine.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/95/1x07_-_Stealing_methylamine.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "basement",
+      "file": "assets/basement.jpg",
+      "alt": "沃尔特与杰西穿防护服，在地下室工作",
+      "caption": "对应场景截图 · 房车故障后，将工作转移到地下室 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Cooking_in_the_basement.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/25/1x07_-_Cooking_in_the_basement.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "hush",
+      "file": "assets/hush.jpg",
+      "alt": "沃尔特在地下室门后竖起手指示意噤声",
+      "caption": "对应场景截图 · 看房人靠近时，地下室里的沃尔特示意安静 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Hush.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/d2/1x07_-_Hush.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "blue",
+      "file": "assets/blue.jpg",
+      "alt": "沃尔特与杰西在废车场拿着成品",
+      "caption": "对应场景截图 · 新一批成品被带到最终交易现场 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:A_No-Rough-Stuff-Type_Deal_05.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/2/2a/A_No-Rough-Stuff-Type_Deal_05.png/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "shock",
+      "file": "assets/shock.jpg",
+      "alt": "沃尔特与杰西在废车场紧张地看向前方",
+      "caption": "本集宣传剧照 · 两人面对失控局面的反应配图，非 No-Doze 倒地的镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-production-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:WaltJesseShock.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/34/WaltJesseShock.png/revision/latest",
+      "width": 932,
+      "height": 652
+    },
+    {
+      "id": "hero",
+      "file": "assets/yard.jpg",
+      "alt": "沃尔特与杰西站在废车场中，四周堆着报废车辆",
+      "caption": "对应场景截图 · 废车场成为交易地点 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_Junkyard.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/8/82/1x07_-_Junkyard.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/meeting.jpg",
+      "alt": "家长、教师和调查者在学校会议室相对而坐",
+      "caption": "对应场景截图 · 器材失窃引发家长质问 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E07",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x07_-_The_school_staff_and_parents.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/6/6d/1x07_-_The_school_staff_and_parents.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "page": {
+    "metaDescription": "供货承诺、为家人的借口与暴力失控；剧透截至第一季结尾。",
+    "heroLine1": "他说只想做生意，",
+    "heroLine2": "谁来规定生意的规则？",
+    "heroDeck": "一顶头饰，一次周末谎言，一笔终于完成的供货。|钱到手时，他们才看清没有被解决的危险。",
+    "openingTitle": "技术难题解决了，|人之间的规则没有。",
+    "readingKey": "承诺与瓶颈 / 好意与授权 / 利润与暴力",
+    "prologueBadge": "ACCOUNTABILITY / 公开追责的现场",
+    "prologueKicker": "WHO TOOK IT / 谁拥有被信任的形象",
+    "storyTitle": "许下更多，|再用下一次越界去兑现。",
+    "storyNote": "顺着供货与家庭两条线合并相邻事件。技术过程只保留叙事作用；本集末尾的伤害不引用第二季作解释。",
+    "relationsTitle": "每一笔承诺，|都让更多人替他承担。",
+    "relationsNote": "八位人物，三次关系截面。No-Doze 是本集已出现的随从；图只说明截至季终可见的行动与风险。",
+    "conflictsTitle": "“为家人做的”，|能替家人决定到哪里？",
+    "conflictsDeck": "从搭档的同意、礼物的来路、夫妻间的试探和图科的任意惩罚，追问谁实际拥有规则。",
+    "quotesTitle": "他回答“更多”，|对方许诺“一起赚钱”。",
+    "endingTitle": "他们完成了交货。",
+    "endingAccent": "没有完成与危险的切割。",
+    "endingLink": "lastdeal",
+    "endingLinkLabel": "回看第一季的最后一场交易",
+    "endingParagraphs": [
+      "第一季从一个关于期限的家庭困境开始，最后落到一段没有稳定规则的生意里。沃尔特解决了越来越多的技术问题，也不断把承诺变成要求下一次越界的理由。",
+      "季终的真正悬念，不只是下一笔钱能否赚到。更难回避的问题是：当他把继续做下去叫作保护家庭，谁仍有机会知道真相、拒绝参与，或者要求他停下来？"
+    ],
+    "credits": "编剧 Peter Gould / 导演 Tim Hunter",
+    "catalogueDeck": "擅自提高的供货量把两人推向盗窃。头饰风波暴露“为家人”的借口，蓝色制品成功后，图科的暴力仍然突如其来。",
+    "framePair": {
+      "title": "一家人的祝愿，一群人的恐惧。",
+      "left": "drink",
+      "right": "shock",
+      "text": "家庭派对里的轻松与废车场的紧张属于同一段生活。沃尔特想让前一边继续不知道后一边，然而两边已经共享他的时间、钱和一次次隐瞒。"
+    }
+  }
+}

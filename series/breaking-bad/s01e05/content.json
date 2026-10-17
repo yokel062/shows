@@ -1,0 +1,795 @@
+{
+  "version": 1,
+  "episode": "S01E05",
+  "title": "Gray Matter",
+  "airdate": "2008-02-24",
+  "question": "有人愿意帮他，他为何还是走回那扇门？",
+  "intro": "第五集让一条不必制毒的道路明确出现：埃利奥特提供工作与保险，夫妇也愿意负担治疗费用。沃尔特仍然拒绝。与此同时，家人认真争论他能否自己决定治疗，杰西则在新搭档面前复制旧老师的姿态。自主、尊严与被认可的需要，一起把人物推到必须具体选择的地方。",
+  "spoiler": "剧透截至第一季第5集，包含本集结尾。不涉及后续集数或其他作品的揭示。",
+  "prologue": {
+    "title": "他带着简历来，想得到一份不同的生活。",
+    "fact": "杰西参加求职面试，误以为在应聘销售工作；实际岗位是街边举牌。他随后遇见正在做这份工作的巴杰。",
+    "analysis": "开场把合法谋生的入口摆到眼前，也保留了进入它所需的条件。与稍后沃尔特收到的工作邀请对照，两人想获得的位置很不同，却都不愿继续被原来的标签定义。",
+    "image": "prologue"
+  },
+  "acts": [
+    {
+      "id": "offer",
+      "number": "I",
+      "title": "有人伸手",
+      "deck": "过去的能力，仍被人记得。",
+      "range": "01—04",
+      "summary": "求职与生日宴并排摆出两种重获位置的机会。财富差距真实，沃尔特的旧日价值也没有像他以为的那样完全被遗忘。"
+    },
+    {
+      "id": "reject",
+      "number": "II",
+      "title": "如何理解帮助",
+      "deck": "机会来到，也可能先被感成羞辱。",
+      "range": "05—08",
+      "summary": "沃尔特拒绝旧友的援手，杰西则试图靠旧老师教过的知识成为权威。家庭角色的错位又加重了两人的焦虑。"
+    },
+    {
+      "id": "choose",
+      "number": "III",
+      "title": "怎样作选择",
+      "deck": "治疗、援助和犯罪，是三个需要分开判断的问题。",
+      "range": "09—12",
+      "summary": "家庭会议让自主权与亲人的恐惧真正相碰。沃尔特同意治疗，却仍拒绝明明可得的资金，再次走向制毒。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "job",
+      "act": "offer",
+      "where": "地产公司 → 街边",
+      "title": "简历准备好了，入口却比想象窄。",
+      "image": "job",
+      "fact": "杰西带着简历应聘，以为自己在争取销售岗位，后来发现实际工作是街边举广告牌，并遇见做这份工作的巴杰。",
+      "analysis": "他想改变职业身份，却没有掌握新行业的入口条件。巴杰的出现把正常收入和犯罪渠道放到同一个人身上。这里可以看见转向合法工作的困难，也必须保留随后选择的主动性，不能把受挫自动写成只有犯罪一条路。",
+      "turn": "巴杰提出合作，另一个证明自己的途径重新出现。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "party",
+      "act": "offer",
+      "where": "施瓦茨家 · 生日聚会",
+      "title": "在旧友的家里，他感到自己不合时宜。",
+      "image": "couple",
+      "fact": "沃尔特与斯凯勒参加埃利奥特的生日宴。宽敞住所、宾客衣着和昂贵礼物，使两人显得格外拘谨。",
+      "analysis": "空间在他们开口前就展示了生活差距。斯凯勒用玩笑处理不自在，沃尔特则对自己带来的礼物先失去信心。受辱感很强，但画面里的不自在与主人的实际恶意不是同一项证据。",
+      "turn": "接下来的谈话既触痛差距，也确认他曾有的能力。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "university",
+      "act": "offer",
+      "where": "聚会宾客之间",
+      "title": "“你在哪所大学？”是一次无意的刺痛。",
+      "image": "scholar",
+      "fact": "旧识称赞沃尔特当年的研究才能，谈到灰质名称的由来。听说他转向教育，对方自然追问在哪所大学。",
+      "analysis": "赞美并非缺席，问题恰恰在于赞美与现状落差过大。他曾被视为可以取得很高成就的人，如今却很难向同一群人说明自己的生活。旧识的默认期待，让他对未实现人生的感受更清楚。",
+      "turn": "他开始更敏感地理解接下来出现的帮助。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "ramen",
+      "act": "offer",
+      "where": "礼物拆封时",
+      "title": "一包方便面，意外成了被珍惜的礼物。",
+      "image": "ramen",
+      "fact": "沃尔特送出过去共同研究时常吃的方便面，埃利奥特在宾客面前解释这段记忆，并真心表示喜欢。",
+      "analysis": "昂贵礼物并没有完全压过朴素的共同过去。这一反应给了观众反方向的证据：旧友仍可能珍视沃尔特。若直接把整个聚会写成富人羞辱穷人，就会漏掉这份具体的认可，也会削弱后来拒绝帮助的选择分量。",
+      "turn": "在回忆拉近距离后，工作邀请显得真实可行。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "insurance",
+      "act": "reject",
+      "where": "聚会中 · 私下谈话",
+      "title": "当保险被提起，邀请在他耳中变了味。",
+      "image": "elliott",
+      "fact": "埃利奥特邀请沃尔特到灰质工作，称赞他的能力，并提到公司的保险很好。沃尔特由此意识到对方知道癌症。",
+      "analysis": "工作本来可以同时带来收入、治疗保障和专业位置，病情一旦被点明，他却首先把邀请理解成照顾。这里发生的是解释的转向：相同提议，因为触碰自尊，被他从机会改写成施舍。",
+      "turn": "他转而追问妻子，是不是她把消息告诉了旧友。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "argument",
+      "act": "reject",
+      "where": "回程 · 夫妻争执",
+      "title": "她说真相，他听成失去体面。",
+      "image": "couple",
+      "fact": "斯凯勒承认谈话中告诉了埃利奥特病情。沃尔特为她透露私人情况而愤怒，并拒绝对方工作与支付治疗费的提议。",
+      "analysis": "他要求对病情保有决定权，这并非完全没有根据；但他也把妻子几乎无法承受的压力与求助需要排除在外。关心该如何获得同意，援助为何被视为矮人一等，两道问题在这里纠缠。",
+      "turn": "拒绝让资金问题重新落回他们自己身上。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "newpartner",
+      "act": "reject",
+      "where": "荒漠 · 房车内",
+      "title": "学生开始用老师的语言教别人。",
+      "image": "rv",
+      "fact": "杰西与巴杰合作，向他介绍器材并纠正名称；巴杰表示佩服，两人开始尝试制作。",
+      "analysis": "杰西曾反感老师的训斥，现在却借同一套术语建立自己的权威。他不仅想挣钱，也想成为知道该怎么做的人。模仿专业姿态与真正掌握工艺的距离，马上会被成品显露出来。",
+      "turn": "第一次成果不能满足他从沃尔特那里学来的标准。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "beer",
+      "act": "reject",
+      "where": "便利店外 → 怀特家",
+      "title": "他出了事，先找的是汉克。",
+      "image": "beer",
+      "fact": "小沃尔特与朋友想请人代买啤酒，碰上警察。他求助汉克，被带回家；汉克提醒他该想到父亲的感受。",
+      "analysis": "少年有自己的社交与冒险，不只是等待父亲安排的家属。这次求助也让家庭中的位置出现偏移：汉克成了可以依靠的成年人。对沃尔特的自尊而言，日常里另一个人“接得住”，可能与疾病的无力感相互叠加。",
+      "turn": "家人随后试图用一次正式谈话重新接住彼此。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "quality",
+      "act": "choose",
+      "where": "房车 · 几次失败的尝试",
+      "title": "“够好”已经不能让他满足。",
+      "image": "badger",
+      "fact": "杰西不满意成品的混浊，反复倒掉重做。巴杰因投入被浪费而愤怒，两人争斗，杰西把他留在荒地后开车离开。",
+      "analysis": "杰西第一次如此坚定地维护质量标准，说明老师已经改变了他的自我要求。可标准也变成了对搭档单方面的命令。想做好与会合作并不是同一件事；他复制出的专业骄傲，同样带上了不愿解释的支配。",
+      "turn": "离开巴杰后，他仍没有找到稳定、可持续的退路。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "pillow",
+      "act": "choose",
+      "where": "怀特家 · 家庭会议",
+      "title": "说好让每个人发言，能不能听见不想听的答案？",
+      "image": "pillow",
+      "fact": "斯凯勒用抱枕规定发言顺序。小沃尔特要求父亲不要放弃，玛丽主张由本人选择，汉克也改变部分立场；沃尔特表达对副作用与生活质量的担忧。",
+      "analysis": "会议的困难来自大家并非不爱彼此。斯凯勒想活下去，小沃尔特怕被放弃，玛丽坚持选择权，沃尔特怕最后的日子被治疗占据。让这些话真正被听见，比让所有人轮流拿到抱枕更难。",
+      "turn": "沃尔特把自主权说清，却还要决定怎样使用它。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "accept",
+      "act": "choose",
+      "where": "卧室 → 诊所与电话",
+      "title": "同意治疗，不等于接受帮助。",
+      "image": "breakfast",
+      "fact": "第二天沃尔特同意治疗。格蕾琴来电再次劝他接受经济援助，他却谎称保险已经解决费用，让妻子继续相信钱会由旧友提供。",
+      "analysis": "这是本集必须拆开的三个动作：他选择治疗，拒绝可以得到的援助，再编出解决资金的假消息。把它们合写成“被迫挣钱”，会抹掉另一条已经摆在眼前的道路。自主权是真问题，资金选择也是真选择。",
+      "turn": "他没有向两边说同一套真相，而准备自己筹钱。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    },
+    {
+      "id": "cook",
+      "act": "choose",
+      "where": "杰西家门前",
+      "title": "这一次，门是他自己再次敲开的。",
+      "image": "door",
+      "fact": "沃尔特来到杰西家，问他是否愿意再次制作毒品。本集在这句邀请上结束。",
+      "analysis": "首集的诊断让越界显得紧迫，第五集则具体提供了一条不必制毒的资金道路。他仍回到杰西门前，使欲望与自尊的作用变得更难回避。环境没有消失，但“别无选择”已经不能完整描述他的行动。",
+      "turn": "本集止于重新合作的邀请；新的后果留给之后。",
+      "sources": [
+        "episode",
+        "transcript"
+      ]
+    }
+  ],
+  "characters": {
+    "walt": {
+      "role": "病人 / 旧日研究伙伴",
+      "want": "保有决定权，并让挣钱的方式仍能维持自己的分量。",
+      "leverage": "埃利奥特提供的工作与医疗援助、技术能力，以及选择接受或拒绝的权力。",
+      "fact": "拒绝工作和支付治疗费的帮助，表达对生活质量的担心，随后同意治疗并重新找杰西制毒。",
+      "analysis": "这集让另一条可行道路具体出现。对疾病的自主选择值得认真听，对援助的拒绝也必须与犯罪资金的主动选择分开判断。"
+    },
+    "jesse": {
+      "role": "求职者 / 想重新证明自己的制毒者",
+      "want": "找到收入和被认可的办法，也想达到曾被老师展示的标准。",
+      "leverage": "朋友关系、房车和已经学到的部分专业知识。",
+      "fact": "尝试找工作，之后与巴杰合作；因成品不合标准反复倒掉，争执后抛下搭档离开。",
+      "analysis": "他正复制老师的器材语言和质量要求，却没有复制出老师的成果。想成为更有能力的人，在这里仍被困在犯罪的衡量方式里。"
+    },
+    "skyler": {
+      "role": "妻子 / 家庭会议的组织者",
+      "want": "让丈夫接受治疗，减少明明可以避免的失去。",
+      "leverage": "亲属支持、向旧友说出病情，以及组织讨论的能力。",
+      "fact": "告诉埃利奥特丈夫患病，举办家庭谈话，认为每个人都应被听见，却对不同意见感到难以接受。",
+      "analysis": "她真实地害怕失去丈夫，也试图使讨论导向自己认为能救他的答案。关心与控制在同一个动作里相遇，使谈话不可能只由善意解释。"
+    },
+    "junior": {
+      "role": "儿子 / 质问放弃的少年",
+      "want": "让父亲继续争取，也在自己的同龄生活里获得普通体验。",
+      "leverage": "与疾病和身体困难相处的自身经验。",
+      "fact": "与朋友试图买啤酒，出事后求助汉克；在家庭会上质问父亲为什么想放弃。",
+      "analysis": "他把自己的坚持当作要求父亲坚持的理由。这是爱与恐惧形成的有力质问，却也难以完整替代另一个人对治疗代价的感受。"
+    },
+    "hank": {
+      "role": "连襟 / 家庭中的强硬支持者",
+      "want": "让沃尔特接受可以得到的帮助，也照顾小沃尔特。",
+      "leverage": "亲属信任、化解少年麻烦的能力，以及强势表达。",
+      "fact": "带小沃尔特回家，在会议中用牌局与球赛比喻劝治疗，后来又部分认同应给沃尔特选择权。",
+      "analysis": "他没有一套稳定的论证，却在努力用熟悉语言表示关心。立场的改变提醒我们，他并非只负责输出一种固定的强硬姿态。"
+    },
+    "marie": {
+      "role": "妹妹 / 说出不同意见的人",
+      "want": "尊重病人对自己最后时间的判断。",
+      "leverage": "医疗工作中的观察经验，以及在家庭压力下提出异议的意愿。",
+      "fact": "在家庭会上认为应由沃尔特自己决定，并谈起自己接触治疗者的经历。",
+      "analysis": "这个常带评判的人，在这里反而抵抗了替别人决定的冲动。她的具体发言应被独立看待，不能由前几集的缺点直接抵消。"
+    },
+    "elliott": {
+      "role": "旧研究伙伴 / 灰质公司的经营者",
+      "want": "与沃尔特重新建立联系，并帮助他应付病情。",
+      "leverage": "工作机会、良好保险与支付治疗的经济能力。",
+      "fact": "珍视方便面的礼物，邀请沃尔特工作，并提出可支付治疗费用。",
+      "analysis": "援助是本集明确提供的现实选项。沃尔特感到受辱，不足以证明对方怀着羞辱意图；页面不拿后集历史替这个邀请预先判案。"
+    },
+    "gretchen": {
+      "role": "旧识 / 施瓦茨夫妇的一员",
+      "want": "使沃尔特接受治疗援助，重新保持联系。",
+      "leverage": "与沃尔特共同的过去，以及能够提供的资金。",
+      "fact": "在聚会上相见，后来打电话再劝接受帮助；沃尔特以保险已解决为由拒绝。",
+      "analysis": "她的电话把另一条路再次送到眼前。提及过去的私人关系，并不意味着本集已经讲清那段历史；真正清楚的是，援手在此刻仍然存在。"
+    },
+    "badger": {
+      "role": "朋友 / 杰西的新搭档",
+      "want": "挣到钱，并让自己辛苦弄来的投入得到回报。",
+      "leverage": "可以提供的渠道、劳作所得，以及合作的意愿。",
+      "fact": "邀请杰西合作，起初赞叹他的设备知识，随后因成品被倒掉而愤怒。",
+      "analysis": "他所满意的“够好”，与杰西突然坚持的标准发生冲突。两人都希望不再被轻视，却把对方当成了实现这一点的阻碍。"
+    }
+  },
+  "phases": [
+    {
+      "id": "phase-1",
+      "name": "01 · 机会与落差",
+      "note": "杰西尝试求职，沃尔特在旧友宴会上同时遇到财富差距与真实认可。",
+      "edges": [
+        "共同拘谨 / 寻求帮助",
+        "共同记忆 / 珍惜礼物",
+        "旧识重逢 / 往事未说尽",
+        "亲属参会",
+        "孩子求助汉克",
+        "求职重逢 / 合作机会"
+      ],
+      "details": {
+        "walt": "被旧识认出能力，也被财富差距刺痛。",
+        "jesse": "认真准备简历，却发现岗位与想象不同。",
+        "skyler": "参加聚会时抓住一次求助机会。",
+        "junior": "在少年冒险中向汉克求助。",
+        "hank": "成为少年遇事首先求助的成年人。",
+        "marie": "进入原本被期待形成一致意见的会议。",
+        "elliott": "用方便面礼物确认两人共有的过去。",
+        "gretchen": "与夫妇两人重新见面，表达亲近。",
+        "badger": "在举牌工作中与杰西重逢。"
+      }
+    },
+    {
+      "id": "phase-2",
+      "name": "02 · 拒绝与模仿",
+      "note": "沃尔特将援手理解成施舍，杰西则在新搭档面前复制老师的专业姿态。",
+      "edges": [
+        "透露病情 / 受辱感",
+        "工作与保险 / 被理解成施舍",
+        "支持丈夫的帮助",
+        "不同意见开始出现",
+        "父亲位置 / 隐形落差",
+        "技术崇拜 / 建立权威"
+      ],
+      "details": {
+        "walt": "将帮助理解成施舍，向妻子与家人强调自己的选择。",
+        "jesse": "与巴杰合作，借老师的术语建立自己的权威。",
+        "skyler": "得知丈夫拒绝帮助，无法理解他的反应。",
+        "junior": "父亲在家庭位置上再次感到被绕开。",
+        "hank": "提出接受援助、坚持治疗的劝说。",
+        "marie": "说出与斯凯勒期望相反的观点。",
+        "elliott": "提出工作、保险与经济帮助。",
+        "gretchen": "支持丈夫的帮助提议。",
+        "badger": "提供合作机会，对他的专业姿态表示佩服。"
+      }
+    },
+    {
+      "id": "phase-3",
+      "name": "03 · 自主与再入",
+      "note": "家庭会议说出真正分歧；接受治疗、拒绝援助与重新制毒成为三项分开的选择。",
+      "edges": [
+        "同意治疗 / 资金谎言",
+        "拒绝援助 / 机会依然存在",
+        "再伸援手 / 得到假答案",
+        "为病人自主权发声",
+        "坚持的经历 / 对放弃的愤怒",
+        "标准分歧 / 决裂离场"
+      ],
+      "details": {
+        "walt": "接受治疗却拒绝援助，再次主动进入制毒。",
+        "jesse": "因质量与搭档决裂，随后迎来老师再次上门。",
+        "skyler": "听见丈夫担忧，也等来他同意治疗；仍不知道钱不会来自旧友。",
+        "junior": "以自己的经历要求父亲不要放手。",
+        "hank": "听见玛丽的观点后，也尝试承认病人的自主。",
+        "marie": "坚持选择属于病人，使会议暴露真实分歧。",
+        "elliott": "没有因对方拒绝而撤回关心。",
+        "gretchen": "再次主动联系，却得到一则假的“已经解决”。",
+        "badger": "投入被反复丢弃，争斗后被留在荒地。"
+      }
+    }
+  ],
+  "edgePairs": [
+    "沃尔特 — 斯凯勒",
+    "沃尔特 — 埃利奥特",
+    "沃尔特 — 格蕾琴",
+    "沃尔特 — 玛丽",
+    "沃尔特 — 小沃尔特",
+    "杰西 — 巴杰"
+  ],
+  "graph": {
+    "positions": {
+      "walt": [
+        45,
+        48
+      ],
+      "skyler": [
+        15,
+        24
+      ],
+      "hank": [
+        44,
+        13
+      ],
+      "marie": [
+        77,
+        14
+      ],
+      "elliott": [
+        85,
+        45
+      ],
+      "gretchen": [
+        84,
+        81
+      ],
+      "junior": [
+        15,
+        80
+      ],
+      "jesse": [
+        48,
+        84
+      ],
+      "badger": [
+        14,
+        50
+      ]
+    },
+    "labels": {
+      "walt": "病人",
+      "jesse": "求职者",
+      "skyler": "妻子",
+      "junior": "儿子",
+      "hank": "连襟",
+      "marie": "妹妹",
+      "elliott": "旧研究伙伴",
+      "gretchen": "旧识",
+      "badger": "朋友"
+    },
+    "edges": [
+      [
+        "walt",
+        "skyler",
+        "family"
+      ],
+      [
+        "walt",
+        "elliott",
+        "family"
+      ],
+      [
+        "walt",
+        "gretchen",
+        "family"
+      ],
+      [
+        "walt",
+        "marie",
+        "family"
+      ],
+      [
+        "walt",
+        "junior",
+        "family"
+      ],
+      [
+        "jesse",
+        "badger",
+        "partner"
+      ],
+      [
+        "walt",
+        "jesse",
+        "partner"
+      ],
+      [
+        "walt",
+        "hank",
+        "family"
+      ],
+      [
+        "hank",
+        "marie",
+        "family"
+      ]
+    ]
+  },
+  "conflicts": [
+    {
+      "id": "help",
+      "label": "沃尔特 × 旧友",
+      "left": "可以获得的援助",
+      "right": "不愿接受的位置",
+      "title": "他拒绝的不只是钱，还有钱所代表的位置。",
+      "image": "ramen",
+      "text": "方便面被珍视、专业能力被记得、工作邀请具体出现。把这些事实放在一起看，不能直接推出埃利奥特只是想羞辱他。沃尔特的受辱感是一种真实感受，却不是对方意图的证明。",
+      "second": "这使后面的选择更加有分量。他面对的已不是只有治病需求和犯罪能力两项资源，而是有另一种可行的支持。他依旧拒绝，说明资金问题正在与“必须由我来提供”的自我要求绑在一起。",
+      "limit": "剧透边界：不解释本集尚未讲清的离开灰质原因，也不采用后续对旧史的说法。"
+    },
+    {
+      "id": "choice",
+      "label": "沃尔特 × 家人",
+      "left": "病人的自主权",
+      "right": "亲人的求生愿望",
+      "title": "可以尊重选择，也可以认真讨论它的理由。",
+      "image": "pillow",
+      "text": "沃尔特说自己怕被治疗占据最后的时间，家人则无法接受他不争取更长未来。两种恐惧都不是虚构。会议真正需要的，不是让一方在道德上压倒另一方，而是把各自珍视的生活说具体。",
+      "second": "斯凯勒倡议人人发言，却对不同答案很难承受；玛丽反而坚持这是他的身体与生命。她们各自的爱与局限都在场。沃尔特之后改变决定，也不表示此前关于生活质量的担忧从未成立。",
+      "limit": "个人解读：讨论剧中人的处境，不将这一场家庭谈话改写成现实医疗决策指南。"
+    },
+    {
+      "id": "apprentice",
+      "label": "杰西 × 巴杰",
+      "left": "想达到更高标准",
+      "right": "不愿看投入白费",
+      "title": "老师不在，他仍在复制老师。",
+      "image": "rv",
+      "text": "杰西纠正器材名称、强调成品品质，第一次在别人面前像一个专业人士。巴杰起初的赞叹让他获得过去缺少的位置。",
+      "second": "问题在于，他还没有学会让标准变成合作的共识。成品被倒掉、对方的投入被轻易牺牲，权威便与支配重新相连。他向老师靠近的，不只是知识，也包括老师对人的不耐烦。",
+      "limit": "个人解读：技术要求与合作能力分别判断，不因他追求质量就忽略后来的伤害。"
+    },
+    {
+      "id": "return",
+      "label": "沃尔特 × 自己",
+      "left": "必须治疗",
+      "right": "必须亲自挣钱",
+      "title": "“我要选择”，与“我只能这样”之间出现裂缝。",
+      "image": "door",
+      "text": "家庭会议让他把自主权说了出来。结尾则让观众看见，他确实在使用自主权：没有接受旧友的资金，也没有告诉妻子真正的安排。",
+      "second": "重新找杰西时，没有人拿枪逼他，也没有人撤回援助。这不是否认疾病和经济压力，而是明确承认：压力之中仍存在不同的道路，人物所走的一条值得单独承担评价。",
+      "limit": "剧情事实：本集明确出现资金援助；对自尊的分析来自行为对照，不写成他已承认的唯一动机。"
+    }
+  ],
+  "quotes": [
+    {
+      "speaker": "沃尔特 → 家人",
+      "en": "What I want, what I need, is a choice.",
+      "zh": "我想要的、需要的，是一个选择。",
+      "image": "pillow",
+      "context": "家庭会议中，他终于拿到发言的抱枕，说明自己的感受。",
+      "analysis": "这是需要认真对待的自主诉求。接下来仍要看，他用这个选择权做了什么，以及是否把别人的知情权也放在眼里。"
+    },
+    {
+      "speaker": "玛丽 → 家人",
+      "en": "It's his decision.",
+      "zh": "这是他的决定。",
+      "image": "pillow",
+      "context": "当多数人期待形成一致劝说时，玛丽表达不同意见。",
+      "analysis": "人物不必一直站在同一个位置上。她在这一场拒绝替别人安排，不能仅凭其他场景的缺点就取消这句话的价值。"
+    },
+    {
+      "speaker": "沃尔特 → 杰西",
+      "en": "You wanna cook?",
+      "zh": "想再做一批吗？",
+      "image": "door",
+      "context": "拒绝格蕾琴的援手之后，沃尔特重新敲响杰西家的门。",
+      "analysis": "短句放在这里，带着比首集更明确的主动性。曾经不可见的另一条道路已经出现，他仍转向这扇门。"
+    }
+  ],
+  "motifs": [
+    {
+      "number": "01",
+      "title": "两种求职",
+      "text": "杰西的简历与沃尔特的工作邀请构成对照。个人解读：两人都想证明有用，却分别遇见入口条件与自尊障碍。",
+      "link": "job"
+    },
+    {
+      "number": "02",
+      "title": "方便面没有输给昂贵礼物",
+      "text": "埃利奥特对朴素礼物的反应提供了真实认可。个人解读：这一证据使“所有帮助都是羞辱”的解释不再足够。",
+      "link": "ramen"
+    },
+    {
+      "number": "03",
+      "title": "大学的默认答案",
+      "text": "宾客追问教育工作在哪所大学。个人解读：无意的期待使沃尔特感到生活落差，不需要宾客明确嘲笑才会刺痛。",
+      "link": "university"
+    },
+    {
+      "number": "04",
+      "title": "抱枕：发言权与被听见",
+      "text": "拥有发言工具不等于他人准备接受不同结论。个人解读：会议的形式与真实分歧之间，正好暴露关心里的控制。",
+      "link": "pillow"
+    },
+    {
+      "number": "05",
+      "title": "学生复制器材语言",
+      "text": "杰西向巴杰介绍工具时，旧老师的口吻再次出现。个人解读：知识和权威感一起被学走，合作中的缺点也可能一起传递。",
+      "link": "newpartner"
+    },
+    {
+      "number": "06",
+      "title": "再一次敲门",
+      "text": "结尾没有用一段长独白宣布变化，只让沃尔特走回同一个地方。个人解读：重复的动作，因为已经有过援助选项而获得新的分量。",
+      "link": "cook"
+    }
+  ],
+  "sources": [
+    {
+      "id": "episode",
+      "title": "Gray Matter · 单集条目与事件主线",
+      "url": "https://en.wikipedia.org/wiki/Gray_Matter_(Breaking_Bad)",
+      "note": "辅助核对首播、编导和情节；剧情事实与个人解读分开，不采用后续集数的信息。"
+    },
+    {
+      "id": "transcript",
+      "title": "Springfield! Springfield! · S01E05 对白转录",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=breaking-bad&episode=s01e05",
+      "note": "核对本集对白、人物获知信息的时点与事件顺序。非官方剧本；中文短句为本页自译。"
+    },
+    {
+      "id": "gallery",
+      "title": "Breaking Bad Wiki · Gray Matter 图片分类",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Gray_Matter",
+      "note": "本集剧照的检索入口；逐图原图与文件页见图片清单。宣传剧照、对应场景截图和同集关联配图分别标注。"
+    },
+    {
+      "id": "portraits",
+      "title": "Breaking Bad Wiki · 第一季图像档案",
+      "url": "https://breakingbad.fandom.com/wiki/Category:Images_from_Season_1_(Breaking_Bad)",
+      "note": "角色照仅采用截至本集已出现的剧集画面，同一角色跨集复用登记图片；外部资料页可能含后续剧透。"
+    }
+  ],
+  "images": [
+    {
+      "id": "job",
+      "file": "assets/job.jpg",
+      "alt": "杰西在街边遇见举广告牌的巴杰",
+      "caption": "对应场景截图 · 求职受挫后遇见正在举牌工作的朋友，非面试室镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_Meeting_Badger.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/d9/1x05_-_Meeting_Badger.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "couple",
+      "file": "assets/couple.jpg",
+      "alt": "沃尔特与斯凯勒穿着正式服装站在聚会中",
+      "caption": "同集关联配图 · 参加生日聚会的夫妇；非之后车内争执镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_Whites.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/37/1x05_-_The_Whites.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "scholar",
+      "file": "assets/scholar.jpg",
+      "alt": "旧识在聚会上与沃尔特握手",
+      "caption": "对应场景截图 · 旧同学谈起沃尔特的学术能力 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Farley_and_Walt_Gray_Matter.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/b/b3/Farley_and_Walt_Gray_Matter.png/revision/latest",
+      "width": 1280,
+      "height": 722
+    },
+    {
+      "id": "ramen",
+      "file": "assets/ramen.jpg",
+      "alt": "埃利奥特拿起沃尔特送来的方便面，向宾客解释",
+      "caption": "对应场景截图 · 方便面唤起共同研究时期的记忆 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_Ramen.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/f/f4/1x05_-_Ramen.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "elliott",
+      "file": "assets/elliott.jpg",
+      "alt": "埃利奥特在生日聚会上望向来客",
+      "caption": "同集人物配图 · 埃利奥特；用于工作邀请的关联阅读，非私下谈话全景 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:Elliott_Schwartz_2008.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/0/0c/Elliott_Schwartz_2008.png/revision/latest",
+      "width": 657,
+      "height": 854
+    },
+    {
+      "id": "schwartz",
+      "file": "assets/schwartz.jpg",
+      "alt": "埃利奥特与格蕾琴相拥站在聚会中",
+      "caption": "对应场景截图 · 施瓦茨夫妇在生日聚会 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_Schwratz.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/b/bf/1x05_-_The_Schwratz.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "rv",
+      "file": "assets/rv.jpg",
+      "alt": "杰西向巴杰展示房车内部的设备",
+      "caption": "对应场景截图 · 杰西以自己学到的知识介绍器材 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_RV_inside1.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/d6/1x05_-_RV_inside1.png/revision/latest",
+      "width": 624,
+      "height": 352
+    },
+    {
+      "id": "beer",
+      "file": "assets/beer.jpg",
+      "alt": "少年们夜里在便利店门外等待",
+      "caption": "对应场景截图 · 小沃尔特与朋友试图找人代买啤酒 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_Jr_and_his_friends.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/5/54/1x05_-_Jr_and_his_friends.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "badger",
+      "file": "assets/badger.jpg",
+      "alt": "巴杰在荒地追赶已经驶走的房车",
+      "caption": "对应场景截图 · 两人争斗后，巴杰被留在荒地 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_Badger_left_behind.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/5/5f/1x05_-_Badger_left_behind.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "pillow",
+      "file": "assets/pillow.jpg",
+      "alt": "斯凯勒抱着枕头，主持家庭谈话",
+      "caption": "对应场景截图 · 以抱枕规定发言顺序的家庭会议 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_talking_pillow.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c7/1x05_-_The_talking_pillow.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "breakfast",
+      "file": "assets/breakfast.jpg",
+      "alt": "沃尔特、斯凯勒与儿子坐在早餐桌边",
+      "caption": "同集关联配图 · 这一日的家庭早餐；非格蕾琴电话镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_At_the_breakfast_table.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/9/97/1x05_-_At_the_breakfast_table.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "door",
+      "file": "assets/door.jpg",
+      "alt": "沃尔特走向杰西家的前门",
+      "caption": "对应场景截图 · 本集末尾，沃尔特重新上门 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_Gray_Matter_4.png",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/3/37/1x05_Gray_Matter_4.png/revision/latest",
+      "width": 624,
+      "height": 352
+    },
+    {
+      "id": "hero",
+      "file": "assets/pillow.jpg",
+      "alt": "斯凯勒抱着枕头，主持家庭谈话",
+      "caption": "对应场景截图 · 以抱枕规定发言顺序的家庭会议 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_The_talking_pillow.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/c/c7/1x05_-_The_talking_pillow.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "id": "prologue",
+      "file": "assets/job.jpg",
+      "alt": "杰西在街边遇见举广告牌的巴杰",
+      "caption": "对应场景截图 · 求职受挫后遇见正在举牌工作的朋友，非面试室镜头 · AMC / Sony Pictures Television · 图源：Breaking Bad Wiki",
+      "kind": "episode-still",
+      "episode": "S01E05",
+      "sourceUrl": "https://breakingbad.fandom.com/wiki/File:1x05_-_Meeting_Badger.jpg",
+      "originalUrl": "https://static.wikia.nocookie.net/breakingbad/images/d/d9/1x05_-_Meeting_Badger.jpg/revision/latest",
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "page": {
+    "metaDescription": "援助、自主权与主动重返犯罪；剧透截至第五集。",
+    "heroLine1": "有人愿意帮他，",
+    "heroLine2": "他为何还是走回那扇门？",
+    "heroDeck": "一包方便面，一只发言抱枕，一条已经出现的退路。|疾病给他压力，选择开始显出另一种重量。",
+    "openingTitle": "当另一条道路出现，|“别无选择”还能解释多少？",
+    "readingKey": "援助与尊严 / 自主与关心 / 标准与支配",
+    "prologueBadge": "ANOTHER WAY / 尝试另一条路",
+    "prologueKicker": "LOOKING FOR A PLACE / 想重新获得位置",
+    "storyTitle": "从两次求职，|到一次主动的返回。",
+    "storyNote": "按本集事件推进分为三幕；家庭会议集中呈现多方立场，不用后续旧史解释此刻的援助和拒绝。",
+    "relationsTitle": "手已经伸过来，|谁准备以什么姿态接住？",
+    "relationsNote": "九位人物展示三条线：灰质的援助、家庭的选择权，以及杰西与巴杰的模仿性合作。连线为本集联系，阶段说明列出六组主要变化。",
+    "conflictsTitle": "选择属于他，|选择的后果也属于关系。",
+    "conflictsDeck": "援助、自主权、师生模仿与重新合作四个角度，分别判断困境、感受和具体行动。",
+    "quotesTitle": "他说需要选择，|接着真的作出了选择。",
+    "endingTitle": "他同意了治疗。",
+    "endingAccent": "然后拒绝了不用犯罪的钱。",
+    "endingLink": "cook",
+    "endingLinkLabel": "回到再次敲门的那一刻",
+    "endingParagraphs": [
+      "第五集把角色的解释与行动放到一起检验。病人要求对身体和最后时间作决定，值得被认真听见；他拒绝现实援助、用假消息处理两边关系，也同样值得被看清。",
+      "最有力的变化并不是突然出现了更坏的宣言，而是“想再做一批吗”这句重复的话，如今已经发生在另一条路确实存在之后。"
+    ],
+    "credits": "编剧 Patty Lin / 导演 Tricia Brock",
+    "catalogueDeck": "旧友提供工作、保险与治疗费，家庭用一只抱枕讨论选择权。沃尔特同意治疗，却拒绝援助，再次敲响杰西家的门。",
+    "framePair": {
+      "title": "一份被珍惜的礼物，一次艰难的发言。",
+      "left": "ramen",
+      "right": "pillow",
+      "text": "聚会证明过去的价值仍有人记得，家庭会议则让沃尔特要求自己的声音被听见。两种场景都没有把他完全取消；困境的一部分，正来自他如何理解他人的认可与帮助。"
+    }
+  }
+}

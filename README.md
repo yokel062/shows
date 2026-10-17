@@ -8,6 +8,7 @@
 
 | 作品 | 内容 | 剧透范围 | 在线阅读 |
 | --- | --- | --- | --- |
+| 绝命毒师 · Breaking Bad | 第一季完整七集 | 单集包含截至该集的剧情，不涉及第二季 | [七集目录](https://yokel062.github.io/shows/series/breaking-bad/) |
 | 兄弟连 · Band of Brothers | 完整十集 | 单集包含截至该集的剧情 | [十集目录](https://yokel062.github.io/shows/series/band-of-brothers/) |
 | 亿万 · Billions | 第一至第三季，各十二集 | 单集包含截至该集的剧情 | [季度目录](https://yokel062.github.io/shows/series/billions/) |
 | 白莲花 · The White Lotus | 第一季第一集 · Arrivals | 仅 S01E01，含本集结尾 | [首集图解](https://yokel062.github.io/shows/series/the-white-lotus/s01e01/) |
@@ -225,6 +226,24 @@ python tools/build_episodes.py --complete
 十集的场景解读默认展开，读者可以手动收起。人物关系图、人物档案和关系详情统一复用 `shared/portraits.json` 中的剧中角色照；注册表记录演员、来源、原图链接和脸部裁切位置。同一人物的不同称呼通过别名映射到同一张照片，第 1 集的人物照也由构建工具同步更新，原有正文保留。
 
 整季目录默认展示十集的全部配图与导读，单集入口在新标签页打开。每篇仍标明截至该集的剧透范围。
+
+## 绝命毒师第一季七集档案
+
+**[第一季七集目录](https://yokel062.github.io/shows/series/breaking-bad/)** · **[GitHub 内容目录](https://github.com/yokel062/shows/tree/main/series/breaking-bad)**
+
+完整收录第一季七集：每集三幕、十二个剧情节点、三阶段人物关系、四组冲突、三段经核对的短对白与六处镜头细读，共 84 个节点与 28 组冲突。逐集限剧透，不用后续身份、人物命运或旧史替前集作判断。
+
+编辑源为各集 `series/breaking-bad/s01eXX/content.json`。首集保留独立模板 `shared/episode.html`，第 2—7 集使用 `shared/season-episode.html`；样式、交互脚本及统一角色照登记也位于 `shared/`。修改后运行：
+
+```bash
+python tools/build_breaking_bad.py --complete
+python tools/validate_site.py
+node --check series/breaking-bad/shared/episode.js
+```
+
+只重建一集可用 `python tools/build_breaking_bad.py --episode 5`。构建同时更新七集目录与 `season.json`，验证逐集正文、来源、图像尺寸及短对白长度。图片区分对应场景截图、同集关联配图与本集宣传剧照；18 位人物使用统一的已登记角色照。
+
+目录直接展示全部七集，入口在新标签页打开；单集包含前后集导航。无需 JavaScript 也可阅读全部正文、人物档案、阶段记录、冲突与台词。
 
 ## 后续发布
 
